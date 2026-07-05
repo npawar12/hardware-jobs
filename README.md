@@ -29,21 +29,6 @@ Use this repo to share and keep track of software engineering internships and ne
 
 ---
 
-## Resources
-
-| Resource | Description |
-| -------- | ----------- |
-| [Levels.fyi](https://www.levels.fyi/internships/) | Internship & new grad salary data |
-| [Simplify](https://simplify.jobs/) | One-click job applications |
-| [LinkedIn Jobs](https://www.linkedin.com/jobs/) | Professional network job board |
-| [Handshake](https://joinhandshake.com/) | Campus recruiting platform |
-| [Glassdoor](https://www.glassdoor.com/) | Company reviews and salaries |
-| [Wellfound](https://wellfound.com/) | Startup jobs (formerly AngelList) |
-| [CSCareers.dev](https://www.cscareers.dev/) | CS career community & resources |
-| [otta.com](https://otta.com/) | Curated tech job listings |
-
----
-
 ## FAQ
 
 <details>
