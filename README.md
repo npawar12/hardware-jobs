@@ -13,6 +13,12 @@ Use this repo to share and keep track of software engineering internships and ne
 
 ---
 
+- [☀️ Summer 2027 Internships](#️-summer-2027-internships)
+- [🔄 Off-Cycle Internships & Co-ops](#-off-cycle-internships--co-ops)
+- [🎓 New Grad 2027](#-new-grad-2027)
+
+---
+
 ## Legend
  - 🛂 - Does NOT offer Sponsorship
  - 🇺🇸 - Requires U.S. Citizenship
@@ -21,8 +27,6 @@ Use this repo to share and keep track of software engineering internships and ne
 ---
 
 ## ☀️ Summer 2027 Internships
-
-[📄 View full page](internships/summer-2027.md)
 
 <!-- TABLE_START summer -->
 
@@ -48,8 +52,6 @@ Use this repo to share and keep track of software engineering internships and ne
 
 ## 🔄 Off-Cycle Internships & Co-ops
 
-[📄 View full page](offcycle/2027.md)
-
 <!-- TABLE_START offcycle -->
 
 | Company | Role | Location | Term | Education | Application/Link | Date Posted |
@@ -63,8 +65,6 @@ Use this repo to share and keep track of software engineering internships and ne
 ---
 
 ## 🎓 New Grad 2027
-
-[📄 View full page](new-grad/2027.md)
 
 <!-- TABLE_START newgrad -->
 
