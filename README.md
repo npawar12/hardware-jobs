@@ -52,6 +52,8 @@ Use this repo to share and keep track of software engineering internships and ne
 
 | Company | Role | Location | Term | Education | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---- | --------- | ---------------- | ----------- |
+| IBM 🛂 | Data Scientist – Advanced Analytics – Financial Services | University Park, PA | Co-op 2026 | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=96261&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| IBM 🛂 | Associate Application Developer – Adobe Experience | Pennsylvania | Co-op 2026 | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=67554&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
 
 <!-- TABLE_END offcycle -->
 
@@ -63,6 +65,12 @@ Use this repo to share and keep track of software engineering internships and ne
 
 | Company | Role | Location | Education | Application/Link | Date Posted |
 | ------- | ---- | -------- | --------- | ---------------- | ----------- |
+| IBM 🛂 | Cybersecurity Analyst - SOC | <details><summary>**2 locations**</summary>Dallas, TX</br>Austin, TX</details> | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=89820&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| IBM 🛂 | Associate Data Engineer – Client Innovation Center | <details><summary>**4 locations**</summary>Buffalo, NY</br>Baton Rouge, LA</br>Monroe, LA</br>Lansing, MI</details> | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=87015&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| IBM 🛂 | Associate Application Developer – Hybrid Cloud and Data | <details><summary>**4 locations**</summary>Buffalo, NY</br>Baton Rouge, LA</br>Monroe, LA</br>Lansing, MI</details> | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=87004&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| IBM 🛂 | Entry Level Back End Developer | Poughkeepsie, NY | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=73787&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| IBM 🛂 | Quantum Lab Engineer | Yorktown Heights, NY | Undergrad / Masters | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=113715&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
+| IBM 🛂 | AI & Software Developer | <details><summary>**2 locations**</summary>New York, NY</br>Research Triangle Park, NC</details> | Undergrad | <a href="https://careers.ibm.com/en_US/careers/JobDetail?jobId=122827&source=WEB_Search_NA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
 | Microsoft | Software Engineer | Redmond, WA | Undergrad | <a href="https://apply.careers.microsoft.com/careers?hl=en&query=software+engineer&start=0&location=united+states&pid=1970393556922841&sort_by=timestamp&filter_include_remote=1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 5 |
 
 <!-- TABLE_END newgrad -->
