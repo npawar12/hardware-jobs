@@ -88,6 +88,19 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: education
+    attributes:
+      label: Education Level
+      description: What education level is this role targeting?
+      options:
+        - Undergrad
+        - Masters
+        - PhD
+        - Undergrad / Masters
+    validations:
+      required: true
+
   - type: input
     id: apply_link
     attributes:
