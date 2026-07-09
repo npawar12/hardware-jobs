@@ -1,0 +1,42 @@
+name: Scrape LinkedIn Hardware Jobs (Personal)
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # 30 min after the hardware scraper; shares readme-updates concurrency
+  workflow_dispatch:
+
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
+jobs:
+  scrape-linkedin:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Scrape LinkedIn (Apify)
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: python .github/scripts/scrape_linkedin.py
+
+      - name: Commit updated files
+        run: |
+          git config user.name "Neeraj Pawar"
+          git config user.email "npawar7739@gmail.com"
+          git add README.md linkedin_listings.json .github/data/seen_linkedin.json
+          git diff --staged --quiet || git commit -m "update LinkedIn hardware listings"
+          git pull --rebase -X ours && git push

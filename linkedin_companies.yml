@@ -1,0 +1,151 @@
+# LinkedIn-sourced hardware watchlist — the companies that don't expose a public
+# ATS JSON API (custom/locked career sites + stealth startups). Consumed ONLY by
+# scrape_linkedin.py. Each entry: display name + `aliases` = lowercased strings to
+# match against LinkedIn's companyName field (a job is kept only if its company
+# matches one of these AND the title passes hw_classify AND it's US/Canada).
+# `aliases` under 4 chars are matched as whole words to avoid false hits.
+companies:
+  # --- Group 2: big names on custom / locked career sites ---
+  - name: AMD
+    aliases: ["amd", "advanced micro devices"]
+  - name: Apple
+    aliases: ["apple"]
+  - name: Google
+    aliases: ["google", "alphabet"]
+  - name: Microsoft
+    aliases: ["microsoft"]
+  - name: Meta
+    aliases: ["meta", "facebook"]
+  - name: Amazon / Annapurna Labs
+    aliases: ["amazon", "annapurna", "aws"]
+  - name: Oracle
+    aliases: ["oracle"]
+  - name: IBM
+    aliases: ["ibm"]
+  - name: Dell
+    aliases: ["dell"]
+  - name: TSMC
+    aliases: ["tsmc", "taiwan semiconductor"]
+  - name: Nokia
+    aliases: ["nokia"]
+  - name: Texas Instruments
+    aliases: ["texas instruments"]
+  # --- Group 3: semis/EDA not found on Workday probes ---
+  - name: Synopsys
+    aliases: ["synopsys"]
+  - name: Arm
+    aliases: ["arm"]
+  - name: Renesas
+    aliases: ["renesas"]
+  - name: Infineon
+    aliases: ["infineon"]
+  - name: STMicroelectronics
+    aliases: ["stmicroelectronics", "st microelectronics"]
+  - name: MediaTek
+    aliases: ["mediatek"]
+  - name: Ampere Computing
+    aliases: ["ampere computing"]
+  - name: Skyworks
+    aliases: ["skyworks"]
+  - name: Qorvo
+    aliases: ["qorvo"]
+  - name: onsemi
+    aliases: ["onsemi", "on semiconductor"]
+  - name: Keysight
+    aliases: ["keysight"]
+  - name: Teradyne
+    aliases: ["teradyne"]
+  - name: Advantest
+    aliases: ["advantest"]
+  - name: Rambus
+    aliases: ["rambus"]
+  - name: Ceva
+    aliases: ["ceva"]
+  - name: MaxLinear
+    aliases: ["maxlinear"]
+  - name: MACOM
+    aliases: ["macom"]
+  - name: Cirrus Logic
+    aliases: ["cirrus logic"]
+  - name: Mobileye
+    aliases: ["mobileye"]
+  - name: Synaptics
+    aliases: ["synaptics"]
+  - name: Ambarella
+    aliases: ["ambarella"]
+  - name: NetApp
+    aliases: ["netapp"]
+  - name: SK hynix
+    aliases: ["sk hynix", "skhynix"]
+  - name: Silicon Motion
+    aliases: ["silicon motion"]
+  - name: Wolfspeed
+    aliases: ["wolfspeed"]
+  - name: Sony
+    aliases: ["sony semiconductor", "sony electronics"]
+  - name: Lam Research
+    aliases: ["lam research"]
+  - name: KLA
+    aliases: ["kla"]
+  - name: Applied Materials
+    aliases: ["applied materials"]
+  - name: Teledyne
+    aliases: ["teledyne"]
+  - name: Credo
+    aliases: ["credo semiconductor", "credo technology"]
+  - name: Alphawave Semi
+    aliases: ["alphawave"]
+  - name: Altera
+    aliases: ["altera"]
+  - name: Achronix
+    aliases: ["achronix"]
+  - name: pSemi
+    aliases: ["psemi"]
+  - name: Ambiq
+    aliases: ["ambiq"]
+  - name: Monolithic Power (MPS)
+    aliases: ["monolithic power"]
+  - name: Siemens EDA
+    aliases: ["siemens eda", "siemens digital industries"]
+  - name: SiFive
+    aliases: ["sifive"]
+  # --- Group 4: AI-silicon startups (no public ATS slug) ---
+  - name: Cerebras
+    aliases: ["cerebras"]
+  - name: Groq
+    aliases: ["groq"]
+  - name: d-Matrix
+    aliases: ["d-matrix", "dmatrix"]
+  - name: SiMa.ai
+    aliases: ["sima.ai", "sima technologies"]
+  - name: Enfabrica
+    aliases: ["enfabrica"]
+  - name: Ayar Labs
+    aliases: ["ayar labs"]
+  - name: Rivos
+    aliases: ["rivos"]
+  - name: Rain AI
+    aliases: ["rain ai", "rain neuromorphics"]
+  - name: Positron
+    aliases: ["positron"]
+  - name: EnCharge AI
+    aliases: ["encharge"]
+  - name: Mythic
+    aliases: ["mythic"]
+  - name: TetraMem
+    aliases: ["tetramem"]
+  - name: Hailo
+    aliases: ["hailo"]
+  - name: OpenAI
+    aliases: ["openai"]
+  # --- Group 5: trading firms w/ FPGA teams (custom ATS) ---
+  - name: Citadel Securities
+    aliases: ["citadel securities"]
+  - name: Hudson River Trading
+    aliases: ["hudson river trading"]
+  - name: Wolverine Trading
+    aliases: ["wolverine trading"]
+  - name: Two Sigma
+    aliases: ["two sigma"]
+  - name: Susquehanna (SIG)
+    aliases: ["susquehanna"]

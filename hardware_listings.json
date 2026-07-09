@@ -1,0 +1,92 @@
+[
+  {
+    "company": "Jump Trading",
+    "role": "Campus FPGA Engineer (Intern)",
+    "location": "Chicago",
+    "type": "Summer 2027 Intern",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "board": "greenhouse_jumptrading",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "IMC Trading",
+    "role": "Graduate Hardware Engineer",
+    "location": "Chicago, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823805101",
+    "board": "greenhouse_imc",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "IMC Trading",
+    "role": "Hardware Engineer Intern - Summer 2027",
+    "location": "Chicago, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+    "board": "greenhouse_imc",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Formal Verification Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Design Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Marvell",
+    "role": "Digital IC Design Engineer - Early Career",
+    "location": "Westborough, MA",
+    "type": "New Grad",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Westborough-MA/Digital-IC-Design-Engineer---Early-Career_2602557",
+    "board": "workday_marvell",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Marvell",
+    "role": "Digital Logic + Design Verification Graduate Co-Op Program (US - Fall 2026)",
+    "location": "Santa Clara, CA",
+    "type": "Co-op",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858",
+    "board": "workday_marvell",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Marvell",
+    "role": "Design Verification Engineer - Early Career",
+    "location": "Ottawa, Canada",
+    "type": "New Grad",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Ottawa-Canada/Design-Verification-Engineer---Early-Career_2601655",
+    "board": "workday_marvell",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Marvell",
+    "role": "Hardware & Silicon Validation Engineer - Early Career",
+    "location": "Westlake Village, CA",
+    "type": "New Grad",
+    "url": "https://marvell.wd1.myworkdayjobs.com/job/Westlake-Village-CA/Hardware---Silicon-Validation-Engineer---Early-Career_2601748-1",
+    "board": "workday_marvell",
+    "date_added": "2026-07-09"
+  },
+  {
+    "company": "Micron",
+    "role": "New College Grad - Design Engineer, HBM DFT",
+    "location": "Richardson, TX",
+    "type": "New Grad",
+    "url": "https://micron.wd1.myworkdayjobs.com/job/Richardson-TX/Design-Engineer--HBM-DFT_JR93231-1",
+    "board": "workday_micron",
+    "date_added": "2026-07-09"
+  }
+]

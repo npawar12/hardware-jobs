@@ -40,3 +40,9 @@ venv/
 *.tmp
 *.bak
 *.log
+
+# Local Claude Code config (not for the repo)
+.claude/
+
+# Throwaway ATS/Workday discovery probe outputs (dev artifacts)
+.github/data/probe*_results.json

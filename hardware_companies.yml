@@ -1,0 +1,118 @@
+# Personal hardware/ASIC/DV/RTL company watchlist.
+# Same schema as companies.yml but consumed ONLY by scrape_hardware.py.
+# Slugs verified against live ATS APIs (see probe_ats.py). Workday configs
+# are reused from the main companies.yml where already proven.
+
+greenhouse:
+  - name: Samsung Semiconductor
+    slug: samsungsemiconductor
+  - name: Astera Labs
+    slug: asteralabs
+  - name: Lattice Semiconductor
+    slug: lattice
+  - name: indie Semiconductor
+    slug: indiesemiconductor
+  - name: Tenstorrent
+    slug: tenstorrent
+  - name: Ventana Micro Systems
+    slug: ventana
+  - name: Lightmatter
+    slug: lightmatter
+  - name: MatX
+    slug: matx
+  - name: Waymo
+    slug: waymo
+  - name: Pure Storage
+    slug: purestorage
+  - name: Jane Street
+    slug: janestreet
+  - name: Jump Trading
+    slug: jumptrading
+  - name: IMC Trading
+    slug: imc
+  - name: Hyannis Port Research
+    slug: hyannisportresearch
+  - name: SambaNova
+    slug: sambanovasystems
+  - name: Etched
+    slug: etchedai
+  - name: DRW
+    slug: drweng
+  - name: Tower Research
+    slug: towerresearchcapital
+  - name: Optiver
+    slug: optiverus
+  - name: Akuna Capital
+    slug: akunacapital
+
+lever:
+  - name: Zoox
+    slug: zoox
+  - name: Belvedere Trading
+    slug: belvederetrading
+
+smartrecruiters:
+  - name: Kioxia
+    identifier: kioxia
+  - name: Microchip
+    identifier: microchip
+  - name: Western Digital
+    identifier: westerndigital
+  - name: SanDisk
+    identifier: sandisk
+  - name: Arista Networks
+    identifier: aristanetworks
+  - name: Allegro MicroSystems
+    identifier: allegro
+  - name: ByteDance
+    identifier: bytedance
+
+workday:
+  - name: NVIDIA
+    tenant: nvidia
+    instance: wd5
+    board: NVIDIAExternalCareerSite
+  - name: Cisco
+    tenant: cisco
+    instance: wd5
+    board: Cisco_Careers
+  - name: Silicon Labs
+    tenant: silabs
+    instance: wd1
+    board: SiliconlabsCareers
+  - name: Intel
+    tenant: intel
+    instance: wd1
+    board: External
+  - name: Broadcom
+    tenant: broadcom
+    instance: wd1
+    board: External_Career
+  - name: Marvell
+    tenant: marvell
+    instance: wd1
+    board: MarvellCareers2
+  - name: Analog Devices
+    tenant: analogdevices
+    instance: wd1
+    board: External
+  - name: Micron
+    tenant: micron
+    instance: wd1
+    board: External
+  - name: NXP
+    tenant: nxp
+    instance: wd3
+    board: careers
+  - name: GlobalFoundries
+    tenant: globalfoundries
+    instance: wd1
+    board: External
+  - name: Cadence
+    tenant: cadence
+    instance: wd1
+    board: External_Careers
+  - name: Ciena
+    tenant: ciena
+    instance: wd5
+    board: careers
