@@ -191,6 +191,10 @@ def is_relevant_hw(title, description=None):
     has_level = (any(sig in t for sig in LEVEL_SUBSTRINGS)
                  or _matches_any_regex(t, LEVEL_REGEX))
     other_domain = any(w in t for w in TITLE_NON_HW_ROLE)
+    # "Experienced" in a title signals a non-entry role. Soft reject: unlike
+    # staff/principal (hard-rejected above) it can still be rescued by an explicit
+    # entry phrase in the JD, but it does NOT get the silent-JD pass a bare title does.
+    is_experienced = bool(re.search(r'\bexperienced\b', t))
 
     if has_level:
         # Entry-level signal in the title.
@@ -208,6 +212,10 @@ def is_relevant_hw(title, description=None):
     # UNLESS the JD explicitly requires experience (>=3 yrs). Silent JDs pass —
     # roles that don't state an experience bar usually don't require one.
     if title_hw and not other_domain and description:
+        if is_experienced:
+            # Soft reject: an "Experienced ..." title only survives on an explicit
+            # entry phrase in the JD (a silent JD is NOT enough here).
+            return jd_entry_level(description, strict=True) is True
         if jd_entry_level(description) is not False:
             return True
     return False
@@ -269,4 +277,17 @@ if __name__ == '__main__':
         r = is_relevant_hw(tt)
         print(f'{"PASS" if not r else "FAIL":4s} (want NO ) {tt}')
         ok = ok and not r
+
+    # description-based checks for the "experienced" soft-reject
+    exp_silent = is_relevant_hw('Experienced Hardware Design Engineer',
+                                'Design RTL and UVM testbenches. Bachelor degree required.')
+    exp_rescue = is_relevant_hw('Experienced Hardware Design Engineer',
+                                'New grad friendly; recent graduate welcome. Work on RTL design.')
+    bare_silent = is_relevant_hw('Design Verification Engineer',
+                                 'Build UVM testbenches for SoC verification.')
+    print(f'{"PASS" if not exp_silent else "FAIL":4s} (want NO ) Experienced title + silent JD')
+    print(f'{"PASS" if exp_rescue else "FAIL":4s} (want YES) Experienced title + explicit new-grad JD')
+    print(f'{"PASS" if bare_silent else "FAIL":4s} (want YES) Bare hardware title + silent JD (unchanged)')
+    ok = ok and (not exp_silent) and exp_rescue and bare_silent
+
     print('\nALL PASS' if ok else '\nSOME FAILED')
