@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ambarella | Verification Engineer Intern | Jul 10 |
+| Ambarella | DFT Engineer Intern | Jul 10 |
+| Ambarella | ASIC Design Engineer Intern | Jul 10 |
 | Astera Labs | Physical Design/CAD Engineer | Jul 10 |
 | Astera Labs | Senior Design Verification Engineer | Jul 10 |
 | Belvedere Trading | FPGA Engineer | Jul 10 |
@@ -25,6 +28,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 | MatX | Rust SW-Silicon Co-verification Engineer | Jul 10 |
 | MatX | Silicon Design-for-Test (DFT) Engineer | Jul 10 |
 | MatX | SOC Integration Engineer | Jul 10 |
+| OpenAI | Physical Design Engineer | Jul 10 |
+| OpenAI | Senior RTL Engineer, Interconnect Design | Jul 10 |
 | Optiver | FPGA Engineer | Jul 10 |
 | Optiver | FPGA Engineer | Jul 10 |
 | Optiver | FPGA Engineer | Jul 10 |

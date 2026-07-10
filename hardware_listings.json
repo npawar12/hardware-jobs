@@ -421,5 +421,50 @@
     "url": "https://jobs.lever.co/belvederetrading/67c39285-40b4-436f-9e12-5644f070f46f",
     "board": "lever_belvederetrading",
     "date_added": "2026-07-10"
+  },
+  {
+    "company": "OpenAI",
+    "role": "Physical Design Engineer ",
+    "location": "San Francisco",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/openai/5a265d2b-683f-4cea-9b69-8e137e704ab3",
+    "board": "ashby_openai",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "OpenAI",
+    "role": "Senior RTL Engineer, Interconnect Design",
+    "location": "San Francisco",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/openai/6cf91ff5-a811-435c-bf93-f3d958896599",
+    "board": "ashby_openai",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Ambarella",
+    "role": "Verification Engineer Intern",
+    "location": "US Headquarters",
+    "type": "Summer 2027 Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109",
+    "board": "workday_ambarella",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Ambarella",
+    "role": "DFT Engineer Intern",
+    "location": "US Headquarters",
+    "type": "Summer 2027 Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103",
+    "board": "workday_ambarella",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Ambarella",
+    "role": "ASIC Design Engineer Intern",
+    "location": "US Headquarters",
+    "type": "Summer 2027 Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100",
+    "board": "workday_ambarella",
+    "date_added": "2026-07-10"
   }
 ]
