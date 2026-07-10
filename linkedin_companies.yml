@@ -4,6 +4,12 @@
 # match against LinkedIn's companyName field (a job is kept only if its company
 # matches one of these AND the title passes hw_classify AND it's US/Canada).
 # `aliases` under 4 chars are matched as whole words to avoid false hits.
+#
+# NOTE: companies with a working public ATS API live in hardware_companies.yml
+# instead (free + precise). Removed from here on 2026-07-10 after ATS conversion:
+# SiFive, Ambarella, Wolfspeed, Sony, Altera, KLA, SK hynix, Renesas (Workday/
+# GH/SR) and Cerebras, OpenAI, d-Matrix (Ashby). Cirrus Logic stays here (its
+# Lever board 404s); Ambiq stays here (analog-focused, out of digital-DV scope).
 companies:
   # --- Group 2: big names on custom / locked career sites ---
   - name: AMD
@@ -35,8 +41,6 @@ companies:
     aliases: ["synopsys"]
   - name: Arm
     aliases: ["arm"]
-  - name: Renesas
-    aliases: ["renesas"]
   - name: Infineon
     aliases: ["infineon"]
   - name: STMicroelectronics
@@ -71,22 +75,12 @@ companies:
     aliases: ["mobileye"]
   - name: Synaptics
     aliases: ["synaptics"]
-  - name: Ambarella
-    aliases: ["ambarella"]
   - name: NetApp
     aliases: ["netapp"]
-  - name: SK hynix
-    aliases: ["sk hynix", "skhynix"]
   - name: Silicon Motion
     aliases: ["silicon motion"]
-  - name: Wolfspeed
-    aliases: ["wolfspeed"]
-  - name: Sony
-    aliases: ["sony semiconductor", "sony electronics"]
   - name: Lam Research
     aliases: ["lam research"]
-  - name: KLA
-    aliases: ["kla"]
   - name: Applied Materials
     aliases: ["applied materials"]
   - name: Teledyne
@@ -95,8 +89,6 @@ companies:
     aliases: ["credo semiconductor", "credo technology"]
   - name: Alphawave Semi
     aliases: ["alphawave"]
-  - name: Altera
-    aliases: ["altera"]
   - name: Achronix
     aliases: ["achronix"]
   - name: pSemi
@@ -107,15 +99,9 @@ companies:
     aliases: ["monolithic power"]
   - name: Siemens EDA
     aliases: ["siemens eda", "siemens digital industries"]
-  - name: SiFive
-    aliases: ["sifive"]
   # --- Group 4: AI-silicon startups (no public ATS slug) ---
-  - name: Cerebras
-    aliases: ["cerebras"]
   - name: Groq
     aliases: ["groq"]
-  - name: d-Matrix
-    aliases: ["d-matrix", "dmatrix"]
   - name: SiMa.ai
     aliases: ["sima.ai", "sima technologies"]
   - name: Enfabrica
@@ -136,8 +122,6 @@ companies:
     aliases: ["tetramem"]
   - name: Hailo
     aliases: ["hailo"]
-  - name: OpenAI
-    aliases: ["openai"]
   # --- Group 5: trading firms w/ FPGA teams (custom ATS) ---
   - name: Citadel Securities
     aliases: ["citadel securities"]

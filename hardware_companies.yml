@@ -44,6 +44,16 @@ greenhouse:
     slug: optiverus
   - name: Akuna Capital
     slug: akunacapital
+  - name: SK hynix
+    slug: skhynixamerica
+
+ashby:
+  - name: Cerebras
+    slug: cerebras
+  - name: OpenAI
+    slug: openai
+  - name: d-Matrix
+    slug: d-Matrix
 
 lever:
   - name: Zoox
@@ -66,6 +76,8 @@ smartrecruiters:
     identifier: allegro
   - name: ByteDance
     identifier: bytedance
+  - name: Renesas
+    identifier: RenesasElectronics
 
 workday:
   - name: NVIDIA
@@ -116,3 +128,27 @@ workday:
     tenant: ciena
     instance: wd5
     board: careers
+  - name: SiFive
+    tenant: sifive
+    instance: wd1
+    board: sifivecareers
+  - name: Ambarella
+    tenant: ambarella
+    instance: wd108
+    board: Ambarella
+  - name: Wolfspeed
+    tenant: cree
+    instance: wd108
+    board: EXT
+  - name: Sony
+    tenant: sonyglobal
+    instance: wd1
+    board: SonyGlobalCareers
+  - name: Altera
+    tenant: altera
+    instance: wd1
+    board: Altera
+  - name: KLA
+    tenant: kla
+    instance: wd1
+    board: Search

@@ -51,6 +51,7 @@ US_SIGNALS = [
     'phoenix', 'chandler', 'boise', 'durham', 'hopewell',
     'toronto', 'vancouver', 'montreal', 'ottawa', 'calgary', 'canada',
     ', on', ', bc', ', qc', ', ab',
+    'us headquarters', 'u.s. headquarters', 'us hq',   # e.g. Ambarella "US Headquarters"
 ]
 
 NON_US_SIGNALS = [
@@ -155,12 +156,16 @@ def scrape_ashby(company, slug):
             print(f'  [{company}] Ashby HTTP {r.status_code}')
             return []
         out = []
-        for j in r.json().get('jobPostings', []):
+        # Ashby's public posting-api returns {"jobs": [...]} (not "jobPostings"),
+        # each with a plain-text description we can JD-parse.
+        for j in r.json().get('jobs', []):
+            if not j.get('isListed', True):
+                continue
             title = j.get('title', '')
-            loc = j.get('locationName', '') or j.get('location', '')
-            if is_relevant_hw(title) and is_us_location(loc):
-                apply_url = (j.get('jobPostingUrls', {}).get('Full', '')
-                             or j.get('applyUrl', '')
+            loc = j.get('location', '') or ''
+            desc = j.get('descriptionPlain', '') or ''
+            if is_relevant_hw(title, description=desc) and is_us_location(loc):
+                apply_url = (j.get('jobUrl') or j.get('applyUrl')
                              or f'https://jobs.ashbyhq.com/{slug}/{j.get("id", "")}')
                 out.append(_job(company, f'ashby_{slug}', j['id'], title, loc, apply_url))
         return out
