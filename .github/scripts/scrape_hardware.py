@@ -333,20 +333,31 @@ def _parse_date(date_str):
     return None
 
 
+_DATE_COMMENT_RX = re.compile(r'<!--\s*(.*?)\s*-->')
+
+
+def _cell_date(cell):
+    """Parse a date from a cell whether plain ('Jul 9') or carrying the hidden
+    date comment the Age cell uses ('<!--Jul 9-->1d')."""
+    m = _DATE_COMMENT_RX.search(cell)
+    return _parse_date(m.group(1)) if m else _parse_date(cell.strip())
+
+
 def _row_date(row):
-    # Scan cells right-to-left for the one that parses as a date, so a trailing
-    # Age column ('1d') can't be mistaken for the date.
-    for c in reversed([c.strip() for c in row.split('|') if c.strip()]):
-        d = _parse_date(c)
+    for c in reversed([c for c in row.split('|') if c.strip()]):
+        d = _cell_date(c)
         if d:
             return d
     return None
 
 
 def _row_date_str(row):
-    for c in reversed([c.strip() for c in row.split('|') if c.strip()]):
-        if _parse_date(c):
-            return c
+    for c in reversed([c for c in row.split('|') if c.strip()]):
+        m = _DATE_COMMENT_RX.search(c)
+        if m and _parse_date(m.group(1)):
+            return m.group(1).strip()
+        if _parse_date(c.strip()):
+            return c.strip()
     return ''
 
 
@@ -356,33 +367,65 @@ def _age_str(date_obj):
 
 
 def refresh_ages(content):
-    """Recompute the trailing Age cell of every table data row from its Date
-    cell. Only rows that already have an Age cell (one after the date) are
-    touched; headers/separators and un-migrated rows are left as-is."""
+    """Recompute the visible age in each data row's Age cell from the date hidden
+    in that cell's HTML comment ('<!--Jul 9-->1d'), so freshness stays current
+    without a visible Date column. Headers/separators/other rows are untouched."""
     out = []
     for line in content.splitlines(keepends=True):
         s = line.rstrip('\n')
         if s.startswith('|') and s.count('|') >= 2:
-            parts = s.split('|')                 # ['', c1, ..., cN, '']
-            real = list(range(1, len(parts) - 1))
-            date_idx = next((i for i in reversed(real)
-                             if _parse_date(parts[i].strip())), None)
-            # Age cell exists only if the date isn't the last real cell.
-            if date_idx is not None and date_idx < real[-1]:
-                parts[real[-1]] = f' {_age_str(_parse_date(parts[date_idx].strip()))} '
-                s = '|'.join(parts)
+            parts = s.split('|')
+            for i in range(len(parts) - 1, 0, -1):
+                m = _DATE_COMMENT_RX.search(parts[i])
+                d = _parse_date(m.group(1)) if m else None
+                if d:
+                    parts[i] = f' <!--{m.group(1)}-->{_age_str(d)} '
+                    s = '|'.join(parts)
+                    break
             line = s + ('\n' if line.endswith('\n') else '')
         out.append(line)
     return ''.join(out)
 
 
 def make_row(company, role, location, jtype, url, date, age=None):
+    # Date is stashed invisibly in the Age cell (HTML comment) so the table shows
+    # only a compact age ('1d') and stays sortable without a Date column.
     if age is None:
         d = _parse_date(date)
         age = _age_str(d) if d else '0d'
     apply_btn = (f'<a href="{url}">'
                  f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a>')
-    return f'| {company} | {role} | {location} | {jtype} | {apply_btn} | {date} | {age} |'
+    return f'| {company} | {role} | {location} | {jtype} | {apply_btn} | <!--{date}-->{age} |'
+
+
+def write_listings_log(content, path='LISTINGS.md'):
+    """Regenerate a compact Company | Role | Date index (both tracks) so the git
+    history of this file shows when listings come in and drop off over time."""
+    lines = ['# Listings Log', '',
+             'Auto-generated compact index (Company / Role / Date). Diff this file '
+             'over time to see when listings appear and disappear. The live tables '
+             'with apply links live in [README.md](README.md).', '']
+    for marker, label in [('hardware', 'ATS-sourced'), ('linkedin', 'LinkedIn-sourced')]:
+        start = content.find(f'<!-- TABLE_START {marker} -->')
+        end = content.find(f'<!-- TABLE_END {marker} -->')
+        if start == -1 or end == -1:
+            continue
+        lines += [f'## {label}', '', '| Company | Role | Date |', '| --- | --- | --- |']
+        company = ''
+        for row in content[start:end].splitlines():
+            if not row.startswith('|'):
+                continue
+            cols = row.split('|')
+            if len(cols) < 4:
+                continue
+            c1 = cols[1].strip()
+            if c1 == 'Company' or not c1 or set(c1) <= set('-: '):
+                continue
+            if c1 != '↳':
+                company = c1
+            lines.append(f'| {company} | {cols[2].strip()} | {_row_date_str(row)} |')
+        lines.append('')
+    Path(path).write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
 
 
 def insert_row(content, row):
@@ -517,6 +560,7 @@ def main():
     if content != original:
         with open(README_FILE, 'w', encoding='utf-8', newline='\n') as f:
             f.write(content)
+    write_listings_log(content)   # keep the compact Company|Role|Date log in sync
     if added:
         save_listings(listings)
     save_seen(seen)

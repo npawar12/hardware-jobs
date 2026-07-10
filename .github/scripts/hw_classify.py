@@ -237,10 +237,18 @@ def infer_type(title):
             if season in t:
                 return season.title() + ' Intern'
         return 'Summer 2027 Intern'
-    if any(k in t for k in ['new grad', 'new-grad', 'entry level', 'entry-level',
-                            'early career', 'university grad', 'college grad', 'graduate']):
+    # Senior/Sr roles only reach here if they passed senior-lenience: they're
+    # grad-accessible but not "new grad" -> Early Career (same bucket as bare
+    # full-time titles).
+    if re.search(r'\bsenior\b|\bsr\.?\b', t):
+        return 'Early Career'
+    # Explicit new-grad markers stay "New Grad".
+    if (any(k in t for k in ['new grad', 'new-grad', 'newgrad', 'new college grad',
+                             'university grad', 'university graduate', 'college grad',
+                             'recent grad', 'graduate']) or re.search(r'\bncg\b', t)):
         return 'New Grad'
-    return 'New Grad'
+    # Everything else (bare full-time titles, "early career", "entry level").
+    return 'Early Career'
 
 
 # ---- self-test ----

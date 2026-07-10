@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "Neeraj Pawar"
           git config user.email "npawar7739@gmail.com"
-          git add README.md hardware_listings.json .github/data/seen_hardware.json
+          git add README.md LISTINGS.md hardware_listings.json .github/data/seen_hardware.json
           git diff --staged --quiet || git commit -m "update hardware listings"
           git pull --rebase -X ours
-          git push "https://x-access-token:${GT_TOK}@github.com/npawar12/hardware-jobs.git" HEAD:main
+          git push "https://x-access-token:${GT_TOK}@github.com/${{ github.repository }}.git" HEAD:main

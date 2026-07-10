@@ -39,7 +39,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from hw_classify import is_relevant_hw, infer_type          # noqa: E402
 from scrape_hardware import (is_us_location, make_row,        # noqa: E402
                              _company_sort_key, _parse_date,
-                             _row_date, _row_date_str, refresh_ages)
+                             _row_date, _row_date_str, refresh_ages,
+                             write_listings_log)
 
 CONFIG_FILE = Path('linkedin_companies.yml')
 SEEN_FILE = Path('.github/data/seen_linkedin.json')
@@ -352,6 +353,7 @@ def main():
     if content != original:
         with open(README_FILE, 'w', encoding='utf-8', newline='\n') as f:
             f.write(content)
+    write_listings_log(content)   # keep the compact Company|Role|Date log in sync
     if added:
         save_listings(listings)
     save_seen(seen)
