@@ -7,6 +7,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 - **🔧 ATS track** — companies with a public ATS API ([`hardware_companies.yml`](hardware_companies.yml)), scraped directly. Precise, with real apply links.
 - **🔗 LinkedIn track** — companies without a scrapeable ATS ([`linkedin_companies.yml`](linkedin_companies.yml)) — Apple, Google, Amazon, AMD, the big semis/EDA, and stealth AI-silicon startups — sourced via LinkedIn (Apify).
 
+> 📖 **New here?** See **[HOW_IT_WORKS.md](HOW_IT_WORKS.md)** — what runs, when it runs, what it costs, how to run it on demand, and how to set the Apify token.
+
 ---
 
 ## 🔧 Hardware Track — ATS-sourced
