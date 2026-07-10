@@ -48,20 +48,28 @@ README_FILE = Path('README.md')
 ENV_FILE = Path('.env')
 TABLE_MARKER = 'linkedin'
 
-ACTOR = 'curious_coder~linkedin-jobs-scraper'
+ACTOR = 'harvestapi~linkedin-job-search'
 # Boolean OR query covering the in-scope role families (DV / RTL / digital /
 # ASIC / FPGA / physical design / hardware engineering / hardware development).
 ROLE_QUERY = ('("design verification" OR RTL OR ASIC OR FPGA OR VLSI OR SoC OR '
               '"physical design" OR "hardware engineer" OR "hardware developer" OR '
               '"hardware development" OR "digital design" OR "logic design" OR '
               '"verification engineer" OR "chip design" OR "silicon" OR DFT)')
-# One search PER COMPANY (not one market-wide search). A single market-wide
-# LinkedIn search only returns the newest N postings across the WHOLE market, so
-# specific target companies get crowded out on busy days. Searching each company
-# by name gives every company its own result budget.
-# f_E=1 Internship, f_E=2 Entry level. US-only location (repo is US-weighted).
+# One search PER COMPANY (harvestapi `company` facet), so every target company
+# gets its own result budget instead of fighting for slots in a shared market
+# search. US-only.
 SEARCH_LOCATION = 'United States'
-EXPERIENCE = '1,2'
+# postedLimit windows (harvestapi values). Daily runs use 24h so we don't
+# re-fetch (and re-pay for) the same postings every day; a weekly catch-up
+# sweep (Mondays) widens to the full week so a skipped/failed daily run can't
+# silently drop a role.
+WINDOW_DAILY = '24h'
+WINDOW_WEEKLY = 'week'
+
+
+def default_window():
+    """24h on most days; full-week catch-up sweep on Mondays (weekday 0)."""
+    return WINDOW_WEEKLY if datetime.now().weekday() == 0 else WINDOW_DAILY
 
 
 def load_token():
@@ -78,37 +86,67 @@ def load_token():
     return None
 
 
-def build_search_url(location, company=None):
-    # When company is given, AND it into the keyword query so the search is
-    # scoped to that company (its own result budget). match_company still
-    # re-validates the returned companyName against the alias allowlist.
-    keywords = f'"{company}" AND {ROLE_QUERY}' if company else ROLE_QUERY
-    q = urllib.parse.quote(keywords)
-    loc = urllib.parse.quote(location)
-    return (f'https://www.linkedin.com/jobs/search/?keywords={q}'
-            f'&location={loc}&f_E={EXPERIENCE}'
-            f'&f_TPR=r604800'   # posted in last 7 days (less re-scanning of stale posts)
-            f'&sortBy=DD')      # sort newest-first (bursts fill the count budget first)
+def _normalize(item):
+    """Flatten a harvestapi job item (nested company/location/applyMethod) to the
+    flat schema the rest of the code expects: title / companyName / location /
+    description / url / id."""
+    company = item.get('company') or {}
+    location = item.get('location') or {}
+    apply = item.get('applyMethod') or {}
+    return {
+        'id': item.get('id', ''),
+        'title': item.get('title', ''),
+        'companyName': company.get('name', '') if isinstance(company, dict) else str(company),
+        'location': location.get('linkedinText', '') if isinstance(location, dict) else str(location),
+        'description': item.get('descriptionText', ''),
+        'url': (apply.get('companyApplyUrl', '') if isinstance(apply, dict) else '') or item.get('link', ''),
+    }
 
 
-def run_actor(token, urls, count):
+def run_actor(token, company, title, window, limit):
+    """Query harvestapi for one company. Returns normalized items (or [])."""
     endpoint = (f'https://api.apify.com/v2/acts/{ACTOR}/'
                 f'run-sync-get-dataset-items?token={token}')
-    payload = {'urls': urls, 'count': count, 'scrapeCompany': False}
+    payload = {
+        'jobTitles': [title],
+        'company': [company],
+        'locations': [SEARCH_LOCATION],
+        'postedLimit': window,
+        'maxItems': limit,
+    }
     r = requests.post(endpoint, json=payload, timeout=600)
     if r.status_code not in (200, 201):
         print(f'Apify HTTP {r.status_code}: {r.text[:200]}')
         return []
     data = r.json()
-    return data if isinstance(data, list) else []
+    if not isinstance(data, list):
+        return []
+    return [_normalize(it) for it in data]
+
+
+def _clean_search_name(name):
+    """valig's companyName facet resolves against LinkedIn's canonical name and
+    is picky about the exact string (proper case, no suffixes). Use the display
+    name minus any '/'-joined or parenthetical suffix — e.g.
+    'Amazon / Annapurna Labs' -> 'Amazon', 'Monolithic Power (MPS)' -> 'Monolithic Power'.
+    (Lowercase aliases like 'amd' fail to resolve; 'AMD' works.)
+    """
+    name = re.split(r'\s*/\s*', name)[0]
+    name = re.sub(r'\s*\(.*?\)\s*', ' ', name)
+    return name.strip()
 
 
 def build_targets(config):
-    """Return list of (display_name, [compiled alias regexes])."""
+    """Return list of (display_name, search_term, [compiled alias regexes]).
+
+    search_term is the cleaned display name passed to valig's companyName facet;
+    the alias regexes still re-validate the returned companyName.
+    """
     targets = []
     for entry in config.get('companies', []):
-        pats = [re.compile(r'\b' + re.escape(a.lower()) + r'\b') for a in entry.get('aliases', [])]
-        targets.append((entry['name'], pats))
+        aliases = entry.get('aliases', [])
+        pats = [re.compile(r'\b' + re.escape(a.lower()) + r'\b') for a in aliases]
+        targets.append((entry['name'], _clean_search_name(entry['name']), pats))
     return targets
 
 
@@ -116,7 +154,7 @@ def match_company(company_name, targets):
     if not company_name:
         return None
     n = company_name.lower()
-    for display, pats in targets:
+    for display, _search, pats in targets:
         if any(p.search(n) for p in pats):
             return display
     return None
@@ -212,15 +250,21 @@ def save_listings(listings):
 
 
 def job_id(item):
-    jid = item.get('id') or item.get('link') or item.get('applyUrl') or item.get('title', '')
+    jid = item.get('id') or item.get('url') or item.get('title', '')
     return 'linkedin_' + hashlib.sha1(str(jid).encode()).hexdigest()[:16]
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--dry-run', action='store_true', help='fetch + classify, write nothing')
-    ap.add_argument('--count', type=int, default=25, help='max results per COMPANY search (cost control)')
+    ap.add_argument('--count', type=int, default=75,
+                    help='max results per COMPANY search (maxItems). High so a busy '
+                         'company\'s postings are never truncated; you only pay per '
+                         'job actually returned, so a high cap is ~free on a 24h window.')
     ap.add_argument('--limit', type=int, default=0, help='only search the first N companies (0 = all; testing/cost control)')
+    ap.add_argument('--window', default=None,
+                    help='datePosted window (r86400=24h, r604800=7d). Default: 24h, '
+                         '7d on Mondays (weekly catch-up sweep).')
     args = ap.parse_args()
 
     token = load_token()
@@ -234,13 +278,14 @@ def main():
     targets = build_targets(config)
     if args.limit > 0:
         targets = targets[:args.limit]
-    print(f'{len(targets)} target companies; querying LinkedIn via Apify '
-          f'(one search per company, count={args.count} each, location={SEARCH_LOCATION})...')
+    window = args.window or default_window()
+    print(f'{len(targets)} target companies; querying LinkedIn via harvestapi '
+          f'(one search per company, count={args.count} each, window={window}, '
+          f'location={SEARCH_LOCATION})...')
 
     raw = []
-    for display, _pats in targets:
-        url = build_search_url(SEARCH_LOCATION, company=display)
-        batch = run_actor(token, [url], args.count)
+    for display, search_term, _pats in targets:
+        batch = run_actor(token, search_term, ROLE_QUERY, window, args.count)
         print(f'  {display:24s} -> {len(batch)} raw')
         raw.extend(batch)
     print(f'Fetched {len(raw)} raw postings across {len(targets)} company searches.')
@@ -254,7 +299,7 @@ def main():
         target = match_company(company_raw, targets)
         if not target:
             continue
-        if not is_relevant_hw(title, description=it.get('descriptionText', '')):
+        if not is_relevant_hw(title, description=it.get('description', '')):
             continue
         if not is_us_location(location):
             continue
@@ -267,7 +312,7 @@ def main():
             'company': target,
             'title': title,
             'location': location,
-            'url': it.get('applyUrl') or it.get('link', ''),
+            'url': it.get('url', ''),
         })
 
     seen = load_seen()

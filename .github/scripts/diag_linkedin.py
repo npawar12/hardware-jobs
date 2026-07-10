@@ -9,7 +9,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from hw_classify import (is_relevant_hw, jd_entry_level, _min_years_experience,
                          SENIORITY_REGEX)
-from scrape_linkedin import load_token, build_search_url, run_actor, build_targets, match_company
+from scrape_linkedin import (load_token, run_actor, build_targets, match_company,
+                             ROLE_QUERY, default_window)
 import yaml
 
 FOCUS = ['AMD', 'Google', 'Amazon']  # highlight these; still report all targets
@@ -40,10 +41,13 @@ def main():
         sys.exit(1)
     cfg = yaml.safe_load(open('linkedin_companies.yml', encoding='utf-8'))
     targets = build_targets(cfg)
-    count = int(sys.argv[1]) if len(sys.argv) > 1 else 120
+    count = int(sys.argv[1]) if len(sys.argv) > 1 else 25
+    window = default_window()
+    # Only fetch the FOCUS companies (keeps the diagnostic cheap).
+    focus_targets = [t for t in targets if t[0].split(' /')[0] in FOCUS or t[0] in FOCUS]
     raw = []
-    for loc in ['United States']:
-        raw.extend(run_actor(token, [build_search_url(loc)], count))
+    for _display, search_term, _pats in focus_targets:
+        raw.extend(run_actor(token, search_term, ROLE_QUERY, window, count))
     print(f'Fetched {len(raw)} raw US postings.\n')
     shown = 0
     for it in raw:
@@ -54,7 +58,7 @@ def main():
         focus = comp.split(' /')[0] in FOCUS or comp in FOCUS
         if not focus:
             continue
-        desc = it.get('descriptionText', '')
+        desc = it.get('description', '')
         verdict = 'MATCH' if is_relevant_hw(title, desc) else 'skip '
         print(f'[{verdict}] {comp:22s} | {title}')
         print(f'          {reason(title, desc)} | {it.get("location","")}')
