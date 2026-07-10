@@ -227,6 +227,9 @@ def scrape_workday(company, tenant, instance, board):
     else:
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/jobs'
     base_url = f'https://{tenant}.{instance}.myworkdayjobs.com'
+    # Public job URLs need the site/board segment in the path; the CXS
+    # externalPath omits it, so base_url + externalPath 404s. Prepend the board.
+    public_base = f'{base_url}/{board}' if board else base_url
     payload = {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''}
     headers = {**HEADERS, 'Content-Type': 'application/json', 'Accept': 'application/json'}
     out, offset = [], 0
@@ -246,7 +249,7 @@ def scrape_workday(company, tenant, instance, board):
                 loc = j.get('locationsText', '')
                 path = j.get('externalPath', '')
                 if is_relevant_hw(title) and is_us_location(loc):
-                    out.append(_job(company, f'workday_{tenant}', path, title, loc, f'{base_url}{path}'))
+                    out.append(_job(company, f'workday_{tenant}', path, title, loc, f'{public_base}{path}'))
             total = data.get('total', 0)
             offset += len(postings)
             if offset >= total:
