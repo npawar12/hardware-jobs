@@ -88,5 +88,338 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Design-Engineer--HBM-DFT_JR93231-1",
     "board": "workday_micron",
     "date_added": "2026-07-09"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "role": "Senior Engineer, RTL Design",
+    "location": "San Jose, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7741983003",
+    "board": "greenhouse_samsungsemiconductor",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Physical Design/CAD Engineer ",
+    "location": "San Jose, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4679751005",
+    "board": "greenhouse_asteralabs",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Senior Design Verification Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4699012005",
+    "board": "greenhouse_asteralabs",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "AI/ML Physical Design Flow Engineer",
+    "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5098932007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Physical Design Engineer",
+    "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5126178007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Physical Design Engineer: Die-to-Die Interface (RTL to GDSII)",
+    "location": "United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5062499007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Physical Design Engineer, PnR",
+    "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5126996007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "RISC-V CPU Microarchitecture / RTL ",
+    "location": "United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4738082007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Senior Engineer, System-Level Design Verification ",
+    "location": "Toronto, Ontario, Canada",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5115497007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "SOC Emulation Engineer - Hardware Emulation Infrastructure",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5070207007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Sr. Engineer, CPU RTL Design",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5145404007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Sr. Engineer, RTL Implementation",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5145369007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Sr. Engineer, SoC Design Verification",
+    "location": "Boston, Massachusetts, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4819642007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Static Timing Analysis (STA) Methodology Engineer",
+    "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5069435007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Lightmatter",
+    "role": "Hardware Verification Engineer \u2014 Electro-Optic Links",
+    "location": "Boston, MA",
+    "type": "New Grad",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5303174008?gh_jid=5303174008",
+    "board": "greenhouse_lightmatter",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "ASIC/SOC CAD Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/4006032008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "ASIC/SOC Silicon Physical Design Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/4002907008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "ASIC/SOC Silicon Verification Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/4002906008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "Emulation Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/5229975008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "Formal Verification Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/5225680008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "Rust SW-Silicon Co-verification Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/5187495008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "Silicon Design-for-Test (DFT) Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/4452624008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "MatX",
+    "role": "SOC Integration Engineer",
+    "location": "Mountain View, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/5233139008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Pure Storage",
+    "role": "Hardware Engineer",
+    "location": "Santa Clara, California",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/7902175",
+    "board": "greenhouse_purestorage",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Pure Storage",
+    "role": "PCIe Hardware Engineer, Systems",
+    "location": "Santa Clara, California",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/7890280",
+    "board": "greenhouse_purestorage",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Pure Storage",
+    "role": "Senior Hardware Design Engineer",
+    "location": "Santa Clara, California",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/7420631",
+    "board": "greenhouse_purestorage",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Jane Street",
+    "role": "FPGA Engineer",
+    "location": "New York, New York, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061011002",
+    "board": "greenhouse_janestreet",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Jane Street",
+    "role": "Hardware Engineer (FPGA/ASIC)",
+    "location": "New York, New York, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8624440002",
+    "board": "greenhouse_janestreet",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "IMC Trading",
+    "role": "Hardware Engineer",
+    "location": "Chicago, United States",
+    "type": "New Grad",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4900419101",
+    "board": "greenhouse_imc",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Etched",
+    "role": "ASIC Timing Engineer",
+    "location": "Cupertino, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/etchedai/jobs/4550342007",
+    "board": "greenhouse_etchedai",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Etched",
+    "role": "Physical Design Engineer",
+    "location": "Cupertino, CA",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/etchedai/jobs/4387592007",
+    "board": "greenhouse_etchedai",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "DRW",
+    "role": "Senior FPGA Engineer",
+    "location": "Chicago, New York",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7958746",
+    "board": "greenhouse_drweng",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "DRW",
+    "role": "Senior FPGA Engineer (Algo)",
+    "location": "Chicago",
+    "type": "New Grad",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/6981628",
+    "board": "greenhouse_drweng",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Optiver",
+    "role": "FPGA Engineer",
+    "location": "Chicago, Illinois, United States",
+    "type": "New Grad",
+    "url": "https://www.optiver.com/join-us/jobs/8375607002/?gh_jid=8375607002",
+    "board": "greenhouse_optiverus",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Optiver",
+    "role": "FPGA Engineer",
+    "location": "New York, New York",
+    "type": "New Grad",
+    "url": "https://www.optiver.com/join-us/jobs/8375617002/?gh_jid=8375617002",
+    "board": "greenhouse_optiverus",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Optiver",
+    "role": "FPGA Engineer",
+    "location": "Austin, Texas, United States",
+    "type": "New Grad",
+    "url": "https://www.optiver.com/join-us/jobs/8375550002/?gh_jid=8375550002",
+    "board": "greenhouse_optiverus",
+    "date_added": "2026-07-10"
+  },
+  {
+    "company": "Belvedere Trading",
+    "role": "FPGA Engineer",
+    "location": "Chicago, Illinois",
+    "type": "New Grad",
+    "url": "https://jobs.lever.co/belvederetrading/67c39285-40b4-436f-9e12-5644f070f46f",
+    "board": "lever_belvederetrading",
+    "date_added": "2026-07-10"
   }
 ]
