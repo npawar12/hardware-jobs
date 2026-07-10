@@ -55,10 +55,12 @@ ROLE_QUERY = ('("design verification" OR RTL OR ASIC OR FPGA OR VLSI OR SoC OR '
               '"physical design" OR "hardware engineer" OR "hardware developer" OR '
               '"hardware development" OR "digital design" OR "logic design" OR '
               '"verification engineer" OR "chip design" OR "silicon" OR DFT)')
-# f_E=1 Internship, f_E=2 Entry level. Searches are weighted toward the US so the
-# bulk of listings are US-based; Canada gets a small slice (still in repo scope).
-# Each tuple is (location, fraction-of-count). US=full budget, Canada=~1/4.
-SEARCHES = [('United States', 1.0), ('Canada', 0.25)]
+# One search PER COMPANY (not one market-wide search). A single market-wide
+# LinkedIn search only returns the newest N postings across the WHOLE market, so
+# specific target companies get crowded out on busy days. Searching each company
+# by name gives every company its own result budget.
+# f_E=1 Internship, f_E=2 Entry level. US-only location (repo is US-weighted).
+SEARCH_LOCATION = 'United States'
 EXPERIENCE = '1,2'
 
 
@@ -76,8 +78,12 @@ def load_token():
     return None
 
 
-def build_search_url(location):
-    q = urllib.parse.quote(ROLE_QUERY)
+def build_search_url(location, company=None):
+    # When company is given, AND it into the keyword query so the search is
+    # scoped to that company (its own result budget). match_company still
+    # re-validates the returned companyName against the alias allowlist.
+    keywords = f'"{company}" AND {ROLE_QUERY}' if company else ROLE_QUERY
+    q = urllib.parse.quote(keywords)
     loc = urllib.parse.quote(location)
     return (f'https://www.linkedin.com/jobs/search/?keywords={q}'
             f'&location={loc}&f_E={EXPERIENCE}'
@@ -213,7 +219,8 @@ def job_id(item):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--dry-run', action='store_true', help='fetch + classify, write nothing')
-    ap.add_argument('--count', type=int, default=75, help='max results per search (cost control)')
+    ap.add_argument('--count', type=int, default=25, help='max results per COMPANY search (cost control)')
+    ap.add_argument('--limit', type=int, default=0, help='only search the first N companies (0 = all; testing/cost control)')
     args = ap.parse_args()
 
     token = load_token()
@@ -225,16 +232,18 @@ def main():
     with open(CONFIG_FILE, encoding='utf-8') as f:
         config = yaml.safe_load(f) or {}
     targets = build_targets(config)
+    if args.limit > 0:
+        targets = targets[:args.limit]
     print(f'{len(targets)} target companies; querying LinkedIn via Apify '
-          f'({len(SEARCHES)} searches, base count={args.count}, US-weighted)...')
+          f'(one search per company, count={args.count} each, location={SEARCH_LOCATION})...')
 
     raw = []
-    for loc, weight in SEARCHES:
-        n = max(15, int(args.count * weight))
-        url = build_search_url(loc)
-        print(f'  search: {loc} (count={n})')
-        raw.extend(run_actor(token, [url], n))
-    print(f'Fetched {len(raw)} raw postings.')
+    for display, _pats in targets:
+        url = build_search_url(SEARCH_LOCATION, company=display)
+        batch = run_actor(token, [url], args.count)
+        print(f'  {display:24s} -> {len(batch)} raw')
+        raw.extend(batch)
+    print(f'Fetched {len(raw)} raw postings across {len(targets)} company searches.')
 
     seen_titles = set()
     matched = []
