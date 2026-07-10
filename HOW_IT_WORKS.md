@@ -12,8 +12,12 @@ There are **two independent tracks**, and they both feed the same `README.md`:
 
 | Track | Source | Cost | Companies | Config |
 |-------|--------|------|-----------|--------|
-| 🔧 **ATS** | Companies' own public career APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workday) | **Free** | ~41 | [`hardware_companies.yml`](hardware_companies.yml) |
-| 🔗 **LinkedIn** | LinkedIn, via the Apify actor `harvestapi/linkedin-job-search` | ~$0.09/run | ~70 | [`linkedin_companies.yml`](linkedin_companies.yml) |
+| 🔧 **ATS** | Companies' own public career APIs (Greenhouse, Lever, Ashby, SmartRecruiters, Workday) | **Free** | ~52 | [`hardware_companies.yml`](hardware_companies.yml) |
+| 🔗 **LinkedIn** | LinkedIn, via the Apify actor `harvestapi/linkedin-job-search` | ~$0.09/run | ~59 | [`linkedin_companies.yml`](linkedin_companies.yml) |
+
+> A company lives on the ATS track whenever it exposes a working public ATS API
+> (free + precise apply links); only companies without one fall back to the paid
+> LinkedIn track. As we find more ATS endpoints, companies move from LinkedIn → ATS.
 
 Both tracks run every scraped job title (and, for LinkedIn, the job description)
 through the **same classifier** ([`hw_classify.py`](.github/scripts/hw_classify.py)),
@@ -110,10 +114,20 @@ a `readme-updates` concurrency group so they never write the README at the same
 time. **Note:** GitHub's scheduler isn't exact — runs are often 5–20 minutes
 late, occasionally more.
 
-> ⚠️ **GitHub Actions minutes:** on a *private* repo the free tier gives 2,000
-> Action-minutes/month. Hourly ATS runs (~2–3 min each) use ~1,500–2,000 of that,
-> so you're near the limit. If you hit it, either drop to every 2 hours
-> (`15 */2 * * *`) or make the repo public (public repos get unlimited minutes).
+> ⚠️ **GitHub Actions minutes:** this repo is currently **public**, and public
+> repos get **unlimited** free Action-minutes — so hourly runs cost nothing. If you
+> ever switch it to **private**, the free tier drops to **2,000 minutes/month**, and
+> hourly ATS runs (~2–3 min each) would use ~1,500–2,000 of that — near the limit.
+> In that case, drop the ATS schedule to every 2 hours (`15 */2 * * *`) or add paid
+> minutes.
+
+### How the workflows push to a protected `main`
+`main` is protected (pull-request-required) so nobody can push random changes. The
+scrapers still need to commit listing updates, so both workflows authenticate with
+your **`GT_TOK`** personal-access-token secret (repo owner → admin bypass) for both
+`checkout` and the final `git push`. The push URL uses `${{ github.repository }}`,
+so **renaming the repo won't break it**. If you rotate the token, just update the
+`GT_TOK` secret — no code change needed.
 
 ---
 
@@ -140,18 +154,43 @@ python .github/scripts/scrape_linkedin.py --window week     # force the 7-day wi
 
 ---
 
-## Cost summary
+## Cost & Apify pricing (how the billing works)
 
-| Action | Cost |
-|--------|------|
-| Any ATS run (manual or scheduled) | **$0** |
-| One daily LinkedIn run (24h window) | ~$0.09 |
-| Monday LinkedIn week-sweep | ~$0.25 |
-| **Whole month, running daily** | **~$3–4** |
+**The ATS track is completely free.** It calls companies' own public career APIs
+(Greenhouse/Lever/Ashby/SmartRecruiters/Workday) directly — no account, no key, no
+per-request charge. Run it as often as you want; the only "cost" is GitHub Actions
+minutes (see the schedule note above).
 
-harvestapi bills **$1 per 1,000 jobs** with no Apify platform fees, and you only
-pay for jobs actually returned. The Apify free tier caps you at **$5/month** and
-physically can't overcharge, so you're safely inside it.
+**The LinkedIn track costs money because it uses Apify.** Here's exactly how that bills:
+
+- **Actor:** [`harvestapi/linkedin-job-search`](https://apify.com/harvestapi/linkedin-job-search).
+- **Pricing model: pay-per-result — `$1 per 1,000 jobs returned`** (i.e. `$0.001`
+  per job). This is a **per-event** price: **no monthly rental**, and harvestapi
+  charges **no Apify platform/compute fees on top** — the $1/1k is the *entire* cost.
+- **You pay for jobs actually returned, not per search or per run.** A company that
+  has no new postings in the window returns 0 jobs and costs $0. The `maxItems: 75`
+  cap only bounds a single busy company — since you're billed per job returned, a
+  high cap is essentially free (you only pay if that many relevant jobs truly exist).
+- **The 24-hour window is the main cost control.** Each daily run only fetches jobs
+  posted in the last day (`postedLimit: "24h"`), so you fetch each posting roughly
+  once instead of re-paying for the same week's jobs every day. (Running daily
+  against a 7-day window would be ~7× the cost — which is why we don't.)
+
+### What it actually costs
+
+| Action | Jobs fetched | Cost |
+|--------|--------------|------|
+| Any ATS run (manual or scheduled) | — | **$0** |
+| One daily LinkedIn run (24h window) | ~90 | **~$0.09** |
+| Monday LinkedIn week-sweep (7-day window) | ~250 | ~$0.25 |
+| **Whole month, LinkedIn running daily** | ~3,000 | **~$3–4** |
+
+### The free-tier safety net
+
+Apify's **free plan has a hard `$5/month` usage cap** and **no card on file**, so it
+**physically cannot overcharge you** — if you ever hit the cap, runs simply fail
+until the month resets rather than billing you. At ~$3–4/month the LinkedIn track
+sits comfortably under that ceiling. (The ATS track never touches Apify at all.)
 
 ---
 
@@ -177,7 +216,8 @@ hardcoded, never committed (`.env` is gitignored).
 
 | File | What it is |
 |------|-----------|
-| `README.md` | The job list (auto-generated tables) |
+| `README.md` | The job list (auto-generated tables: Company / Role / Location / Type / Apply / Age). The posting date is stored invisibly in the Age cell, so age auto-updates without a visible Date column. |
+| `LISTINGS.md` | Auto-generated compact **Company / Role / Date** index (both tracks). Diff its git history to see when listings come in and drop off. |
 | `hardware_companies.yml` | ATS companies + their API slugs/tenants |
 | `linkedin_companies.yml` | LinkedIn companies + name aliases |
 | `.github/scripts/scrape_hardware.py` | ATS scraper |
