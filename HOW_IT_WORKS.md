@@ -97,16 +97,23 @@ You can test it directly: `python .github/scripts/hw_classify.py` runs its self-
 
 ## When does it run?
 
-Both scrapers run automatically every morning (US Eastern):
+Automatic schedules:
 
-| Scraper | Schedule (UTC) | ≈ Eastern (EDT) |
-|---------|----------------|-----------------|
-| ATS (hardware) | `30 8 * * *` → 08:30 | **4:30 AM** |
-| LinkedIn (Apify) | `0 9 * * *` → 09:00 | **5:00 AM** |
+| Scraper | Schedule (UTC) | Frequency |
+|---------|----------------|-----------|
+| ATS (hardware) | `15 * * * *` | **Hourly** (at :15) — it's free, so it runs often |
+| LinkedIn (Apify) | `0 9 * * *` → 09:00 (≈ 5:00 AM ET) | Once daily |
 
-The LinkedIn run is 30 minutes after the ATS run so they don't fight over the
-README (they share a `readme-updates` concurrency group). **Note:** GitHub's
-scheduler isn't exact — runs are often 5–20 minutes late, occasionally more.
+The ATS scraper runs **hourly** because it only hits free public APIs. The
+LinkedIn scraper stays **daily** because each run costs Apify credit. They share
+a `readme-updates` concurrency group so they never write the README at the same
+time. **Note:** GitHub's scheduler isn't exact — runs are often 5–20 minutes
+late, occasionally more.
+
+> ⚠️ **GitHub Actions minutes:** on a *private* repo the free tier gives 2,000
+> Action-minutes/month. Hourly ATS runs (~2–3 min each) use ~1,500–2,000 of that,
+> so you're near the limit. If you hit it, either drop to every 2 hours
+> (`15 */2 * * *`) or make the repo public (public repos get unlimited minutes).
 
 ---
 

@@ -2,7 +2,7 @@ name: Scrape Hardware Jobs (Personal)
 
 on:
   schedule:
-    - cron: '30 8 * * *'
+    - cron: '15 * * * *'   # hourly (ATS APIs are free); :15 to avoid the LinkedIn run
   workflow_dispatch:
 
 concurrency:
