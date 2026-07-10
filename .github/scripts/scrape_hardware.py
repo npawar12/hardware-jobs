@@ -329,19 +329,55 @@ def _parse_date(date_str):
 
 
 def _row_date(row):
-    cols = [c.strip() for c in row.split('|') if c.strip()]
-    return _parse_date(cols[-1]) if cols else None
+    # Scan cells right-to-left for the one that parses as a date, so a trailing
+    # Age column ('1d') can't be mistaken for the date.
+    for c in reversed([c.strip() for c in row.split('|') if c.strip()]):
+        d = _parse_date(c)
+        if d:
+            return d
+    return None
 
 
 def _row_date_str(row):
-    cols = [c.strip() for c in row.split('|') if c.strip()]
-    return cols[-1].strip() if cols else ''
+    for c in reversed([c.strip() for c in row.split('|') if c.strip()]):
+        if _parse_date(c):
+            return c
+    return ''
 
 
-def make_row(company, role, location, jtype, url, date):
+def _age_str(date_obj):
+    days = (datetime.now().date() - date_obj.date()).days
+    return f'{max(days, 0)}d'
+
+
+def refresh_ages(content):
+    """Recompute the trailing Age cell of every table data row from its Date
+    cell. Only rows that already have an Age cell (one after the date) are
+    touched; headers/separators and un-migrated rows are left as-is."""
+    out = []
+    for line in content.splitlines(keepends=True):
+        s = line.rstrip('\n')
+        if s.startswith('|') and s.count('|') >= 2:
+            parts = s.split('|')                 # ['', c1, ..., cN, '']
+            real = list(range(1, len(parts) - 1))
+            date_idx = next((i for i in reversed(real)
+                             if _parse_date(parts[i].strip())), None)
+            # Age cell exists only if the date isn't the last real cell.
+            if date_idx is not None and date_idx < real[-1]:
+                parts[real[-1]] = f' {_age_str(_parse_date(parts[date_idx].strip()))} '
+                s = '|'.join(parts)
+            line = s + ('\n' if line.endswith('\n') else '')
+        out.append(line)
+    return ''.join(out)
+
+
+def make_row(company, role, location, jtype, url, date, age=None):
+    if age is None:
+        d = _parse_date(date)
+        age = _age_str(d) if d else '0d'
     apply_btn = (f'<a href="{url}">'
                  f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a>')
-    return f'| {company} | {role} | {location} | {jtype} | {apply_btn} | {date} |'
+    return f'| {company} | {role} | {location} | {jtype} | {apply_btn} | {date} | {age} |'
 
 
 def insert_row(content, row):
@@ -449,12 +485,9 @@ def main():
         print('\n[dry-run] no files written.')
         return
 
-    if not new_jobs:
-        print('Nothing new to add.')
-        return
-
     with open(README_FILE, encoding='utf-8') as f:
         content = f.read()
+    original = content
     listings = load_listings()
     now = datetime.now()
     date = now.strftime('%b ') + str(now.day)  # 'Jul 9' (portable, no %-d)
@@ -473,12 +506,16 @@ def main():
         seen.add(j['id'])
         added += 1
 
-    if added:
+    # Refresh the Age column on EVERY run (covers both tables), so it stays
+    # current even on a run that adds nothing new.
+    content = refresh_ages(content)
+    if content != original:
         with open(README_FILE, 'w', encoding='utf-8', newline='\n') as f:
             f.write(content)
+    if added:
         save_listings(listings)
     save_seen(seen)
-    print(f'\nAdded {added} listing(s) to the hardware section.')
+    print(f'\nAdded {added} listing(s) to the hardware section; ages refreshed.')
 
 
 if __name__ == '__main__':
