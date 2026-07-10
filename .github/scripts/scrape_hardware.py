@@ -84,7 +84,15 @@ def is_us_location(location):
                        'remote, us', 'remote, usa', 'work from home',
                        'remote (canada)', 'canada remote', 'remote, canada'):
         return True
-    return any(s in loc for s in US_SIGNALS)
+    for s in US_SIGNALS:
+        # 2-letter state/province codes ('., ca') must end at a word boundary,
+        # else ", mo" matches "rabat, MOrocco" and ", in" matches "..., INdonesia".
+        if len(s) == 4 and s.startswith(', '):
+            if re.search(re.escape(s) + r'\b', loc):
+                return True
+        elif s in loc:
+            return True
+    return False
 
 
 # ---------------------------------------------------------------------------
@@ -106,7 +114,10 @@ def scrape_greenhouse(company, slug):
         for j in r.json().get('jobs', []):
             title = j.get('title', '')
             loc = j.get('location', {}).get('name', '')
-            if is_relevant_hw(title) and is_us_location(loc):
+            # Greenhouse returns the JD (content=true); strip HTML and let the
+            # classifier JD-parse bare titles (e.g. "FPGA Engineer") for experience.
+            desc = re.sub(r'<[^>]+>', ' ', j.get('content', '') or '')
+            if is_relevant_hw(title, description=desc) and is_us_location(loc):
                 out.append(_job(company, f'greenhouse_{slug}', j['id'], title, loc,
                                 j.get('absolute_url', '')))
         return out
@@ -126,7 +137,8 @@ def scrape_lever(company, slug):
         for j in r.json():
             title = j.get('text', '')
             loc = j.get('categories', {}).get('location', '')
-            if is_relevant_hw(title) and is_us_location(loc):
+            desc = j.get('descriptionPlain', '') or j.get('description', '')
+            if is_relevant_hw(title, description=desc) and is_us_location(loc):
                 out.append(_job(company, f'lever_{slug}', j['id'], title, loc,
                                 j.get('hostedUrl', '')))
         return out

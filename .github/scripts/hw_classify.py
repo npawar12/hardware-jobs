@@ -66,8 +66,13 @@ NON_HW_SIGNALS = [
     'mechanical design', 'packaging engineer', 'test technician', 'reliability engineer',
     'product marketing', 'business development', 'program manager', 'product manager',
     'data scientist', 'data analyst', 'machine learning', 'software development engineer in test',
+    'embedded software',   # SW role, not chip DV (e.g. "Embedded Software Verification Engineer")
     # analog kept out per digital/DV-only scope (multi-word to avoid over-rejecting)
     'analog design', 'analog ic', 'analog circuit', 'analog engineer', 'analog/mixed',
+    'rfic', 'rf design', 'rf engineer',   # RF/analog, out of digital/DV scope
+    # non-chip "hardware" (systems / cabling / robotics / mechanical) seen as FPs
+    'wire harness', 'cable harness', 'last mile', 'delivery automation',
+    'mechatronics', 'tribology', 'robotics',
 ]
 
 # Unambiguous hardware phrases used ONLY for the optional description fallback
@@ -278,16 +283,31 @@ if __name__ == '__main__':
         print(f'{"PASS" if not r else "FAIL":4s} (want NO ) {tt}')
         ok = ok and not r
 
-    # description-based checks for the "experienced" soft-reject
-    exp_silent = is_relevant_hw('Experienced Hardware Design Engineer',
-                                'Design RTL and UVM testbenches. Bachelor degree required.')
-    exp_rescue = is_relevant_hw('Experienced Hardware Design Engineer',
-                                'New grad friendly; recent graduate welcome. Work on RTL design.')
-    bare_silent = is_relevant_hw('Design Verification Engineer',
-                                 'Build UVM testbenches for SoC verification.')
-    print(f'{"PASS" if not exp_silent else "FAIL":4s} (want NO ) Experienced title + silent JD')
-    print(f'{"PASS" if exp_rescue else "FAIL":4s} (want YES) Experienced title + explicit new-grad JD')
-    print(f'{"PASS" if bare_silent else "FAIL":4s} (want YES) Bare hardware title + silent JD (unchanged)')
-    ok = ok and (not exp_silent) and exp_rescue and bare_silent
+    # description-based checks (title, JD, want) — mirror real ATS/LinkedIn cases
+    _DESC_CASES = [
+        ('Experienced Hardware Design Engineer',
+         'Design RTL and UVM testbenches. Bachelor degree required.', False),   # experienced + silent
+        ('Experienced Hardware Design Engineer',
+         'New grad friendly; recent graduate welcome. Work on RTL design.', True),  # experienced rescued
+        ('Design Verification Engineer',
+         'Build UVM testbenches for SoC verification.', True),                   # bare title + silent
+        ('FPGA Engineer',
+         'Develop FPGA designs for low-latency trading systems. Verilog/VHDL.', True),   # bare + silent -> pass
+        ('FPGA Engineer',
+         'Requires 5+ years of FPGA design experience.', False),                 # bare + experienced -> reject
+        ('ASIC Model Engineer',
+         'Build SystemC/C++ models. Bachelor in EE/CE.', True),                  # bare + silent -> pass
+        ('RFIC Design Engineer',
+         'Design RF integrated circuits. New grad welcome.', False),             # RF/analog out of scope
+        ('Hardware Development Engineer - Wire Harness',
+         'Design wire harnesses for satellites. New grad.', False),              # non-chip hardware
+        ('Hardware Engineer, Last Mile Delivery Automation',
+         'Robotics for delivery. Recent graduate.', False),                      # robotics
+    ]
+    for tt, dd, want in _DESC_CASES:
+        r = is_relevant_hw(tt, dd)
+        good = (r == want)
+        print(f'{"PASS" if good else "FAIL":4s} (want {"YES" if want else "NO ":3s}) {tt}  [+JD]')
+        ok = ok and good
 
     print('\nALL PASS' if ok else '\nSOME FAILED')
