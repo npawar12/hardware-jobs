@@ -63,6 +63,17 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Senior AI Cluster Hardware Engineer | Jul 11 |
+| AMD | Senior RTL Design Engineer – DDR/LPDDR Memory Controller | Jul 11 |
+| AMD | Silicon Design - Lab Engineer | Jul 11 |
+| AMD | Methodology Engineer – Static RTL Verification | Jul 11 |
+| AMD | Hardware Design Engineer | Jul 11 |
+| Google | Silicon Physical Design Engineer | Jul 11 |
+| Meta | Silicon Physical Design Engineer | Jul 11 |
+| Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 11 |
+| Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 11 |
+| Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 11 |
+| Arm | IP Verification Engineer | Jul 11 |
 | Amazon / Annapurna Labs | ASIC Design Engineer I, Satellite Communications | Jul 10 |
 | Amazon / Annapurna Labs | ASIC Design Verification Engineer, Amazon Leo | Jul 10 |
 | Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 10 |
