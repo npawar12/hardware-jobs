@@ -6,6 +6,106 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Chiplet Security Research Intern | Jul 11 |
+| Tenstorrent | CPU/AI Workload Analysis Intern | Jul 11 |
+| Tenstorrent | CPU Core Performance Verification Intern - CPU/AI Hardware | Jul 11 |
+| Tenstorrent | Data Movement Architecture Intern | Jul 11 |
+| Tenstorrent | Design Verification Engineer, Intern | Jul 11 |
+| Tenstorrent | Design Verification Intern -RISCV CPU | Jul 11 |
+| Tenstorrent | Physical Design Intern - CPU/AI Hardware | Jul 11 |
+| Tenstorrent | Software Intern - AI Compilers | Jul 11 |
+| Tenstorrent | Software Intern - AI Compilers | Jul 11 |
+| Etched | Design Verification Engineer - Internal IP | Jul 11 |
+| Etched | Design Verification Engineer - SoC | Jul 11 |
+| Etched | RTL Intern | Jul 11 |
+| Etched | DV Intern | Jul 11 |
+| Etched | PD Intern | Jul 11 |
+| Etched | SI/PI Intern | Jul 11 |
+| Etched | DFT Intern | Jul 11 |
+| Etched | Design Verification Engineer - Internal IP | Jul 11 |
+| Etched | Design Verification Engineer - SoC | Jul 11 |
+| Etched | Emulation Engineer | Jul 11 |
+| Etched | Applied AI Engineer, Silicon Engineering | Jul 11 |
+| NVIDIA | Verification Engineer, Emulation and Prototyping | Jul 11 |
+| NVIDIA | Graphic Design Generalist | Jul 11 |
+| NVIDIA | Senior ASIC Design Engineer - DFX | Jul 11 |
+| Cisco | Hardware Engineer (Transceiver Module Group) | Jul 11 |
+| Cisco | ASIC Design Verification Engineer | Jul 11 |
+| Cisco | System Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid) | Jul 11 |
+| Cisco | System Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid) | Jul 11 |
+| Cisco | Signal/Power Integrity Hardware Engineer (Onsite) | Jul 11 |
+| Cisco | ASIC Design Engineer, STA | Jul 11 |
+| Cisco | ASIC Design Verification Engineer | Jul 11 |
+| Cisco | ASIC Design Hardware Engineer - SDC/STA (Hybrid) | Jul 11 |
+| Intel | CPU Physical Design Engineer | Jul 11 |
+| Broadcom | IC Design Engineer | Jul 11 |
+| Broadcom | DFT Engineer | Jul 11 |
+| Broadcom | ASIC Implementation Engineer | Jul 11 |
+| Broadcom | Design Verification Engineer | Jul 11 |
+| Broadcom | Design Verification Engineer | Jul 11 |
+| Broadcom | Physical IC Design Engineer | Jul 11 |
+| Broadcom | Design Verification Engineer | Jul 11 |
+| Broadcom | Board Hardware Engineer | Jul 11 |
+| Broadcom | Physical Design Engineer | Jul 11 |
+| Broadcom | R&D Engineer Physical Design | Jul 11 |
+| Broadcom | R&D Digital Design Engineer | Jul 11 |
+| Broadcom | Silicon Photonics PIC Design Engineer | Jul 11 |
+| Broadcom | R&D RF Hardware Engineer | Jul 11 |
+| Broadcom | IC Design Engineer | Jul 11 |
+| Broadcom | Analog and Mixed-Signal IC Design Engineer | Jul 11 |
+| Broadcom | Design Verification Engineer | Jul 11 |
+| Broadcom | R&D Engineer IC Design | Jul 11 |
+| Broadcom | Hardware Engineer | Jul 11 |
+| Broadcom | R&D Engineer IC Design | Jul 11 |
+| Broadcom | ASIC DFT Engineer | Jul 11 |
+| Broadcom | ASIC DFT Engineer | Jul 11 |
+| Broadcom | Verification Engineer | Jul 11 |
+| Broadcom | ASIC Implementation Engineer | Jul 11 |
+| Broadcom | Silicon Design and Validation Engineer | Jul 11 |
+| Broadcom | Senior Digital Mixed-Signal (DMS) Verification Engineer | Jul 11 |
+| Broadcom | ASIC Implementation Engineer | Jul 11 |
+| Broadcom | Emulation Engineer | Jul 11 |
+| Broadcom | R&D Hardware Design Engineer (High Speed Analog) | Jul 11 |
+| Marvell | Austin Hiring Event - Senior Physical Design Engineer | Jul 11 |
+| Marvell | Hardware and Silicon Validation | Jul 11 |
+| Micron | ASIC Engineer 2 | Jul 11 |
+| Micron | Design Verification Engineer | Jul 11 |
+| Micron | SoC Timing (Static Timing Analysis/STA) Engineer, HBM | Jul 11 |
+| Micron | SOC Timing Analysis (STA) Engineer ,HBM | Jul 11 |
+| Micron | Design and Verification Engineer, Pathfinding | Jul 11 |
+| Micron | Sr. ASIC Design Engineer | Jul 11 |
+| Micron | Senior Design Verification Engineer | Jul 11 |
+| Micron | SR RTL DESIGN | Jul 11 |
+| Micron | Senior ASIC Design Verification Engineer | Jul 11 |
+| Micron | Senior ASIC Design Verification Engineer | Jul 11 |
+| Micron | Engineer, ASIC Physical Design | Jul 11 |
+| Micron | HBM Sr RTL Engineer | Jul 11 |
+| Micron | SOC Formal Verification Engineer, HBM | Jul 11 |
+| Micron | Senior SOC Physical Design Engineer, HBM | Jul 11 |
+| Micron | Hardware Engineer | Jul 11 |
+| Micron | Senior Design Verification Engineer, HBM | Jul 11 |
+| Micron | Sr. Design Verification Engineer | Jul 11 |
+| Micron | HBM SOC Design Engineer | Jul 11 |
+| NXP | Silicon Design IP Licensing Specialist | Jul 11 |
+| Ciena | Hardware Engineer, Power Design, onsite Kanata | Jul 11 |
+| Ambarella | Physical Design Engineer | Jul 11 |
+| Ambarella | Sr. ASIC Design Engineer | Jul 11 |
+| Altera | Physical Design Engineer | Jul 11 |
+| Altera | FPGA Compiler (Placer) Engineer | Jul 11 |
+| Altera | FPGA Compiler (Router) Engineer | Jul 11 |
+| Altera | FPGA Silicon Validation Engineer | Jul 11 |
+| Altera | DFT Design Engineer | Jul 11 |
+| Altera | Static Timing Analysis (STA) Engineer | Jul 11 |
+| Altera | FPGA Development Tools Engineer – Synthesis | Jul 11 |
+| Altera | FPGA Development Tools Engineer – Synthesis | Jul 11 |
+| Altera | Senior FPGA Compiler (Router) Engineer | Jul 11 |
+| Altera | Senior FPGA Compiler (Router) Engineer | Jul 11 |
+| Altera | High Level Synthesis Compiler Engineer | Jul 11 |
+| Altera | Senior Debug Verification Engineer | Jul 11 |
+| Altera | FPGA Development Tools Engineer | Jul 11 |
+| Altera | FPGA Silicon Design Engineer | Jul 11 |
+| Altera | FPGA Development Tools Engineer | Jul 11 |
+| Altera | Senior Design Verification Engineer | Jul 11 |
 | Ambarella | Verification Engineer Intern | Jul 10 |
 | Ambarella | DFT Engineer Intern | Jul 10 |
 | Ambarella | ASIC Design Engineer Intern | Jul 10 |

@@ -466,5 +466,905 @@
     "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100",
     "board": "workday_ambarella",
     "date_added": "2026-07-10"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Chiplet Security Research Intern ",
+    "location": "Santa Clara, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "CPU/AI Workload Analysis Intern",
+    "location": "Santa Clara, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "CPU Core Performance Verification Intern - CPU/AI Hardware",
+    "location": "Austin, Texas, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Data Movement Architecture Intern",
+    "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; North America; Santa Clara, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Design Verification Engineer, Intern   ",
+    "location": "Boston, Massachusetts, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Design Verification Intern -RISCV CPU",
+    "location": "Austin, Texas, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Physical Design Intern - CPU/AI Hardware",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Software Intern - AI Compilers",
+    "location": "Santa Clara, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Software Intern - AI Compilers",
+    "location": "Austin, Texas, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "Design Verification Engineer - Internal IP",
+    "location": "San Jose",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "Design Verification Engineer - SoC",
+    "location": "San Jose",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "RTL Intern",
+    "location": "San Jose",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "DV Intern",
+    "location": "San Jose",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "PD Intern",
+    "location": "San Jose",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "SI/PI Intern",
+    "location": "San Jose",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.ashbyhq.com/etched/ce683632-421a-4ef9-8664-b253356969a3",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "DFT Intern",
+    "location": "San Jose",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "Design Verification Engineer - Internal IP",
+    "location": "Austin",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/etched/77f0497f-086e-4d89-bbcd-bac7a79bf9a1",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "Design Verification Engineer - SoC",
+    "location": "Austin",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/etched/33adf31c-e0ad-4080-bb83-1b3859f95d35",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "Emulation Engineer",
+    "location": "San Jose",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/etched/bab9e9c5-d0b0-4bac-b784-20a177a6fc3a",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Etched",
+    "role": "Applied AI Engineer, Silicon Engineering",
+    "location": "San Jose",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/etched/831bfa22-d883-450b-9b10-2a16421525a0",
+    "board": "ashby_etched",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Verification Engineer, Emulation and Prototyping",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer--Emulation-and-Prototyping_JR2021189",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Graphic Design Generalist",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphic-Design-Generalist_JR2012438",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Design Engineer - DFX",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---DFX_JR2020883",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "Hardware Engineer (Transceiver Module Group)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer--Transceiver-Module-Group-_2016228",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Verification Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2010971-1",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "System Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Packaging-Signal-Power-Integrity-Engineer--Hybrid-_2017677",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "System Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Packaging-Signal-Power-Integrity-Engineer--Hybrid-_2017676",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "Signal/Power Integrity Hardware Engineer (Onsite)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Signal-Power-Integrity-Hardware-Engineer--Onsite-_2019341",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Engineer, STA",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer--STA_2009921-1",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Verification Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2014843",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Hardware Engineer - SDC/STA (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Hardware-Engineer---SDC-STA--Hybrid-_2012797",
+    "board": "workday_cisco",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Intel",
+    "role": "CPU Physical Design Engineer",
+    "location": "US, Texas, Austin",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0284360",
+    "board": "workday_intel",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Design Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/IC-Design-Engineer_R026306-2",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "DFT Engineer",
+    "location": "USA-TX-Austin - River Place B7",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/DFT-Engineer_R026349-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Implementation Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R026307",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Design Verification Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R026294",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Design Verification Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R026295",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Physical IC Design Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Physical-IC-Design-Engineer_R026261",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Design Verification Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R026325",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Board Hardware Engineer",
+    "location": "USA-GA-Duluth-River Green Parkway",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024348",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Physical Design Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Implementation-Engineer_R024573",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D Engineer Physical Design",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Physical-Design_R026177",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D Digital Design Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R025908",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Silicon Photonics PIC Design Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Silicon-Photonics-PIC-Design-Engineer_R026165",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D RF Hardware Engineer",
+    "location": "USA-California- San Jose - 1730 Fox Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California--San-Jose---1730-Fox-Drive/Hardware-Engineer-for-FBAR-Device-Modeling_R024853",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Design Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/IC-Design-Engineer_R026048-4",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Analog and Mixed-Signal IC Design Engineer",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Analog-and-Mixed-Signal-IC-Design-Engineer_R026098",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Design Verification Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R025763-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D Engineer IC Design",
+    "location": "USA-CA Irvine Alton Parkway Bldg 2",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-Engineer-IC-Design_R026035",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Hardware Engineer",
+    "location": "USA-CA Irvine Alton Parkway Bldg 1",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Hardware-Engineer_R026046",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D Engineer IC Design",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024221",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC DFT Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-DFT-Engineer_R025568",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC DFT Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/ASIC-DFT-Engineer_R025757-4",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Verification Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Verification-Engineer_R024030",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Implementation Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R025853",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Silicon Design and Validation Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Silicon-Design-and-Validation-Engineer_R025787-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Senior Digital Mixed-Signal (DMS) Verification Engineer",
+    "location": "USA-Mendota Heights-Northland",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Mendota-Heights-Northland/Senior-Digital-Mixed-Signal--DMS--Verification-Engineer_R025692",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Implementation Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R025211",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Emulation Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Emulation-Engineer_R025144",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D Hardware Design Engineer (High Speed Analog)",
+    "location": "USA-CA Irvine Alton Parkway Bldg 2",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-Hardware-Design-Engineer--High-Speed-Analog-_R024941-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Marvell",
+    "role": "Austin Hiring Event - Senior Physical Design Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Austin-TX/Austin-Hiring-Event---Senior-Physical-Design-Engineer_2602523-1",
+    "board": "workday_marvell",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Marvell",
+    "role": "Hardware and Silicon Validation",
+    "location": "Westlake Village, CA",
+    "type": "Early Career",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Hardware-and-Silicon-Validation_2600895-2",
+    "board": "workday_marvell",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "ASIC Engineer 2",
+    "location": "Longmont-MAX- Office, CO",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/ASIC-Engineer-2_JR101775",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Design Verification Engineer",
+    "location": "Boise, ID - Main Site",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Verification-Engineer_JR102240",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "SoC Timing (Static Timing Analysis/STA) Engineer, HBM",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/SoC-Timing--Static-Timing-Analysis-STA--Engineer--HBM_JR101355-1",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "SOC Timing Analysis (STA) Engineer ,HBM",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/SOC-Timing-Analysis--STA--Engineer--HBM_JR101709",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Design and Verification Engineer, Pathfinding",
+    "location": "Folsom, CA",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Design-and-Verification-Engineer--Pathfinding_JR104235",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Sr. ASIC Design Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Sr-ASIC-Design-Engineer_JR101734",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior Design Verification Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Verification-Engineer_JR101740",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "SR RTL DESIGN",
+    "location": "Boise, ID - Main Site",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-RTL-DESIGN_JR97472",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior ASIC Design Verification Engineer",
+    "location": "Minneapolis, MN",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Senior-ASIC-Design-Verification-Engineer_JR101729",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior ASIC Design Verification Engineer",
+    "location": "Minneapolis, MN",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Senior-ASIC-Design-Verification-Engineer_JR101730",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Engineer, ASIC Physical Design",
+    "location": "Minneapolis, MN",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Engineer--ASIC-Physical-Design_JR103247",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "HBM Sr RTL Engineer",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/HBM-Sr-RTL-Engineer_JR102836",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "SOC Formal Verification Engineer, HBM",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/SOC-Formal-Verification-Engineer--HBM_JR102414",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior SOC Physical Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-SOC-Physical-Design-Engineer--HBM_JR101705",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Hardware Engineer",
+    "location": "Boise, ID - Main Site",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Hardware-Engineer_JR101315",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior Design Verification Engineer, HBM",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Design-Verification-Engineer--HBM_JR96594",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "Sr. Design Verification Engineer",
+    "location": "Minneapolis, MN",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Sr-Design-Verification-Engineer_JR100403",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Micron",
+    "role": "HBM SOC Design Engineer",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/HBM-SOC-Design---Integration-Engineer_JR73448",
+    "board": "workday_micron",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "NXP",
+    "role": "Silicon Design IP Licensing Specialist",
+    "location": "Austin (Oakhill, Office)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/IP-Licensing-Manager--Technical-Program-Management-_R-10063540",
+    "board": "workday_nxp",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Engineer, Power Design, onsite Kanata",
+    "location": "Ottawa",
+    "type": "Early Career",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Engineer--Power-Design--onsite-Kanata_R031227",
+    "board": "workday_ciena",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Ambarella",
+    "role": "Physical Design Engineer",
+    "location": "US Headquarters",
+    "type": "Early Career",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Physical-Design-Engineer_JR100284",
+    "board": "workday_ambarella",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Ambarella",
+    "role": "Sr. ASIC Design Engineer",
+    "location": "US Headquarters",
+    "type": "Early Career",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Sr-ASIC-Design-Engineer_JR100082",
+    "board": "workday_ambarella",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "Physical Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02760",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Compiler (Placer) Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Compiler--Placer--Engineer_R02670",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Compiler (Router) Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Compiler--Router--Engineer_R02657",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Silicon Validation Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Silicon-Validation-Engineer_R02626-1",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "DFT Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-DFT-Design-Engineer_R01930",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "Static Timing Analysis (STA) Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Static-Timing-Analysis--STA--Engineer_R02659",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer \u2013 Synthesis",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer---Synthesis_R02600",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer \u2013 Synthesis",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Development-Tools-Engineer---Synthesis_R02598",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "Senior FPGA Compiler (Router) Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Senior-FPGA-Compiler--Router--Engineer_R02599",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "Senior FPGA Compiler (Router) Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-FPGA-Compiler--Router--Engineer_R02596",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "High Level Synthesis Compiler Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Compiler-Engineer_R02532",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "Senior Debug Verification Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Debug-Verification-Engineer_R02520",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R02272-1",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Silicon Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Silicon-Design-Engineer_R02317",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R02271",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Altera",
+    "role": "Senior Design Verification Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Design-Verification-Engineer_R02165",
+    "board": "workday_altera",
+    "date_added": "2026-07-11"
   }
 ]
