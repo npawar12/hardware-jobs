@@ -47,7 +47,7 @@ LEVEL_REGEX = [r'\bintern\b', r'\binternship\b', r'\buniversity\b', r'\bstudent\
 # Seniority / experience exclusions (>~3 yrs). Regex for short tokens.
 SENIORITY_REGEX = [
     r'\bsenior\b', r'\bsr\.?\b', r'\bstaff\b', r'\bprincipal\b', r'\bdistinguished\b',
-    r'\bfellow\b', r'\blead\b', r'\bmanager\b', r'\bdirector\b', r'\bhead\b',
+    r'\bfellow\b', r'\blead(?:er)?\b', r'\bmanager\b', r'\bdirector\b', r'\bhead\b',
     r'\bvp\b', r'\bexpert\b', r'\barchitect\b', r'\bii\b', r'\biii\b', r'\biv\b',
     r'\blevel\s*[3-9]\b', r'\bl[3-9]\b', r'\bgrade\s*[3-9]\b',
     r'\bmts\b',  # member of technical staff (usually experienced) unless college/new-grad present
@@ -158,6 +158,12 @@ def jd_entry_level(description, strict=False):
     if my is not None:
         return my <= 2
     return None
+
+
+def has_hw_keyword(title):
+    """Cheap pre-filter: does the title contain any hardware-domain keyword?
+    Used to decide whether a bare Workday title is worth a JD detail fetch."""
+    return any(kw in f' {title.lower()} ' for kw in HW_KEYWORDS)
 
 
 def is_relevant_hw(title, description=None):

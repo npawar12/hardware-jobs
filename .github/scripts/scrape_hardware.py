@@ -34,7 +34,7 @@ def _now_et():
     return datetime.now(_ET) if _ET else datetime.now()
 
 sys.path.insert(0, str(Path(__file__).parent))
-from hw_classify import is_relevant_hw, infer_type  # noqa: E402
+from hw_classify import is_relevant_hw, infer_type, has_hw_keyword  # noqa: E402
 
 CONFIG_FILE = Path('hardware_companies.yml')
 SEEN_FILE = Path('.github/data/seen_hardware.json')
@@ -250,6 +250,20 @@ def scrape_smartrecruiters(company, identifier):
     return out
 
 
+def _workday_jd(cxs_base, external_path):
+    """Fetch a single Workday posting's description text (the list endpoint omits
+    it) so bare titles can be experience-parsed. Returns '' on any failure."""
+    try:
+        r = requests.get(f'{cxs_base}{external_path}',
+                         headers={**HEADERS, 'Accept': 'application/json'}, timeout=10)
+        if r.status_code != 200:
+            return ''
+        html = (r.json().get('jobPostingInfo', {}) or {}).get('jobDescription', '') or ''
+        return re.sub(r'<[^>]+>', ' ', html)
+    except Exception:
+        return ''
+
+
 def scrape_workday(company, tenant, instance, board):
     if board:
         api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
@@ -259,9 +273,10 @@ def scrape_workday(company, tenant, instance, board):
     # Public job URLs need the site/board segment in the path; the CXS
     # externalPath omits it, so base_url + externalPath 404s. Prepend the board.
     public_base = f'{base_url}/{board}' if board else base_url
+    cxs_base = api_url[:-len('/jobs')]   # detail endpoint base (list URL minus /jobs)
     payload = {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''}
     headers = {**HEADERS, 'Content-Type': 'application/json', 'Accept': 'application/json'}
-    out, offset = [], 0
+    out, offset, jd_fetches = [], 0, 0
     while True:
         payload['offset'] = offset
         try:
@@ -277,7 +292,20 @@ def scrape_workday(company, tenant, instance, board):
                 title = j.get('title', '')
                 loc = j.get('locationsText', '')
                 path = j.get('externalPath', '')
-                if is_relevant_hw(title) and is_us_location(loc):
+                if not is_us_location(loc) or not has_hw_keyword(title):
+                    continue
+                # Title already carries an entry-level signal -> keep, no JD fetch.
+                if is_relevant_hw(title):
+                    out.append(_job(company, f'workday_{tenant}', path, title, loc, f'{public_base}{path}'))
+                    continue
+                # Bare/senior hardware title: read the JD (Workday list omits it) and
+                # let the classifier experience-parse it. Capped + throttled to be polite.
+                if jd_fetches >= 80:
+                    continue
+                jd = _workday_jd(cxs_base, path)
+                jd_fetches += 1
+                time.sleep(0.15)
+                if jd and is_relevant_hw(title, description=jd):
                     out.append(_job(company, f'workday_{tenant}', path, title, loc, f'{public_base}{path}'))
             total = data.get('total', 0)
             offset += len(postings)
