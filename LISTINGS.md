@@ -6,6 +6,70 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Sr. Physical Design Verification Engineer, Annapurna Labs | Jul 11 |
+| Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | Jul 11 |
+| Amazon | ASIC Design Verification Engineer, Amazon Leo | Jul 11 |
+| Amazon | Sr. ASIC Design Verification Engineer, Amazon Leo | Jul 11 |
+| Amazon | Senior CAD Engineer, ASIC Development Infrastructure, RTL Design | Jul 11 |
+| Amazon | Sr. Physical Design Engineer, Annapurna Labs | Jul 11 |
+| Amazon | ASIC Engineer, Project Leo | Jul 11 |
+| Amazon | MLA Design Verification Engineer I, Annapurna Labs | Jul 11 |
+| Amazon | ASIC Test Engineer, Annapurna Silicon Operations | Jul 11 |
+| Amazon | Satellite Design Verification Engineer, Amazon Leo | Jul 11 |
+| Amazon | FPGA Development Engineer, Bespoke Solutions | Jul 11 |
+| Amazon | Senior FPGA Development Engineer, Bespoke Solutions | Jul 11 |
+| Amazon | FPGA Engineer, LEO KMM FPGA | Jul 11 |
+| Amazon | Senior FPGA Development Engineer, Bespoke Solutions | Jul 11 |
+| Amazon | ASIC Engineer, Annapurna Labs | Jul 11 |
+| Amazon | ASIC Design Engineer I, Satellite Communications | Jul 11 |
+| Amazon | Sr. FPGA Engineer, Direct to Device, Amazon Leo | Jul 11 |
+| Amazon | Hardware Development Engineer Co-op (FALL) | Jul 11 |
+| Amazon | Senior HW Dev Engineer-Payload, Hardware Development | Jul 11 |
+| Amazon | Senior Hardware Development Engineer , Customer Terminals | Jul 11 |
+| Amazon | Sr. SDE - CPLD / FPGA | Jul 11 |
+| Amazon | Sr. SDE - CPLD / FPGA | Jul 11 |
+| Amazon | MLA IP Design Verification Engineer, Annapurna Labs | Jul 11 |
+| Amazon | Hardware Development Engineer | Jul 11 |
+| Amazon | Sr. Product Design Engineer, Hardware Development | Jul 11 |
+| Amazon | Hardware Development Engineer, Hardware Development, Amazon LEO | Jul 11 |
+| Amazon | HW Dev Engineer-Payload, Hardware Development | Jul 11 |
+| Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Jul 11 |
+| Amazon | ASIC Engineer - RF/DSP Systems Design, LEO | Jul 11 |
+| Amazon | Post-Silicon Systems Validation Engineer, Annapurna Labs | Jul 11 |
+| Amazon | Cloud Hardware Development, Packaging, Network Product Development - Optics | Jul 11 |
+| Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Jul 11 |
+| Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Jul 11 |
+| Amazon | Post-Silicon Systems Validation Engineer, Annapurna Labs | Jul 11 |
+| Amazon | Post-Silicon Systems Validation Engineer, Annapurna Labs | Jul 11 |
+| Amazon | Hardware Development Engineer , Amazon Leo | Jul 11 |
+| Amazon | Senior Hardware Development Engineer AWS AI & ML, Accelerator Servers | Jul 11 |
+| Amazon | Cloud Hardware Development Engineer, Storage , AWS Hardware Engineering | Jul 11 |
+| Amazon | Hardware Development Engineer , Amazon Leo | Jul 11 |
+| Amazon | HW Dev Engineer - Payload, Amazon Leo Hardware Development | Jul 11 |
+| Amazon | HW Dev Engineer - Payload, Amazon Leo Hardware Development | Jul 11 |
+| Amazon | HW Dev Engineer - Payload, Amazon Leo Hardware Development | Jul 11 |
+| Amazon | ML Accelerator Performance Validation Engineer, Post Silicon Validation | Jul 11 |
+| Amazon | Hardware Development Engineer, Ground Gateway, Amazon Leo | Jul 11 |
+| Amazon | Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs | Jul 11 |
+| Amazon | Hardware Development Engineer, Avionics Electrical Engineering, Amazon Leo | Jul 11 |
+| Amazon | Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams | Jul 11 |
+| Amazon | High-Speed Interface Validation Engineer, Post Silicon Validation | Jul 11 |
+| Amazon | Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services | Jul 11 |
+| Amazon | HW Dev Engineer - Payload, Hardware Development, Amazon LEO | Jul 11 |
+| Amazon | Hardware Engineer, Amazon LEO | Jul 11 |
+| Amazon | Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development | Jul 11 |
+| Amazon | Satellite Hardware Design Engineer, Amazon Leo | Jul 11 |
+| Amazon | Sr. Hardware Engineer - ML Acceleration, Annapurna Labs | Jul 11 |
+| Amazon | Connectivity Cloud Hardware Engineer, Network Product Development | Jul 11 |
+| Amazon | Systems Development Engineer, AWS Hardware Engineering | Jul 11 |
+| Amazon | Hardware Engineer - ML Acceleration, Annapurna Labs | Jul 11 |
+| Amazon | Software Development Engineer, AWS Hardware Engineering | Jul 11 |
+| Amazon | Cloud Hardware Engineer, NPD | Jul 11 |
+| Amazon | Quantum Hardware Engineer, Amazon's Center for Quantum Computing, Device Team | Jul 11 |
+| Amazon | Connectivity Cloud Hardware Engineer, AWS Data Center | Jul 11 |
+| Amazon | Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services | Jul 11 |
+| Amazon | Electrical & Controls Design Hardware Engineer, One MHS - Electrical and Control Engineering, Arch and Design | Jul 11 |
+| Amazon | Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Jul 11 |
 | Tenstorrent | Chiplet Security Research Intern | Jul 11 |
 | Tenstorrent | CPU/AI Workload Analysis Intern | Jul 11 |
 | Tenstorrent | CPU Core Performance Verification Intern - CPU/AI Hardware | Jul 11 |
