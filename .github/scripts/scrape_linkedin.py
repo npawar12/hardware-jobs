@@ -40,7 +40,8 @@ from hw_classify import is_relevant_hw, infer_type          # noqa: E402
 from scrape_hardware import (is_us_location, make_row,        # noqa: E402
                              _company_sort_key, _parse_date,
                              _row_date, _row_date_str, refresh_ages,
-                             write_listings_log, _now_et)
+                             write_listings_log, _now_et,
+                             insert_block, group_batch)
 
 CONFIG_FILE = Path('linkedin_companies.yml')
 SEEN_FILE = Path('.github/data/seen_linkedin.json')
@@ -334,19 +335,20 @@ def main():
     now = _now_et()
     date = now.strftime('%b ') + str(now.day)  # Eastern, so 0d/1d matches your day
     added = 0
-    for j in new_jobs:
-        row = make_row(j['company'], j['title'], j['location'], infer_type(j['title']), j['url'], date)
-        nc = insert_row(content, row)
-        if nc is None:
-            continue
-        content = nc
-        listings.append({
-            'company': j['company'], 'role': j['title'], 'location': j['location'],
-            'type': infer_type(j['title']), 'url': j['url'],
-            'board': 'linkedin', 'date_added': now.strftime('%Y-%m-%d'),
-        })
-        seen.add(j['id'])
-        added += 1
+    rows = group_batch(new_jobs, lambda j: make_row(
+        j['company'], j['title'], j['location'], infer_type(j['title']), j['url'], date))
+    if rows:
+        nc = insert_block(content, rows, 'linkedin')
+        if nc is not None:
+            content = nc
+            for j in new_jobs:
+                listings.append({
+                    'company': j['company'], 'role': j['title'], 'location': j['location'],
+                    'type': infer_type(j['title']), 'url': j['url'],
+                    'board': 'linkedin', 'date_added': now.strftime('%Y-%m-%d'),
+                })
+                seen.add(j['id'])
+            added = len(new_jobs)
 
     # Keep the Age column current every run (covers both tables).
     content = refresh_ages(content)

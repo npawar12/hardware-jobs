@@ -440,6 +440,38 @@ def write_listings_log(content, path='LISTINGS.md'):
     Path(path).write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
 
 
+def insert_block(content, rows, marker):
+    """Prepend a run's new rows at the TOP of the <marker> table body (right after
+    the header separator). Newest run ends up on top; rows within the run keep
+    their given order and grouping. Existing rows below are never reordered."""
+    start = content.find(f'<!-- TABLE_START {marker} -->')
+    end = content.find(f'<!-- TABLE_END {marker} -->')
+    if start == -1 or end == -1:
+        print(f'ERROR: {marker} table markers not found in README')
+        return None
+    sep = re.search(r'\| [-| :]+\|\n', content[start:])
+    if not sep:
+        print(f'ERROR: {marker} table separator not found')
+        return None
+    header_end = start + sep.end()
+    block = ''.join(r + '\n' for r in rows)
+    return content[:header_end] + block + content[header_end:]
+
+
+def group_batch(jobs, make_row_fn):
+    """Turn a run's new jobs into table rows, grouping *consecutive* same-company
+    jobs under one company name (the rest become ↳ continuation rows). Grouping is
+    only within this batch -- a later run's job from the same company won't rejoin."""
+    rows, prev = [], None
+    for j in jobs:
+        row = make_row_fn(j)
+        if j['company'] == prev:
+            row = re.sub(r'^\| [^|]+ \|', '| ↳ |', row, count=1)
+        prev = j['company']
+        rows.append(row)
+    return rows
+
+
 def insert_row(content, row):
     start = content.find(f'<!-- TABLE_START {TABLE_MARKER} -->')
     end = content.find(f'<!-- TABLE_END {TABLE_MARKER} -->')
@@ -552,19 +584,20 @@ def main():
     now = _now_et()
     date = now.strftime('%b ') + str(now.day)  # 'Jul 9' (Eastern; portable, no %-d)
     added = 0
-    for j in new_jobs:
-        row = make_row(j['company'], j['title'], j['location'], infer_type(j['title']), j['url'], date)
-        nc = insert_row(content, row)
-        if nc is None:
-            continue
-        content = nc
-        listings.append({
-            'company': j['company'], 'role': j['title'], 'location': j['location'],
-            'type': infer_type(j['title']), 'url': j['url'],
-            'board': j['board'], 'date_added': _now_et().strftime('%Y-%m-%d'),
-        })
-        seen.add(j['id'])
-        added += 1
+    rows = group_batch(new_jobs, lambda j: make_row(
+        j['company'], j['title'], j['location'], infer_type(j['title']), j['url'], date))
+    if rows:
+        nc = insert_block(content, rows, 'hardware')
+        if nc is not None:
+            content = nc
+            for j in new_jobs:
+                listings.append({
+                    'company': j['company'], 'role': j['title'], 'location': j['location'],
+                    'type': infer_type(j['title']), 'url': j['url'],
+                    'board': j['board'], 'date_added': _now_et().strftime('%Y-%m-%d'),
+                })
+                seen.add(j['id'])
+            added = len(new_jobs)
 
     # Refresh the Age column on EVERY run (covers both tables), so it stays
     # current even on a run that adds nothing new.
