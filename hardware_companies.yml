@@ -58,6 +58,9 @@ ashby:
     slug: d-Matrix
   - name: Etched
     slug: etched
+    # NOTE: Etched also had a Greenhouse board (dropped 2026-07-11 as a dup of
+    # this Ashby one). To restore it, re-add under greenhouse: slug: etchedai
+    # -> https://job-boards.greenhouse.io/etchedai
 
 lever:
   - name: Zoox
