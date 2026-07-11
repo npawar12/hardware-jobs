@@ -40,7 +40,7 @@ from hw_classify import is_relevant_hw, infer_type          # noqa: E402
 from scrape_hardware import (is_us_location, make_row,        # noqa: E402
                              _company_sort_key, _parse_date,
                              _row_date, _row_date_str, refresh_ages,
-                             write_listings_log)
+                             write_listings_log, _now_et)
 
 CONFIG_FILE = Path('linkedin_companies.yml')
 SEEN_FILE = Path('.github/data/seen_linkedin.json')
@@ -331,8 +331,8 @@ def main():
         content = f.read()
     original = content
     listings = load_listings()
-    now = datetime.now()
-    date = now.strftime('%b ') + str(now.day)
+    now = _now_et()
+    date = now.strftime('%b ') + str(now.day)  # Eastern, so 0d/1d matches your day
     added = 0
     for j in new_jobs:
         row = make_row(j['company'], j['title'], j['location'], infer_type(j['title']), j['url'], date)

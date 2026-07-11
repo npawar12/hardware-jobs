@@ -21,6 +21,18 @@ from pathlib import Path
 import requests
 import yaml
 
+try:
+    from zoneinfo import ZoneInfo
+    _ET = ZoneInfo('America/New_York')
+except Exception:               # tz database missing -> fall back to naive local time
+    _ET = None
+
+
+def _now_et():
+    """Current time in US Eastern, so the 0d/1d age boundary lands on the user's
+    midnight (not UTC midnight). Runners are UTC, so age is computed here instead."""
+    return datetime.now(_ET) if _ET else datetime.now()
+
 sys.path.insert(0, str(Path(__file__).parent))
 from hw_classify import is_relevant_hw, infer_type  # noqa: E402
 
@@ -362,7 +374,7 @@ def _row_date_str(row):
 
 
 def _age_str(date_obj):
-    days = (datetime.now().date() - date_obj.date()).days
+    days = (_now_et().date() - date_obj.date()).days
     return f'{max(days, 0)}d'
 
 
@@ -537,8 +549,8 @@ def main():
         content = f.read()
     original = content
     listings = load_listings()
-    now = datetime.now()
-    date = now.strftime('%b ') + str(now.day)  # 'Jul 9' (portable, no %-d)
+    now = _now_et()
+    date = now.strftime('%b ') + str(now.day)  # 'Jul 9' (Eastern; portable, no %-d)
     added = 0
     for j in new_jobs:
         row = make_row(j['company'], j['title'], j['location'], infer_type(j['title']), j['url'], date)
@@ -549,7 +561,7 @@ def main():
         listings.append({
             'company': j['company'], 'role': j['title'], 'location': j['location'],
             'type': infer_type(j['title']), 'url': j['url'],
-            'board': j['board'], 'date_added': datetime.now().strftime('%Y-%m-%d'),
+            'board': j['board'], 'date_added': _now_et().strftime('%Y-%m-%d'),
         })
         seen.add(j['id'])
         added += 1
