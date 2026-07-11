@@ -104,6 +104,10 @@ workday:
     tenant: marvell
     instance: wd1
     board: MarvellCareers2
+  - name: Marvell
+    tenant: marvell
+    instance: wd1
+    board: MarvellCareers
   - name: Analog Devices
     tenant: analogdevices
     instance: wd1
@@ -124,6 +128,14 @@ workday:
     tenant: cadence
     instance: wd1
     board: External_Careers
+  - name: Cadence
+    tenant: cadence
+    instance: wd1
+    board: Univ_Careers
+  - name: Cadence
+    tenant: cadence
+    instance: wd1
+    board: University_CST
   - name: Ciena
     tenant: ciena
     instance: wd5
