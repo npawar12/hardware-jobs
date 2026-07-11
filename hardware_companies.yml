@@ -6,6 +6,8 @@
 greenhouse:
   - name: Samsung Semiconductor
     slug: samsungsemiconductor
+  - name: Samsung Research America
+    slug: samsungresearchamericainternship
   - name: Astera Labs
     slug: asteralabs
   - name: Lattice Semiconductor
