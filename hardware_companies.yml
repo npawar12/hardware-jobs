@@ -58,6 +58,8 @@ ashby:
     slug: openai
   - name: d-Matrix
     slug: d-Matrix
+  - name: Etched
+    slug: etched
 
 lever:
   - name: Zoox
