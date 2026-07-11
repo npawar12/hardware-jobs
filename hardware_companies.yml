@@ -14,6 +14,8 @@ greenhouse:
     slug: indiesemiconductor
   - name: Tenstorrent
     slug: tenstorrent
+  - name: Tenstorrent
+    slug: tenstorrentuniversity
   - name: Ventana Micro Systems
     slug: ventana
   - name: Lightmatter
