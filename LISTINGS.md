@@ -170,18 +170,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 | AMD | Hardware Design Engineer | Jul 11 |
 | Google | Silicon Physical Design Engineer | Jul 11 |
 | Meta | Silicon Physical Design Engineer | Jul 11 |
-| Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 11 |
-| Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 11 |
-| Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 11 |
 | Arm | IP Verification Engineer | Jul 11 |
-| Amazon / Annapurna Labs | ASIC Design Engineer I, Satellite Communications | Jul 10 |
-| Amazon / Annapurna Labs | ASIC Design Verification Engineer, Amazon Leo | Jul 10 |
-| Amazon / Annapurna Labs | ASIC Engineer, Project Leo | Jul 10 |
-| Amazon / Annapurna Labs | ASIC Design Verification Engineer, Amazon Leo | Jul 10 |
-| Amazon / Annapurna Labs | Chip Design Student, Chip Design Student | Jul 10 |
-| Amazon / Annapurna Labs | ASIC Design Verification Engineer, Amazon Leo | Jul 10 |
-| Amazon / Annapurna Labs | Sr. Physical Design Verification Engineer, Annapurna Labs | Jul 10 |
-| Amazon / Annapurna Labs | MLA IP Design Verification Engineer, Annapurna Labs | Jul 10 |
 | AMD | SoC Verification Engineer – NoC / UVM | Jul 10 |
 | AMD | RTL Tools & Methodology Engineer | Jul 10 |
 | AMD | CPU Core RTL Design Engineer | Jul 10 |
