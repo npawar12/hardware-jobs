@@ -139,6 +139,14 @@ workday:
     tenant: cadence
     instance: wd1
     board: University_CST
+  - name: Cadence
+    tenant: cadence
+    instance: wd1
+    board: University_Talent
+  - name: Cadence
+    tenant: cadence
+    instance: wd1
+    board: University_Talent_Intern
   - name: Ciena
     tenant: ciena
     instance: wd5

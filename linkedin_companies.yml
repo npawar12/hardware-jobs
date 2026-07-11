@@ -22,8 +22,6 @@ companies:
     aliases: ["microsoft"]
   - name: Meta
     aliases: ["meta", "facebook"]
-  - name: Amazon / Annapurna Labs
-    aliases: ["amazon", "annapurna", "aws"]
   - name: Oracle
     aliases: ["oracle"]
   - name: IBM

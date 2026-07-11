@@ -569,6 +569,53 @@ def insert_row(content, row):
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
+AMAZON_QUERY = ('ASIC OR RTL OR "design verification" OR FPGA OR "physical design" OR '
+                'VLSI OR SoC OR "hardware development" OR "digital design" OR verilog OR '
+                '"chip design" OR silicon OR DFT')
+
+
+def scrape_amazon():
+    """Amazon's own public job API (amazon.jobs) -- free, covers every Amazon
+    entity (AWS, Annapurna Labs, Amazon Leo, Devices, ...). The JD (basic_
+    qualifications + description) is inline in the list response, so JD-parsing
+    needs no per-job fetch. Replaces the paid LinkedIn coverage for Amazon."""
+    out, offset, seen = [], 0, set()
+    while offset < 1200:
+        try:
+            r = requests.get('https://www.amazon.jobs/en/search.json',
+                             params={'base_query': AMAZON_QUERY, 'loc_query': 'united states',
+                                     'result_limit': 100, 'offset': offset},
+                             headers=HEADERS, timeout=20)
+            if r.status_code != 200:
+                print(f'  [Amazon] HTTP {r.status_code}')
+                break
+            data = r.json()
+            postings = data.get('jobs', [])
+            if not postings:
+                break
+            for j in postings:
+                title = j.get('title', '')
+                loc = j.get('location', '')
+                jid = str(j.get('id_icims') or j.get('id', ''))
+                if not jid or jid in seen:
+                    continue
+                seen.add(jid)
+                jd = (j.get('basic_qualifications', '') or '') + ' ' + (j.get('description', '') or '')
+                if is_us_location(loc) and is_relevant_hw(title, description=jd):
+                    path = j.get('job_path', '')
+                    url = f'https://www.amazon.jobs{path}' if path else f'https://www.amazon.jobs/en/jobs/{jid}'
+                    out.append(_job('Amazon', 'amazon', jid, title, loc, url))
+            total = data.get('hits', 0)
+            offset += len(postings)
+            if offset >= total or len(postings) < 100:
+                break
+            time.sleep(0.3)
+        except Exception as e:
+            print(f'  [Amazon] error: {e}')
+            break
+    return out
+
+
 def scrape_all(config):
     found = []
     for board, (scraper, field) in SCRAPERS_SLUG.items():
@@ -583,6 +630,8 @@ def scrape_all(config):
         found.extend(scrape_workday(company, entry['tenant'], entry['instance'],
                                     entry.get('board', ''), entry.get('site', 'myworkdayjobs')))
         time.sleep(0.4)
+    print('Checking Amazon (amazon.jobs)...')
+    found.extend(scrape_amazon())
     return found
 
 
