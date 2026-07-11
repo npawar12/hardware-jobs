@@ -71,16 +71,12 @@ lever:
 smartrecruiters:
   - name: Kioxia
     identifier: kioxia
-  - name: Microchip
-    identifier: microchip
   - name: Western Digital
     identifier: westerndigital
   - name: SanDisk
     identifier: sandisk
   - name: Arista Networks
     identifier: aristanetworks
-  - name: Allegro MicroSystems
-    identifier: allegro
   - name: ByteDance
     identifier: bytedance
   - name: Renesas
@@ -171,3 +167,12 @@ workday:
     tenant: kla
     instance: wd1
     board: Search
+  - name: Microchip
+    tenant: microchiphr
+    instance: wd5
+    board: External
+    site: myworkdaysite
+  - name: Allegro MicroSystems
+    tenant: allegromicro
+    instance: wd5
+    board: AllegroCareers

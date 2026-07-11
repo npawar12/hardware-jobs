@@ -264,16 +264,19 @@ def _workday_jd(cxs_base, external_path):
         return ''
 
 
-def scrape_workday(company, tenant, instance, board):
-    if board:
-        api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{board}/jobs'
+def scrape_workday(company, tenant, instance, board, site='myworkdayjobs'):
+    # Workday exposes two host styles. Default: tenant.instance.myworkdayjobs.com.
+    # The 'myworkdaysite' style is instance.myworkdaysite.com/en-US/recruiting/...
+    if site == 'myworkdaysite':
+        host = f'https://{instance}.myworkdaysite.com'
+        cxs_base = f'{host}/wday/cxs/{tenant}/{board}'
+        public_base = f'{host}/en-US/recruiting/{tenant}/{board}'
     else:
-        api_url = f'https://{tenant}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/jobs'
-    base_url = f'https://{tenant}.{instance}.myworkdayjobs.com'
-    # Public job URLs need the site/board segment in the path; the CXS
-    # externalPath omits it, so base_url + externalPath 404s. Prepend the board.
-    public_base = f'{base_url}/{board}' if board else base_url
-    cxs_base = api_url[:-len('/jobs')]   # detail endpoint base (list URL minus /jobs)
+        host = f'https://{tenant}.{instance}.myworkdayjobs.com'
+        cxs_base = f'{host}/wday/cxs/{tenant}/{board}' if board else f'{host}/wday/cxs/{tenant}'
+        # Public job URLs need the site/board segment; CXS externalPath omits it.
+        public_base = f'{host}/{board}' if board else host
+    api_url = f'{cxs_base}/jobs'
     payload = {'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''}
     headers = {**HEADERS, 'Content-Type': 'application/json', 'Accept': 'application/json'}
     out, offset, jd_fetches = [], 0, 0
@@ -577,7 +580,8 @@ def scrape_all(config):
     for entry in config.get('workday', []):
         company = entry['name']
         print(f"Checking {company} (workday/{entry['tenant']})...")
-        found.extend(scrape_workday(company, entry['tenant'], entry['instance'], entry.get('board', '')))
+        found.extend(scrape_workday(company, entry['tenant'], entry['instance'],
+                                    entry.get('board', ''), entry.get('site', 'myworkdayjobs')))
         time.sleep(0.4)
     return found
 
