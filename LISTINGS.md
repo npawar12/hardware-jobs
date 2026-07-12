@@ -8,7 +8,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 | --- | --- | --- |
 | Texas Instruments | Career Accelerator Program - Digital Design Engineer | Jul 12 |
 | Texas Instruments | Digital IC Design Engineer | Jul 12 |
-| Texas Instruments | Digital Design Verification Engineer | Jul 12 |
+| Texas Instruments | Digital Design Verification Engineer &#124; Precision ADC | Jul 12 |
 | Teledyne | IC Design Engineer | Jul 12 |
 | Cirrus Logic | Design Verification Engineer | Jul 11 |
 | Cirrus Logic | DFT Engineer (CE-64000920) | Jul 11 |

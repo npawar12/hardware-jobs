@@ -545,7 +545,12 @@ def make_row(company, role, location, jtype, url, date, age=None):
         age = _age_str(d) if d else '0d'
     apply_btn = (f'<a href="{url}">'
                  f'<img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a>')
-    return f'| {company} | {role} | {location} | {jtype} | {apply_btn} | <!--{date}-->{age} |'
+    # A literal '|' in a field would be read as a column separator (and breaks the
+    # .split('|') row parsers). Encode it as the HTML entity, which renders as '|'
+    # in GitHub tables but carries no literal pipe.
+    esc = lambda s: str(s).replace('|', '&#124;')
+    return (f'| {esc(company)} | {esc(role)} | {esc(location)} | {esc(jtype)} | '
+            f'{apply_btn} | <!--{date}-->{age} |')
 
 
 def write_listings_log(content, path='LISTINGS.md'):
