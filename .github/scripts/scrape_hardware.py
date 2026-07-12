@@ -323,6 +323,110 @@ def scrape_workday(company, tenant, instance, board, site='myworkdayjobs'):
     return out
 
 
+def _oracle_jd(session, pod, site, req_id):
+    """Fetch one Oracle Cloud Recruiting requisition's description text (the list
+    endpoint omits it) so bare titles can be experience-parsed. Reuses the cookie-
+    bearing session. Returns '' on any failure."""
+    try:
+        url = (f'https://{pod}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails'
+               f'?expand=all&onlyData=true&finder=ById;Id=%22{req_id}%22,siteNumber={site}')
+        r = session.get(url, headers={'Accept': 'application/json'}, timeout=15)
+        if r.status_code != 200:
+            return ''
+        item = (r.json().get('items') or [{}])[0]
+        html = (item.get('ExternalDescriptionStr', '') or '') + ' ' + \
+               (item.get('ExternalQualificationsStr', '') or '')
+        text = re.sub(r'<[^>]+>', ' ', html)
+        # ORC often carries the experience bar in a structured flexField (Prompt
+        # ~ 'Years', Value e.g. '3 to 5+ years') rather than the prose -- that's
+        # why a genuinely-senior req can read as a "silent" JD. Fold its lower
+        # bound into the text as an explicit clause so the YOE filter sees it.
+        for ff in (item.get('requisitionFlexFields') or []):
+            if 'year' in str(ff.get('Prompt', '')).strip().lower():
+                m = re.search(r'\d+', str(ff.get('Value', '')))
+                if m:
+                    text += f' minimum {m.group()} years experience. '
+                break
+        return text
+    except Exception:
+        return ''
+
+
+def scrape_oracle(company, host, site, site_number=None):
+    """Oracle Cloud Recruiting (ORC / Fusion HCM) career sites, e.g. Texas
+    Instruments. `host` is the pod (edbz.fa.us2.oraclecloud.com). `site` is the URL
+    path segment under /sites/ (the public jobs page + apply links); `site_number`
+    is the API siteNumber. These are USUALLY identical (TI = CX/CX), but not always:
+    Dell's path is 'careers' while its siteNumber is 'CX_1001', Oracle's is
+    'jobsearch' / 'CX_45001'. `site_number` defaults to `site` when omitted.
+
+    THE GOTCHA: hit it with a requests.Session() and load the jobs PAGE first to
+    pick up the JSESSIONID cookie, THEN call the REST API -- without the cookie it
+    soft-blocks (HTTP 200, real TotalJobsCount, but an EMPTY requisitionList).
+    Akamai Bot Manager is in front but a plain session page-load suffices; no
+    headless browser needed. Job ids are namespaced by the pod subdomain so req-id
+    collisions across tenants can't happen."""
+    snum = site_number or site
+    board = f"oracle_{host.split('.')[0]}"   # pod subdomain -> unique per tenant
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    try:
+        # 1) Prime the session cookies (JSESSIONID + site number) via the jobs page.
+        s.get(f'https://{host}/hcmUI/CandidateExperience/en/sites/{site}/jobs', timeout=20)
+    except Exception as e:
+        print(f'  [{company}] Oracle page-load error: {e}')
+        return []
+
+    out, offset, jd_fetches = [], 0, 0
+    PAGE = 200
+    while True:
+        api = (f'https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions'
+               f'?onlyData=true&expand=requisitionList.secondaryLocations'
+               f'&finder=findReqs;siteNumber={snum},facetsList=CATEGORIES,'
+               f'limit={PAGE},offset={offset},sortBy=POSTING_DATES_DESC')
+        try:
+            r = s.get(api, headers={'Accept': 'application/json'}, timeout=20)
+            if r.status_code != 200:
+                print(f'  [{company}] Oracle HTTP {r.status_code}')
+                break
+            item = (r.json().get('items') or [{}])[0]
+            reqs = item.get('requisitionList', [])
+            total = item.get('TotalJobsCount', 0)
+            if not reqs:
+                if offset == 0:
+                    # Populated total but empty list == the soft-block (cookie miss).
+                    print(f'  [{company}] Oracle: empty requisitionList (soft-block?) '
+                          f'total={total}')
+                break
+            job_url = lambda rid: (f'https://{host}/hcmUI/CandidateExperience/en/'
+                                   f'sites/{site}/job/{rid}')
+            for j in reqs:
+                title = j.get('Title', '')
+                loc = j.get('PrimaryLocation', '')
+                rid = j.get('Id', '')
+                if not is_us_location(loc) or not has_hw_keyword(title):
+                    continue
+                # Always read the JD so the classifier can apply BOTH the
+                # years-of-experience AND bachelor's-degree filters -- even an
+                # entry-signalled title ("New Grad"/"Accelerator Program") can hide
+                # a Master's/PhD-only or high-YOE requirement in the JD. Capped +
+                # throttled; if the fetch is skipped/fails, fall back to title-only.
+                jd = ''
+                if jd_fetches < 80:
+                    jd = _oracle_jd(s, host, snum, rid)
+                    jd_fetches += 1
+                    time.sleep(0.15)
+                if is_relevant_hw(title, description=jd or None):
+                    out.append(_job(company, board, rid, title, loc, job_url(rid)))
+            offset += len(reqs)
+            if offset >= total:
+                break
+        except Exception as e:
+            print(f'  [{company}] Oracle error: {e}')
+            break
+    return out
+
+
 SCRAPERS_SLUG = {
     'greenhouse': (scrape_greenhouse, 'slug'),
     'lever': (scrape_lever, 'slug'),
@@ -632,6 +736,12 @@ def scrape_all(config):
         print(f"Checking {company} (workday/{entry['tenant']})...")
         found.extend(scrape_workday(company, entry['tenant'], entry['instance'],
                                     entry.get('board', ''), entry.get('site', 'myworkdayjobs')))
+        time.sleep(0.4)
+    for entry in config.get('oracle', []):
+        company = entry['name']
+        print(f"Checking {company} (oracle/{entry['site']})...")
+        found.extend(scrape_oracle(company, entry['host'], entry['site'],
+                                   entry.get('site_number')))
         time.sleep(0.4)
     print('Checking Amazon (amazon.jobs)...')
     found.extend(scrape_amazon())

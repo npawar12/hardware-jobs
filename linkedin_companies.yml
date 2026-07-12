@@ -22,18 +22,13 @@ companies:
     aliases: ["microsoft"]
   - name: Meta
     aliases: ["meta", "facebook"]
-  - name: Oracle
-    aliases: ["oracle"]
   - name: IBM
     aliases: ["ibm"]
-  - name: Dell
-    aliases: ["dell"]
   - name: TSMC
     aliases: ["tsmc", "taiwan semiconductor"]
-  - name: Nokia
-    aliases: ["nokia"]
-  - name: Texas Instruments
-    aliases: ["texas instruments"]
+  # Texas Instruments, Oracle, Dell, Nokia (and onsemi below) moved to the free
+  # Oracle Cloud ATS (see hardware_companies.yml oracle:) 2026-07-11/12 -- dropped
+  # from the paid LinkedIn track.
   # --- Group 3: semis/EDA not found on Workday probes ---
   - name: Synopsys
     aliases: ["synopsys"]
@@ -51,8 +46,7 @@ companies:
     aliases: ["skyworks"]
   - name: Qorvo
     aliases: ["qorvo"]
-  - name: onsemi
-    aliases: ["onsemi", "on semiconductor"]
+  # onsemi moved to free Oracle Cloud ATS (hardware_companies.yml oracle:) 2026-07-12.
   - name: Keysight
     aliases: ["keysight"]
   - name: Teradyne

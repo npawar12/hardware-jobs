@@ -115,10 +115,12 @@ STRICT_ENTRY_PHRASES = [
 ]
 # Years-of-experience extractors — anchored to the word "experience" so that
 # incidental phrases like "18 years of age" are ignored. Range patterns capture
-# the lower bound.
+# the lower bound. The optional "'?" after years? catches the possessive form
+# ("6+ years' industry experience"); smart apostrophes are normalised to straight
+# ones in _min_years_experience first, so a single "'?" suffices.
 _YEARS_EXP_RX = [
-    re.compile(r'(\d+)\s*\+?\s*years?\s+(?:of\s+)?(?:[a-z][a-z\s,/&.+-]{0,45}?\s+)?experience'),
-    re.compile(r'(\d+)\s*(?:-|to|–)\s*\d+\s*years?\s+(?:of\s+)?(?:[a-z][a-z\s,/&.+-]{0,45}?\s+)?experience'),
+    re.compile(r"(\d+)\s*\+?\s*years?'?\s+(?:of\s+)?(?:[a-z][a-z\s,/&.+-]{0,45}?\s+)?experience"),
+    re.compile(r"(\d+)\s*(?:-|to|–)\s*\d+\s*years?'?\s+(?:of\s+)?(?:[a-z][a-z\s,/&.+-]{0,45}?\s+)?experience"),
     re.compile(r'minimum\s+(?:of\s+)?(\d+)\s*\+?\s*years?'),
     re.compile(r'at\s+least\s+(\d+)\s*\+?\s*years?'),
 ]
@@ -129,6 +131,8 @@ def _matches_any_regex(text, patterns):
 
 
 def _min_years_experience(text):
+    # Normalise smart apostrophes so the possessive "years'" form is detectable.
+    text = text.replace(chr(0x2019), "'").replace(chr(0x2018), "'")
     yrs = []
     for rx in _YEARS_EXP_RX:
         for m in rx.findall(text):
@@ -158,6 +162,28 @@ def jd_entry_level(description, strict=False):
     if my is not None:
         return my <= 2
     return None
+
+
+# Degree filter — we want roles a BACHELOR'S holder can apply to. Bachelor
+# detection is generous (any hint keeps the role); advanced-degree detection is
+# conservative and anchored to "degree"/"of science" so hardware phrases like
+# "bus master" or "master clock" can't be mistaken for a Master's requirement.
+_BACHELOR_RX = re.compile(r"bachelor|\bb\.?s\.?\b|\bbsee\b|\bb\.?eng\b|undergraduate")
+_ADVANCED_DEGREE_RX = re.compile(
+    r"master(?:['’]?s)?\s+degree|master['’]s\b|master\s+of\s+(?:science|engineering)"
+    r"|ph\.?\s?d|doctora|graduate\s+degree")
+
+
+def bachelor_accessible(description):
+    """True unless the JD requires an advanced degree (Master's/PhD) and never
+    mentions a bachelor's as acceptable. Silent JDs and any bachelor's mention
+    pass (so 'Bachelor's or Master's' / 'Master's preferred, BS required' stay)."""
+    if not description:
+        return True
+    d = description.lower().replace(chr(0x2019), "'")
+    if _BACHELOR_RX.search(d):
+        return True
+    return not _ADVANCED_DEGREE_RX.search(d)
 
 
 def has_hw_keyword(title):
@@ -210,9 +236,15 @@ def is_relevant_hw(title, description=None):
     if has_level:
         # Entry-level signal in the title.
         if title_hw:
+            # If we have the JD, still require it be open to a bachelor's — this
+            # drops Master's/PhD-only "new grad"/"accelerator program" reqs.
+            if description and not bachelor_accessible(description):
+                return False
             return True
         # Hardware named only in the JD (e.g. rotational "program" roles).
         if description and not other_domain:
+            if not bachelor_accessible(description):
+                return False
             d = f' {description.lower()} '
             if any(ph in d for ph in STRONG_DESC_HW):
                 return True
@@ -220,9 +252,12 @@ def is_relevant_hw(title, description=None):
 
     # No entry-level marker in the title. For a bare hardware title (e.g. plain
     # "ASIC Engineer" / "Design Verification Engineer") with a description, keep it
-    # UNLESS the JD explicitly requires experience (>=3 yrs). Silent JDs pass —
-    # roles that don't state an experience bar usually don't require one.
+    # UNLESS the JD explicitly requires experience (>=3 yrs) or a Master's/PhD.
+    # Silent JDs pass — roles that don't state an experience bar usually don't
+    # require one.
     if title_hw and not other_domain and description:
+        if not bachelor_accessible(description):
+            return False
         if is_experienced:
             # Soft reject: an "Experienced ..." title only survives on an explicit
             # entry phrase in the JD (a silent JD is NOT enough here).
@@ -309,6 +344,20 @@ if __name__ == '__main__':
          'Develop FPGA designs for low-latency trading systems. Verilog/VHDL.', True),   # bare + silent -> pass
         ('FPGA Engineer',
          'Requires 5+ years of FPGA design experience.', False),                 # bare + experienced -> reject
+        ('FPGA Design Engineer',
+         "Essential requirements: 6+ years" + chr(0x2019) + " industry experience in FPGA design.", False),  # possessive smart-quote years -> reject
+        ('Network Hardware Engineer',
+         "Build networking hardware. minimum 3 years experience.", False),      # structured-years fold (ORC flexField) -> reject
+        ('Design Verification Engineer',
+         "Minimum requirements: Masters degree in Electrical Engineering.", False),  # Master's-only -> not bachelor-accessible
+        ('RTL Design Engineer',
+         "PIC design role. Ph.D in Electrical Engineering, Photonics required.", False),  # PhD-only -> reject
+        ('Digital Design Engineer, Early Career',
+         "Minimum requirements: Masters degree in Computer Engineering.", False),   # entry title but Master's-only -> reject
+        ('Digital Design Engineer, Early Career',
+         "Bachelor's degree in EE required; Master's preferred. Design RTL.", True),  # bachelor accepted -> keep
+        ('ASIC Design Engineer',
+         "Work as bus master arbiter and master clock designer. BS in EE.", True),  # 'master' as hw term, BS present -> keep
         ('ASIC Model Engineer',
          'Build SystemC/C++ models. Bachelor in EE/CE.', True),                  # bare + silent -> pass
         ('RFIC Design Engineer',

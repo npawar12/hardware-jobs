@@ -86,6 +86,34 @@ smartrecruiters:
   - name: Renesas
     identifier: RenesasElectronics
 
+# Oracle Cloud Recruiting (ORC / Fusion HCM). host = the real oraclecloud.com pod
+# (from the CandidateExperience URL, NOT a vanity domain like careers.ti.com).
+# site = the URL path segment from /sites/<site>/jobs. site_number = the API
+# siteNumber (in the recruitingCEJobRequisitions request's finder=...;siteNumber=).
+# They're usually identical (TI = CX/CX) so site_number is optional and defaults
+# to site -- but some sites differ (Dell path 'careers' -> siteNumber 'CX_1001';
+# Oracle 'jobsearch' -> 'CX_45001'), so set site_number explicitly there. Session-
+# cookie trick handled in scrape_oracle. The pod host is a stable per-tenant address
+# (only changes if Oracle migrates the tenant); it fails loudly, not silently.
+oracle:
+  - name: Texas Instruments
+    host: edbz.fa.us2.oraclecloud.com
+    site: CX
+  - name: Dell
+    host: iawmqy.fa.ocs.oraclecloud.com
+    site: careers
+    site_number: CX_1001
+  - name: Nokia
+    host: fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com
+    site: CX_1
+  - name: Oracle
+    host: eeho.fa.us2.oraclecloud.com
+    site: jobsearch
+    site_number: CX_45001
+  - name: onsemi
+    host: hctz.fa.us2.oraclecloud.com
+    site: CX_1001
+
 workday:
   - name: NVIDIA
     tenant: nvidia
