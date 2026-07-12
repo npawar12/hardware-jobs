@@ -241,6 +241,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Integration RTL Design Engineer | Jul 12 |
+| AMD | CPU Core Physical Design Engineer | Jul 12 |
+| Synopsys | Validation/Verification Engineer - Computer Science Focus (Exton, PA) - 13924 | Jul 12 |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Jul 12 |
 | AMD | Senior AI Cluster Hardware Engineer | Jul 11 |
 | AMD | Senior RTL Design Engineer – DDR/LPDDR Memory Controller | Jul 11 |
 | AMD | Silicon Design - Lab Engineer | Jul 11 |

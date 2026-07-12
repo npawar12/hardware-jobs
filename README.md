@@ -257,6 +257,10 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Integration RTL Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/79382?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
+| ↳ | CPU Core Physical Design Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/84371?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
+| Synopsys | Validation/Verification Engineer - Computer Science Focus (Exton, PA) - 13924 | Exton, PA | Early Career | <a href="https://careers.synopsys.com/job/-/-/44408/90323179024"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Portland, TX | Early Career | <a href="https://jobs.siemens.com/externaljobs/JobDetail/502385?source=LinkedIn&sourceType=PREMIUM_POST_SITE"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
 | AMD | Senior AI Cluster Hardware Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/87292?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->1d |
 | ↳ | Senior RTL Design Engineer – DDR/LPDDR Memory Controller | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/87643?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->1d |
 | ↳ | Silicon Design - Lab Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->1d |
