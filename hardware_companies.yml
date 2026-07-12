@@ -67,6 +67,8 @@ lever:
     slug: zoox
   - name: Belvedere Trading
     slug: belvederetrading
+  - name: Cirrus Logic
+    slug: cirrus
 
 smartrecruiters:
   - name: Kioxia

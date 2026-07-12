@@ -140,12 +140,16 @@ def scrape_greenhouse(company, slug):
 
 
 def scrape_lever(company, slug):
-    url = f'https://api.lever.co/v0/postings/{slug}?mode=json'
-    try:
-        r = requests.get(url, timeout=10, headers=HEADERS)
-        if r.status_code != 200:
-            print(f'  [{company}] Lever HTTP {r.status_code}')
+    # Lever has US (api.lever.co) and EU (api.eu.lever.co) hosts. Try US first,
+    # fall back to EU (e.g. Cirrus Logic's board lives on the EU instance).
+    for host in ('api.lever.co', 'api.eu.lever.co'):
+        try:
+            r = requests.get(f'https://{host}/v0/postings/{slug}?mode=json', timeout=10, headers=HEADERS)
+        except Exception as e:
+            print(f'  [{company}] Lever error: {e}')
             return []
+        if r.status_code != 200:
+            continue
         out = []
         for j in r.json():
             title = j.get('text', '')
@@ -155,9 +159,8 @@ def scrape_lever(company, slug):
                 out.append(_job(company, f'lever_{slug}', j['id'], title, loc,
                                 j.get('hostedUrl', '')))
         return out
-    except Exception as e:
-        print(f'  [{company}] Lever error: {e}')
-        return []
+    print(f'  [{company}] Lever: slug not found on US or EU host')
+    return []
 
 
 def scrape_ashby(company, slug):

@@ -67,8 +67,6 @@ companies:
     aliases: ["maxlinear"]
   - name: MACOM
     aliases: ["macom"]
-  - name: Cirrus Logic
-    aliases: ["cirrus logic"]
   - name: Mobileye
     aliases: ["mobileye"]
   - name: Synaptics
