@@ -18,6 +18,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Texas Instruments | Career Accelerator Program - Digital Design Engineer | Tucson, AZ, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
+| ↳ | Digital IC Design Engineer | Dallas, TX, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011443"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
+| ↳ | Digital Design Verification Engineer | Precision ADC | Tucson, AZ, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010922"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
 | Teledyne | IC Design Engineer | US - Chestnut Ridge, NY | Early Career | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/IC-Design-Engineer_REQ35494-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 12-->0d |
 | Cirrus Logic | Design Verification Engineer | Austin, Texas | Early Career | <a href="https://jobs.eu.lever.co/cirrus/af8b7796-ec71-47de-8bf6-f638420b939e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->1d |
 | ↳ | DFT Engineer (CE-64000920) | Austin, Texas | Early Career | <a href="https://jobs.eu.lever.co/cirrus/3d64de67-a614-418a-8830-7273ba2dc2ae"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->1d |
