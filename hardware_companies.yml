@@ -48,6 +48,8 @@ greenhouse:
     slug: akunacapital
   - name: SK hynix
     slug: skhynixamerica
+  - name: Ambiq
+    slug: ambiqmicroinc
 
 ashby:
   - name: Cerebras
@@ -186,3 +188,7 @@ workday:
     tenant: allegromicro
     instance: wd5
     board: AllegroCareers
+  - name: Teledyne
+    tenant: flir
+    instance: wd1
+    board: flircareers

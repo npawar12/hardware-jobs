@@ -79,8 +79,6 @@ companies:
     aliases: ["lam research"]
   - name: Applied Materials
     aliases: ["applied materials"]
-  - name: Teledyne
-    aliases: ["teledyne"]
   - name: Credo
     aliases: ["credo semiconductor", "credo technology"]
   - name: Alphawave Semi
@@ -89,8 +87,6 @@ companies:
     aliases: ["achronix"]
   - name: pSemi
     aliases: ["psemi"]
-  - name: Ambiq
-    aliases: ["ambiq"]
   - name: Monolithic Power (MPS)
     aliases: ["monolithic power"]
   - name: Siemens EDA
