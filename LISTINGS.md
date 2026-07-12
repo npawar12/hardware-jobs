@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Teledyne | IC Design Engineer | Jul 12 |
 | Cirrus Logic | Design Verification Engineer | Jul 11 |
 | Cirrus Logic | DFT Engineer (CE-64000920) | Jul 11 |
 | Cirrus Logic | Digital Design Engineer | Jul 11 |
