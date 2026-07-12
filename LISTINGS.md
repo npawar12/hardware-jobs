@@ -6,6 +6,16 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cirrus Logic | Design Verification Engineer | Jul 11 |
+| Cirrus Logic | DFT Engineer (CE-64000920) | Jul 11 |
+| Cirrus Logic | Digital Design Engineer | Jul 11 |
+| Cirrus Logic | Fall 2026 Co-Op - Design Verification Engineer | Jul 11 |
+| Cirrus Logic | Fall 2026 Co-Op - Digital Design Engineer | Jul 11 |
+| Cirrus Logic | Physical Design Engineer (AS-64000921) | Jul 11 |
+| Cirrus Logic | Senior Design Verification Engineer | Jul 11 |
+| Cirrus Logic | Senior Design Verification Engineer (BO - 01) | Jul 11 |
+| Cirrus Logic | Senior Digital Design Engineer | Jul 11 |
+| Cirrus Logic | Senior Formal Verification Engineer (CH-64001149) | Jul 11 |
 | Amazon | Sr. Physical Design Verification Engineer, Annapurna Labs | Jul 11 |
 | Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | Jul 11 |
 | Amazon | ASIC Design Verification Engineer, Amazon Leo | Jul 11 |

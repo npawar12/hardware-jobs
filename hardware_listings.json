@@ -1942,5 +1942,95 @@
     "url": "https://www.amazon.jobs/en/jobs/10381615/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators",
     "board": "amazon",
     "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Design Verification Engineer",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/af8b7796-ec71-47de-8bf6-f638420b939e",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "DFT Engineer (CE-64000920)",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/3d64de67-a614-418a-8830-7273ba2dc2ae",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Digital Design Engineer",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/e392cbc9-0291-4330-b963-5a61defd43f3",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Fall 2026 Co-Op - Design Verification Engineer",
+    "location": "Austin, Texas",
+    "type": "Co-op",
+    "url": "https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Fall 2026 Co-Op - Digital Design Engineer",
+    "location": "Austin, Texas",
+    "type": "Co-op",
+    "url": "https://jobs.eu.lever.co/cirrus/bd8fd5e3-0fba-435a-810c-4487a776485f",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Physical Design Engineer (AS-64000921)",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/22c6c7bc-0160-4fa2-ab33-acbca3cfb16a",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Senior Design Verification Engineer",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/8b8cec23-a6b9-4c65-9922-18c054a10a2b",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Senior Design Verification Engineer (BO - 01)",
+    "location": "Chandler, Arizona",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/b445eca7-de7a-4b61-952c-fc9f6bcfbe6c",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Senior Digital Design Engineer",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/5863b069-012f-4520-a4d7-7181e73bb506",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Senior Formal Verification Engineer (CH-64001149)",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/37d8ca48-3156-422f-ad6a-183e8f67d2f0",
+    "board": "lever_cirrus",
+    "date_added": "2026-07-11"
   }
 ]
