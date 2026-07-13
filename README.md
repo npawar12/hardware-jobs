@@ -18,6 +18,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cadence | DFT Design Engineer | AUSTIN | Early Career | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/DFT-Design-Engineer_R55131"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
+| ↳ | DFT Design Engineer | AUSTIN | Early Career | <a href="https://cadence.wd1.myworkdayjobs.com/University_CST/job/AUSTIN/DFT-Design-Engineer_R55131-2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
+| Amazon | Hardware Development Engineer, Design Engineering, Sort & Ultrafast Engineering | US, WA, Bellevue | Early Career | <a href="https://www.amazon.jobs/en/jobs/10473104/hardware-development-engineer-design-engineering-sort-ultrafast-engineering"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
 | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL  | Summer 2027 Intern | <a href="https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
 | DRW | FPGA Developer | Chicago | Early Career | <a href="https://job-boards.greenhouse.io/drweng/jobs/8039110"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
 | ↳ | FPGA Intern | Chicago | Summer 2027 Intern | <a href="https://job-boards.greenhouse.io/drweng/jobs/8038923"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |

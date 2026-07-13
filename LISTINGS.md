@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cadence | DFT Design Engineer | Jul 13 |
+| Cadence | DFT Design Engineer | Jul 13 |
+| Amazon | Hardware Development Engineer, Design Engineering, Sort & Ultrafast Engineering | Jul 13 |
 | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Jul 13 |
 | DRW | FPGA Developer | Jul 13 |
 | DRW | FPGA Intern | Jul 13 |
