@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior DFT Engineer | Jul 13 |
 | NVIDIA | Senior DFT Power Methodology Engineer | Jul 13 |
 | NXP | Digital Physical Design (P&R) Intern | Jul 13 |
 | Cadence | DFT Design Engineer | Jul 13 |
