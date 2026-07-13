@@ -6,6 +6,13 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| DRW | FPGA Developer | Jul 13 |
+| DRW | FPGA Intern | Jul 13 |
+| NVIDIA | Senior ASIC Verification Engineer - GPU | Jul 13 |
+| Cisco | ASIC Design Verification Engineer | Jul 13 |
+| Cisco | ASIC Design Verification Emulation Engineer | Jul 13 |
+| Cisco | ASIC Design Verification Engineer | Jul 13 |
+| Ciena | Senior Hardware Design Engineer | Jul 13 |
 | Texas Instruments | Career Accelerator Program - Digital Design Engineer | Jul 12 |
 | Texas Instruments | Digital IC Design Engineer | Jul 12 |
 | Texas Instruments | Digital Design Verification Engineer &#124; Precision ADC | Jul 12 |

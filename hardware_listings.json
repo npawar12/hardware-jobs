@@ -2068,5 +2068,68 @@
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010922",
     "board": "oracle_edbz",
     "date_added": "2026-07-12"
+  },
+  {
+    "company": "DRW",
+    "role": "FPGA Developer",
+    "location": "Chicago",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/8039110",
+    "board": "greenhouse_drweng",
+    "date_added": "2026-07-13"
+  },
+  {
+    "company": "DRW",
+    "role": "FPGA Intern",
+    "location": "Chicago",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+    "board": "greenhouse_drweng",
+    "date_added": "2026-07-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Verification Engineer - GPU",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR1996427",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-13"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Verification Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2006886",
+    "board": "workday_cisco",
+    "date_added": "2026-07-13"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Verification Emulation Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Emulation-Engineer_2006884",
+    "board": "workday_cisco",
+    "date_added": "2026-07-13"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Verification Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2006883-1",
+    "board": "workday_cisco",
+    "date_added": "2026-07-13"
+  },
+  {
+    "company": "Ciena",
+    "role": "Senior Hardware Design Engineer",
+    "location": "Atlanta",
+    "type": "Early Career",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Senior-Hardware-Design-Engineer_R031319",
+    "board": "workday_ciena",
+    "date_added": "2026-07-13"
   }
 ]
