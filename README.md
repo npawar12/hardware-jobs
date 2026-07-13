@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL  | Summer 2027 Intern | <a href="https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
 | DRW | FPGA Developer | Chicago | Early Career | <a href="https://job-boards.greenhouse.io/drweng/jobs/8039110"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
 | ↳ | FPGA Intern | Chicago | Summer 2027 Intern | <a href="https://job-boards.greenhouse.io/drweng/jobs/8038923"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
 | NVIDIA | Senior ASIC Verification Engineer - GPU | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR1996427"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->0d |
