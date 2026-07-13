@@ -2167,5 +2167,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10473104/hardware-development-engineer-design-engineering-sort-ultrafast-engineering",
     "board": "amazon",
     "date_added": "2026-07-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Power Methodology Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Power-Methodology-Engineer_JR2021098-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-13"
+  },
+  {
+    "company": "NXP",
+    "role": "Digital Physical Design (P&R) Intern",
+    "location": "Chandler (Office)",
+    "type": "Summer 2027 Intern",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673",
+    "board": "workday_nxp",
+    "date_added": "2026-07-13"
   }
 ]
