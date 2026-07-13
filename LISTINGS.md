@@ -241,6 +241,22 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | ASIC Design STA Engineer | Jul 13 |
+| AMD | SerDes RTL Design Engineer | Jul 13 |
+| AMD | System Hardware Development & Validation Engineer | Jul 13 |
+| AMD | Post-Silicon Full-Chip Validation Engineer | Jul 13 |
+| Google | Senior Wafer Test Hardware Engineer, Raxium | Jul 13 |
+| Google | ASIC Design Verification Engineer, Google Cloud | Jul 13 |
+| Google | TPU RTL Design Engineer, Cloud | Jul 13 |
+| Meta | ASIC Engineer, Architecture | Jul 13 |
+| Meta | ASIC Engineer, Architecture | Jul 13 |
+| Synopsys | ASIC Digital Design Engineer-17369 | Jul 13 |
+| Teradyne | Senior FPGA Engineer (Teradyne, North Reading, MA) | Jul 13 |
+| Teradyne | Hardware Engineer / PCB (Teradyne, North Reading, MA) | Jul 13 |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Jul 13 |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Jul 13 |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Jul 13 |
+| Siemens EDA | Product Engineer – AI-Driven Analog Chip Design - Santa Clara* | Jul 13 |
 | AMD | Integration RTL Design Engineer | Jul 12 |
 | AMD | CPU Core Physical Design Engineer | Jul 12 |
 | Synopsys | Validation/Verification Engineer - Computer Science Focus (Exton, PA) - 13924 | Jul 12 |
