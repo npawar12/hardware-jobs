@@ -493,5 +493,50 @@
     "url": "https://jobs.siemens.com/externaljobs/JobDetail/513292?source=LinkedIn&sourceType=PREMIUM_POST_SITE",
     "board": "linkedin",
     "date_added": "2026-07-13"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon Design Verification Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "",
+    "board": "linkedin",
+    "date_added": "2026-07-14"
+  },
+  {
+    "company": "AMD",
+    "role": "FPGA Product Application Engineer",
+    "location": "Longmont, CO",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/87618?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-14"
+  },
+  {
+    "company": "Siemens EDA",
+    "role": "Senior DFT Consultant (Tessent)",
+    "location": "Los Angeles, CA",
+    "type": "Early Career",
+    "url": "https://jobs.siemens.com/externaljobs/JobDetail/502385?source=LinkedIn&sourceType=PREMIUM_POST_SITE",
+    "board": "linkedin",
+    "date_added": "2026-07-14"
+  },
+  {
+    "company": "Siemens EDA",
+    "role": "Senior DFT Consultant (Tessent)",
+    "location": "Fremont, CA",
+    "type": "Early Career",
+    "url": "https://jobs.siemens.com/externaljobs/JobDetail/502385?source=LinkedIn&sourceType=PREMIUM_POST_SITE",
+    "board": "linkedin",
+    "date_added": "2026-07-14"
+  },
+  {
+    "company": "TetraMem",
+    "role": "US 2026 Hardware - Digital Intern",
+    "location": "San Jose, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://tetramem.clearcompany.com/careers/jobs/6e0366f9-460f-0ce8-5e12-11e93d13b466/apply?source=3404228-JB-1018",
+    "board": "linkedin",
+    "date_added": "2026-07-14"
   }
 ]

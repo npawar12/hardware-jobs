@@ -255,6 +255,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Silicon Design Verification Engineer | Jul 14 |
+| AMD | FPGA Product Application Engineer | Jul 14 |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Jul 14 |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Jul 14 |
+| TetraMem | US 2026 Hardware - Digital Intern | Jul 14 |
 | AMD | ASIC Design STA Engineer | Jul 13 |
 | AMD | SerDes RTL Design Engineer | Jul 13 |
 | AMD | System Hardware Development & Validation Engineer | Jul 13 |

@@ -271,6 +271,11 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Silicon Design Verification Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 14-->0d |
+| ↳ | FPGA Product Application Engineer | Longmont, CO | Early Career | <a href="https://careers.amd.com/jobs/87618?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 14-->0d |
+| Siemens EDA | Senior DFT Consultant (Tessent) | Los Angeles, CA | Early Career | <a href="https://jobs.siemens.com/externaljobs/JobDetail/502385?source=LinkedIn&sourceType=PREMIUM_POST_SITE"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 14-->0d |
+| ↳ | Senior DFT Consultant (Tessent) | Fremont, CA | Early Career | <a href="https://jobs.siemens.com/externaljobs/JobDetail/502385?source=LinkedIn&sourceType=PREMIUM_POST_SITE"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 14-->0d |
+| TetraMem | US 2026 Hardware - Digital Intern | San Jose, CA | Summer 2027 Intern | <a href="https://tetramem.clearcompany.com/careers/jobs/6e0366f9-460f-0ce8-5e12-11e93d13b466/apply?source=3404228-JB-1018"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 14-->0d |
 | AMD | ASIC Design STA Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/84781?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->1d |
 | ↳ | SerDes RTL Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/80750?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->1d |
 | ↳ | System Hardware Development & Validation Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86747?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 13-->1d |
