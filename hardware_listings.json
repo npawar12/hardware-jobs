@@ -2275,5 +2275,23 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Timing-Engineer--DFT_JR2014685",
     "board": "workday_nvidia",
     "date_added": "2026-07-15"
+  },
+  {
+    "company": "Intel",
+    "role": "CPU Pre-Silicon Verification Engineer",
+    "location": "US, California, Folsom",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Pre-Silicon-Verification-Engineer_JR0285652",
+    "board": "workday_intel",
+    "date_added": "2026-07-15"
+  },
+  {
+    "company": "Altera",
+    "role": "Design Verification Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Design-Verification-Engineer_R02807",
+    "board": "workday_altera",
+    "date_added": "2026-07-15"
   }
 ]
