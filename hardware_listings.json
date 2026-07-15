@@ -2248,5 +2248,32 @@
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Digital-Design-Engineer_R263750",
     "board": "workday_analogdevices",
     "date_added": "2026-07-15"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Design Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer_JR1983620",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-15"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Design Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer_JR2015189-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-15"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Timing Engineer, DFT",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Timing-Engineer--DFT_JR2014685",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-15"
   }
 ]
