@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | Physical IC Design Engineer | Jul 15 |
 | Marvell | Digital IC Design Engineer - Early Career | Jul 14 |
 | Analog Devices | Senior AMS Verification Engineer | Jul 14 |
 | NVIDIA | Senior DFT Engineer | Jul 13 |
