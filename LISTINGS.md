@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Pre Silicon Verification Engineer | Jul 15 |
+| Intel | Pre Silicon Verification Engineer | Jul 15 |
+| Analog Devices | Senior Engineer, Digital Design Engineer | Jul 15 |
 | Broadcom | Physical IC Design Engineer | Jul 15 |
 | Marvell | Digital IC Design Engineer - Early Career | Jul 14 |
 | Analog Devices | Senior AMS Verification Engineer | Jul 14 |
