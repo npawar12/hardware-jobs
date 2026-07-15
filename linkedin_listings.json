@@ -538,5 +538,50 @@
     "url": "https://tetramem.clearcompany.com/careers/jobs/6e0366f9-460f-0ce8-5e12-11e93d13b466/apply?source=3404228-JB-1018",
     "board": "linkedin",
     "date_added": "2026-07-14"
+  },
+  {
+    "company": "AMD",
+    "role": "Design Verification Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86121?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-15"
+  },
+  {
+    "company": "AMD",
+    "role": "Senior SoC Power Modeling Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/84933?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-15"
+  },
+  {
+    "company": "AMD",
+    "role": "Post-Silicon Validation Engineer",
+    "location": "Fort Collins, CO",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/87637?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-15"
+  },
+  {
+    "company": "Google",
+    "role": "Design Verification Engineer, TPU Cloud Compute",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/131330438437184198-design-verification-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-15"
+  },
+  {
+    "company": "Teradyne",
+    "role": "Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA)",
+    "location": "Agoura Hills, CA",
+    "type": "New Grad",
+    "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Hardware-Verification-Engineer%2C-New-College-Graduate%2C-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1408698300/?utm_source=LINKEDIN&utm_medium=referrer",
+    "board": "linkedin",
+    "date_added": "2026-07-15"
   }
 ]

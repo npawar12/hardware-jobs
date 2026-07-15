@@ -258,6 +258,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Design Verification Engineer | Jul 15 |
+| AMD | Senior SoC Power Modeling Engineer | Jul 15 |
+| AMD | Post-Silicon Validation Engineer | Jul 15 |
+| Google | Design Verification Engineer, TPU Cloud Compute | Jul 15 |
+| Teradyne | Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) | Jul 15 |
 | AMD | Silicon Design Verification Engineer | Jul 14 |
 | AMD | FPGA Product Application Engineer | Jul 14 |
 | Siemens EDA | Senior DFT Consultant (Tessent) | Jul 14 |
