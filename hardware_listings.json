@@ -2356,5 +2356,50 @@
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Analog-Designer_REQ26880",
     "board": "workday_flir",
     "date_added": "2026-07-16"
+  },
+  {
+    "company": "Western Digital",
+    "role": "Fall 2026 PhD Intern - Hardware Development Engineering",
+    "location": "Fremont, CA",
+    "type": "Fall 2026 Intern",
+    "url": "https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000138191379",
+    "board": "smartrecruiters_westerndigital",
+    "date_added": "2026-07-16"
+  },
+  {
+    "company": "Cisco",
+    "role": "Hardware Engineer I (Full Time) - United States SCO/S&L ETR",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States-SCO-S-L-ETR_2020073",
+    "board": "workday_cisco",
+    "date_added": "2026-07-16"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Hardware Engineer - SDC/STA (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Hardware-Engineer---SDC-STA--Hybrid-_2020053",
+    "board": "workday_cisco",
+    "date_added": "2026-07-16"
+  },
+  {
+    "company": "Cisco",
+    "role": "Signal/Power Integrity Hardware Engineer (Onsite)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Signal-Power-Integrity-Hardware-Engineer--Onsite-_2020092",
+    "board": "workday_cisco",
+    "date_added": "2026-07-16"
+  },
+  {
+    "company": "Intel",
+    "role": "Senior Design Verification Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Senior-Design-Verification-Engineer_JR0284688",
+    "board": "workday_intel",
+    "date_added": "2026-07-16"
   }
 ]

@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Western Digital | Fall 2026 PhD Intern - Hardware Development Engineering | Jul 16 |
+| Cisco | Hardware Engineer I (Full Time) - United States SCO/S&L ETR | Jul 16 |
+| Cisco | ASIC Design Hardware Engineer - SDC/STA (Hybrid) | Jul 16 |
+| Cisco | Signal/Power Integrity Hardware Engineer (Onsite) | Jul 16 |
+| Intel | Senior Design Verification Engineer | Jul 16 |
 | Intel | Senior Pre-Silicon Verification Engineer | Jul 16 |
 | Broadcom | ASIC Implementation Engineer PD | Jul 16 |
 | Broadcom | ASIC Implementation Engineer STA | Jul 16 |
