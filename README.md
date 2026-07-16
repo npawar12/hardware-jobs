@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | Junior Physical Design Engineer (CPU) | US, Oregon, Hillsboro | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Junior-Physical-Design-Engineer--CPU-_JR0285742"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
 | Western Digital | Fall 2026 PhD Intern - Hardware Development Engineering | Fremont, CA | Fall 2026 Intern | <a href="https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000138191379"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
 | Cisco | Hardware Engineer I (Full Time) - United States SCO/S&L ETR | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States-SCO-S-L-ETR_2020073"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
 | ↳ | ASIC Design Hardware Engineer - SDC/STA (Hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Hardware-Engineer---SDC-STA--Hybrid-_2020053"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
