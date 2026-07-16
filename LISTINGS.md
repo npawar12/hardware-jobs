@@ -269,6 +269,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Core Physical Design Engineer | Jul 16 |
+| AMD | Cores Silicon Validation Engineer | Jul 16 |
+| AMD | Sr. Silicon Design Engineer | Jul 16 |
+| AMD | Product Planning Engineer-ASIC/SoC | Jul 16 |
+| AMD | SOC Silicon Design Engineer | Jul 16 |
+| Two Sigma | Two Sigma Securities, Hardware Engineer | Jul 16 |
 | AMD | Design Verification Engineer | Jul 15 |
 | AMD | Senior SoC Power Modeling Engineer | Jul 15 |
 | AMD | Post-Silicon Validation Engineer | Jul 15 |

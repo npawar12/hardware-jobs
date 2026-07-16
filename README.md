@@ -285,6 +285,12 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | CPU Core Physical Design Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/88550?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
+| ↳ | Cores Silicon Validation Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/88568?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
+| ↳ | Sr. Silicon Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/87614?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
+| ↳ | Product Planning Engineer-ASIC/SoC | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/84773?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
+| ↳ | SOC Silicon Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/86221?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
+| Two Sigma | Two Sigma Securities, Hardware Engineer | New York, United States | Early Career | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Two-Sigma-Securities-Hardware-Engineer/13090?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->0d |
 | AMD | Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86121?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 15-->1d |
 | ↳ | Senior SoC Power Modeling Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/84933?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 15-->1d |
 | ↳ | Post-Silicon Validation Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/87637?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 15-->1d |
