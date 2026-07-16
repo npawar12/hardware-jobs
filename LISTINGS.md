@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Senior Pre-Silicon Verification Engineer | Jul 16 |
+| Broadcom | ASIC Implementation Engineer PD | Jul 16 |
+| Broadcom | ASIC Implementation Engineer STA | Jul 16 |
+| Teledyne | Analog  Mixed -Signal IC Designer | Jul 16 |
 | MatX | Design Verification Engineer | Jul 15 |
 | NVIDIA | Physical Design Methodology and Operations Engineer - New College Grad 2026 | Jul 15 |
 | NVIDIA | Senior ASIC Verification Engineer | Jul 15 |
