@@ -296,6 +296,11 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Cores Post Silicon Validation, Operations Engineer | Folsom, CA | Early Career | <a href="https://careers.amd.com/jobs/86634?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 17-->0d |
+| ↳ | Firmware Engineer - Boot & SoC Initialization | Folsom, CA | Early Career | <a href="https://careers.amd.com/jobs/87500?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 17-->0d |
+| Microsoft | Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556937343?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 17-->0d |
+| IBM | Cybersecurity Analyst - SOC | Austin, TX | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122799&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 17-->0d |
+| ↳ | Cybersecurity Analyst - SOC | Dallas, TX | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122799&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 17-->0d |
 | AMD | CPU Core Physical Design Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/88550?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->1d |
 | ↳ | Cores Silicon Validation Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/88568?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->1d |
 | ↳ | Sr. Silicon Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/87614?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->1d |

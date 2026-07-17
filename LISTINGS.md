@@ -280,6 +280,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Cores Post Silicon Validation, Operations Engineer | Jul 17 |
+| AMD | Firmware Engineer - Boot & SoC Initialization | Jul 17 |
+| Microsoft | Design Verification Engineer | Jul 17 |
+| IBM | Cybersecurity Analyst - SOC | Jul 17 |
+| IBM | Cybersecurity Analyst - SOC | Jul 17 |
 | AMD | CPU Core Physical Design Engineer | Jul 16 |
 | AMD | Cores Silicon Validation Engineer | Jul 16 |
 | AMD | Sr. Silicon Design Engineer | Jul 16 |
