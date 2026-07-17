@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | ASIC Design Engineer - New College Grad 2026 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 17-->0d |
 | Intel | Mixed Signal Design Verification Engineer | US, Oregon, Hillsboro | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mixed-Signal-Design-Verification-Engineer_JR0285739"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->1d |
 | Intel | Junior Physical Design Engineer (CPU) | US, Oregon, Hillsboro | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Junior-Physical-Design-Engineer--CPU-_JR0285742"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->1d |
 | Western Digital | Fall 2026 PhD Intern - Hardware Development Engineering | Fremont, CA | Fall 2026 Intern | <a href="https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000138191379"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 16-->1d |
