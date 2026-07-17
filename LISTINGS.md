@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Mixed Signal Design Verification Engineer | Jul 16 |
 | Intel | Junior Physical Design Engineer (CPU) | Jul 16 |
 | Western Digital | Fall 2026 PhD Intern - Hardware Development Engineering | Jul 16 |
 | Cisco | Hardware Engineer I (Full Time) - United States SCO/S&L ETR | Jul 16 |
