@@ -682,5 +682,68 @@
     "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122799&src=SN_LinkedIn",
     "board": "linkedin",
     "date_added": "2026-07-17"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon Design Verification Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "",
+    "board": "linkedin",
+    "date_added": "2026-07-18"
+  },
+  {
+    "company": "AMD",
+    "role": "CPU Core High Performance Physical Design Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/78926?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-18"
+  },
+  {
+    "company": "AMD",
+    "role": "ASIC Design Verification Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/79768?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-18"
+  },
+  {
+    "company": "AMD",
+    "role": "ASIC/SoC Design Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/79406?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-18"
+  },
+  {
+    "company": "AMD",
+    "role": "RTL / Circuit IP Design Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/87103?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-18"
+  },
+  {
+    "company": "Google",
+    "role": "IP DFT Engineer",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/85256275553592006-ip-dft-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-18"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Silicon Engineer",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556938201?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-18"
   }
 ]

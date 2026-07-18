@@ -281,6 +281,13 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Silicon Design Verification Engineer | Jul 18 |
+| AMD | CPU Core High Performance Physical Design Engineer | Jul 18 |
+| AMD | ASIC Design Verification Engineer | Jul 18 |
+| AMD | ASIC/SoC Design Engineer | Jul 18 |
+| AMD | RTL / Circuit IP Design Engineer | Jul 18 |
+| Google | IP DFT Engineer | Jul 18 |
+| Microsoft | Silicon Engineer | Jul 18 |
 | AMD | Cores Post Silicon Validation, Operations Engineer | Jul 17 |
 | AMD | Firmware Engineer - Boot & SoC Initialization | Jul 17 |
 | Microsoft | Design Verification Engineer | Jul 17 |
