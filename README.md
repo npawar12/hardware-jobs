@@ -297,6 +297,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | ASIC/SoC Design Engineer, RTL design for SoC IPs | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/79405?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 19-->0d |
 | AMD | Silicon Design Verification Engineer | San Jose, CA | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 18-->1d |
 | ↳ | CPU Core High Performance Physical Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/78926?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 18-->1d |
 | ↳ | ASIC Design Verification Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/79768?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 18-->1d |

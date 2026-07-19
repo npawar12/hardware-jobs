@@ -281,6 +281,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | ASIC/SoC Design Engineer, RTL design for SoC IPs | Jul 19 |
 | AMD | Silicon Design Verification Engineer | Jul 18 |
 | AMD | CPU Core High Performance Physical Design Engineer | Jul 18 |
 | AMD | ASIC Design Verification Engineer | Jul 18 |
