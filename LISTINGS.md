@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Lightmatter | Electro-Optic Link Hardware Engineer | Jul 20 |
 | NVIDIA | ASIC Design Engineer - New College Grad 2026 | Jul 17 |
 | Intel | Mixed Signal Design Verification Engineer | Jul 16 |
 | Intel | Junior Physical Design Engineer (CPU) | Jul 16 |
