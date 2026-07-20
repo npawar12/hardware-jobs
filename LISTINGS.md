@@ -281,6 +281,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Core Design Verification Engineer | Jul 20 |
+| AMD | Design Verification Engineer | Jul 20 |
+| AMD | Sr. Rack Integration & Hardware Engineer | Jul 20 |
+| Microsoft | Fabric Interconnect Design Verification Engineer | Jul 20 |
+| IBM | Cybersecurity Analyst - SOC | Jul 20 |
+| IBM | Cybersecurity Analyst - SOC | Jul 20 |
 | AMD | ASIC/SoC Design Engineer, RTL design for SoC IPs | Jul 19 |
 | AMD | Silicon Design Verification Engineer | Jul 18 |
 | AMD | CPU Core High Performance Physical Design Engineer | Jul 18 |

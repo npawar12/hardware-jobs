@@ -754,5 +754,59 @@
     "url": "https://careers.amd.com/jobs/79405?lang=en-us&iis=Job+Board&iisn=Linkedin",
     "board": "linkedin",
     "date_added": "2026-07-19"
+  },
+  {
+    "company": "AMD",
+    "role": "CPU Core Design Verification Engineer",
+    "location": "Boxborough, MA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/76495?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-20"
+  },
+  {
+    "company": "AMD",
+    "role": "Design Verification Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/87434?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-20"
+  },
+  {
+    "company": "AMD",
+    "role": "Sr. Rack Integration & Hardware Engineer",
+    "location": "Secaucus, NJ",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/87291?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-20"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Fabric Interconnect Design Verification Engineer",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556752653?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-20"
+  },
+  {
+    "company": "IBM",
+    "role": "Cybersecurity Analyst - SOC",
+    "location": "Dallas, TX",
+    "type": "Early Career",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122795&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-20"
+  },
+  {
+    "company": "IBM",
+    "role": "Cybersecurity Analyst - SOC",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122795&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-20"
   }
 ]

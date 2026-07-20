@@ -297,6 +297,12 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | CPU Core Design Verification Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/76495?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 20-->0d |
+| ↳ | Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/87434?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 20-->0d |
+| ↳ | Sr. Rack Integration & Hardware Engineer | Secaucus, NJ | Early Career | <a href="https://careers.amd.com/jobs/87291?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 20-->0d |
+| Microsoft | Fabric Interconnect Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556752653?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 20-->0d |
+| IBM | Cybersecurity Analyst - SOC | Dallas, TX | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122795&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 20-->0d |
+| ↳ | Cybersecurity Analyst - SOC | Austin, TX | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122795&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 20-->0d |
 | AMD | ASIC/SoC Design Engineer, RTL design for SoC IPs | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/79405?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 19-->1d |
 | AMD | Silicon Design Verification Engineer | San Jose, CA | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 18-->2d |
 | ↳ | CPU Core High Performance Physical Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/78926?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 18-->2d |
