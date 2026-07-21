@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Senior Hardware Engineer - SoC Electrical Failure Analysis (Hybrid) | Jul 21 |
+| Intel | DFT Implementation Engineer | Jul 21 |
+| Cadence | Mixed Signal Systems and Verification Engineer I | Jul 21 |
+| Amazon | Post-Silicon Systems Validation Engineer I, Annapurna Labs | Jul 21 |
+| Amazon | Post-Silicon Systems Validation Engineer I, Annapurna Labs | Jul 21 |
 | NVIDIA | Senior DFT Engineer | Jul 21 |
 | Altera | FPGA Development Tools Engineer | Jul 21 |
 | Amazon | Software Development Engineer, AWS Hardware Engineering | Jul 21 |
