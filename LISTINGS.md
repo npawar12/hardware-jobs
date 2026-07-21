@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | FPGA Development Tools Engineer | Jul 21 |
+| Amazon | Software Development Engineer, AWS Hardware Engineering | Jul 21 |
 | Optiver | FPGA Engineer Intern (Summer 2027 - Austin) | Jul 21 |
 | Optiver | FPGA Engineer Intern (Summer 2027 - Chicago) | Jul 21 |
 | Optiver | Graduate FPGA Engineer (2027 Start - Austin) | Jul 21 |

@@ -2500,5 +2500,23 @@
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Hardware-Design-Engineer_REQ35860-1",
     "board": "workday_flir",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R02854",
+    "board": "workday_altera",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer, AWS Hardware Engineering",
+    "location": "US, WA, Seattle",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10446941/software-development-engineer-aws-hardware-engineering",
+    "board": "amazon",
+    "date_added": "2026-07-21"
   }
 ]
