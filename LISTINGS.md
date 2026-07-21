@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Optiver | FPGA Engineer Intern (Summer 2027 - Austin) | Jul 21 |
+| Optiver | FPGA Engineer Intern (Summer 2027 - Chicago) | Jul 21 |
+| Optiver | Graduate FPGA Engineer (2027 Start - Austin) | Jul 21 |
+| Optiver | Graduate FPGA Engineer (2027 Start - Chicago) | Jul 21 |
+| Teledyne | Hardware Design Engineer | Jul 21 |
 | NVIDIA | Senior Formal Verification Engineer | Jul 20 |
 | Micron | ASIC Design Verification Engineer | Jul 20 |
 | Lightmatter | Electro-Optic Link Hardware Engineer | Jul 20 |

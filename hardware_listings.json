@@ -2455,5 +2455,50 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Formal-Verification-Engineer_JR2019948",
     "board": "workday_nvidia",
     "date_added": "2026-07-20"
+  },
+  {
+    "company": "Optiver",
+    "role": "FPGA Engineer Intern (Summer 2027 - Austin)",
+    "location": "Austin, Texas, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+    "board": "greenhouse_optiverus",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Optiver",
+    "role": "FPGA Engineer Intern (Summer 2027 - Chicago)",
+    "location": "Chicago, Illinois, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
+    "board": "greenhouse_optiverus",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Optiver",
+    "role": "Graduate FPGA Engineer (2027 Start - Austin)",
+    "location": "Austin, Texas, United States",
+    "type": "New Grad",
+    "url": "https://www.optiver.com/join-us/jobs/8402081002/?gh_jid=8402081002",
+    "board": "greenhouse_optiverus",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Optiver",
+    "role": "Graduate FPGA Engineer (2027 Start - Chicago)",
+    "location": "Chicago, Illinois, United States",
+    "type": "New Grad",
+    "url": "https://www.optiver.com/join-us/jobs/8402079002/?gh_jid=8402079002",
+    "board": "greenhouse_optiverus",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Teledyne",
+    "role": "Hardware Design Engineer",
+    "location": "US - Chestnut Ridge, NY",
+    "type": "Early Career",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Hardware-Design-Engineer_REQ35860-1",
+    "board": "workday_flir",
+    "date_added": "2026-07-21"
   }
 ]
