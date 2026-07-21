@@ -2518,5 +2518,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10446941/software-development-engineer-aws-hardware-engineering",
     "board": "amazon",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2017657",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-21"
   }
 ]

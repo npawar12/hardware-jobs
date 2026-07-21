@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | Senior DFT Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2017657"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
 | Altera | FPGA Development Tools Engineer | Toronto, Ontario, Canada | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R02854"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
 | Amazon | Software Development Engineer, AWS Hardware Engineering | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10446941/software-development-engineer-aws-hardware-engineering"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
 | Optiver | FPGA Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | Summer 2027 Intern | <a href="https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
