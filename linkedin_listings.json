@@ -808,5 +808,77 @@
     "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=122795&src=SN_LinkedIn",
     "board": "linkedin",
     "date_added": "2026-07-20"
+  },
+  {
+    "company": "AMD",
+    "role": "SR Design Verification Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86270?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "AMD",
+    "role": "Senior Microprocessor VLSI Physical Design Engineer",
+    "location": "Fort Collins, CO",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86907?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Google",
+    "role": "Senior ASIC Power Delivery Engineer",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/137868783116001990-senior-asic-power-delivery-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Google",
+    "role": "TPU SoC Design Engineer, Google Cloud",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/94872216629322438-tpu-soc-design-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Google",
+    "role": "Silicon Validation Engineer, HBM, Google Cloud",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/107321643193246406-silicon-validation-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Meta",
+    "role": "ASIC Engineer, Architecture",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp000000BBnBMAW_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1508340500461438%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D95e6bf60-8479-11f1-b18e-fbf95c79df36%26rx_job%3Da1KDp000000BBnBMAW_1001%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "Meta",
+    "role": "ASIC Engineer, Architecture",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp000000BBnBMAW&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1508340500461438%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D95e6b1b3-8479-11f1-809e-fbf95c79df36%26rx_job%3Da1KDp000000BBnBMAW%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
+  },
+  {
+    "company": "NetApp",
+    "role": "Hardware Engineer Intern",
+    "location": "Wichita, KS",
+    "type": "Summer 2027 Intern",
+    "url": "https://dsp.prng.co/bZd9zGb?target=linkedin&utm_source=linkedin&jobPipeline=LinkedInJobPostings",
+    "board": "linkedin",
+    "date_added": "2026-07-21"
   }
 ]

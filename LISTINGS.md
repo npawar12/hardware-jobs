@@ -284,6 +284,14 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SR Design Verification Engineer | Jul 21 |
+| AMD | Senior Microprocessor VLSI Physical Design Engineer | Jul 21 |
+| Google | Senior ASIC Power Delivery Engineer | Jul 21 |
+| Google | TPU SoC Design Engineer, Google Cloud | Jul 21 |
+| Google | Silicon Validation Engineer, HBM, Google Cloud | Jul 21 |
+| Meta | ASIC Engineer, Architecture | Jul 21 |
+| Meta | ASIC Engineer, Architecture | Jul 21 |
+| NetApp | Hardware Engineer Intern | Jul 21 |
 | AMD | CPU Core Design Verification Engineer | Jul 20 |
 | AMD | Design Verification Engineer | Jul 20 |
 | AMD | Sr. Rack Integration & Hardware Engineer | Jul 20 |
