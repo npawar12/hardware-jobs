@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | RTL Power Optimization Engineer – New College Grad 2026 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
 | Cisco | Senior Hardware Engineer - SoC Electrical Failure Analysis (Hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-Hardware-Engineer---SoC-Electrical-Failure-Analysis--Hybrid-_2016887"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
 | Intel | DFT Implementation Engineer | US, Texas, Austin | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DFT-Implementation-Engineer_JR0285490"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
 | Cadence | Mixed Signal Systems and Verification Engineer I | MOUNT-ROYAL (Montreal) | Early Career | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Mixed-Signal-Systems-and-Verification-Engineer-II_R54499"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->0d |
