@@ -2662,5 +2662,23 @@
     "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-Analog-Hardware-Design-Engineer--onsite-Kanata_R031320",
     "board": "workday_ciena",
     "date_added": "2026-07-22"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Physical Design and Timing Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "Amazon",
+    "role": "Satellite Hardware Design Engineer, Amazon Leo",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10481948/satellite-hardware-design-engineer-amazon-leo",
+    "board": "amazon",
+    "date_added": "2026-07-22"
   }
 ]

@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | ASIC Physical Design and Timing Engineer - New College Grad 2026 | Jul 22 |
+| Amazon | Satellite Hardware Design Engineer, Amazon Leo | Jul 22 |
 | MatX | Senior SoC Power Analysis & Optimization Engineer | Jul 22 |
 | Ciena | Senior Analog Hardware Design Engineer, onsite Kanata | Jul 22 |
 | NVIDIA | SOC Design Engineer, ASIC Tools and Methodology Development | Jul 22 |

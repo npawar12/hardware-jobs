@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | ASIC Physical Design and Timing Engineer - New College Grad 2026 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
+| Amazon | Satellite Hardware Design Engineer, Amazon Leo | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10481948/satellite-hardware-design-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
 | MatX | Senior SoC Power Analysis & Optimization Engineer | Mountain View, CA | Early Career | <a href="https://job-boards.greenhouse.io/matx/jobs/5367877008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
 | Ciena | Senior Analog Hardware Design Engineer, onsite Kanata | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-Analog-Hardware-Design-Engineer--onsite-Kanata_R031320"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
 | NVIDIA | SOC Design Engineer, ASIC Tools and Methodology Development | US, TX, Austin | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer--Hardware-Tools-and-Methodology-Development_JR2008177"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
