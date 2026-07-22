@@ -2608,5 +2608,41 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-CPU-Physical-Design-Engineer_JR0285658",
     "board": "workday_intel",
     "date_added": "2026-07-22"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "SOC Design Engineer, ASIC Tools and Methodology Development",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer--Hardware-Tools-and-Methodology-Development_JR2008177",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Verification Engineer",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer_JR2015873",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Verification Engineer",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-ASIC-Verification-Engineer---Global-IP_JR2006265-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Design Engineer - Hardware",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR2019840",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-22"
   }
 ]

@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | SOC Design Engineer, ASIC Tools and Methodology Development | Jul 22 |
+| NVIDIA | ASIC Verification Engineer | Jul 22 |
+| NVIDIA | Senior ASIC Verification Engineer | Jul 22 |
+| NVIDIA | ASIC Design Engineer - Hardware | Jul 22 |
 | Intel | Senior CPU Physical Design Engineer | Jul 22 |
 | Broadcom | Physical Design Engineer | Jul 21 |
 | Broadcom | Physical Design Engineer | Jul 21 |
