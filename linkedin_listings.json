@@ -880,5 +880,95 @@
     "url": "https://dsp.prng.co/bZd9zGb?target=linkedin&utm_source=linkedin&jobPipeline=LinkedInJobPostings",
     "board": "linkedin",
     "date_added": "2026-07-21"
+  },
+  {
+    "company": "AMD",
+    "role": "RTL Power Reduction Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/85981?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "AMD",
+    "role": "SR ASIC Design Engineer - NoC & AXI Interconnect",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86178?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon IP Design Management Solution Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/88738?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "AMD",
+    "role": "SR ASIC Design Engineer - Ethernet Switch & High-Speed I/O",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86177?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "Google",
+    "role": "Silicon Engineer- P and D- (gCPU), Design Verification (multiple openings)",
+    "location": "Mountain View, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/97988079037358790-silicon-engineer-p-and-d/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "Google",
+    "role": "Hardware Engineer",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/86652938788709062-hardware-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "Google",
+    "role": "TPU RTL Design Engineer",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/143699638233244358-tpu-rtl-design-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "Google",
+    "role": "Platforms and Devices Senior Silicon Engineer - SoC Validation (multiple openings)",
+    "location": "Mountain View, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/116172901849146054-platforms-and-devices-senior-silicon-engineer-soc-validation/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "Meta",
+    "role": "Silicon Engineer, EDA Infrastructure",
+    "location": "Menlo Park, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp000000BC71MAG_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1994667041166969%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D349368f2-8521-11f1-8562-f56f74abd41e%26rx_job%3Da1KDp000000BC71MAG_1001%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
+  },
+  {
+    "company": "Meta",
+    "role": "Silicon Engineer, EDA Infrastructure",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp000000BC71MAG&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1994667041166969%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D3493556b-8521-11f1-b61d-f56f74abd41e%26rx_job%3Da1KDp000000BC71MAG%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-07-22"
   }
 ]

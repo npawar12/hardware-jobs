@@ -300,6 +300,16 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | RTL Power Reduction Engineer | Jul 22 |
+| AMD | SR ASIC Design Engineer - NoC & AXI Interconnect | Jul 22 |
+| AMD | Silicon IP Design Management Solution Engineer | Jul 22 |
+| AMD | SR ASIC Design Engineer - Ethernet Switch & High-Speed I/O | Jul 22 |
+| Google | Silicon Engineer- P and D- (gCPU), Design Verification (multiple openings) | Jul 22 |
+| Google | Hardware Engineer | Jul 22 |
+| Google | TPU RTL Design Engineer | Jul 22 |
+| Google | Platforms and Devices Senior Silicon Engineer - SoC Validation (multiple openings) | Jul 22 |
+| Meta | Silicon Engineer, EDA Infrastructure | Jul 22 |
+| Meta | Silicon Engineer, EDA Infrastructure | Jul 22 |
 | AMD | SR Design Verification Engineer | Jul 21 |
 | AMD | Senior Microprocessor VLSI Physical Design Engineer | Jul 21 |
 | Google | Senior ASIC Power Delivery Engineer | Jul 21 |
