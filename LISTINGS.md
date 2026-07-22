@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Senior CPU Physical Design Engineer | Jul 22 |
 | Broadcom | Physical Design Engineer | Jul 21 |
 | Broadcom | Physical Design Engineer | Jul 21 |
 | NVIDIA | RTL Power Optimization Engineer – New College Grad 2026 | Jul 21 |

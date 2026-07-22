@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | Senior CPU Physical Design Engineer | US, Texas, Austin | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-CPU-Physical-Design-Engineer_JR0285658"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
 | Broadcom | Physical Design Engineer | USA-Colorado-Colorado Springs-4420 Arrowswest Drive | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Physical-Design-Engineer_R026585"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->1d |
 | ↳ | Physical Design Engineer | USA-Colorado-Colorado Springs-4420 Arrowswest Drive | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Physical-Design-Engineer_R026586"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->1d |
 | NVIDIA | RTL Power Optimization Engineer – New College Grad 2026 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 21-->1d |
