@@ -2725,5 +2725,59 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Core-Logic-Designer_JR0285852",
     "board": "workday_intel",
     "date_added": "2026-07-23"
+  },
+  {
+    "company": "Pure Storage",
+    "role": "PCIe Hardware Engineer, Systems",
+    "location": "Santa Clara, California",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/7985259",
+    "board": "greenhouse_purestorage",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "Cisco",
+    "role": "SR ASIC Design Verification Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/SR-ASIC-Design-Verification-Engineer_2006759",
+    "board": "workday_cisco",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "Intel",
+    "role": "IP Design Verification Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/IP-Design-Verification-Engineer_JR0285858",
+    "board": "workday_intel",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "Amazon",
+    "role": "FPGA Verification Engineer, Bespoke Solutions",
+    "location": "US, VA, Arlington",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10482749/fpga-verification-engineer-bespoke-solutions",
+    "board": "amazon",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "Amazon",
+    "role": "Electrical Hardware Development Engineer , Bespoke Solutions ",
+    "location": "US, VA, Arlington",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10482735/electrical-hardware-development-engineer-bespoke-solutions",
+    "board": "amazon",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, AI/ML Server Development",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development",
+    "board": "amazon",
+    "date_added": "2026-07-23"
   }
 ]
