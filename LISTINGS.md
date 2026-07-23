@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ciena | Senior Hardware Engineer, Power Design, onsite Kanata | Jul 23 |
 | Pure Storage | PCIe Hardware Engineer, Systems | Jul 23 |
 | Cisco | SR ASIC Design Verification Engineer | Jul 23 |
 | Intel | IP Design Verification Engineer | Jul 23 |
