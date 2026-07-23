@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Broadcom | Design Verification Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Design-Verification-Engineer_R026294"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
 | NVIDIA | ASIC Physical Design and Timing Engineer - New College Grad 2026 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
 | Amazon | Satellite Hardware Design Engineer, Amazon Leo | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10481948/satellite-hardware-design-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
 | MatX | Senior SoC Power Analysis & Optimization Engineer | Mountain View, CA | Early Career | <a href="https://job-boards.greenhouse.io/matx/jobs/5367877008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->0d |
