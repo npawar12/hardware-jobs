@@ -327,6 +327,10 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | CPU Core Design Verification Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/79771?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
+| ↳ | SoC Physical Integration Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/87084?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
+| ↳ | RTL/Logic Design Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86655?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
+| Teradyne | Hardware Engineer | San Jose, CA | Early Career | <a href="https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Engineer-CA-95101/1411763600/?utm_source=LINKEDIN&utm_medium=referrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
 | AMD | RTL Power Reduction Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/85981?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->1d |
 | ↳ | SR ASIC Design Engineer - NoC & AXI Interconnect | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86178?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->1d |
 | ↳ | Silicon IP Design Management Solution Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/88738?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->1d |

@@ -311,6 +311,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Core Design Verification Engineer | Jul 23 |
+| AMD | SoC Physical Integration Engineer | Jul 23 |
+| AMD | RTL/Logic Design Engineer | Jul 23 |
+| Teradyne | Hardware Engineer | Jul 23 |
 | AMD | RTL Power Reduction Engineer | Jul 22 |
 | AMD | SR ASIC Design Engineer - NoC & AXI Interconnect | Jul 22 |
 | AMD | Silicon IP Design Management Solution Engineer | Jul 22 |

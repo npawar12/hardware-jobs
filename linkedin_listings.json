@@ -970,5 +970,41 @@
     "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp000000BC71MAG&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1994667041166969%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D3493556b-8521-11f1-b61d-f56f74abd41e%26rx_job%3Da1KDp000000BC71MAG%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
     "board": "linkedin",
     "date_added": "2026-07-22"
+  },
+  {
+    "company": "AMD",
+    "role": "CPU Core Design Verification Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/79771?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "AMD",
+    "role": "SoC Physical Integration Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/87084?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "AMD",
+    "role": "RTL/Logic Design Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86655?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-23"
+  },
+  {
+    "company": "Teradyne",
+    "role": "Hardware Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Engineer-CA-95101/1411763600/?utm_source=LINKEDIN&utm_medium=referrer",
+    "board": "linkedin",
+    "date_added": "2026-07-23"
   }
 ]
