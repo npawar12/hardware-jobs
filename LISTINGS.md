@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Software Engineer, Physical Design Infrastructure - New College Grad 2026 | Jul 23 |
 | NVIDIA | Senior Verification Engineer | Jul 23 |
 | Broadcom | Design Verification Engineer | Jul 22 |
 | NVIDIA | ASIC Physical Design and Timing Engineer - New College Grad 2026 | Jul 22 |
