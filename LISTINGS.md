@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | CPU Core Pre-Si Validation/Verification Engineer | Jul 23 |
+| Intel | CPU Core Logic Designer | Jul 23 |
 | NVIDIA | Software Engineer, Physical Design Infrastructure - New College Grad 2026 | Jul 23 |
 | NVIDIA | Senior Verification Engineer | Jul 23 |
 | Broadcom | Design Verification Engineer | Jul 22 |
