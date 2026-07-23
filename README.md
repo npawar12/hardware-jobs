@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Ciena | Digital Verification Engineer - FEC - New Grad | Ottawa | New Grad | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Digital-Verification-Engineer---FEC---New-Grad_R031269"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
 | Ciena | Senior Hardware Engineer, Power Design, onsite Kanata | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-Hardware-Engineer--Power-Design--onsite-Kanata_R031228"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
 | Pure Storage | PCIe Hardware Engineer, Systems | Santa Clara, California | Early Career | <a href="https://job-boards.greenhouse.io/purestorage/jobs/7985259"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
 | Cisco | SR ASIC Design Verification Engineer | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/SR-ASIC-Design-Verification-Engineer_2006759"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
