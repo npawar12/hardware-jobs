@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Engineering Lab IT and Automation Hardware Engineer (Onsite) | Jul 24 |
+| Cisco | Electro-Optical Interconnect Packaging Development Hardware Engineer (Onsite) | Jul 24 |
 | Cisco | Physical Design Engineer | Jul 24 |
 | NVIDIA | Senior Developer Technology Engineer - Agentic SoC Performance | Jul 24 |
 | NVIDIA | Senior SOC Design Engineer | Jul 24 |
