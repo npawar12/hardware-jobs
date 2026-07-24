@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Physical Design Engineer | Jul 24 |
 | NVIDIA | Senior Developer Technology Engineer - Agentic SoC Performance | Jul 24 |
 | NVIDIA | Senior SOC Design Engineer | Jul 24 |
 | NVIDIA | GPU Verification Engineer - New College Grad 2026 | Jul 24 |
