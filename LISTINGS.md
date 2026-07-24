@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cadence | Senior Distributed Systems Engineer - EDA/VLSI Platform | Jul 23 |
 | Ciena | Digital Verification Engineer - FEC - New Grad | Jul 23 |
 | Ciena | Senior Hardware Engineer, Power Design, onsite Kanata | Jul 23 |
 | Pure Storage | PCIe Hardware Engineer, Systems | Jul 23 |

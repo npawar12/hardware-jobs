@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cadence | Senior Distributed Systems Engineer - EDA/VLSI Platform | SAN JOSE | Early Career | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Senior-Distributed-Systems-Engineer---EDA-VLSI-Platform_R53147"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
 | Ciena | Digital Verification Engineer - FEC - New Grad | Ottawa | New Grad | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Digital-Verification-Engineer---FEC---New-Grad_R031269"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
 | Ciena | Senior Hardware Engineer, Power Design, onsite Kanata | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-Hardware-Engineer--Power-Design--onsite-Kanata_R031228"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
 | Pure Storage | PCIe Hardware Engineer, Systems | Santa Clara, California | Early Career | <a href="https://job-boards.greenhouse.io/purestorage/jobs/7985259"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->0d |
