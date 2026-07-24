@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior Developer Technology Engineer - Agentic SoC Performance | Jul 24 |
+| NVIDIA | Senior SOC Design Engineer | Jul 24 |
+| NVIDIA | GPU Verification Engineer - New College Grad 2026 | Jul 24 |
+| NVIDIA | Senior Memory Controller Verification Engineer | Jul 24 |
+| NVIDIA | Senior Memory Controller Verification Engineer | Jul 24 |
 | NVIDIA | Senior Cell Modeling and Verification Engineer | Jul 24 |
 | Intel | SoC Power and Performance Engineer | Jul 24 |
 | Jane Street | Hardware Engineer | Jul 24 |
