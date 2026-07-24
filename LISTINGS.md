@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | SoC Power and Performance Engineer | Jul 24 |
 | Jane Street | Hardware Engineer | Jul 24 |
 | Cisco | Hardware Engineer (Remote) | Jul 24 |
 | Cadence | Senior Distributed Systems Engineer - EDA/VLSI Platform | Jul 23 |

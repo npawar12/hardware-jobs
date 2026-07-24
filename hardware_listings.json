@@ -2824,5 +2824,14 @@
     "url": "https://job-boards.greenhouse.io/janestreet/jobs/8646893002",
     "board": "greenhouse_janestreet",
     "date_added": "2026-07-24"
+  },
+  {
+    "company": "Intel",
+    "role": "SoC Power and Performance Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Power-and-Performance-Engineer_JR0281255",
+    "board": "workday_intel",
+    "date_added": "2026-07-24"
   }
 ]
