@@ -324,6 +324,15 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr. Design Verification Engineer | Jul 24 |
+| AMD | Sr. Silicon Design Engineer: Hardware-Software Co-Design | Jul 24 |
+| Google | RTL Design and Integration Engineer | Jul 24 |
+| Microsoft | Senior Fabric Design Verification Engineer | Jul 24 |
+| Microsoft | Senior PCIe Bridge Design Verification Engineer | Jul 24 |
+| Arm | Senior IP Verification Engineer | Jul 24 |
+| Infineon | Post-Silicon Validation - Senior Engineer | Jul 24 |
+| MediaTek | IP DFT Engineer | Jul 24 |
+| Citadel Securities | FPGA Engineer | Jul 24 |
 | AMD | CPU Core Design Verification Engineer | Jul 23 |
 | AMD | SoC Physical Integration Engineer | Jul 23 |
 | AMD | RTL/Logic Design Engineer | Jul 23 |

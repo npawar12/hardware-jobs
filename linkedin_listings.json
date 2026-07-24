@@ -1006,5 +1006,86 @@
     "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Engineer-CA-95101/1411763600/?utm_source=LINKEDIN&utm_medium=referrer",
     "board": "linkedin",
     "date_added": "2026-07-23"
+  },
+  {
+    "company": "AMD",
+    "role": "Sr. Design Verification Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/87386?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "AMD",
+    "role": "Sr. Silicon Design Engineer: Hardware-Software Co-Design",
+    "location": "Bellevue, WA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/80662?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "Google",
+    "role": "RTL Design and Integration Engineer",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/91632461594665670-rtl-design-and-integration-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Senior Fabric Design Verification Engineer",
+    "location": "Hillsboro, OR",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556941620?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Senior PCIe Bridge Design Verification Engineer",
+    "location": "Redmond, WA",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556941609?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior IP Verification Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/senior-ip-verification-engineer/33099/98200817968",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "Infineon",
+    "role": "Post-Silicon Validation - Senior Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://jobs.infineon.com/careers/job/563808971128421?utm_source=linkedin&domain=infineon.com#!source=400",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "MediaTek",
+    "role": "IP DFT Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
+  },
+  {
+    "company": "Citadel Securities",
+    "role": "FPGA Engineer",
+    "location": "New York, NY",
+    "type": "Early Career",
+    "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer/",
+    "board": "linkedin",
+    "date_added": "2026-07-24"
   }
 ]
