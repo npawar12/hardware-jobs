@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior Cell Modeling and Verification Engineer | Jul 24 |
 | Intel | SoC Power and Performance Engineer | Jul 24 |
 | Jane Street | Hardware Engineer | Jul 24 |
 | Cisco | Hardware Engineer (Remote) | Jul 24 |
