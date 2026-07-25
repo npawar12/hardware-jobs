@@ -336,6 +336,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr Verification Engineer-Memory Subsystem | Jul 25 |
+| AMD | Logic Design Engineer | Jul 25 |
+| Teradyne | Hardware Verification Engineer | Jul 25 |
+| Siemens EDA | Product Engineer - Tessent Design for Test (DFT) | Jul 25 |
 | AMD | Sr. Design Verification Engineer | Jul 24 |
 | AMD | Sr. Silicon Design Engineer: Hardware-Software Co-Design | Jul 24 |
 | Google | RTL Design and Integration Engineer | Jul 24 |
