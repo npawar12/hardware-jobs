@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Satellite Hardware Engineer, Bus Structures | Jul 24 |
 | Cisco | Engineering Lab IT and Automation Hardware Engineer (Onsite) | Jul 24 |
 | Cisco | Electro-Optical Interconnect Packaging Development Hardware Engineer (Onsite) | Jul 24 |
 | Cisco | Physical Design Engineer | Jul 24 |
