@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Sr. Engineer, Silicon Validation , Annapurna Labs | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10484162/sr-engineer-silicon-validation-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 26-->0d |
 | Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10483959/satellite-hardware-engineer-bus-structures"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 24-->2d |
 | Cisco | Engineering Lab IT and Automation Hardware Engineer (Onsite) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Lab-IT-and-Automation-Hardware-Engineer--Onsite-_2020778-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 24-->2d |
 | ↳ | Electro-Optical Interconnect Packaging Development Hardware Engineer (Onsite) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Electro-Optical-Interconnect-Packaging-Development-Hardware-Engineer--Onsite-_2020775"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 24-->2d |
