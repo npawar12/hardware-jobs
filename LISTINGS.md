@@ -336,6 +336,14 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | DFT Design Engineer | Jul 26 |
+| AMD | Verification Engineer | Jul 26 |
+| Microsoft | Silicon Engineer | Jul 26 |
+| Microsoft | Senior PCIe IP Design Verification Engineer | Jul 26 |
+| Meta | ASIC Implementation Engineer - Static Verification | Jul 26 |
+| Meta | ASIC Implementation Engineer - Static Verification | Jul 26 |
+| Meta | Hardware Engineer, Accelerator Design | Jul 26 |
+| Synopsys | Hardware Verification Engineer, Entry Level | Jul 26 |
 | AMD | Sr Verification Engineer-Memory Subsystem | Jul 25 |
 | AMD | Logic Design Engineer | Jul 25 |
 | Teradyne | Hardware Verification Engineer | Jul 25 |

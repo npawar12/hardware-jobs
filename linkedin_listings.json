@@ -1123,5 +1123,77 @@
     "url": "https://jobs.siemens.com/externaljobs/JobDetail/486699?source=LinkedIn&sourceType=PREMIUM_POST_SITE",
     "board": "linkedin",
     "date_added": "2026-07-25"
+  },
+  {
+    "company": "AMD",
+    "role": "DFT Design Engineer",
+    "location": "Boxborough, MA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/77429?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "AMD",
+    "role": "Verification Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Silicon Engineer",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556938201?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Senior PCIe IP Design Verification Engineer",
+    "location": "Hillsboro, OR",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556942146?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "Meta",
+    "role": "ASIC Implementation Engineer - Static Verification",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE00000007zBUAQ&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F2233593477484075%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3Dbb60863d-87bf-11f1-ab65-ada11a7ed86d%26rx_job%3Da1KiE00000007zBUAQ%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "Meta",
+    "role": "ASIC Implementation Engineer - Static Verification",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE00000007zBUAQ_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F2233593477484075%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3Dbb609bc4-87bf-11f1-a055-ada11a7ed86d%26rx_job%3Da1KiE00000007zBUAQ_1001%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "Meta",
+    "role": "Hardware Engineer, Accelerator Design",
+    "location": "Menlo Park, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE00000002Y5UAI&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1716153689434820%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3Dbb5f46f7-87bf-11f1-bf2d-ada11a7ed86d%26rx_job%3Da1KiE00000002Y5UAI%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
+  },
+  {
+    "company": "Synopsys",
+    "role": "Hardware Verification Engineer, Entry Level",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.synopsys.com/job/-/-/44408/97260616544",
+    "board": "linkedin",
+    "date_added": "2026-07-26"
   }
 ]
