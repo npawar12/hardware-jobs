@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Sr. Physical Design Engineer, Annapurna Labs | Jul 27 |
 | Lightmatter | Sr. Design for Test (DFT) Engineer | Jul 27 |
 | Amazon | Sr. Engineer, Silicon Validation , Annapurna Labs | Jul 26 |
 | Amazon | Satellite Hardware Engineer, Bus Structures | Jul 24 |
