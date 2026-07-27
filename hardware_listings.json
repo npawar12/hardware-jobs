@@ -2950,5 +2950,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10485342/sr-physical-design-engineer-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-07-27"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Senior Integrated Circuit Wafer Probe Hardware Design & Validation Engineer (Probe Specialist)",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Senior-Integrated-Circuit-Wafer-Probe-Hardware-Design---Validation-Engineer--Probe-Specialist-_R026664",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-27"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Senior Hardware Engineer",
+    "location": "Ottawa March Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Ottawa-March-Road/Senior-Hardware-Engineer_R026660",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-27"
+  },
+  {
+    "company": "Teledyne",
+    "role": "Senior Electrical Engineer \u2013 Digital Hardware & FPGA Design",
+    "location": "US - Wilsonville, OR",
+    "type": "Early Career",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Senior-Electrical-Engineer---Digital-Hardware---FPGA-Design_REQ34629",
+    "board": "workday_flir",
+    "date_added": "2026-07-27"
   }
 ]

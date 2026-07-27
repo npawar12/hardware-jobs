@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | Senior Integrated Circuit Wafer Probe Hardware Design & Validation Engineer (Probe Specialist) | Jul 27 |
+| Broadcom | Senior Hardware Engineer | Jul 27 |
+| Teledyne | Senior Electrical Engineer – Digital Hardware & FPGA Design | Jul 27 |
 | Amazon | Sr. Physical Design Engineer, Annapurna Labs | Jul 27 |
 | Lightmatter | Sr. Design for Test (DFT) Engineer | Jul 27 |
 | Amazon | Sr. Engineer, Silicon Validation , Annapurna Labs | Jul 26 |
