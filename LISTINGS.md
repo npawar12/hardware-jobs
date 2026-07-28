@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior VLSI Library Methodology Engineer | Jul 27 |
+| NVIDIA | Senior ASIC Design Engineer | Jul 27 |
+| NVIDIA | Senior ASIC Design Verification Engineer | Jul 27 |
 | Broadcom | Senior Integrated Circuit Wafer Probe Hardware Design & Validation Engineer (Probe Specialist) | Jul 27 |
 | Broadcom | Senior Hardware Engineer | Jul 27 |
 | Teledyne | Senior Electrical Engineer – Digital Hardware & FPGA Design | Jul 27 |
