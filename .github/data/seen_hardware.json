@@ -116,6 +116,7 @@
   "greenhouse_matx_5233139008",
   "greenhouse_matx_5357466008",
   "greenhouse_matx_5367877008",
+  "greenhouse_matx_5369254008",
   "greenhouse_optiverus_8375550002",
   "greenhouse_optiverus_8375607002",
   "greenhouse_optiverus_8375617002",
@@ -267,6 +268,7 @@
   "workday_intel_/job/US-Oregon-Hillsboro/Junior-Physical-Design-Engineer--CPU-_JR0285742",
   "workday_intel_/job/US-Oregon-Hillsboro/Mixed-Signal-Design-Verification-Engineer_JR0285739",
   "workday_intel_/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0284360",
+  "workday_intel_/job/US-Texas-Austin/CPU-Verification-Engineer_JR0285661",
   "workday_intel_/job/US-Texas-Austin/DFT-Implementation-Engineer_JR0285490",
   "workday_intel_/job/US-Texas-Austin/Senior-CPU-Physical-Design-Engineer_JR0285658",
   "workday_intel_/job/Virtual-Canada/Pre-Silicon-Verification-Engineer_JR0285398",
@@ -334,5 +336,6 @@
   "workday_nvidia_/job/US-TX-Austin/ASIC-Verification-Engineer_JR2015873",
   "workday_nvidia_/job/US-TX-Austin/Senior-ASIC-Verification-Engineer---Global-IP_JR2006265-1",
   "workday_nxp_/job/Austin-Oakhill-Office/IP-Licensing-Manager--Technical-Program-Management-_R-10063540",
-  "workday_nxp_/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673"
+  "workday_nxp_/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673",
+  "workday_nxp_/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065724"
 ]

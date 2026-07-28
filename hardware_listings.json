@@ -3022,5 +3022,32 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer--hybrid----2011668_2011668",
     "board": "workday_cisco",
     "date_added": "2026-07-28"
+  },
+  {
+    "company": "MatX",
+    "role": "Silicon Validation Engineer",
+    "location": "Mountain View, CA",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/5369254008",
+    "board": "greenhouse_matx",
+    "date_added": "2026-07-28"
+  },
+  {
+    "company": "Intel",
+    "role": "CPU Verification Engineer",
+    "location": "US, Texas, Austin",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Verification-Engineer_JR0285661",
+    "board": "workday_intel",
+    "date_added": "2026-07-28"
+  },
+  {
+    "company": "NXP",
+    "role": "AI/ML driven ASIC Design and Implementation Automation Engineer",
+    "location": "San Diego (Treena St)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065724",
+    "board": "workday_nxp",
+    "date_added": "2026-07-28"
   }
 ]
