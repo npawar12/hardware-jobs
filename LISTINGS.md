@@ -346,6 +346,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | FPGA Design Engineer (Timing) | Jul 28 |
+| Google | Hardware Engineer | Jul 28 |
+| Meta | ASIC Engineer, Design Verification | Jul 28 |
+| Meta | ASIC Engineer, Design Verification | Jul 28 |
 | AMD | DFT Design Engineer | Jul 26 |
 | AMD | Verification Engineer | Jul 26 |
 | Microsoft | Silicon Engineer | Jul 26 |
