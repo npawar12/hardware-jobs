@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | ASIC Verification Engineer | Jul 28 |
 | NVIDIA | Senior VLSI Library Methodology Engineer | Jul 27 |
 | NVIDIA | Senior ASIC Design Engineer | Jul 27 |
 | NVIDIA | Senior ASIC Design Verification Engineer | Jul 27 |
