@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10486661/satellite-hardware-engineer-bus-structures"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 28-->0d |
 | Cisco | Senior Hardware Post-Silicon Validation Engineer (Hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2016738"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 28-->0d |
 | Amazon | Design Verification Engineer  | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/3093479/design-verification-engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 28-->0d |
 | NVIDIA | Post-Silicon Validation and Methodology Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Validation-and-Methodology-Engineer_JR2018268"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 28-->0d |
