@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Post-Silicon Validation and Methodology Engineer | Jul 28 |
 | MatX | Silicon Validation Engineer | Jul 28 |
 | Intel | CPU Verification Engineer | Jul 28 |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | Jul 28 |
