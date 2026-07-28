@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Senior Hardware Post-Silicon Validation Engineer (Hybrid) | Jul 28 |
+| Amazon | Design Verification Engineer | Jul 28 |
 | NVIDIA | Post-Silicon Validation and Methodology Engineer | Jul 28 |
 | MatX | Silicon Validation Engineer | Jul 28 |
 | Intel | CPU Verification Engineer | Jul 28 |
