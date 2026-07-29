@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Sr Systems Development Engineer, AWS Hardware Engineering Services, AI UltraServers | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10487651/sr-systems-development-engineer-aws-hardware-engineering-services-ai-ultraservers"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 29-->0d |
 | Amazon | Sr. ASIC Design Engineer, Blink/Ring ASIC Team | US, MA, North Reading | Early Career | <a href="https://www.amazon.jobs/en/jobs/10487378/sr-asic-design-engineer-blink-ring-asic-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 29-->0d |
 | Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10486661/satellite-hardware-engineer-bus-structures"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 28-->1d |
 | Cisco | Senior Hardware Post-Silicon Validation Engineer (Hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2016738"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 28-->1d |
