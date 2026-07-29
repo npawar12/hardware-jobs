@@ -1231,5 +1231,41 @@
     "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE00000008TpUAI_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F3786080651547690%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D61840d00-89fa-11f1-a1ba-47403d86a4ae%26rx_job%3Da1KiE00000008TpUAI_1001%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
     "board": "linkedin",
     "date_added": "2026-07-28"
+  },
+  {
+    "company": "AMD",
+    "role": "SoC Design Verification Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/89123?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-29"
+  },
+  {
+    "company": "IBM",
+    "role": "2026 Intern Conversion : Hardware Engineer",
+    "location": "Albany, NY",
+    "type": "Summer 2027 Intern",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53656&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-29"
+  },
+  {
+    "company": "IBM",
+    "role": "2026 Intern Conversion : Hardware Engineer",
+    "location": "Yorktown Heights, NY",
+    "type": "Summer 2027 Intern",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53656&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-29"
+  },
+  {
+    "company": "Arm",
+    "role": "SoC Security Architecture",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/austin/soc-security-architecture/33099/98440561984",
+    "board": "linkedin",
+    "date_added": "2026-07-29"
   }
 ]

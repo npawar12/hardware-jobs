@@ -354,6 +354,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SoC Design Verification Engineer | Jul 29 |
+| IBM | 2026 Intern Conversion : Hardware Engineer | Jul 29 |
+| IBM | 2026 Intern Conversion : Hardware Engineer | Jul 29 |
+| Arm | SoC Security Architecture | Jul 29 |
 | AMD | FPGA Design Engineer (Timing) | Jul 28 |
 | Google | Hardware Engineer | Jul 28 |
 | Meta | ASIC Engineer, Design Verification | Jul 28 |
