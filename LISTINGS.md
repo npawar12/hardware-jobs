@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | SDE - CPLD / FPGA | Jul 30 |
+| Amazon | SDE - CPLD / FPGA | Jul 30 |
 | Cadence | Sr. Design Verification Application Engineer | Jul 30 |
 | Amazon | FPGA Development Engineer, Bespoke Solutions | Jul 30 |
 | Ciena | Senior ASIC Design Engineer | Jul 30 |

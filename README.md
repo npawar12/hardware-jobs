@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | SDE - CPLD / FPGA | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10488714/sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
+| ↳ | SDE - CPLD / FPGA | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10488715/sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
 | Cadence | Sr. Design Verification Application Engineer | SAN JOSE | Early Career | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Design-Verification-Application-Engineer_R55645"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
 | Amazon | FPGA Development Engineer, Bespoke Solutions | US, VA, Arlington | Early Career | <a href="https://www.amazon.jobs/en/jobs/10488520/fpga-development-engineer-bespoke-solutions"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
 | Ciena | Senior ASIC Design Engineer | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Digital-Senior-Design-Engineer_R030693"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
