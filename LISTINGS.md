@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior ASIC Design Engineer | Jul 29 |
 | Amazon | Sr Systems Development Engineer, AWS Hardware Engineering Services, AI UltraServers | Jul 29 |
 | Amazon | Sr. ASIC Design Engineer, Blink/Ring ASIC Team | Jul 29 |
 | Amazon | Satellite Hardware Engineer, Bus Structures | Jul 28 |
