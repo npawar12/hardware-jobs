@@ -3157,5 +3157,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10488715/sde-cpld-fpga",
     "board": "amazon",
     "date_added": "2026-07-30"
+  },
+  {
+    "company": "NXP",
+    "role": "AI/ML Driven ASIC Design and Implementation Automation Engineer",
+    "location": "San Diego (Treena St)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-Driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065725",
+    "board": "workday_nxp",
+    "date_added": "2026-07-30"
   }
 ]

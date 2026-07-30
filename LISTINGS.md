@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NXP | AI/ML Driven ASIC Design and Implementation Automation Engineer | Jul 30 |
 | Amazon | SDE - CPLD / FPGA | Jul 30 |
 | Amazon | SDE - CPLD / FPGA | Jul 30 |
 | Cadence | Sr. Design Verification Application Engineer | Jul 30 |
