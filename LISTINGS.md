@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cadence | Sr. Design Verification Application Engineer | Jul 30 |
+| Amazon | FPGA Development Engineer, Bespoke Solutions | Jul 30 |
 | Ciena | Senior ASIC Design Engineer | Jul 30 |
 | NVIDIA | Senior ASIC Design Engineer | Jul 29 |
 | Amazon | Sr Systems Development Engineer, AWS Hardware Engineering Services, AI UltraServers | Jul 29 |

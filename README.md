@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cadence | Sr. Design Verification Application Engineer | SAN JOSE | Early Career | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Design-Verification-Application-Engineer_R55645"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
+| Amazon | FPGA Development Engineer, Bespoke Solutions | US, VA, Arlington | Early Career | <a href="https://www.amazon.jobs/en/jobs/10488520/fpga-development-engineer-bespoke-solutions"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
 | Ciena | Senior ASIC Design Engineer | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Digital-Senior-Design-Engineer_R030693"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->0d |
 | NVIDIA | Senior ASIC Design Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer_JR2011971"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 29-->1d |
 | Amazon | Sr Systems Development Engineer, AWS Hardware Engineering Services, AI UltraServers | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10487651/sr-systems-development-engineer-aws-hardware-engineering-services-ai-ultraservers"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 29-->1d |
