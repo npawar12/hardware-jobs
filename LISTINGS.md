@@ -357,6 +357,13 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Core Design Verification Engineer | Jul 30 |
+| AMD | Design Verification Engineer | Jul 30 |
+| Meta | ASIC Engineer, Design | Jul 30 |
+| Meta | ASIC Engineer, Architecture | Jul 30 |
+| Meta | ASIC Engineer, Architecture | Jul 30 |
+| Meta | ASIC Engineer, Design | Jul 30 |
+| IBM | Hardware Developer | Jul 30 |
 | AMD | SoC Design Verification Engineer | Jul 29 |
 | IBM | 2026 Intern Conversion : Hardware Engineer | Jul 29 |
 | IBM | 2026 Intern Conversion : Hardware Engineer | Jul 29 |
