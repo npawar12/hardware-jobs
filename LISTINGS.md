@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior ASIC Verification Engineer - GPU | Jul 31 |
+| Marvell | Senior Engineer, Design Verification | Jul 31 |
 | NVIDIA | Physical Design Engineer, Synthesis and Implementation | Jul 31 |
 | Broadcom | RTL integration Engineer | Jul 31 |
 | Amazon | Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams | Jul 31 |

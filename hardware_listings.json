@@ -3211,5 +3211,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10489700/cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams",
     "board": "amazon",
     "date_added": "2026-07-31"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Verification Engineer - GPU",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR2022633",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Marvell",
+    "role": "Senior Engineer, Design Verification",
+    "location": "Morrisville, NC",
+    "type": "Early Career",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Senior-Engineer--Design-Verification_2602594",
+    "board": "workday_marvell",
+    "date_added": "2026-07-31"
   }
 ]
