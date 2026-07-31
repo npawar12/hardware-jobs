@@ -363,6 +363,15 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Silicon Design Engineer | Jul 31 |
+| AMD | Senior ASIC Package Design Automation and AI Engineer | Jul 31 |
+| Google | TPU SoC Design Engineer, Cloud | Jul 31 |
+| Microsoft | Design Verification Engineer | Jul 31 |
+| Arm | Senior Post-Silicon Validation and Characterization Engineer | Jul 31 |
+| Arm | SoC Security Architecture | Jul 31 |
+| Arm | Senior IP Verification Engineer | Jul 31 |
+| Arm | SoC Verification Engineer | Jul 31 |
+| Arm | IP Verification Engineer | Jul 31 |
 | AMD | CPU Core Design Verification Engineer | Jul 30 |
 | AMD | Design Verification Engineer | Jul 30 |
 | Meta | ASIC Engineer, Design | Jul 30 |

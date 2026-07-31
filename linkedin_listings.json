@@ -1330,5 +1330,86 @@
     "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=127141&src=SN_LinkedIn",
     "board": "linkedin",
     "date_added": "2026-07-30"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon Design Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/88666?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "AMD",
+    "role": "Senior ASIC Package Design Automation and AI Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Google",
+    "role": "TPU SoC Design Engineer, Cloud",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/98412087872496326-tpu-soc-design-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Design Verification Engineer",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556937343?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior Post-Silicon Validation and Characterization Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/senior-post-silicon-validation-and-characterization-engineer/47397/70907258576",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Arm",
+    "role": "SoC Security Architecture",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/austin/soc-security-architecture/47397/98440557568",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior IP Verification Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/senior-ip-verification-engineer/47397/98200815856",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Arm",
+    "role": "SoC Verification Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/soc-verification-engineer/47397/73672359600",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Arm",
+    "role": "IP Verification Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/ip-verification-engineer/47397/95649332496",
+    "board": "linkedin",
+    "date_added": "2026-07-31"
   }
 ]
