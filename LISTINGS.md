@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Physical Design Engineer, Synthesis and Implementation | Jul 31 |
+| Broadcom | RTL integration Engineer | Jul 31 |
+| Amazon | Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams | Jul 31 |
 | Western Digital | Summer 2027 Intern - Hardware Engineering | Jul 31 |
 | Amazon | PrProServe Account Executive , NAMER RTL/CPG | Jul 31 |
 | NXP | AI/ML Driven ASIC Design and Implementation Automation Engineer | Jul 30 |

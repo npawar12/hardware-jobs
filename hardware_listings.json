@@ -3184,5 +3184,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10489406/prproserve-account-executive-namer-rtl-cpg",
     "board": "amazon",
     "date_added": "2026-07-31"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Physical Design Engineer, Synthesis and Implementation",
+    "location": "US, MA, Westford",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Physical-Design-Engineer--Synthesis-and-Implementation_JR2022543-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Broadcom",
+    "role": "RTL integration Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/RTL-integration-Engineer_R026729",
+    "board": "workday_broadcom",
+    "date_added": "2026-07-31"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10489700/cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams",
+    "board": "amazon",
+    "date_added": "2026-07-31"
   }
 ]
