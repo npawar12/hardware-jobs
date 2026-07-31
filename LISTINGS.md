@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Western Digital | Summer 2027 Intern - Hardware Engineering | Jul 31 |
+| Amazon | PrProServe Account Executive , NAMER RTL/CPG | Jul 31 |
 | NXP | AI/ML Driven ASIC Design and Implementation Automation Engineer | Jul 30 |
 | Amazon | SDE - CPLD / FPGA | Jul 30 |
 | Amazon | SDE - CPLD / FPGA | Jul 30 |

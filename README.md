@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Western Digital | Summer 2027 Intern - Hardware Engineering | San Jose, CA | Summer 2027 Intern | <a href="https://api.smartrecruiters.com/v1/companies/westerndigital/postings/744000140949875"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->0d |
+| Amazon | PrProServe Account Executive , NAMER RTL/CPG | US, VA, Arlington | Early Career | <a href="https://www.amazon.jobs/en/jobs/10489406/prproserve-account-executive-namer-rtl-cpg"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->0d |
 | NXP | AI/ML Driven ASIC Design and Implementation Automation Engineer | San Diego (Treena St) | Early Career | <a href="https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-Driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065725"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->1d |
 | Amazon | SDE - CPLD / FPGA | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10488714/sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->1d |
 | ↳ | SDE - CPLD / FPGA | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10488715/sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 30-->1d |
