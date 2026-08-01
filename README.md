@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Hyannis Port Research | FPGA Engineering Intern - Summer 2027 | Needham, MA | Summer 2027 Intern | <a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->0d |
 | NVIDIA | Senior ASIC Verification Engineer - GPU | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR2022633"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->1d |
 | Marvell | Senior Engineer, Design Verification | Morrisville, NC | Early Career | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Senior-Engineer--Design-Verification_2602594"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->1d |
 | NVIDIA | Physical Design Engineer, Synthesis and Implementation | US, MA, Westford | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Physical-Design-Engineer--Synthesis-and-Implementation_JR2022543-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->1d |
