@@ -386,6 +386,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | Hardware Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556945499?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->0d |
+| ↳ | Senior Verification Engineer | Mountain View, CA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556948171?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->0d |
+| IBM | Entry Level Hardware Developer - Intern Conversion | Poughkeepsie, AR | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=127810&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->0d |
 | AMD | Silicon Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/88666?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->1d |
 | ↳ | Senior ASIC Package Design Automation and AI Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->1d |
 | Google | TPU SoC Design Engineer, Cloud | Sunnyvale, CA | Early Career | <a href="https://careers.google.com/jobs/results/98412087872496326-tpu-soc-design-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->1d |

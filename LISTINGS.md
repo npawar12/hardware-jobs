@@ -370,6 +370,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | Hardware Engineer | Aug 1 |
+| Microsoft | Senior Verification Engineer | Aug 1 |
+| IBM | Entry Level Hardware Developer - Intern Conversion | Aug 1 |
 | AMD | Silicon Design Engineer | Jul 31 |
 | AMD | Senior ASIC Package Design Automation and AI Engineer | Jul 31 |
 | Google | TPU SoC Design Engineer, Cloud | Jul 31 |
