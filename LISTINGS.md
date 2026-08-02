@@ -371,6 +371,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | SoC HW (Digital, Analog or PnP) Validation Engineer | Aug 2 |
 | Microsoft | Hardware Engineer | Aug 1 |
 | Microsoft | Senior Verification Engineer | Aug 1 |
 | IBM | Entry Level Hardware Developer - Intern Conversion | Aug 1 |

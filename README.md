@@ -387,6 +387,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | SoC HW (Digital, Analog or PnP) Validation Engineer | Hillsboro, OR | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556947838?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 2-->0d |
 | Microsoft | Hardware Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556945499?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->1d |
 | ↳ | Senior Verification Engineer | Mountain View, CA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556948171?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->1d |
 | IBM | Entry Level Hardware Developer - Intern Conversion | Poughkeepsie, AR | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=127810&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->1d |
