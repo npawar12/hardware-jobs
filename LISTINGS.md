@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Micron | PRINICPAL RTL DESIGN | Aug 3 |
+| Altera | FPGA Compiler (Placer) Engineer | Aug 3 |
 | NVIDIA | Senior DFT Methodology - Data Analytics and Applied AI Engineer | Aug 3 |
 | NVIDIA | Senior ASIC Verification Engineer | Aug 3 |
 | Hyannis Port Research | FPGA Engineering Intern - Summer 2027 | Aug 1 |

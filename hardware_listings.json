@@ -3256,5 +3256,23 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2022623-1",
     "board": "workday_nvidia",
     "date_added": "2026-08-03"
+  },
+  {
+    "company": "Micron",
+    "role": "PRINICPAL RTL DESIGN",
+    "location": "Boise, ID - Main Site",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/PRINICPAL-RTL-DESIGN_JR97469",
+    "board": "workday_micron",
+    "date_added": "2026-08-03"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Compiler (Placer) Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Compiler--Placer--Engineer_R02895",
+    "board": "workday_altera",
+    "date_added": "2026-08-03"
   }
 ]
