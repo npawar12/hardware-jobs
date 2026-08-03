@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Texas Instruments | Digital IC Design Engineer - USB Products | Aug 3 |
 | Teledyne | Sr. ASIC Layout Design Engineer | Aug 3 |
 | Cisco | ASIC Design Verification Engineer | Aug 3 |
 | Micron | PRINICPAL RTL DESIGN | Aug 3 |

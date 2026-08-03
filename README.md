@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Texas Instruments | Digital IC Design Engineer - USB Products | Dallas, TX, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009197"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 3-->0d |
 | Teledyne | Sr. ASIC Layout Design Engineer | US - Goleta, CA | Early Career | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Sr-ASIC-Layout-Design-Engineer_REQ33880"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 3-->0d |
 | Cisco | ASIC Design Verification Engineer | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2006761-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 3-->0d |
 | Micron | PRINICPAL RTL DESIGN | Boise, ID - Main Site | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/PRINICPAL-RTL-DESIGN_JR97469"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 3-->0d |
