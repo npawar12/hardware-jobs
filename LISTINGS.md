@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Design Verification Engineer | Aug 3 |
 | Micron | PRINICPAL RTL DESIGN | Aug 3 |
 | Altera | FPGA Compiler (Placer) Engineer | Aug 3 |
 | NVIDIA | Senior DFT Methodology - Data Analytics and Applied AI Engineer | Aug 3 |
