@@ -3238,5 +3238,23 @@
     "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
     "board": "greenhouse_hyannisportresearch",
     "date_added": "2026-08-01"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Methodology - Data Analytics and Applied AI Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology---Data-Analytics-and-Applied-AI-Engineer_JR2020850",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-03"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Verification Engineer",
+    "location": "US, NC, Durham",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2022623-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-03"
   }
 ]

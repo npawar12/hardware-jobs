@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior DFT Methodology - Data Analytics and Applied AI Engineer | Aug 3 |
+| NVIDIA | Senior ASIC Verification Engineer | Aug 3 |
 | Hyannis Port Research | FPGA Engineering Intern - Summer 2027 | Aug 1 |
 | NVIDIA | Senior ASIC Verification Engineer - GPU | Jul 31 |
 | Marvell | Senior Engineer, Design Verification | Jul 31 |
