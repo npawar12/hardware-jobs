@@ -373,6 +373,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Google | Senior Wafer Test Hardware Engineer, Raxium | Aug 3 |
+| Meta | ASIC Engineer, Architecture | Aug 3 |
+| MACOM | Senior MMIC Design Engineer | Aug 3 |
 | Microsoft | SoC HW (Digital, Analog or PnP) Validation Engineer | Aug 2 |
 | Microsoft | Hardware Engineer | Aug 1 |
 | Microsoft | Senior Verification Engineer | Aug 1 |
