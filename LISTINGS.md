@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Analog Devices | Mixed Signal Design Verification Engineer | Aug 4 |
 | Cirrus Logic | Post Silicon Validation Engineer - Global Operations | Aug 4 |
 | Broadcom | R&D IC Designer | Aug 4 |
 | Nokia | Test Hardware Engineer | Aug 4 |
