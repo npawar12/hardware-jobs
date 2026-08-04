@@ -3310,5 +3310,23 @@
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016937",
     "board": "oracle_edbz",
     "date_added": "2026-08-04"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D IC Designer",
+    "location": "USA-CA Irvine Alton Parkway Bldg 2",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Designer_R026742",
+    "board": "workday_broadcom",
+    "date_added": "2026-08-04"
+  },
+  {
+    "company": "Nokia",
+    "role": "Test Hardware Engineer",
+    "location": "United States",
+    "type": "Early Career",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39177",
+    "board": "oracle_fa-evmr-saasfaprod1",
+    "date_added": "2026-08-04"
   }
 ]

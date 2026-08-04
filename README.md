@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Broadcom | R&D IC Designer | USA-CA Irvine Alton Parkway Bldg 2 | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Designer_R026742"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |
+| Nokia | Test Hardware Engineer | United States | Early Career | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39177"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |
 | Texas Instruments | Design Verification Engineer | Knoxville, TN, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016937"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |
 | Texas Instruments | Digital IC Design Engineer - USB Products | Dallas, TX, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009197"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 3-->1d |
 | Teledyne | Sr. ASIC Layout Design Engineer | US - Goleta, CA | Early Career | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Sr-ASIC-Layout-Design-Engineer_REQ33880"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 3-->1d |
