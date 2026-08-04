@@ -3328,5 +3328,14 @@
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39177",
     "board": "oracle_fa-evmr-saasfaprod1",
     "date_added": "2026-08-04"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Post Silicon Validation Engineer - Global Operations",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/1979da07-33fb-4dc8-af01-9f12bc9d7b29",
+    "board": "lever_cirrus",
+    "date_added": "2026-08-04"
   }
 ]
