@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Tenstorrent | Physical Design Methodology Engineer, AI HW IP | Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada | Early Career | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5198608007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |
+| NVIDIA | Senior Physical Design Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Engineer_JR2017826"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |
 | Analog Devices | Mixed Signal Design Verification Engineer | US, MA, Wilmington | Early Career | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Design-Verification-Engineer_R263851"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |
 | Cirrus Logic | Post Silicon Validation Engineer - Global Operations | Austin, Texas | Early Career | <a href="https://jobs.eu.lever.co/cirrus/1979da07-33fb-4dc8-af01-9f12bc9d7b29"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |
 | Broadcom | R&D IC Designer | USA-CA Irvine Alton Parkway Bldg 2 | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Designer_R026742"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->0d |

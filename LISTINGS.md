@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Physical Design Methodology Engineer, AI HW IP | Aug 4 |
+| NVIDIA | Senior Physical Design Engineer | Aug 4 |
 | Analog Devices | Mixed Signal Design Verification Engineer | Aug 4 |
 | Cirrus Logic | Post Silicon Validation Engineer - Global Operations | Aug 4 |
 | Broadcom | R&D IC Designer | Aug 4 |
