@@ -385,6 +385,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Microprocessor VLSI Physical Design Engineer | Aug 5 |
+| Microsoft | Hardware Engineer | Aug 5 |
+| Microsoft | Senior Design Verification Engineer | Aug 5 |
 | AMD | FPGA Product Planning Engineer | Aug 4 |
 | Google | Senior Wafer Test Hardware Engineer, Raxium | Aug 3 |
 | Meta | ASIC Engineer, Architecture | Aug 3 |
