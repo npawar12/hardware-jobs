@@ -3409,5 +3409,41 @@
     "url": "https://www.amazon.jobs/en/jobs/10493217/propulsion-hardware-engineer-prime-air-drone-fleet-production",
     "board": "amazon",
     "date_added": "2026-08-05"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-and-AI-Infrastructure-Engineer---Chip-Design-and-DFX_JR2018256",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-05"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Power Methodology Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFX-Power-Methodology-Engineer_JR2018255",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-05"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer - Storage, AWS Nitro SSD",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10493502/hardware-development-engineer-storage-aws-nitro-ssd",
+    "board": "amazon",
+    "date_added": "2026-08-05"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10493500/software-development-engineer-bios-uefi-aws-hardware-engineering-firmware-development",
+    "board": "amazon",
+    "date_added": "2026-08-05"
   }
 ]

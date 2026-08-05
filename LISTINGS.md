@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX | Aug 5 |
+| NVIDIA | Senior DFT Power Methodology Engineer | Aug 5 |
+| Amazon | Hardware Development Engineer - Storage, AWS Nitro SSD | Aug 5 |
+| Amazon | Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development | Aug 5 |
 | NVIDIA | ASIC Verification Engineer | Aug 5 |
 | Cisco | Senior ASIC Design Verification Engineer | Aug 5 |
 | Ciena | Hardware Engineering Co-op (4-8 Months) | Aug 5 |
