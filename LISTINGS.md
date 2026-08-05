@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | ASIC Verification Engineer | Aug 5 |
+| Cisco | Senior ASIC Design Verification Engineer | Aug 5 |
+| Ciena | Hardware Engineering Co-op (4-8 Months) | Aug 5 |
+| Amazon | Security Hardware Engineer, Infrastructure Security | Aug 5 |
+| Amazon | Propulsion Hardware Engineer, Prime Air Drone Fleet & Production | Aug 5 |
 | Tenstorrent | Physical Design Methodology Engineer, AI HW IP | Aug 4 |
 | NVIDIA | Senior Physical Design Engineer | Aug 4 |
 | Analog Devices | Mixed Signal Design Verification Engineer | Aug 4 |
