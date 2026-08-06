@@ -3463,5 +3463,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10493774/satellite-hardware-engineer-bus-structures",
     "board": "amazon",
     "date_added": "2026-08-05"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Hardware Test Engineer - Silicon Validation",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Test-Engineer---Silicon-Validation_JR2021022",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-06"
   }
 ]

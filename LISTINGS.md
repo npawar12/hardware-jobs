@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Hardware Test Engineer - Silicon Validation | Aug 6 |
 | Amazon | Satellite Hardware Engineer, Bus Structures | Aug 5 |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | Aug 5 |
 | NVIDIA | Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX | Aug 5 |
