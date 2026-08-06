@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Micron | Senior Engineer - HBM Design for Test (DFT) | Aug 6 |
+| Altera | Timing Engineer | Aug 6 |
 | NVIDIA | Hardware Test Engineer - Silicon Validation | Aug 6 |
 | Amazon | Satellite Hardware Engineer, Bus Structures | Aug 5 |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | Aug 5 |

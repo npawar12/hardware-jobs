@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Micron | Senior Engineer - HBM Design for Test (DFT) | Richardson, TX | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Engineer---HBM-Design-for-Test--DFT-_JR102419-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 6-->0d |
+| Altera | Timing Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Timing-Engineer_R02889"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 6-->0d |
 | NVIDIA | Hardware Test Engineer - Silicon Validation | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Test-Engineer---Silicon-Validation_JR2021022"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 6-->0d |
 | Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10493774/satellite-hardware-engineer-bus-structures"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->1d |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | San Diego (Treena St) | Early Career | <a href="https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065564"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->1d |

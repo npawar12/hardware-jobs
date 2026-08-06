@@ -3472,5 +3472,23 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Test-Engineer---Silicon-Validation_JR2021022",
     "board": "workday_nvidia",
     "date_added": "2026-08-06"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior Engineer - HBM Design for Test (DFT)",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Engineer---HBM-Design-for-Test--DFT-_JR102419-1",
+    "board": "workday_micron",
+    "date_added": "2026-08-06"
+  },
+  {
+    "company": "Altera",
+    "role": "Timing Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Timing-Engineer_R02889",
+    "board": "workday_altera",
+    "date_added": "2026-08-06"
   }
 ]
