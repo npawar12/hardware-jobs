@@ -397,6 +397,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Teradyne | Hardware Verification Engineer (Defense & Aerospace, North Reading, MA) | Aug 6 |
 | AMD | Microprocessor VLSI Physical Design Engineer | Aug 5 |
 | Microsoft | Hardware Engineer | Aug 5 |
 | Microsoft | Senior Design Verification Engineer | Aug 5 |
