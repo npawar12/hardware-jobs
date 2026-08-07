@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior ATE Hardware Engineer | Aug 7 |
 | Broadcom | Physical Design Engineer | Aug 7 |
 | Analog Devices | Post-Silicon Validation Engineer | Aug 7 |
 | Texas Instruments | Digital and Mixed Signal IC Design/DV Engineer | Aug 7 |
