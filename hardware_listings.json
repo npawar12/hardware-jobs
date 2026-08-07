@@ -3553,5 +3553,14 @@
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016743",
     "board": "oracle_edbz",
     "date_added": "2026-08-07"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Post-Silicon Validation Engineer",
+    "location": "US, MA, Wilmington",
+    "type": "Early Career",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-AI-ML-Applications-Engineer---Product-Validation---Test_R260874",
+    "board": "workday_analogdevices",
+    "date_added": "2026-08-07"
   }
 ]
