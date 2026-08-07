@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Networking Verification Engineer | Aug 6 |
+| Marvell | Senior Verification Engineer — Next-Generation Network Switch IPs | Aug 6 |
+| Amazon | Aerospace Hardware Development Engineer, Amazon Leo Customer Terminal Hardware Team | Aug 6 |
 | Micron | Senior Engineer - HBM Design for Test (DFT) | Aug 6 |
 | Altera | Timing Engineer | Aug 6 |
 | NVIDIA | Hardware Test Engineer - Silicon Validation | Aug 6 |
