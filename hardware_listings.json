@@ -3517,5 +3517,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10495308/aerospace-hardware-development-engineer-amazon-leo-customer-terminal-hardware-team",
     "board": "amazon",
     "date_added": "2026-08-06"
+  },
+  {
+    "company": "Intel",
+    "role": "Mid-level Physical Design Engineer CPU",
+    "location": "US, Oregon, Hillsboro",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mid-level-Physical-Design-Engineer-CPU_JR0284896",
+    "board": "workday_intel",
+    "date_added": "2026-08-07"
+  },
+  {
+    "company": "Intel",
+    "role": "Senior Physical Design Engineer (CPU)",
+    "location": "US, Oregon, Hillsboro",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Senior-Physical-Design-Engineer--CPU-_JR0284897",
+    "board": "workday_intel",
+    "date_added": "2026-08-07"
   }
 ]

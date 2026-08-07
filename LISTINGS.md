@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Mid-level Physical Design Engineer CPU | Aug 7 |
+| Intel | Senior Physical Design Engineer (CPU) | Aug 7 |
 | NVIDIA | Networking Verification Engineer | Aug 6 |
 | Marvell | Senior Verification Engineer — Next-Generation Network Switch IPs | Aug 6 |
 | Amazon | Aerospace Hardware Development Engineer, Amazon Leo Customer Terminal Hardware Team | Aug 6 |
