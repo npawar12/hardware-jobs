@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Texas Instruments | Digital and Mixed Signal IC Design/DV Engineer | Aug 7 |
 | Silicon Labs | Digital Design Engineer I | Aug 7 |
 | Intel | Mid-level Physical Design Engineer CPU | Aug 7 |
 | Intel | Senior Physical Design Engineer (CPU) | Aug 7 |
