@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | CPU Physical Design Engineer | Aug 7 |
+| Intel | CPU Physical Design Engineer | Aug 7 |
+| Amazon | Electrical Engineer, Customer Terminals Hardware Design | Aug 7 |
 | NVIDIA | Senior ATE Hardware Engineer | Aug 7 |
 | Broadcom | Physical Design Engineer | Aug 7 |
 | Analog Devices | Post-Silicon Validation Engineer | Aug 7 |
