@@ -412,6 +412,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NetApp | Hardware Engineer Intern | Aug 8 |
+| Hudson River Trading | Design Verification (DV) Engineer | Aug 8 |
 | Teradyne | Hardware Verification Engineer (Defense & Aerospace, North Reading, MA) | Aug 6 |
 | AMD | Microprocessor VLSI Physical Design Engineer | Aug 5 |
 | Microsoft | Hardware Engineer | Aug 5 |

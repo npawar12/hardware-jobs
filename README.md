@@ -428,6 +428,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NetApp | Hardware Engineer Intern | Wichita, KS | Summer 2027 Intern | <a href="https://careers.netapp.com/job/-/-/27600/96243362192?jobPipeline=limtedlistings"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 8-->0d |
+| Hudson River Trading | Design Verification (DV) Engineer | New York, NY | Early Career | <a href="https://grnh.se/0xycnlku1us?gh_src=b79c7b511us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 8-->0d |
 | Teradyne | Hardware Verification Engineer (Defense & Aerospace, North Reading, MA) | North Reading, MA | Early Career | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Hardware-Verification-Engineer-%28Defense-&-Aerospace%2C-North-Reading%2C-MA%29-MA/1416412400/?utm_source=LINKEDIN&utm_medium=referrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 6-->2d |
 | AMD | Microprocessor VLSI Physical Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/89314?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->3d |
 | Microsoft | Hardware Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556945539?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->3d |
