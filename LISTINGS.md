@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | Physical Design Engineer | Aug 8 |
+| Altera | Senior Physical Design Engineer | Aug 8 |
 | Intel | CPU Physical Design Engineer | Aug 7 |
 | Intel | CPU Physical Design Engineer | Aug 7 |
 | Amazon | Electrical Engineer, Customer Terminals Hardware Design | Aug 7 |
