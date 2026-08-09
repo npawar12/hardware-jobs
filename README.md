@@ -244,7 +244,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Senior Hardware Development Engineer AWS AI & ML, Accelerator Servers | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/3129963/senior-hardware-development-engineer-aws-ai-ml-accelerator-servers"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->28d |
 | ↳ | Cloud Hardware Development Engineer, Storage , AWS Hardware Engineering | US, CO, Denver | Early Career | <a href="https://www.amazon.jobs/en/jobs/10392012/cloud-hardware-development-engineer-storage-aws-hardware-engineering"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->28d |
 | ↳ | Hardware Development Engineer , Amazon Leo | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->28d |
-| ↳ | HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10423293/hw-dev-engineer-payload-amazon-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->28d |
+| ↳ | HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->28d |
 | ↳ | HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10424422/hw-dev-engineer-payload-amazon-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->28d |
 | ↳ | HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->28d |
 | ↳ | ML Accelerator Performance Validation Engineer, Post Silicon Validation | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10434988/ml-accelerator-performance-validation-engineer-post-silicon-validation"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->28d |
@@ -430,7 +430,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
-| NetApp | Hardware Engineer Intern | Wichita, KS | Summer 2027 Intern | <a href="https://careers.netapp.com/job/-/-/27600/96243362192?jobPipeline=limtedlistings"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 8-->0d |
+| NetApp | Hardware Engineer Intern | Wichita, KS | Summer 2027 Intern | 🔒 | <!--Aug 8-->0d |
 | Hudson River Trading | Design Verification (DV) Engineer | New York, NY | Early Career | <a href="https://grnh.se/0xycnlku1us?gh_src=b79c7b511us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 8-->0d |
 | Teradyne | Hardware Verification Engineer (Defense & Aerospace, North Reading, MA) | North Reading, MA | Early Career | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Hardware-Verification-Engineer-%28Defense-&-Aerospace%2C-North-Reading%2C-MA%29-MA/1416412400/?utm_source=LINKEDIN&utm_medium=referrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 6-->2d |
 | AMD | Microprocessor VLSI Physical Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/89314?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->3d |
