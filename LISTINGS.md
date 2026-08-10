@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | GPU Verification Engineer | Aug 10 |
+| NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | Aug 10 |
 | Broadcom | Physical IC Design Engineer | Aug 10 |
 | Altera | Physical Design Engineer | Aug 8 |
 | Altera | Senior Physical Design Engineer | Aug 8 |

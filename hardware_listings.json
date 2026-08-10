@@ -3634,5 +3634,23 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Physical-IC-Design-Engineer_R026737",
     "board": "workday_broadcom",
     "date_added": "2026-08-10"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "GPU Verification Engineer",
+    "location": "US, MA, Westford",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer_JR2015943",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-10"
+  },
+  {
+    "company": "NXP",
+    "role": "AI/ML driven ASIC Design and Implementation Automation Engineer",
+    "location": "Austin (Oakhill, Office)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065561",
+    "board": "workday_nxp",
+    "date_added": "2026-08-10"
   }
 ]
