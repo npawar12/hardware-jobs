@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | Physical IC Design Engineer | Aug 10 |
 | Altera | Physical Design Engineer | Aug 8 |
 | Altera | Senior Physical Design Engineer | Aug 8 |
 | Intel | CPU Physical Design Engineer | Aug 7 |
