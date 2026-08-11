@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Sr. Hardware Engineer (EDVT & PHY Qual) | Aug 11 |
 | GlobalFoundries | PMTS ASIC Digital Design IP ENGINEERING | Aug 11 |
 | NVIDIA | GPU Verification Engineer | Aug 10 |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | Aug 10 |

@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cisco | Sr. Hardware Engineer (EDVT & PHY Qual) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Sr-Hardware-Engineer--EDVT---PHY-Qual-_2021083"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 11-->0d |
 | GlobalFoundries | PMTS ASIC Digital Design IP ENGINEERING | Santa Clara | Early Career | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/PMTS-ASIC-Digital-Design-IP-ENGINEERING_JR-2603673"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 11-->0d |
 | NVIDIA | GPU Verification Engineer | US, MA, Westford | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer_JR2015943"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 10-->1d |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | Austin (Oakhill, Office) | Early Career | <a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065561"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 10-->1d |
