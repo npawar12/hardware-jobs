@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Physical Design Engineer, AI Accelerator IP | Aug 12 |
+| Micron | Senior Digital Design Engineer, HBM | Aug 12 |
+| NXP | Senior Digital Verification Engineer | Aug 12 |
 | Altera | Physical Design Engineer | Aug 11 |
 | Amazon | Cloud Hardware Development Engineer, Edge & High Performance Accelerator Servers for AI/ML | Aug 11 |
 | Cisco | Sr. Hardware Engineer (EDVT & PHY Qual) | Aug 11 |

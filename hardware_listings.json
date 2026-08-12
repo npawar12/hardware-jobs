@@ -3688,5 +3688,32 @@
     "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02972",
     "board": "workday_altera",
     "date_added": "2026-08-11"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Physical Design Engineer, AI Accelerator IP",
+    "location": "Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5198590007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-08-12"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior Digital Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Digital-Design-Engineer--HBM_JR108452",
+    "board": "workday_micron",
+    "date_added": "2026-08-12"
+  },
+  {
+    "company": "NXP",
+    "role": "Senior Digital Verification Engineer",
+    "location": "Chandler (Office)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Senior-Digital-Verification-Engineer_R-10065973",
+    "board": "workday_nxp",
+    "date_added": "2026-08-12"
   }
 ]
