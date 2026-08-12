@@ -3733,5 +3733,14 @@
     "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000143154249",
     "board": "smartrecruiters_RenesasElectronics",
     "date_added": "2026-08-12"
+  },
+  {
+    "company": "Amazon",
+    "role": "HW Dev Engineer-Payload, Hardware Development",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10500255/hw-dev-engineer-payload-hardware-development",
+    "board": "amazon",
+    "date_added": "2026-08-12"
   }
 ]
