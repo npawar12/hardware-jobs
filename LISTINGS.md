@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | Physical Design Engineer | Aug 11 |
 | Amazon | Cloud Hardware Development Engineer, Edge & High Performance Accelerator Servers for AI/ML | Aug 11 |
 | Cisco | Sr. Hardware Engineer (EDVT & PHY Qual) | Aug 11 |
 | GlobalFoundries | PMTS ASIC Digital Design IP ENGINEERING | Aug 11 |
