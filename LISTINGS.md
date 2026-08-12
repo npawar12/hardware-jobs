@@ -421,6 +421,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SOC Performance Engineer | Aug 12 |
+| Synaptics | Hardware Engineer, ATE | Aug 12 |
 | pSemi | Intern, Digital Design - Fall 2026 | Aug 11 |
 | NetApp | Hardware Engineer Intern | Aug 8 |
 | Hudson River Trading | Design Verification (DV) Engineer | Aug 8 |

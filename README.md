@@ -437,6 +437,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | SOC Performance Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->0d |
+| Synaptics | Hardware Engineer, ATE | Irvine, CA | Early Career | <a href="https://careers.synaptics.com/jobs/17976014-hardware-engineer-ate?tm_job=4606&tm_event=view&tm_company=90634&bid=56"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->0d |
 | pSemi | Intern, Digital Design - Fall 2026 | San Diego, CA | Fall 2026 Intern | <a href="https://jobs.murata.com/pSemi/job/San-Diego-Intern%2C-Digital-Design-Fall-2026-CA-92101/1417937900/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 11-->1d |
 | NetApp | Hardware Engineer Intern | Wichita, KS | Summer 2027 Intern | 🔒 | <!--Aug 8-->4d |
 | Hudson River Trading | Design Verification (DV) Engineer | New York, NY | Early Career | <a href="https://grnh.se/0xycnlku1us?gh_src=b79c7b511us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 8-->4d |
