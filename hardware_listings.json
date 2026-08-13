@@ -3769,5 +3769,23 @@
     "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-System-Design-Engineer_R02973",
     "board": "workday_altera",
     "date_added": "2026-08-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior IP Verification Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-IP-Verification-Engineer_JR2015186",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-13"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior ASIC Design Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-Design-Engineer_2021110",
+    "board": "workday_cisco",
+    "date_added": "2026-08-13"
   }
 ]

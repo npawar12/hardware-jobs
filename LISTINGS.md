@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior IP Verification Engineer | Aug 13 |
+| Cisco | Senior ASIC Design Engineer | Aug 13 |
 | NXP | Digital Verification | Aug 13 |
 | Altera | FPGA System Design Engineer | Aug 13 |
 | Amazon | Cloud Hardware Development, Packaging, Network Product Development - Optics | Aug 12 |
