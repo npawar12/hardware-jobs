@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Cloud Hardware Development, Packaging, Network Product Development - Optics | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10500360/cloud-hardware-development-packaging-network-product-development-optics"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->0d |
 | Amazon | HW Dev Engineer-Payload, Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10500255/hw-dev-engineer-payload-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->0d |
 | Samsung Semiconductor | Senior Engineer RTL Power Macro Modeling | San Jose, California, United States | Early Career | <a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7837190003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->0d |
 | Renesas | Graduate Digital Design Electrical Engineer | Austin, TEXAS | New Grad | <a href="https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000143154249"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->0d |

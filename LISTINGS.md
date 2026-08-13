@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Cloud Hardware Development, Packaging, Network Product Development - Optics | Aug 12 |
 | Amazon | HW Dev Engineer-Payload, Hardware Development | Aug 12 |
 | Samsung Semiconductor | Senior Engineer RTL Power Macro Modeling | Aug 12 |
 | Renesas | Graduate Digital Design Electrical Engineer | Aug 12 |
