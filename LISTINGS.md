@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NXP | Digital Verification | Aug 13 |
+| Altera | FPGA System Design Engineer | Aug 13 |
 | Amazon | Cloud Hardware Development, Packaging, Network Product Development - Optics | Aug 12 |
 | Amazon | HW Dev Engineer-Payload, Hardware Development | Aug 12 |
 | Samsung Semiconductor | Senior Engineer RTL Power Macro Modeling | Aug 12 |

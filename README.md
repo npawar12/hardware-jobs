@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NXP | Digital Verification | Austin (Oakhill, Office) | Early Career | <a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Verification_R-10066245"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->0d |
+| Altera | FPGA System Design Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-System-Design-Engineer_R02973"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->0d |
 | Amazon | Cloud Hardware Development, Packaging, Network Product Development - Optics | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10500360/cloud-hardware-development-packaging-network-product-development-optics"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->1d |
 | Amazon | HW Dev Engineer-Payload, Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10500255/hw-dev-engineer-payload-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->1d |
 | Samsung Semiconductor | Senior Engineer RTL Power Macro Modeling | San Jose, California, United States | Early Career | <a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7837190003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->1d |
