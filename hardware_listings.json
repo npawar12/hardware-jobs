@@ -3805,5 +3805,23 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer_2008472",
     "board": "workday_cisco",
     "date_added": "2026-08-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2019303",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-13"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10396844/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-hardware-engineering-services",
+    "board": "amazon",
+    "date_added": "2026-08-13"
   }
 ]

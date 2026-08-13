@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior DFT Engineer | Aug 13 |
+| Amazon | Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services | Aug 13 |
 | Cisco | ASIC Design Verification Engineer | Aug 13 |
 | Micron | Intern - Digital IP Design Engineer, DRAM | Aug 13 |
 | NVIDIA | Senior IP Verification Engineer | Aug 13 |
