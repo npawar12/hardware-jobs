@@ -428,6 +428,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Design Verification Engineer | Aug 13 |
+| Microsoft | Physical Design CAD Engineer | Aug 13 |
+| Microsoft | Hardware Engineer | Aug 13 |
 | AMD | SOC Performance Engineer | Aug 12 |
 | Synaptics | Hardware Engineer, ATE | Aug 12 |
 | pSemi | Intern, Digital Design - Fall 2026 | Aug 11 |

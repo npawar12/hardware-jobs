@@ -444,6 +444,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/89495?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->0d |
+| Microsoft | Physical Design CAD Engineer | Hillsboro, OR | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556952539?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->0d |
+| ↳ | Hardware Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556957824?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->0d |
 | AMD | SOC Performance Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->1d |
 | Synaptics | Hardware Engineer, ATE | Irvine, CA | Early Career | <a href="https://careers.synaptics.com/jobs/17976014-hardware-engineer-ate?tm_job=4606&tm_event=view&tm_company=90634&bid=56"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 12-->1d |
 | pSemi | Intern, Digital Design - Fall 2026 | San Diego, CA | Fall 2026 Intern | <a href="https://jobs.murata.com/pSemi/job/San-Diego-Intern%2C-Digital-Design-Fall-2026-CA-92101/1417937900/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 11-->2d |

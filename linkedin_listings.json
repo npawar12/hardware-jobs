@@ -1564,5 +1564,32 @@
     "url": "https://careers.synaptics.com/jobs/17976014-hardware-engineer-ate?tm_job=4606&tm_event=view&tm_company=90634&bid=56",
     "board": "linkedin",
     "date_added": "2026-08-12"
+  },
+  {
+    "company": "AMD",
+    "role": "Design Verification Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/89495?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-08-13"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Physical Design CAD Engineer",
+    "location": "Hillsboro, OR",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556952539?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-08-13"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Hardware Engineer",
+    "location": "Redmond, WA",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556957824?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-08-13"
   }
 ]
