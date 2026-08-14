@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Micron | SrvDigital Design Engineer | Boise, ID - Main Site | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SrvDigital-Design-Engineer_JR107902"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
+| ↳ | Sr Digital Design Engineer | Boise, ID - Main Site | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Digital-Design-Engineer_JR107904"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
 | Intel | SoC Design Verification Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0286426"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
 | Marvell | Principle Validation and Hardware Design Engineer | Santa Clara, CA | Early Career | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Principle-Validation-and-Hardware-Design-Engineer_2602206"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->1d |
 | NVIDIA | Senior DFT Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2019303"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->1d |
