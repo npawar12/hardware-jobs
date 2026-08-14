@@ -454,6 +454,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556961978?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
+| Qorvo | Senior Physical Verification Engineer | Greensboro, NC | Early Career | <a href="https://careers.qorvo.com/job/Greensboro-Senior-Physical-Verification-Engineer-NC-27409/1419225000/?eresc=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
 | AMD | Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/89495?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->1d |
 | Microsoft | Physical Design CAD Engineer | Hillsboro, OR | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556952539?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->1d |
 | ↳ | Hardware Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556957824?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 13-->1d |

@@ -438,6 +438,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | Design Verification Engineer | Aug 14 |
+| Qorvo | Senior Physical Verification Engineer | Aug 14 |
 | AMD | Design Verification Engineer | Aug 13 |
 | Microsoft | Physical Design CAD Engineer | Aug 13 |
 | Microsoft | Hardware Engineer | Aug 13 |
