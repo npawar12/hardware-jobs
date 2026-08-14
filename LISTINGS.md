@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | Physical Design Engineer | Aug 14 |
 | Micron | SrvDigital Design Engineer | Aug 14 |
 | Micron | Sr Digital Design Engineer | Aug 14 |
 | Intel | SoC Design Verification Engineer | Aug 14 |

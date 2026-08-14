@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Altera | Physical Design Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Physical-Design-Engineer-Lead_R02754"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
 | Micron | SrvDigital Design Engineer | Boise, ID - Main Site | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SrvDigital-Design-Engineer_JR107902"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
 | ↳ | Sr Digital Design Engineer | Boise, ID - Main Site | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Digital-Design-Engineer_JR107904"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
 | Intel | SoC Design Verification Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0286426"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 14-->0d |
