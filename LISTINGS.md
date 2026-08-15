@@ -441,6 +441,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SMTS Silicon Design Engineer | Aug 15 |
+| AMD | DFT Engineer | Aug 15 |
+| AMD | SMTS Silicon Design Engineer | Aug 15 |
+| AMD | SMTS Silicon Design Engineer | Aug 15 |
+| AMD | SMTS Silicon Design Engineer | Aug 15 |
+| AMD | PMTS Silicon Design Engineer | Aug 15 |
 | Microsoft | Design Verification Engineer | Aug 14 |
 | Qorvo | Senior Physical Verification Engineer | Aug 14 |
 | AMD | Design Verification Engineer | Aug 13 |
