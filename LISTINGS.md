@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior DFT Engineer | Aug 17 |
 | Micron | Sr Design Verification Engineer, HBM Verification Architecture | Aug 17 |
 | Texas Instruments | Design Verification Engineer &#124; PI | Aug 16 |
 | Altera | Physical Design Engineer | Aug 14 |
