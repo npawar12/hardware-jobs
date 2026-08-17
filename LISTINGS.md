@@ -443,6 +443,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Synopsys | Interface IP Verification Engineer (Pre-Silicon) - 18380 | Aug 17 |
+| TetraMem | US 2026 Hardware - Digital Intern | Aug 17 |
 | AMD | SMTS Silicon Design Engineer | Aug 15 |
 | AMD | DFT Engineer | Aug 15 |
 | AMD | SMTS Silicon Design Engineer | Aug 15 |
