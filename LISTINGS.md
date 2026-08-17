@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Aug 17 |
+| Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Aug 17 |
+| Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Aug 17 |
 | Renesas | Digital Design Engineer Intern | Aug 17 |
 | KLA | Electrical Hardware Design Engineer – Mixed-Signal Sensor Systems | Aug 17 |
 | NVIDIA | Senior DFT Engineer | Aug 17 |
