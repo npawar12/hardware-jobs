@@ -3895,5 +3895,23 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2022681",
     "board": "workday_nvidia",
     "date_added": "2026-08-17"
+  },
+  {
+    "company": "Renesas",
+    "role": "Digital Design Engineer Intern",
+    "location": "Duluth, GEORGIA",
+    "type": "Summer 2027 Intern",
+    "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000143930119",
+    "board": "smartrecruiters_RenesasElectronics",
+    "date_added": "2026-08-17"
+  },
+  {
+    "company": "KLA",
+    "role": "Electrical Hardware Design Engineer \u2013 Mixed-Signal Sensor Systems",
+    "location": "Milpitas, CA",
+    "type": "Early Career",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Design-Engineer_2639574-1",
+    "board": "workday_kla",
+    "date_added": "2026-08-17"
   }
 ]

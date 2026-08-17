@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Renesas | Digital Design Engineer Intern | Duluth, GEORGIA | Summer 2027 Intern | <a href="https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000143930119"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->0d |
+| KLA | Electrical Hardware Design Engineer – Mixed-Signal Sensor Systems | Milpitas, CA | Early Career | <a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Design-Engineer_2639574-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->0d |
 | NVIDIA | Senior DFT Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2022681"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->0d |
 | Micron | Sr Design Verification Engineer, HBM Verification Architecture | Richardson, TX | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Sr-Engineer--HBM-Verification-Architecture_JR94968"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->0d |
 | Texas Instruments | Design Verification Engineer &#124; PI | Dallas, TX, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009842"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 16-->1d |

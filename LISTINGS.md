@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Renesas | Digital Design Engineer Intern | Aug 17 |
+| KLA | Electrical Hardware Design Engineer – Mixed-Signal Sensor Systems | Aug 17 |
 | NVIDIA | Senior DFT Engineer | Aug 17 |
 | Micron | Sr Design Verification Engineer, HBM Verification Architecture | Aug 17 |
 | Texas Instruments | Design Verification Engineer &#124; PI | Aug 16 |
