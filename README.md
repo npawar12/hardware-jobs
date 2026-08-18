@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Broadcom | R&D Hardware Engineer | USA-CA San Jose Innovation Drive | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023955"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 18-->0d |
 | NVIDIA | Senior EDA Engineer, SOC Design Methodology | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--SOC-Design-Methodology_JR2022268"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->1d |
 | Altera | Senior FPGA Circuit Design Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-FPGA-Circuit-Design-Engineer_R02880-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->1d |
 | Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10504296/sr-hw-dev-engineer-payload-amazon-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->1d |
