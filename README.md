@@ -467,6 +467,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Keysight | ASIC Digital / DSP Design Engineer (Junior level) | Colorado Springs, CO | Early Career | <a href="https://jobs.keysight.com/external/jobs/53893?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 18-->0d |
+| ↳ | ASIC Digital Design Engineer | Colorado Springs, CO | Early Career | <a href="https://jobs.keysight.com/external/jobs/53892?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 18-->0d |
+| Siemens EDA | Product Engineer – AI-Driven Analog Chip Design - Remote* | Santa Clara, CA | Early Career | <a href="https://jobs.siemens.com/externaljobs/JobDetail/513292?source=LinkedIn&sourceType=PREMIUM_POST_SITE"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 18-->0d |
 | Synopsys | Interface IP Verification Engineer (Pre-Silicon) - 18380 | Austin, TX | Early Career | <a href="https://careers.synopsys.com/job/-/-/44408/99239855952"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->1d |
 | TetraMem | US 2026 Hardware - Digital Intern | San Jose, CA | Summer 2027 Intern | <a href="https://tetramem.clearcompany.com/careers/jobs/6e0366f9-460f-0ce8-5e12-11e93d13b466/apply?source=3404228-JB-1018"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 17-->1d |
 | AMD | SMTS Silicon Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/89353?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 15-->3d |
