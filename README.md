@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10507260/hw-dev-engineer-i-payload-amazon-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 19-->0d |
+| ↳ | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10507248/hw-dev-engineer-i-payload-amazon-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 19-->0d |
 | Tenstorrent | Design Verification Software Intern | Santa Clara, California, United States | Summer 2027 Intern | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4522665007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 19-->0d |
 | ↳ | Formal Verification Intern | Santa Clara, California, United States | Summer 2027 Intern | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 19-->0d |
 | Amazon | Hardware Development Engineer, AWS Board Core Design and Services Team | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10507221/hardware-development-engineer-aws-board-core-design-and-services-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 19-->0d |
