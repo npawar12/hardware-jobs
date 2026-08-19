@@ -4057,5 +4057,32 @@
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231",
     "board": "oracle_fa-evmr-saasfaprod1",
     "date_added": "2026-08-19"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Design Verification Software Intern",
+    "location": "Santa Clara, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4522665007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Formal Verification Intern",
+    "location": "Santa Clara, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007",
+    "board": "greenhouse_tenstorrentuniversity",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, AWS Board Core Design and Services Team",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10507221/hardware-development-engineer-aws-board-core-design-and-services-team",
+    "board": "amazon",
+    "date_added": "2026-08-19"
   }
 ]

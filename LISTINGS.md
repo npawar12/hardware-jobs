@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Design Verification Software Intern | Aug 19 |
+| Tenstorrent | Formal Verification Intern | Aug 19 |
+| Amazon | Hardware Development Engineer, AWS Board Core Design and Services Team | Aug 19 |
 | Samsung Semiconductor | Senior Emulation Engineer | Aug 19 |
 | Samsung Semiconductor | Senior Physical Design Engineer | Aug 19 |
 | Samsung Semiconductor | Senior RTL Engineer, Memory Centric Computing | Aug 19 |
