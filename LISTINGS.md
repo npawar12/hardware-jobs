@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | NVIDIA 2027 Internships: Computer Architecture | Aug 19 |
+| NVIDIA | NVIDIA 2027 Internships: Deep Learning Computer Architecture | Aug 19 |
+| NVIDIA | NVIDIA 2027 Internships: Hardware ASIC Design | Aug 19 |
+| NVIDIA | NVIDIA 2027 Internships: Hardware Engineering | Aug 19 |
+| NVIDIA | NVIDIA 2027 Internships: Hardware Physical Design / VLSI | Aug 19 |
+| NVIDIA | NVIDIA 2027 Internships: Hardware Verification | Aug 19 |
 | Broadcom | R&D Hardware Engineer | Aug 18 |
 | NVIDIA | Senior EDA Engineer, SOC Design Methodology | Aug 17 |
 | Altera | Senior FPGA Circuit Design Engineer | Aug 17 |
