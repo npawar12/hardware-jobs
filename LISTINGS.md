@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Samsung Semiconductor | Senior Emulation Engineer | Aug 19 |
+| Samsung Semiconductor | Senior Physical Design Engineer | Aug 19 |
+| Samsung Semiconductor | Senior RTL Engineer, Memory Centric Computing | Aug 19 |
+| Nokia | Hardware Developer Eng Co-op/Intern | Aug 19 |
 | NVIDIA | NVIDIA 2027 Internships: Computer Architecture | Aug 19 |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning Computer Architecture | Aug 19 |
 | NVIDIA | NVIDIA 2027 Internships: Hardware ASIC Design | Aug 19 |

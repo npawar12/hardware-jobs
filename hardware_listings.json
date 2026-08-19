@@ -4021,5 +4021,41 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
     "board": "workday_nvidia",
     "date_added": "2026-08-19"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "role": "Senior Emulation Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7894223003",
+    "board": "greenhouse_samsungsemiconductor",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "role": "Senior Physical Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7894226003",
+    "board": "greenhouse_samsungsemiconductor",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "role": "Senior RTL Engineer, Memory Centric Computing",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7894229003",
+    "board": "greenhouse_samsungsemiconductor",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "Nokia",
+    "role": "Hardware Developer Eng Co-op/Intern",
+    "location": "Canada",
+    "type": "Co-op",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231",
+    "board": "oracle_fa-evmr-saasfaprod1",
+    "date_added": "2026-08-19"
   }
 ]
