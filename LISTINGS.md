@@ -458,6 +458,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | ASIC Design Verification Engineer | Aug 19 |
+| AMD | Senior ASIC Verification Engineer (PCIe/CXL) | Aug 19 |
+| AMD | RTL Design Engineer | Aug 19 |
+| Microsoft | Design Verification Engineer - DDR Memory Subsystem | Aug 19 |
+| Ayar Labs | Engineer, Silicon Validation | Aug 19 |
 | Keysight | ASIC Digital / DSP Design Engineer (Junior level) | Aug 18 |
 | Keysight | ASIC Digital Design Engineer | Aug 18 |
 | Siemens EDA | Product Engineer – AI-Driven Analog Chip Design - Remote* | Aug 18 |

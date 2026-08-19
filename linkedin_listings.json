@@ -1708,5 +1708,50 @@
     "url": "https://jobs.siemens.com/externaljobs/JobDetail/513292?source=LinkedIn&sourceType=PREMIUM_POST_SITE",
     "board": "linkedin",
     "date_added": "2026-08-18"
+  },
+  {
+    "company": "AMD",
+    "role": "ASIC Design Verification Engineer",
+    "location": "Rochester, NY",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/90455?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "AMD",
+    "role": "Senior ASIC Verification Engineer (PCIe/CXL)",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "",
+    "board": "linkedin",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "AMD",
+    "role": "RTL Design Engineer",
+    "location": "Rochester, NY",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/90457?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Design Verification Engineer - DDR Memory Subsystem",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962906?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-08-19"
+  },
+  {
+    "company": "Ayar Labs",
+    "role": "Engineer, Silicon Validation",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c66a3387ef016a468ba9d104e6&id=8a78859f9fd3baa0019fdb92b9bd059a&source=LinkedIn&lang=en",
+    "board": "linkedin",
+    "date_added": "2026-08-19"
   }
 ]
