@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Ambarella | DFT Engineer | US Headquarters | Early Career | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/DFT-Engineer_JR100353"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->0d |
 | Amazon | Cloud Hardware Development Engineer, AWS Networking Interconnects Team | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10509229/cloud-hardware-development-engineer-aws-networking-interconnects-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->0d |
 | ↳ | Cloud Hardware Development Engineer, AWS Networking NPD Interconnects Team | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10509250/cloud-hardware-development-engineer-aws-networking-npd-interconnects-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->0d |
 | NVIDIA | Senior ASIC Design Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer_JR2014886"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->0d |

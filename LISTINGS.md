@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ambarella | DFT Engineer | Aug 20 |
 | Amazon | Cloud Hardware Development Engineer, AWS Networking Interconnects Team | Aug 20 |
 | Amazon | Cloud Hardware Development Engineer, AWS Networking NPD Interconnects Team | Aug 20 |
 | NVIDIA | Senior ASIC Design Engineer | Aug 20 |
