@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior ASIC Verification Engineer | Aug 20 |
+| Analog Devices | Associate Digital Design Engineer | Aug 20 |
 | Amazon | Senior HW Dev Engineer-Payload, Hardware Development | Aug 19 |
 | Amazon | Quantum Hardware Engineer, Amazon's Center for Quantum Computing, Device Team | Aug 19 |
 | Amazon | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | Aug 19 |

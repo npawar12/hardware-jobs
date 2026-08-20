@@ -4120,5 +4120,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10507484/senior-hw-dev-engineer-payload-hardware-development",
     "board": "amazon",
     "date_added": "2026-08-19"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Verification Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2023827",
+    "board": "workday_nvidia",
+    "date_added": "2026-08-20"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Associate Digital Design Engineer",
+    "location": "US, CA, San Jose, Rio Robles",
+    "type": "Early Career",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286",
+    "board": "workday_analogdevices",
+    "date_added": "2026-08-20"
   }
 ]
