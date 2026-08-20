@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior ASIC Design Engineer | Aug 20 |
 | NVIDIA | Senior ASIC Verification Engineer | Aug 20 |
 | Analog Devices | Associate Digital Design Engineer | Aug 20 |
 | Amazon | Senior HW Dev Engineer-Payload, Hardware Development | Aug 19 |
