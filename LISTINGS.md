@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | Aug 20 |
+| Amazon | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | Aug 20 |
+| Amazon | Hardware Development Engineer, Amazon Leo Customer Terminal Hardware Team | Aug 20 |
 | Micron | Intern - HBM SoC RTL Design Engineer | Aug 20 |
 | Ambarella | DFT Engineer | Aug 20 |
 | Amazon | Cloud Hardware Development Engineer, AWS Networking Interconnects Team | Aug 20 |
