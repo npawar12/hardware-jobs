@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | Aug 21 |
+| Amazon | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | Aug 21 |
 | Micron | New College Grad - Engineer - HBM Design for Test (DFT) | Aug 21 |
 | Samsung Semiconductor | Senior RTL Engineer, IO Die and Interconnect IP | Aug 21 |
 | Analog Devices | Associate Digital Design Engineer | Aug 21 |
