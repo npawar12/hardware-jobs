@@ -4255,5 +4255,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10510773/hw-dev-engineer-i-payload-amazon-leo-hardware-development",
     "board": "amazon",
     "date_added": "2026-08-21"
+  },
+  {
+    "company": "Altera",
+    "role": "Physical Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02917",
+    "board": "workday_altera",
+    "date_added": "2026-08-21"
   }
 ]

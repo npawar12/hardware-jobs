@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | Physical Design Engineer | Aug 21 |
 | Amazon | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | Aug 21 |
 | Amazon | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | Aug 21 |
 | Micron | New College Grad - Engineer - HBM Design for Test (DFT) | Aug 21 |
