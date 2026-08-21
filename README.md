@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Analog Devices | Associate Digital Design Engineer | US, NC, Durham | Early Career | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 21-->0d |
 | Amazon | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10509626/senior-hw-dev-engineer-antenna-systems-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->1d |
 | ↳ | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10509620/senior-hw-dev-engineer-antenna-systems-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->1d |
 | ↳ | Hardware Development Engineer, Amazon Leo Customer Terminal Hardware Team | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10509652/hardware-development-engineer-amazon-leo-customer-terminal-hardware-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->1d |
