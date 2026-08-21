@@ -301,7 +301,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | ASIC Engineer - RF/DSP Systems Design, LEO  | US, CA, San Diego | Early Career | <a href="https://www.amazon.jobs/en/jobs/10458189/asic-engineer-rf-dsp-systems-design-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->40d |
 | ↳ | Post-Silicon Systems Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | 🔒 | <!--Jul 11-->40d |
 | ↳ | Cloud Hardware Development, Packaging, Network Product Development - Optics | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->40d |
-| ↳ | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10423294/sr-hw-dev-engineer-payload-amazon-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->40d |
+| ↳ | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->40d |
 | ↳ | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->40d |
 | ↳ | Post-Silicon Systems Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10444791/post-silicon-systems-validation-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->40d |
 | ↳ | Post-Silicon Systems Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10446098/post-silicon-systems-validation-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->40d |
@@ -319,7 +319,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->40d |
 | ↳ | High-Speed Interface Validation Engineer, Post Silicon Validation | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10434989/high-speed-interface-validation-engineer-post-silicon-validation"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->40d |
 | ↳ | Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->40d |
-| ↳ | HW Dev Engineer - Payload, Hardware Development, Amazon LEO | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10424428/hw-dev-engineer-payload-hardware-development-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->40d |
+| ↳ | HW Dev Engineer - Payload, Hardware Development, Amazon LEO | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->40d |
 | ↳ | Hardware Engineer, Amazon LEO | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->40d |
 | ↳ | Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10420575/software-development-engineer-bios-uefi-aws-hardware-engineering-firmware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->40d |
 | ↳ | Satellite Hardware Design Engineer, Amazon Leo | US, CA, San Diego | Early Career | 🔒 | <!--Jul 11-->40d |
