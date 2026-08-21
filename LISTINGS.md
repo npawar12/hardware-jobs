@@ -479,6 +479,33 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | 2027 Undergrad Firmware Engineering Co-op/Intern | Aug 21 |
+| AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Undergrad Hardware Design Verification Engineering Co-op/Intern | Aug 21 |
+| AMD | Sr. Silicon Design Engineer | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
+| AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
+| AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Co-op/Intern | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
+| AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
+| AMD | 2027 Undergrad Hardware Design Verification Engineering Co-op/Intern | Aug 21 |
+| AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Aug 21 |
+| AMD | 2027 Masters Hardware Design Verification Engineering Intern/Co-op | Aug 21 |
+| Microsoft | Design Verification Engineer | Aug 21 |
 | AMD | ASIC Design Verification Engineer | Aug 19 |
 | AMD | Senior ASIC Verification Engineer (PCIe/CXL) | Aug 19 |
 | AMD | RTL Design Engineer | Aug 19 |
