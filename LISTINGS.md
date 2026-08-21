@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Samsung Semiconductor | Senior RTL Engineer, IO Die and Interconnect IP | Aug 21 |
 | Analog Devices | Associate Digital Design Engineer | Aug 21 |
 | Amazon | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | Aug 20 |
 | Amazon | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | Aug 20 |
