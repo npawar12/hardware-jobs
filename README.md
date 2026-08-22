@@ -502,6 +502,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | RTL Design & Integration Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/90583?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 22-->0d |
+| Applied Materials | Physical Design PDK Engineer | Santa Clara, CA | Early Career | <a href="https://dsp.prng.co/UKnGJjb?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 22-->0d |
 | AMD | 2027 Undergrad Firmware Engineering Co-op/Intern | Santa Clara, CA | Co-op | <a href="https://careers.amd.com/jobs/90807?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 21-->1d |
 | ↳ | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Fishkill, NY | Co-op | <a href="https://careers.amd.com/jobs/90820?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 21-->1d |
 | ↳ | 2027 Undergrad Firmware Engineering Intern/Co-op | Fort Collins, CO | Co-op | <a href="https://careers.amd.com/jobs/90801?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 21-->1d |

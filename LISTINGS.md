@@ -486,6 +486,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | RTL Design & Integration Engineer | Aug 22 |
+| Applied Materials | Physical Design PDK Engineer | Aug 22 |
 | AMD | 2027 Undergrad Firmware Engineering Co-op/Intern | Aug 21 |
 | AMD | 2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op | Aug 21 |
 | AMD | 2027 Undergrad Firmware Engineering Intern/Co-op | Aug 21 |
