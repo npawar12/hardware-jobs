@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Aug 24 |
 | Broadcom | IC Verification Engineer | Aug 24 |
 | Broadcom | Board Hardware Engineer | Aug 24 |
 | Intel | RTL Design Engineer | Aug 22 |
