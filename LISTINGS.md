@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Aerospace Hardware Development Engineer, LEO | Aug 24 |
 | Cisco | Senior ASIC Physical Design Developer | Aug 24 |
 | Amazon | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | Aug 24 |
 | Broadcom | IC Verification Engineer | Aug 24 |
