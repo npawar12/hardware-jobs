@@ -4300,5 +4300,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10512689/sr-hw-dev-engineer-payload-amazon-leo-hardware-development",
     "board": "amazon",
     "date_added": "2026-08-24"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior ASIC Physical Design Developer",
+    "location": "Vancouver, British Columbia, Canada",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Senior-ASIC-Physical-Design-Developer_2019476-2",
+    "board": "workday_cisco",
+    "date_added": "2026-08-24"
   }
 ]
