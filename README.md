@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Broadcom | IC Verification Engineer | USA-California-San Jose-1320 Ridder Park Drive | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/IC-Verification-Engineer_R026925-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 24-->0d |
+| ↳ | Board Hardware Engineer | USA-GA-Duluth-River Green Parkway | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R026936-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 24-->0d |
 | Intel | RTL Design Engineer | US, Oregon, Hillsboro | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/RTL-Design-Engineer_JR0286568"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 22-->2d |
 | Altera | Physical Design Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02917"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 21-->3d |
 | Amazon | HW Dev Engineer I - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10510772/hw-dev-engineer-i-payload-amazon-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 21-->3d |
