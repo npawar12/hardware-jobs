@@ -486,6 +486,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr. PCB Physical Design Engineer | Aug 24 |
 | AMD | RTL Design & Integration Engineer | Aug 22 |
 | Applied Materials | Physical Design PDK Engineer | Aug 22 |
 | AMD | 2027 Undergrad Firmware Engineering Co-op/Intern | Aug 21 |
