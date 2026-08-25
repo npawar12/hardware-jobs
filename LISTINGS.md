@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Software Development Engineer, AWS Hardware Engineering | Aug 25 |
 | Cisco | Hardware Post-Silicon Validation Engineer (Hybrid) | Aug 25 |
 | NVIDIA | Cell Modeling and Verification Engineer - New College Grad 2026 | Aug 25 |
 | Intel | CPU Core  Physical Design Engineer | Aug 25 |
