@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Dell | Hardware Engineer 1 | Aug 24 |
 | Broadcom | Physical Design Engineer | Aug 24 |
 | Broadcom | Physical Design Engineer | Aug 24 |
 | Amazon | Aerospace Hardware Development Engineer, LEO | Aug 24 |
