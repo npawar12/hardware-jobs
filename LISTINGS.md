@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Micron | Sr Design Verification Engineer, DRAM | Aug 25 |
 | Nokia | Jr. Hardware Engineer | Aug 25 |
 | Analog Devices | Associate Design Verification Engineer | Aug 25 |
 | Cadence | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Aug 25 |

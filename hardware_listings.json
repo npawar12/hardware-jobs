@@ -4390,5 +4390,14 @@
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39041",
     "board": "oracle_fa-evmr-saasfaprod1",
     "date_added": "2026-08-25"
+  },
+  {
+    "company": "Micron",
+    "role": "Sr Design Verification Engineer, DRAM",
+    "location": "Boise, ID - Main Site",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Design-Verification-Engineer--DRAM_JR109689",
+    "board": "workday_micron",
+    "date_added": "2026-08-25"
   }
 ]
