@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cadence | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Aug 25 |
+| Cadence | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Aug 25 |
+| Cadence | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Aug 25 |
 | Dell | Hardware Engineer 1 | Aug 24 |
 | Broadcom | Physical Design Engineer | Aug 24 |
 | Broadcom | Physical Design Engineer | Aug 24 |
