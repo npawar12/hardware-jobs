@@ -497,6 +497,14 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
+| Teradyne | Hardware Verification Engineer | Aug 25 |
 | AMD | Sr. PCB Physical Design Engineer | Aug 24 |
 | AMD | RTL Design & Integration Engineer | Aug 22 |
 | Applied Materials | Physical Design PDK Engineer | Aug 22 |
