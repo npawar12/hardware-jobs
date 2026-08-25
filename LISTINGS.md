@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Hardware Post-Silicon Validation Engineer (Hybrid) | Aug 25 |
 | NVIDIA | Cell Modeling and Verification Engineer - New College Grad 2026 | Aug 25 |
 | Intel | CPU Core  Physical Design Engineer | Aug 25 |
 | Micron | Sr Design Verification Engineer, DRAM | Aug 25 |
