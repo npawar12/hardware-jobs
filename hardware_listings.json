@@ -4435,5 +4435,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10515096/software-development-engineer-aws-hardware-engineering",
     "board": "amazon",
     "date_added": "2026-08-25"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Sr. Engineer, SoC Design Verification Engineer, System Management Controller ",
+    "location": "Boston, Massachusetts, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5221743007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-08-26"
   }
 ]
