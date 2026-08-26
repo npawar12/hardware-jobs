@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cadence | DSP Hardware Design Engineer | Aug 26 |
+| Ambarella | ASIC Design Engineer Intern | Aug 26 |
+| Texas Instruments | Design Verification Engineer | Aug 26 |
 | Amazon | Software Development Engineer, AWS Hardware Engineering | Aug 26 |
 | Tenstorrent | Sr. Engineer, SoC Design Verification Engineer, System Management Controller | Aug 26 |
 | Amazon | Software Development Engineer, AWS Hardware Engineering | Aug 25 |

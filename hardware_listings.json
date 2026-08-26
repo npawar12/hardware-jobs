@@ -4453,5 +4453,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10515704/software-development-engineer-aws-hardware-engineering",
     "board": "amazon",
     "date_added": "2026-08-26"
+  },
+  {
+    "company": "Cadence",
+    "role": "DSP Hardware Design Engineer",
+    "location": "SAN JOSE",
+    "type": "Early Career",
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/DSP-Hardware-Design-Engineer_R56126",
+    "board": "workday_cadence",
+    "date_added": "2026-08-26"
+  },
+  {
+    "company": "Ambarella",
+    "role": "ASIC Design Engineer Intern",
+    "location": "US Headquarters",
+    "type": "Summer 2027 Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357",
+    "board": "workday_ambarella",
+    "date_added": "2026-08-26"
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Design Verification Engineer",
+    "location": "Dallas, TX, United States",
+    "type": "Early Career",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017445",
+    "board": "oracle_edbz",
+    "date_added": "2026-08-26"
   }
 ]
