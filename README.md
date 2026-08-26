@@ -520,6 +520,10 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| IBM | Hardware Developer Intern 2027 -Poughkeepsie | Poughkeepsie, AR | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=130026&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 26-->0d |
+| ↳ | Hardware Developer Intern 2027 -Austin | Austin, TX | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=129936&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 26-->0d |
+| ↳ | Entry Level Hardware Developer 2027 -Poughkeepsie | Poughkeepsie, AR | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=130874&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 26-->0d |
+| Arm | Senior SoC Verification Engineer | Austin, TX | Early Career | <a href="https://careers.arm.com/job/austin/senior-soc-verification-engineer/33099/99734778464"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 26-->0d |
 | AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Longmont, CO | Co-op | <a href="https://careers.amd.com/jobs/91466?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 25-->1d |
 | ↳ | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Boxborough, MA | Co-op | <a href="https://careers.amd.com/jobs/91466?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 25-->1d |
 | ↳ | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Austin, TX | Co-op | <a href="https://careers.amd.com/jobs/91466?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 25-->1d |

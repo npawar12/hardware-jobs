@@ -504,6 +504,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| IBM | Hardware Developer Intern 2027 -Poughkeepsie | Aug 26 |
+| IBM | Hardware Developer Intern 2027 -Austin | Aug 26 |
+| IBM | Entry Level Hardware Developer 2027 -Poughkeepsie | Aug 26 |
+| Arm | Senior SoC Verification Engineer | Aug 26 |
 | AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
 | AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
 | AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 25 |
