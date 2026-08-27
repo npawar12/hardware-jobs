@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Engineer | Aug 27 |
+| NXP | Senior Verification Engineer | Aug 27 |
+| Ciena | ASIC Synthesis and STA Engineer - New Grad | Aug 27 |
+| Ambarella | DFT Engineer Intern | Aug 27 |
+| Ambarella | Verification Engineer Intern | Aug 27 |
 | Cadence | DSP Hardware Design Engineer | Aug 26 |
 | Ambarella | ASIC Design Engineer Intern | Aug 26 |
 | Texas Instruments | Design Verification Engineer | Aug 26 |

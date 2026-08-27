@@ -4480,5 +4480,50 @@
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017445",
     "board": "oracle_edbz",
     "date_added": "2026-08-26"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2020819-1",
+    "board": "workday_cisco",
+    "date_added": "2026-08-27"
+  },
+  {
+    "company": "NXP",
+    "role": "Senior Verification Engineer",
+    "location": "Austin (Oakhill, Office)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Senior-Verification-Engineer_R-10066102",
+    "board": "workday_nxp",
+    "date_added": "2026-08-27"
+  },
+  {
+    "company": "Ciena",
+    "role": "ASIC Synthesis and STA Engineer - New Grad",
+    "location": "Ottawa",
+    "type": "New Grad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/ASIC-Synthesis-and-STA-Engineer---New-Grad_R030893",
+    "board": "workday_ciena",
+    "date_added": "2026-08-27"
+  },
+  {
+    "company": "Ambarella",
+    "role": "DFT Engineer Intern",
+    "location": "US Headquarters",
+    "type": "Summer 2027 Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360",
+    "board": "workday_ambarella",
+    "date_added": "2026-08-27"
+  },
+  {
+    "company": "Ambarella",
+    "role": "Verification Engineer Intern",
+    "location": "US Headquarters",
+    "type": "Summer 2027 Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364",
+    "board": "workday_ambarella",
+    "date_added": "2026-08-27"
   }
 ]
