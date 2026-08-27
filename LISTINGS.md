@@ -509,6 +509,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | ASIC Engineer, Performance Architecture and Modeling | Aug 27 |
 | IBM | Hardware Developer Intern 2027 -Poughkeepsie | Aug 26 |
 | IBM | Hardware Developer Intern 2027 -Austin | Aug 26 |
 | IBM | Entry Level Hardware Developer 2027 -Poughkeepsie | Aug 26 |
