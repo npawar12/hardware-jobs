@@ -325,7 +325,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | MLA IP Design Verification Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->46d |
 | ↳ | Hardware Development Engineer | US, CA, Pasadena | Early Career | <a href="https://www.amazon.jobs/en/jobs/3176565/hardware-development-engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->46d |
 | ↳ | Sr. Product Design Engineer, Hardware Development | US, CA, Sunnyvale | Early Career | <a href="https://www.amazon.jobs/en/jobs/10453273/sr-product-design-engineer-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->46d |
-| ↳ | Hardware Development Engineer, Hardware Development, Amazon LEO | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/3086616/hardware-development-engineer-hardware-development-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->46d |
+| ↳ | Hardware Development Engineer, Hardware Development, Amazon LEO | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->46d |
 | ↳ | HW Dev Engineer-Payload, Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->46d |
 | ↳ | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->46d |
 | ↳ | ASIC Engineer - RF/DSP Systems Design, LEO  | US, CA, San Diego | Early Career | 🔒 | <!--Jul 11-->46d |
