@@ -4525,5 +4525,32 @@
     "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364",
     "board": "workday_ambarella",
     "date_added": "2026-08-27"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Test Development Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Test-Development-Engineer_2023932-1",
+    "board": "workday_cisco",
+    "date_added": "2026-08-28"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Engineer Intern, Annapurna Labs - 2027",
+    "location": "US, CA, Cupertino",
+    "type": "Summer 2027 Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+    "board": "amazon",
+    "date_added": "2026-08-28"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+    "location": "US, TX, Austin",
+    "type": "Summer 2027 Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+    "board": "amazon",
+    "date_added": "2026-08-28"
   }
 ]
