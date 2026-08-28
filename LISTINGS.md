@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Engineer | Aug 28 |
 | Cisco | ASIC Test Development Engineer | Aug 28 |
 | Amazon | ASIC Engineer Intern, Annapurna Labs - 2027 | Aug 28 |
 | Amazon | Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027 | Aug 28 |
