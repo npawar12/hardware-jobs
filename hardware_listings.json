@@ -4561,5 +4561,32 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2023684",
     "board": "workday_cisco",
     "date_added": "2026-08-28"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Verification Engineer",
+    "location": "USA-CA Irvine Alton Parkway Bldg 2",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Design-Engineer_R024631",
+    "board": "workday_broadcom",
+    "date_added": "2026-08-28"
+  },
+  {
+    "company": "Amazon",
+    "role": "Design Verification Engineer, Amazon Leo",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10519874/design-verification-engineer-amazon-leo",
+    "board": "amazon",
+    "date_added": "2026-08-28"
+  },
+  {
+    "company": "Amazon",
+    "role": "DFT Engineer, Amazon Leo",
+    "location": "US, CA, San Diego",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10520831/dft-engineer-amazon-leo",
+    "board": "amazon",
+    "date_added": "2026-08-28"
   }
 ]

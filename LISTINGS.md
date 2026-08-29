@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | ASIC Verification Engineer | Aug 28 |
+| Amazon | Design Verification Engineer, Amazon Leo | Aug 28 |
+| Amazon | DFT Engineer, Amazon Leo | Aug 28 |
 | Cisco | ASIC Engineer | Aug 28 |
 | Cisco | ASIC Test Development Engineer | Aug 28 |
 | Amazon | ASIC Engineer Intern, Annapurna Labs - 2027 | Aug 28 |

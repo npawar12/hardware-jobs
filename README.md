@@ -18,6 +18,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Broadcom | ASIC Verification Engineer | USA-CA Irvine Alton Parkway Bldg 2 | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Design-Engineer_R024631"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 28-->0d |
+| Amazon | Design Verification Engineer, Amazon Leo | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10519874/design-verification-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 28-->0d |
+| ↳ | DFT Engineer, Amazon Leo | US, CA, San Diego | Early Career | <a href="https://www.amazon.jobs/en/jobs/10520831/dft-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 28-->0d |
 | Cisco | ASIC Engineer | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2023684"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 28-->0d |
 | Cisco | ASIC Test Development Engineer | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Test-Development-Engineer_2023932-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 28-->0d |
 | Amazon | ASIC Engineer Intern, Annapurna Labs - 2027 | US, CA, Cupertino | Summer 2027 Intern | <a href="https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 28-->0d |
