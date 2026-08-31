@@ -4588,5 +4588,41 @@
     "url": "https://www.amazon.jobs/en/jobs/10520831/dft-engineer-amazon-leo",
     "board": "amazon",
     "date_added": "2026-08-28"
+  },
+  {
+    "company": "Intel",
+    "role": "GPU Design Verification Engineer",
+    "location": "US, California, Folsom",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0286796",
+    "board": "workday_intel",
+    "date_added": "2026-08-31"
+  },
+  {
+    "company": "Intel",
+    "role": "CPU Core  Physical Design Engineer",
+    "location": "US, California, Folsom",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Core--Physical-Design-Engineer_JR0286798-1",
+    "board": "workday_intel",
+    "date_added": "2026-08-31"
+  },
+  {
+    "company": "Broadcom",
+    "role": "DFT Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/DFT-Engineer_R026964",
+    "board": "workday_broadcom",
+    "date_added": "2026-08-31"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer , Network Product Development ",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10522481/cloud-hardware-development-engineer-network-product-development",
+    "board": "amazon",
+    "date_added": "2026-08-31"
   }
 ]
