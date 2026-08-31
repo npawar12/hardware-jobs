@@ -537,6 +537,10 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Silicon Design Verification Engineer-FPGA/System Verilog | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/79779?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 31-->0d |
+| ↳ | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Secaucus, NJ | Co-op | <a href="https://careers.amd.com/jobs/91466?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 31-->0d |
+| Microsoft | Silicon Engineering INTERN | Santa Clara, CA | Summer 2027 Intern | <a href="https://apply.careers.microsoft.com/careers/job/1970393556958170?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 31-->0d |
+| IBM | Entry Level Hardware Developer 2027 -Austin | Austin, TX | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=130877&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 31-->0d |
 | IBM | Hardware Developer Intern 2027 -Tucson, AZ | Tucson, AZ | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=130928&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 29-->2d |
 | Synopsys | Silicon Validation Engineer | Hillsboro, OR | Early Career | <a href="https://careers.synopsys.com/job/-/-/44408/99827095376"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 29-->2d |
 | IBM | IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern 2027 | Poughkeepsie, AR | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=129926&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 28-->3d |

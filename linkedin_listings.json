@@ -2176,5 +2176,41 @@
     "url": "https://careers.synopsys.com/job/-/-/44408/99827095376",
     "board": "linkedin",
     "date_added": "2026-08-29"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon Design Verification Engineer-FPGA/System Verilog",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/79779?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-08-31"
+  },
+  {
+    "company": "AMD",
+    "role": "2027 Undergrad ASIC Package Engineering Co-op/Intern",
+    "location": "Secaucus, NJ",
+    "type": "Co-op",
+    "url": "https://careers.amd.com/jobs/91466?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-08-31"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Silicon Engineering INTERN",
+    "location": "Santa Clara, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-08-31"
+  },
+  {
+    "company": "IBM",
+    "role": "Entry Level Hardware Developer 2027 -Austin",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=130877&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-08-31"
   }
 ]

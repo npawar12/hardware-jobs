@@ -521,6 +521,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Silicon Design Verification Engineer-FPGA/System Verilog | Aug 31 |
+| AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 31 |
+| Microsoft | Silicon Engineering INTERN | Aug 31 |
+| IBM | Entry Level Hardware Developer 2027 -Austin | Aug 31 |
 | IBM | Hardware Developer Intern 2027 -Tucson, AZ | Aug 29 |
 | Synopsys | Silicon Validation Engineer | Aug 29 |
 | IBM | IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern 2027 | Aug 28 |
