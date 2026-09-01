@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| GlobalFoundries | CPU Design Verification Engineer (2027 New College Graduate) | Sep 1 |
 | Amazon | PrProServe Account Executive , NAMER RTL/CPG | Sep 1 |
 | Intel | GPU Design Verification Engineer | Aug 31 |
 | Intel | CPU Core  Physical Design Engineer | Aug 31 |

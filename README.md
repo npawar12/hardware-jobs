@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| GlobalFoundries | CPU Design Verification Engineer (2027 New College Graduate) | USA - Texas - Richardson | New Grad | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/CPU-Design-Verification-Engineer--2027-New-College-Graduate-_JR-2604138"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->0d |
 | Amazon | PrProServe Account Executive , NAMER RTL/CPG | US, VA, Arlington | Early Career | <a href="https://www.amazon.jobs/en/jobs/10523241/prproserve-account-executive-namer-rtl-cpg"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->0d |
 | Intel | GPU Design Verification Engineer | US, California, Folsom | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0286796"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 31-->1d |
 | ↳ | CPU Core  Physical Design Engineer | US, California, Folsom | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Core--Physical-Design-Engineer_JR0286798-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 31-->1d |
