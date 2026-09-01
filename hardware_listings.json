@@ -4642,5 +4642,32 @@
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/CPU-Design-Verification-Engineer--2027-New-College-Graduate-_JR-2604138",
     "board": "workday_globalfoundries",
     "date_added": "2026-09-01"
+  },
+  {
+    "company": "Marvell",
+    "role": "Advanced Packaging Design Verification & Physical Validation Engineer",
+    "location": "Burlington, VT",
+    "type": "Early Career",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Design-Verification---Physical-Validation-Engineer_2604381",
+    "board": "workday_marvell",
+    "date_added": "2026-09-01"
+  },
+  {
+    "company": "NXP",
+    "role": "AI/ML driven ASIC Design and Implementation Automation Engineer",
+    "location": "San Diego (Treena St)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10066289-1",
+    "board": "workday_nxp",
+    "date_added": "2026-09-01"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10524437/sr-software-development-engineer-bios-uefi-aws-hardware-engineering-firmware-development",
+    "board": "amazon",
+    "date_added": "2026-09-01"
   }
 ]
