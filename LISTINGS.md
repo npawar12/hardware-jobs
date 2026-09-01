@@ -526,6 +526,28 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | DFT ATPG Design and Test Engineer | Sep 1 |
+| AMD | CPU Verification Engineer | Sep 1 |
+| AMD | CPU Core Architecture/RTL Engineer | Sep 1 |
+| Google | Silicon Engineer- P and D- (gCPU), Design Verification (multiple openings) | Sep 1 |
+| Google | Hardware Engineer | Sep 1 |
+| Google | Senior Wafer Test Hardware Engineer, Raxium | Sep 1 |
+| IBM | Hardware Engineer (Apprentice Conversion) | Sep 1 |
+| Arm | Graduate Program - Engineering Pathways | Sep 1 |
+| Arm | Intern Program - Engineering Pathways | Sep 1 |
+| Arm | Intern Program - Engineering Pathways | Sep 1 |
+| Arm | Graduate Program - Engineering Pathways | Sep 1 |
+| Arm | Intern Program - Engineering Pathways | Sep 1 |
+| Arm | Graduate Program - Engineering Pathways | Sep 1 |
+| Arm | Graduate Program - Engineering Pathways | Sep 1 |
+| Arm | Intern Program - Engineering Pathways | Sep 1 |
+| Arm | Intern Program - Engineering Pathways | Sep 1 |
+| Arm | Intern Program - Engineering Pathways | Sep 1 |
+| Arm | Graduate Program - Engineering Pathways | Sep 1 |
+| Arm | Graduate Program - Engineering Pathways | Sep 1 |
+| Hudson River Trading | Design Verification (DV) Engineer - 2027 Grads | Sep 1 |
+| Hudson River Trading | Hardware Engineer Internship - Summer 2027 | Sep 1 |
+| Hudson River Trading | Hardware Design Engineer - 2027 Grads | Sep 1 |
 | AMD | Silicon Design Verification Engineer-FPGA/System Verilog | Aug 31 |
 | AMD | 2027 Undergrad ASIC Package Engineering Co-op/Intern | Aug 31 |
 | Microsoft | Silicon Engineering INTERN | Aug 31 |
