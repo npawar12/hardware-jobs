@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NXP | Entry Level Digital Verification Engineer | Sep 2 |
 | Texas Instruments | Design Verification Engineering Intern - Bachelors | Sep 2 |
 | Texas Instruments | Digital IC Design Engineering Intern - Bachelors | Sep 2 |
 | Texas Instruments | Career Accelerator Program - Digital Design Engineer - Bachelors | Sep 2 |
