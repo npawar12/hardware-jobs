@@ -4669,5 +4669,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10524437/sr-software-development-engineer-bios-uefi-aws-hardware-engineering-firmware-development",
     "board": "amazon",
     "date_added": "2026-09-01"
+  },
+  {
+    "company": "Altera",
+    "role": "Place and Route Design Automation Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Place-and-Route-Design-Automation-Engineer_R02501",
+    "board": "workday_altera",
+    "date_added": "2026-09-01"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, Launch Vehicle Integration - Electrical Engineering",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10524995/hardware-development-engineer-launch-vehicle-integration-electrical-engineering",
+    "board": "amazon",
+    "date_added": "2026-09-01"
   }
 ]

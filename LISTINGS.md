@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | Place and Route Design Automation Engineer | Sep 1 |
+| Amazon | Hardware Development Engineer, Launch Vehicle Integration - Electrical Engineering | Sep 1 |
 | Marvell | Advanced Packaging Design Verification & Physical Validation Engineer | Sep 1 |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | Sep 1 |
 | Amazon | Sr Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development | Sep 1 |
