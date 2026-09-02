@@ -532,6 +532,25 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | GPU Design Verification Engineer - Shader Core | Sep 2 |
+| AMD | IP Verification Engineer | Sep 2 |
+| IBM | Entry Level Hardware Developer 2027 -Poughkeepsie, NY | Sep 2 |
+| IBM | Hardware Developer Intern 2027 -Houston, TX | Sep 2 |
+| IBM | Hardware Developer Intern - Austin, TX - 2027 | Sep 2 |
+| IBM | Entry level Hardware Developer - Rochester, MN - 2027 | Sep 2 |
+| IBM | Entry Level Hardware Developer 2027 -New York | Sep 2 |
+| IBM | Entry Level Hardware Developer 2027 -New York | Sep 2 |
+| IBM | Entry level Hardware Developer - Austin, TX - 2027 | Sep 2 |
+| IBM | Hardware Developer Intern - Poughkeepsie, NY - 2027 | Sep 2 |
+| IBM | Hardware Developer Intern 2027 -Rochester, MN | Sep 2 |
+| IBM | Hardware Developer Intern 2027 -San Jose, CA | Sep 2 |
+| IBM | Entry Level Hardware Developer 2027 -Rochester, MN | Sep 2 |
+| IBM | Hardware Developer Intern - Rochester, MN - 2027 | Sep 2 |
+| IBM | Hardware Developer Intern 2027 -Austin, TX | Sep 2 |
+| IBM | Hardware Developer Intern 2027 -Poughkeepsie, NY | Sep 2 |
+| Arm | Intern Program - Engineering Pathways | Sep 2 |
+| Arm | Graduate Program - Engineering Pathways | Sep 2 |
+| Arm | SoC Security Architecture | Sep 2 |
 | AMD | DFT ATPG Design and Test Engineer | Sep 1 |
 | AMD | CPU Verification Engineer | Sep 1 |
 | AMD | CPU Core Architecture/RTL Engineer | Sep 1 |
