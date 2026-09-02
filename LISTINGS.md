@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Texas Instruments | Design Verification Engineering Intern - Bachelors | Sep 2 |
+| Texas Instruments | Digital IC Design Engineering Intern - Bachelors | Sep 2 |
+| Texas Instruments | Career Accelerator Program - Digital Design Engineer - Bachelors | Sep 2 |
+| Amazon | FPGA Engineer, Antenna Calibration, Amazon Leo | Sep 2 |
 | Cisco | ASIC Engineer | Sep 2 |
 | Altera | Place and Route Design Automation Engineer | Sep 1 |
 | Amazon | Hardware Development Engineer, Launch Vehicle Integration - Electrical Engineering | Sep 1 |
