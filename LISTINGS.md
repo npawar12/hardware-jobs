@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Engineer | Sep 2 |
 | Altera | Place and Route Design Automation Engineer | Sep 1 |
 | Amazon | Hardware Development Engineer, Launch Vehicle Integration - Electrical Engineering | Sep 1 |
 | Marvell | Advanced Packaging Design Verification & Physical Validation Engineer | Sep 1 |

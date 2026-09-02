@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cisco | ASIC Engineer | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2024546-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 2-->0d |
 | Altera | Place and Route Design Automation Engineer | Toronto, Ontario, Canada | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Place-and-Route-Design-Automation-Engineer_R02501"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->1d |
 | Amazon | Hardware Development Engineer, Launch Vehicle Integration - Electrical Engineering | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10524995/hardware-development-engineer-launch-vehicle-integration-electrical-engineering"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->1d |
 | Marvell | Advanced Packaging Design Verification & Physical Validation Engineer | Burlington, VT | Early Career | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Design-Verification---Physical-Validation-Engineer_2604381"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->1d |
