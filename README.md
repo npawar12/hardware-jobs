@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microchip | ASIC Development Engineer | Canada - Burnaby | Early Career | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/Canada---Burnaby/ASIC-Development-Engineer_R3761-26"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 3-->0d |
 | Texas Instruments | Career Accelerator Program - Design Verification Engineer- Bachelors | Dallas, TX, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017553"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 3-->0d |
 | Etched | Silicon Validation Engineer, Software | San Jose | Early Career | <a href="https://jobs.ashbyhq.com/etched/82622c6f-9b8f-44d1-b8fc-2d4634f5abbf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 3-->0d |
 | NXP | Entry Level Digital Verification Engineer | Austin (Oakhill, Office) | Early Career | <a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065556"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 2-->1d |

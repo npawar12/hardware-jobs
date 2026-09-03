@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microchip | ASIC Development Engineer | Sep 3 |
 | Texas Instruments | Career Accelerator Program - Design Verification Engineer- Bachelors | Sep 3 |
 | Etched | Silicon Validation Engineer, Software | Sep 3 |
 | NXP | Entry Level Digital Verification Engineer | Sep 2 |
