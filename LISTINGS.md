@@ -539,6 +539,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr. Physical Design CAD Engineer | Sep 3 |
+| Meta | ASIC Engineer, EDA Infrastructure | Sep 3 |
+| Meta | ASIC Engineer, EDA Infrastructure | Sep 3 |
+| IBM | Hardware Developer - Return Intern 2026/2027 | Sep 3 |
+| IBM | Entry Level Hardware Developer - Intern Conversion 2026-2027 | Sep 3 |
+| IBM | Hardware Developer - Return Intern 2026-2027 | Sep 3 |
 | AMD | GPU Design Verification Engineer - Shader Core | Sep 2 |
 | AMD | IP Verification Engineer | Sep 2 |
 | IBM | Entry Level Hardware Developer 2027 -Poughkeepsie, NY | Sep 2 |

@@ -2581,5 +2581,59 @@
     "url": "https://careers.arm.com/job/chandler/principal-board-package-co-design-architect/33099/99030822768",
     "board": "linkedin",
     "date_added": "2026-09-02"
+  },
+  {
+    "company": "AMD",
+    "role": "Sr. Physical Design CAD Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/91306?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-03"
+  },
+  {
+    "company": "Meta",
+    "role": "ASIC Engineer, EDA Infrastructure",
+    "location": "Menlo Park, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE000000124bUAA_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F817488728088813%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D6b9519c5-a665-11f1-ae62-af50cefeae4c%26rx_job%3Da1KiE000000124bUAA_1001%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-09-03"
+  },
+  {
+    "company": "Meta",
+    "role": "ASIC Engineer, EDA Infrastructure",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE000000124bUAA&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F817488728088813%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D6b9509a2-a665-11f1-9d54-af50cefeae4c%26rx_job%3Da1KiE000000124bUAA%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-09-03"
+  },
+  {
+    "company": "IBM",
+    "role": "Hardware Developer - Return Intern 2026/2027",
+    "location": "Tucson, AZ",
+    "type": "Summer 2027 Intern",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=129263&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-03"
+  },
+  {
+    "company": "IBM",
+    "role": "Entry Level Hardware Developer - Intern Conversion 2026-2027",
+    "location": "Rochester, MN",
+    "type": "Summer 2027 Intern",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=128529&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-03"
+  },
+  {
+    "company": "IBM",
+    "role": "Hardware Developer - Return Intern 2026-2027",
+    "location": "San Jose, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=128707&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-03"
   }
 ]
