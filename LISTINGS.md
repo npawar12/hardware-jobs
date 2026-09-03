@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Texas Instruments | Career Accelerator Program - Design Verification Engineer- Bachelors | Sep 3 |
 | Etched | Silicon Validation Engineer, Software | Sep 3 |
 | NXP | Entry Level Digital Verification Engineer | Sep 2 |
 | Texas Instruments | Design Verification Engineering Intern - Bachelors | Sep 2 |
