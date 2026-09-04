@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Sr. Engineer, SoC Design Verification, PCIe | Sep 4 |
 | Microchip | ASIC Development Engineer | Sep 3 |
 | Texas Instruments | Career Accelerator Program - Design Verification Engineer- Bachelors | Sep 3 |
 | Etched | Silicon Validation Engineer, Software | Sep 3 |
