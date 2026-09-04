@@ -2635,5 +2635,41 @@
     "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=128707&src=SN_LinkedIn",
     "board": "linkedin",
     "date_added": "2026-09-03"
+  },
+  {
+    "company": "AMD",
+    "role": "Solution Validation Engineer--FPGA/SoC",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/91636?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-04"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Design Verification Engineer",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962075?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-04"
+  },
+  {
+    "company": "Arm",
+    "role": "IP Verification Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/ip-verification-engineer/33099/100146368240",
+    "board": "linkedin",
+    "date_added": "2026-09-04"
+  },
+  {
+    "company": "Susquehanna (SIG)",
+    "role": "FPGA Engineering Internship: Summer 2027",
+    "location": "Bala-Cynwyd, PA",
+    "type": "Summer 2027 Intern",
+    "url": "https://careers.sig.com/jobs/11446?lang=en-us&mode=apply&iis=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-04"
   }
 ]

@@ -541,6 +541,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Solution Validation Engineer--FPGA/SoC | Sep 4 |
+| Microsoft | Design Verification Engineer | Sep 4 |
+| Arm | IP Verification Engineer | Sep 4 |
+| Susquehanna (SIG) | FPGA Engineering Internship: Summer 2027 | Sep 4 |
 | AMD | Sr. Physical Design CAD Engineer | Sep 3 |
 | Meta | ASIC Engineer, EDA Infrastructure | Sep 3 |
 | Meta | ASIC Engineer, EDA Infrastructure | Sep 3 |
