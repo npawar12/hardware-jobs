@@ -4777,5 +4777,32 @@
     "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5223677007",
     "board": "greenhouse_tenstorrent",
     "date_added": "2026-09-04"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior ASIC Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-Engineer_2022496",
+    "board": "workday_cisco",
+    "date_added": "2026-09-04"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer, AWS Networking Interconnects Team",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10530395/cloud-hardware-development-engineer-aws-networking-interconnects-team",
+    "board": "amazon",
+    "date_added": "2026-09-04"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer, AWS - Early Career (2026)",
+    "location": "US, WA, Seattle",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
+    "board": "amazon",
+    "date_added": "2026-09-04"
   }
 ]
