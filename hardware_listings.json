@@ -4804,5 +4804,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
     "board": "amazon",
     "date_added": "2026-09-04"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2000499",
+    "board": "workday_nvidia",
+    "date_added": "2026-09-04"
   }
 ]

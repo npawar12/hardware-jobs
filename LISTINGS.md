@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior DFT Engineer | Sep 4 |
 | Cisco | Senior ASIC Engineer | Sep 4 |
 | Amazon | Cloud Hardware Development Engineer, AWS Networking Interconnects Team | Sep 4 |
 | Amazon | Cloud Hardware Development Engineer, AWS - Early Career (2026) | Sep 4 |
