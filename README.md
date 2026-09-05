@@ -563,6 +563,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | SRAM Physical Design Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/90109?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 5-->0d |
 | AMD | Solution Validation Engineer--FPGA/SoC | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/91636?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 4-->1d |
 | Microsoft | Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556962075?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 4-->1d |
 | Arm | IP Verification Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/chandler/ip-verification-engineer/33099/100146368240"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 4-->1d |

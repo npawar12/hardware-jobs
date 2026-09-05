@@ -547,6 +547,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SRAM Physical Design Engineer | Sep 5 |
 | AMD | Solution Validation Engineer--FPGA/SoC | Sep 4 |
 | Microsoft | Design Verification Engineer | Sep 4 |
 | Arm | IP Verification Engineer | Sep 4 |
