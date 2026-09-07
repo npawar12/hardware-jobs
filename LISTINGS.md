@@ -6,6 +6,20 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NXP | AI/ML ASIC Design and Implementation Automation Intern - Summer 2027 | Sep 7 |
+| NXP | Digital Design Intern - Spring 2027 | Sep 7 |
+| NXP | SOC DFT Intern - Spring 2027 | Sep 7 |
+| NXP | Digital Design Intern - Spring 2027 | Sep 7 |
+| NXP | SOC DFT Intern - Summer 2027 | Sep 7 |
+| NXP | Digital Design Intern - Summer 2027 | Sep 7 |
+| NXP | Digital Physical Design Intern - Spring 2027 | Sep 7 |
+| NXP | Digital Physical Design Intern - Summer 2027 | Sep 7 |
+| NXP | Digital Verification Intern - Summer 2027 | Sep 7 |
+| NXP | Entry Level Digital Design Engineer | Sep 7 |
+| NXP | Entry Level DFT Design Engineer | Sep 7 |
+| NXP | Entry Level Digital Design Engineer | Sep 7 |
+| NXP | Entry Level Digital Physical Design Engineer | Sep 7 |
+| NXP | Entry Level Digital Verification Engineer | Sep 7 |
 | NVIDIA | Senior DFT Engineer | Sep 5 |
 | NVIDIA | Senior DFT Engineer | Sep 4 |
 | Cisco | Senior ASIC Engineer | Sep 4 |
