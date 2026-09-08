@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Pure Storage | Hardware Engineer - MTS3 | Sep 8 |
+| NVIDIA | ASIC Design Engineer, Tools and Methodology Development | Sep 8 |
+| Broadcom | Senior Digital / Mixed-Signal IC Design or Verification Engineer | Sep 8 |
+| Analog Devices | Senior Reliability Hardware Engineer | Sep 8 |
+| Analog Devices | Reliability Hardware Engineer | Sep 8 |
+| Texas Instruments | Digital IC Design Engineer &#124; Advanced Power Solutions | Sep 8 |
 | NXP | AI/ML ASIC Design and Implementation Automation Intern - Summer 2027 | Sep 7 |
 | NXP | Digital Design Intern - Spring 2027 | Sep 7 |
 | NXP | SOC DFT Intern - Spring 2027 | Sep 7 |

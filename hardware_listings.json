@@ -4948,5 +4948,59 @@
     "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065543",
     "board": "workday_nxp",
     "date_added": "2026-09-07"
+  },
+  {
+    "company": "Pure Storage",
+    "role": "Hardware Engineer - MTS3",
+    "location": "Santa Clara, California",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8168120",
+    "board": "greenhouse_purestorage",
+    "date_added": "2026-09-08"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Design Engineer, Tools and Methodology Development",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer--Tools-and-Methodology-Development_JR2025219",
+    "board": "workday_nvidia",
+    "date_added": "2026-09-08"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Senior Digital / Mixed-Signal IC Design or Verification Engineer",
+    "location": "USA-Mendota Heights-Northland",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Mendota-Heights-Northland/Senior-Digital---Mixed-Signal-IC-Design-or-Verification-Engineer_R026970-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-09-08"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Senior Reliability Hardware Engineer",
+    "location": "US, MA, Wilmington",
+    "type": "Early Career",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Reliability-Engineering_R264642-1",
+    "board": "workday_analogdevices",
+    "date_added": "2026-09-08"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Reliability Hardware Engineer",
+    "location": "US, CA, San Jose, Rio Robles",
+    "type": "Early Career",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Reliability-Engineering_R264232",
+    "board": "workday_analogdevices",
+    "date_added": "2026-09-08"
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Digital IC Design Engineer | Advanced Power Solutions",
+    "location": "Santa Clara, CA, United States",
+    "type": "Early Career",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017710",
+    "board": "oracle_edbz",
+    "date_added": "2026-09-08"
   }
 ]
