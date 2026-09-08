@@ -5002,5 +5002,23 @@
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017710",
     "board": "oracle_edbz",
     "date_added": "2026-09-08"
+  },
+  {
+    "company": "Microchip",
+    "role": "Intern - Engineering (ASIC Verification)",
+    "location": "CA - San Jose - 3870 N. First St",
+    "type": "Summer 2027 Intern",
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+    "board": "workday_microchiphr",
+    "date_added": "2026-09-08"
+  },
+  {
+    "company": "Amazon",
+    "role": "FPGA Verification Engineer, Bespoke Solutions",
+    "location": "US, VA, Arlington",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10532727/fpga-verification-engineer-bespoke-solutions",
+    "board": "amazon",
+    "date_added": "2026-09-08"
   }
 ]

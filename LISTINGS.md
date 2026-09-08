@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microchip | Intern - Engineering (ASIC Verification) | Sep 8 |
+| Amazon | FPGA Verification Engineer, Bespoke Solutions | Sep 8 |
 | Pure Storage | Hardware Engineer - MTS3 | Sep 8 |
 | NVIDIA | ASIC Design Engineer, Tools and Methodology Development | Sep 8 |
 | Broadcom | Senior Digital / Mixed-Signal IC Design or Verification Engineer | Sep 8 |
