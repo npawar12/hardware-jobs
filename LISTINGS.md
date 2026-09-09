@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | FPGA Silicon Design Engineer | Sep 9 |
 | Microchip | Intern - Engineering (ASIC Verification) | Sep 8 |
 | Amazon | FPGA Verification Engineer, Bespoke Solutions | Sep 8 |
 | Pure Storage | Hardware Engineer - MTS3 | Sep 8 |
