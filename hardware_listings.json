@@ -5029,5 +5029,23 @@
     "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Silicon-Design-Engineer_R02011",
     "board": "workday_altera",
     "date_added": "2026-09-09"
+  },
+  {
+    "company": "OpenAI",
+    "role": "Physical Design Engineer, Forward Deployed Engineering",
+    "location": "San Francisco",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/openai/18d65004-a399-4a33-80bc-10f33bff2ed0",
+    "board": "ashby_openai",
+    "date_added": "2026-09-09"
+  },
+  {
+    "company": "Micron",
+    "role": "Senior Engineer - HBM Design for Test (DFT)",
+    "location": "Richardson, TX",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Principal-Engineer---HBM-Design-for-Test--DFT-_JR103315-1",
+    "board": "workday_micron",
+    "date_added": "2026-09-09"
   }
 ]

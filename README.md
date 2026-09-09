@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| OpenAI | Physical Design Engineer, Forward Deployed Engineering | San Francisco | Early Career | <a href="https://jobs.ashbyhq.com/openai/18d65004-a399-4a33-80bc-10f33bff2ed0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 9-->0d |
+| Micron | Senior Engineer - HBM Design for Test (DFT) | Richardson, TX | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Principal-Engineer---HBM-Design-for-Test--DFT-_JR103315-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 9-->0d |
 | Altera | FPGA Silicon Design Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Silicon-Design-Engineer_R02011"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 9-->0d |
 | Microchip | Intern - Engineering (ASIC Verification) | CA - San Jose - 3870 N. First St | Summer 2027 Intern | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 8-->1d |
 | Amazon | FPGA Verification Engineer, Bespoke Solutions | US, VA, Arlington | Early Career | <a href="https://www.amazon.jobs/en/jobs/10532727/fpga-verification-engineer-bespoke-solutions"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 8-->1d |

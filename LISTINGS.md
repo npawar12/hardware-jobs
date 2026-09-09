@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| OpenAI | Physical Design Engineer, Forward Deployed Engineering | Sep 9 |
+| Micron | Senior Engineer - HBM Design for Test (DFT) | Sep 9 |
 | Altera | FPGA Silicon Design Engineer | Sep 9 |
 | Microchip | Intern - Engineering (ASIC Verification) | Sep 8 |
 | Amazon | FPGA Verification Engineer, Bespoke Solutions | Sep 8 |
