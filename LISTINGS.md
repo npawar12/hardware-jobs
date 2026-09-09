@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | ASIC Design Automation Engineer | Sep 9 |
+| Teledyne | Senior FPGA Engineer | Sep 9 |
+| Dell | CSG Hardware Engineering Intern | Sep 9 |
 | OpenAI | Physical Design Engineer, Forward Deployed Engineering | Sep 9 |
 | Micron | Senior Engineer - HBM Design for Test (DFT) | Sep 9 |
 | Altera | FPGA Silicon Design Engineer | Sep 9 |
