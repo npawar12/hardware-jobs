@@ -586,6 +586,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | Physical Design Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556989626?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 9-->0d |
 | AMD | Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/89494?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 7-->2d |
 | Arm | Graduate Program - Engineering Pathways | Austin, TX | New Grad | <a href="https://careers.arm.com/job/cambridge/power-intent-upf-engineer/33099/99790796144"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 7-->2d |
 | ↳ | Graduate Program - Engineering Pathways | San Jose, CA | New Grad | <a href="https://careers.arm.com/job/cambridge/power-intent-upf-engineer/33099/99790796144"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 7-->2d |
