@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Astera Labs | Senior Digital Design Engineer | Sep 10 |
+| Cisco | Senior ASIC Engineer - Post Silicon Validation | Sep 10 |
 | NVIDIA | ASIC Design Engineer - New College Grad 2026 | Sep 10 |
 | NVIDIA | Silicon Validation Engineer | Sep 10 |
 | Intel | Design Verification Engineer | Sep 10 |

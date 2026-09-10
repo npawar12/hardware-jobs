@@ -5101,5 +5101,23 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Validation-Engineer_JR2022641",
     "board": "workday_nvidia",
     "date_added": "2026-09-10"
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Senior Digital Design Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4731809005",
+    "board": "greenhouse_asteralabs",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior ASIC Engineer - Post Silicon Validation",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-Engineer---Post-Silicon-Validation_2020831-1",
+    "board": "workday_cisco",
+    "date_added": "2026-09-10"
   }
 ]
