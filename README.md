@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | Design Verification Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0286860"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 10-->0d |
 | Broadcom | ASIC Design Automation Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Automation-Engineer_R027030-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 9-->1d |
 | Teledyne | Senior FPGA Engineer | Canada - Richmond, BC | Early Career | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Richmond-BC/Senior-FPGA-Engineer_REQ36560"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 9-->1d |
 | Dell | CSG Hardware Engineering Intern | TX, United States | Summer 2027 Intern | <a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 9-->1d |

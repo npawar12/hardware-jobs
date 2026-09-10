@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Design Verification Engineer | Sep 10 |
 | Broadcom | ASIC Design Automation Engineer | Sep 9 |
 | Teledyne | Senior FPGA Engineer | Sep 9 |
 | Dell | CSG Hardware Engineering Intern | Sep 9 |
