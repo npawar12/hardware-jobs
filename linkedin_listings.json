@@ -2752,5 +2752,41 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556989626?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
     "board": "linkedin",
     "date_added": "2026-09-09"
+  },
+  {
+    "company": "Google",
+    "role": "TPU SoC Design Engineer, Google Cloud",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/99835095900136134-tpu-soc-design-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "Infineon",
+    "role": "Internship - Analog Mixed-Signal Design Verification Engineer",
+    "location": "Andover, MA",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.infineon.com/careers/job/563808971881710?utm_source=linkedin&domain=infineon.com#!source=400",
+    "board": "linkedin",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "Infineon",
+    "role": "Graduate - Analog Mixed-Signal Design Verification Engineer",
+    "location": "Andover, MA",
+    "type": "New Grad",
+    "url": "https://jobs.infineon.com/careers/job/563808971876168?utm_source=linkedin&domain=infineon.com#!source=400",
+    "board": "linkedin",
+    "date_added": "2026-09-10"
+  },
+  {
+    "company": "Synaptics",
+    "role": "Hardware Engineer, ATE",
+    "location": "Irvine, CA",
+    "type": "Early Career",
+    "url": "https://careers.synaptics.com/jobs/17976014-hardware-engineer-ate?__jvst=Job+Board&__jvsd=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-10"
   }
 ]

@@ -575,6 +575,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Google | TPU SoC Design Engineer, Google Cloud | Sep 10 |
+| Infineon | Internship - Analog Mixed-Signal Design Verification Engineer | Sep 10 |
+| Infineon | Graduate - Analog Mixed-Signal Design Verification Engineer | Sep 10 |
+| Synaptics | Hardware Engineer, ATE | Sep 10 |
 | Microsoft | Physical Design Engineer | Sep 9 |
 | AMD | Design Verification Engineer | Sep 7 |
 | Arm | Graduate Program - Engineering Pathways | Sep 7 |
