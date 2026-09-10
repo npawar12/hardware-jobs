@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | ASIC Design Engineer - New College Grad 2026 | Sep 10 |
+| NVIDIA | Silicon Validation Engineer | Sep 10 |
 | Intel | Design Verification Engineer | Sep 10 |
 | Broadcom | ASIC Design Automation Engineer | Sep 9 |
 | Teledyne | Senior FPGA Engineer | Sep 9 |
