@@ -580,6 +580,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | ASIC Emulation Engineer | Sep 11 |
+| AMD | Emulation Verification Engineer | Sep 11 |
+| AMD | CPU Core Design Verification Engineer | Sep 11 |
+| Microsoft | SoC HW (Digital, Analog or PnP) Validation Engineer | Sep 11 |
+| Meta | Visiting Hardware Engineer | Sep 11 |
+| IBM | Silicon Technology Research and Development Hardware Engineering Intern 2027 | Sep 11 |
 | Google | TPU SoC Design Engineer, Google Cloud | Sep 10 |
 | Infineon | Internship - Analog Mixed-Signal Design Verification Engineer | Sep 10 |
 | Infineon | Graduate - Analog Mixed-Signal Design Verification Engineer | Sep 10 |

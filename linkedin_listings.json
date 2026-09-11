@@ -2788,5 +2788,59 @@
     "url": "https://careers.synaptics.com/jobs/17976014-hardware-engineer-ate?__jvst=Job+Board&__jvsd=LinkedIn",
     "board": "linkedin",
     "date_added": "2026-09-10"
+  },
+  {
+    "company": "AMD",
+    "role": "ASIC Emulation Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/92094?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "AMD",
+    "role": "Emulation Verification Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/91751?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "AMD",
+    "role": "CPU Core Design Verification Engineer",
+    "location": "Boxborough, MA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/76495?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "Microsoft",
+    "role": "SoC HW (Digital, Analog or PnP) Validation Engineer",
+    "location": "Hillsboro, OR",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556989678?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "Meta",
+    "role": "Visiting Hardware Engineer",
+    "location": "Menlo Park, CA",
+    "type": "Early Career",
+    "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000001HEvUAM&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1116121644406167%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3Dc06666fa-acae-11f1-99bb-5bdecf501a44%26rx_job%3Da1KiE0000001HEvUAM%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
+    "board": "linkedin",
+    "date_added": "2026-09-11"
+  },
+  {
+    "company": "IBM",
+    "role": "Silicon Technology Research and Development Hardware Engineering Intern 2027",
+    "location": "Albany, NY",
+    "type": "Summer 2027 Intern",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=132432&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-11"
   }
 ]
