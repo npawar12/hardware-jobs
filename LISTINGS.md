@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Quality Assurance Engineer I, RDPI Global Engineering Hardware Development | Sep 11 |
 | Astera Labs | Senior Design Verification Engineer | Sep 11 |
 | Amazon | Hardware Development Engineer, AWS Board Core Design Team | Sep 11 |
 | Astera Labs | Senior Digital Design Engineer | Sep 10 |

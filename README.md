@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Quality Assurance Engineer I, RDPI Global Engineering Hardware Development | US, MA, Westborough | Early Career | <a href="https://www.amazon.jobs/en/jobs/10538034/quality-assurance-engineer-i-rdpi-global-engineering-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->0d |
 | Astera Labs | Senior Design Verification Engineer | Toronto, Ontario, Canada | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4731808005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->0d |
 | Amazon | Hardware Development Engineer, AWS Board Core Design Team | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10537776/hardware-development-engineer-aws-board-core-design-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->0d |
 | Astera Labs | Senior Digital Design Engineer | Toronto, Ontario, Canada | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4731809005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 10-->1d |
