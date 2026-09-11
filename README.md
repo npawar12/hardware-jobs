@@ -394,7 +394,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Sr. SDE - CPLD / FPGA | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10394264/sr-sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->61d |
 | ↳ | Sr. SDE - CPLD / FPGA | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10430601/sr-sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->61d |
 | ↳ | MLA IP Design Verification Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->61d |
-| ↳ | Hardware Development Engineer | US, CA, Pasadena | Early Career | <a href="https://www.amazon.jobs/en/jobs/3176565/hardware-development-engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->61d |
+| ↳ | Hardware Development Engineer | US, CA, Pasadena | Early Career | 🔒 | <!--Jul 11-->61d |
 | ↳ | Sr. Product Design Engineer, Hardware Development | US, CA, Sunnyvale | Early Career | <a href="https://www.amazon.jobs/en/jobs/10453273/sr-product-design-engineer-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->61d |
 | ↳ | Hardware Development Engineer, Hardware Development, Amazon LEO | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->61d |
 | ↳ | HW Dev Engineer-Payload, Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->61d |
