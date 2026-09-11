@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Astera Labs | Senior Design Verification Engineer | Sep 11 |
+| Amazon | Hardware Development Engineer, AWS Board Core Design Team | Sep 11 |
 | Astera Labs | Senior Digital Design Engineer | Sep 10 |
 | Cisco | Senior ASIC Engineer - Post Silicon Validation | Sep 10 |
 | NVIDIA | ASIC Design Engineer - New College Grad 2026 | Sep 10 |
