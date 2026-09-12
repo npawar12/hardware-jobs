@@ -585,6 +585,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Post-Silicon Power and Performance Validation Engineer | Sep 12 |
+| AMD | Sr. Design Verification Engineer | Sep 12 |
+| AMD | Systems Hardware Development & Validation Engineer | Sep 12 |
+| Arm | Senior Post-Silicon Validation Engineer | Sep 12 |
+| Arm | Senior Post-Silicon PCIe Characterization Engineer | Sep 12 |
+| Arm | Senior Post-Silicon DDR Characterization Engineer | Sep 12 |
 | AMD | ASIC Emulation Engineer | Sep 11 |
 | AMD | Emulation Verification Engineer | Sep 11 |
 | AMD | CPU Core Design Verification Engineer | Sep 11 |

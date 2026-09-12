@@ -601,6 +601,12 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Post-Silicon Power and Performance Validation Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/91891?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->0d |
+| ↳ | Sr. Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86226?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->0d |
+| ↳ | Systems Hardware Development & Validation Engineer | California, United States | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->0d |
+| Arm | Senior Post-Silicon Validation Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/chandler/senior-post-silicon-validation-engineer/33099/100509410704"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->0d |
+| ↳ | Senior Post-Silicon PCIe Characterization Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/chandler/senior-post-silicon-pcie-characterization-engineer/33099/100509410720"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->0d |
+| ↳ | Senior Post-Silicon DDR Characterization Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/chandler/senior-post-silicon-ddr-characterization-engineer/33099/100509410672"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->0d |
 | AMD | ASIC Emulation Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/92094?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->1d |
 | ↳ | Emulation Verification Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/91751?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->1d |
 | ↳ | CPU Core Design Verification Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/76495?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->1d |

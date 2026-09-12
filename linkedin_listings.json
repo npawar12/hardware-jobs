@@ -2842,5 +2842,59 @@
     "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=132432&src=SN_LinkedIn",
     "board": "linkedin",
     "date_added": "2026-09-11"
+  },
+  {
+    "company": "AMD",
+    "role": "Post-Silicon Power and Performance Validation Engineer",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/91891?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-12"
+  },
+  {
+    "company": "AMD",
+    "role": "Sr. Design Verification Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86226?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-12"
+  },
+  {
+    "company": "AMD",
+    "role": "Systems Hardware Development & Validation Engineer",
+    "location": "California, United States",
+    "type": "Early Career",
+    "url": "",
+    "board": "linkedin",
+    "date_added": "2026-09-12"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior Post-Silicon Validation Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/senior-post-silicon-validation-engineer/33099/100509410704",
+    "board": "linkedin",
+    "date_added": "2026-09-12"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior Post-Silicon PCIe Characterization Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/senior-post-silicon-pcie-characterization-engineer/33099/100509410720",
+    "board": "linkedin",
+    "date_added": "2026-09-12"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior Post-Silicon DDR Characterization Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/senior-post-silicon-ddr-characterization-engineer/33099/100509410672",
+    "board": "linkedin",
+    "date_added": "2026-09-12"
   }
 ]
