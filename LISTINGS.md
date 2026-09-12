@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | CPLD/FPGA Firmware Engineer, Annapurna Labs, ML Accelerator Systems Firmware | Sep 12 |
 | OpenAI | Research Engineer, AI for Chip Design | Sep 11 |
 | Amazon | Quality Assurance Engineer I, RDPI Global Engineering Hardware Development | Sep 11 |
 | Astera Labs | Senior Design Verification Engineer | Sep 11 |

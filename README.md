@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | CPLD/FPGA Firmware Engineer, Annapurna Labs, ML Accelerator Systems Firmware | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10538219/cpld-fpga-firmware-engineer-annapurna-labs-ml-accelerator-systems-firmware"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->0d |
 | OpenAI | Research Engineer, AI for Chip Design | San Francisco | Early Career | <a href="https://jobs.ashbyhq.com/openai/bd2b8228-bb0f-42e0-94bd-c853cdd56140"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->1d |
 | Amazon | Quality Assurance Engineer I, RDPI Global Engineering Hardware Development | US, MA, Westborough | Early Career | <a href="https://www.amazon.jobs/en/jobs/10538034/quality-assurance-engineer-i-rdpi-global-engineering-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->1d |
 | Astera Labs | Senior Design Verification Engineer | Toronto, Ontario, Canada | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4731808005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 11-->1d |

@@ -5155,5 +5155,14 @@
     "url": "https://jobs.ashbyhq.com/openai/bd2b8228-bb0f-42e0-94bd-c853cdd56140",
     "board": "ashby_openai",
     "date_added": "2026-09-11"
+  },
+  {
+    "company": "Amazon",
+    "role": "CPLD/FPGA Firmware Engineer, Annapurna Labs, ML Accelerator Systems Firmware",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10538219/cpld-fpga-firmware-engineer-annapurna-labs-ml-accelerator-systems-firmware",
+    "board": "amazon",
+    "date_added": "2026-09-12"
   }
 ]
