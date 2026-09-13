@@ -601,6 +601,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | SerDes RTL Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/91913?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 13-->0d |
 | AMD | Post-Silicon Power and Performance Validation Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/91891?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->1d |
 | ↳ | Sr. Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86226?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->1d |
 | ↳ | Systems Hardware Development & Validation Engineer | California, United States | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 12-->1d |
