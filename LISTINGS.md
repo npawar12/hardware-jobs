@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Micron | Intern - PHY Digital Design & Automation Engineer, HBM | Sep 14 |
+| Dell | ISG Hardware Engineering Undergrad Internship | Sep 14 |
+| Amazon | Cloud Hardware Development Engineer, Cloud AI/ML server teams | Sep 14 |
 | NVIDIA | Senior Verification Engineer - Hardware | Sep 14 |
 | Amazon | CPLD/FPGA Firmware Engineer, Annapurna Labs, ML Accelerator Systems Firmware | Sep 12 |
 | OpenAI | Research Engineer, AI for Chip Design | Sep 11 |
