@@ -5164,5 +5164,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10538219/cpld-fpga-firmware-engineer-annapurna-labs-ml-accelerator-systems-firmware",
     "board": "amazon",
     "date_added": "2026-09-12"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior Verification Engineer - Hardware",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Verification-Engineer---Hardware_JR2019800-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-09-14"
   }
 ]
