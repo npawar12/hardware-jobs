@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior ASIC Design Engineer | Sep 14 |
 | Micron | Intern - PHY Digital Design & Automation Engineer, HBM | Sep 14 |
 | Dell | ISG Hardware Engineering Undergrad Internship | Sep 14 |
 | Amazon | Cloud Hardware Development Engineer, Cloud AI/ML server teams | Sep 14 |

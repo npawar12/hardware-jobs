@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | Senior ASIC Design Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer_JR2014978"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 14-->0d |
 | Micron | Intern - PHY Digital Design & Automation Engineer, HBM | Richardson, TX | Summer 2027 Intern | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 14-->0d |
 | Dell | ISG Hardware Engineering Undergrad Internship | Round Rock, TX, United States | Summer 2027 Intern | <a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 14-->0d |
 | Amazon | Cloud Hardware Development Engineer, Cloud AI/ML server teams | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10539153/cloud-hardware-development-engineer-cloud-ai-ml-server-teams"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 14-->0d |
