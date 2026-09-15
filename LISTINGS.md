@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Physical Design and Timing Engineer Intern - Summer 2027 | Sep 15 |
+| Micron | Sr Design Verification Engineer, DRAM | Sep 15 |
+| Micron | Intern - ASIC Validation | Sep 15 |
+| Micron | Intern - HBM SoC Physical Design Engineer | Sep 15 |
+| Nokia | Hardware Developer Eng Co-op/Intern | Sep 15 |
+| Amazon | Cloud Hardware Development Engineer, Storage , AWS Hardware Engineering, Hardware Engineering Services | Sep 15 |
 | Amazon | MLA Design Verification Engineer I, Annapurna Labs | Sep 14 |
 | NVIDIA | Senior ASIC Design Engineer | Sep 14 |
 | Micron | Intern - PHY Digital Design & Automation Engineer, HBM | Sep 14 |
