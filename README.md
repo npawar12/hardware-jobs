@@ -607,6 +607,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | Senior Design Verification Engineer | Mountain View, CA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556949564?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->0d |
 | Google | Silicon Engineering Intern, BS/MS, Summer 2027 | Madison, WI | Summer 2027 Intern | <a href="https://careers.google.com/jobs/results/88570332985598662-silicon-engineering-intern/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 14-->1d |
 | ↳ | Silicon Engineering Intern, BS/MS, Summer 2027 | Sunnyvale, CA | Summer 2027 Intern | <a href="https://careers.google.com/jobs/results/88570332985598662-silicon-engineering-intern/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 14-->1d |
 | AMD | SerDes RTL Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/91913?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 13-->2d |

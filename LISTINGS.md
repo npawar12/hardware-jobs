@@ -591,6 +591,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | Senior Design Verification Engineer | Sep 15 |
 | Google | Silicon Engineering Intern, BS/MS, Summer 2027 | Sep 14 |
 | Google | Silicon Engineering Intern, BS/MS, Summer 2027 | Sep 14 |
 | AMD | SerDes RTL Design Engineer | Sep 13 |
