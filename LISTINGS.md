@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | MLA Design Verification Engineer I, Annapurna Labs | Sep 14 |
 | NVIDIA | Senior ASIC Design Engineer | Sep 14 |
 | Micron | Intern - PHY Digital Design & Automation Engineer, HBM | Sep 14 |
 | Dell | ISG Hardware Engineering Undergrad Internship | Sep 14 |
