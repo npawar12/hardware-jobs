@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | ASIC Design Engineer, Satellite Communication | Sep 15 |
+| Amazon | MLA IP Design Verification Engineer, Annapurna Labs | Sep 15 |
 | NVIDIA | Physical Design and Timing Engineer Intern - Summer 2027 | Sep 15 |
 | Micron | Sr Design Verification Engineer, DRAM | Sep 15 |
 | Micron | Intern - ASIC Validation | Sep 15 |

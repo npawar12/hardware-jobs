@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | ASIC Design Engineer, Satellite Communication | US, CA, San Diego | Early Career | <a href="https://www.amazon.jobs/en/jobs/10543752/asic-design-engineer-satellite-communication"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->0d |
+| ↳ | MLA IP Design Verification Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10543795/mla-ip-design-verification-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->0d |
 | NVIDIA | Physical Design and Timing Engineer Intern - Summer 2027 | US, CA, Santa Clara | Summer 2027 Intern | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->0d |
 | Micron | Sr Design Verification Engineer, DRAM | Boise, ID - Main Site | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Design-Verification-Engineer--DRAM_JR111009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->0d |
 | ↳ | Intern - ASIC Validation | Minneapolis, MN | Summer 2027 Intern | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->0d |
