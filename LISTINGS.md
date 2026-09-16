@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Senior HW Development Engineer, Leo Hardware Development | Sep 16 |
+| Amazon | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | Sep 16 |
 | Amazon | Junior Design Verification Engineer, Amazon Leo | Sep 16 |
 | Lightmatter | Silicon, Hardware, & Photonics Engineering - Internship | Sep 16 |
 | Altera | FPGA Development Tools Engineer - Placer | Sep 15 |
