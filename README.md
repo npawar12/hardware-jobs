@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Junior Design Verification Engineer, Amazon Leo | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10545335/junior-design-verification-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->0d |
 | Lightmatter | Silicon, Hardware, & Photonics Engineering - Internship  | Boston, MA; Mountain View, CA | Summer 2027 Intern | <a href="https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->0d |
 | Altera | FPGA Development Tools Engineer - Placer | Toronto, Ontario, Canada | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer---Placer_R02885"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->1d |
 | ↳ | FPGA Development Tools Engineer | Toronto, Ontario, Canada | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R03026-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->1d |

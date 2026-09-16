@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Junior Design Verification Engineer, Amazon Leo | Sep 16 |
 | Lightmatter | Silicon, Hardware, & Photonics Engineering - Internship | Sep 16 |
 | Altera | FPGA Development Tools Engineer - Placer | Sep 15 |
 | Altera | FPGA Development Tools Engineer | Sep 15 |
