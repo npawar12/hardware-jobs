@@ -5371,5 +5371,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10547107/senior-hw-dev-engineer-antenna-systems-leo-hardware-development",
     "board": "amazon",
     "date_added": "2026-09-16"
+  },
+  {
+    "company": "Ciena",
+    "role": "ASIC Development Methodology and Automation - New Grad",
+    "location": "Ottawa",
+    "type": "New Grad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/ASIC-Development-Methodology-and-Automation---New-Grad_R031639",
+    "board": "workday_ciena",
+    "date_added": "2026-09-16"
+  },
+  {
+    "company": "KLA",
+    "role": "Sr. FPGA Design Engineer",
+    "location": "Milpitas, CA",
+    "type": "Early Career",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Sr-FPGA-Design-Engineer_2636362-1",
+    "board": "workday_kla",
+    "date_added": "2026-09-16"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10549835/sr-post-silicon-systems-software-validation-engineer-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-09-16"
   }
 ]

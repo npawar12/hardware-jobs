@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ciena | ASIC Development Methodology and Automation - New Grad | Sep 16 |
+| KLA | Sr. FPGA Design Engineer | Sep 16 |
+| Amazon | Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs | Sep 16 |
 | Amazon | Senior HW Development Engineer, Leo Hardware Development | Sep 16 |
 | Amazon | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | Sep 16 |
 | Amazon | Junior Design Verification Engineer, Amazon Leo | Sep 16 |
