@@ -5290,5 +5290,50 @@
     "url": "https://www.amazon.jobs/en/jobs/10543795/mla-ip-design-verification-engineer-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-09-15"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer - Placer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer---Placer_R02885",
+    "board": "workday_altera",
+    "date_added": "2026-09-15"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R03026-1",
+    "board": "workday_altera",
+    "date_added": "2026-09-15"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R03049",
+    "board": "workday_altera",
+    "date_added": "2026-09-15"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, AWS CQC - Fabrication",
+    "location": "US, CA, Pasadena",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10544075/hardware-development-engineer-aws-cqc-fabrication",
+    "board": "amazon",
+    "date_added": "2026-09-15"
+  },
+  {
+    "company": "Amazon",
+    "role": "Propulsion Hardware Engineer, Prime Air Drone Fleet & Production",
+    "location": "US, WA, Seattle",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10543994/propulsion-hardware-engineer-prime-air-drone-fleet-production",
+    "board": "amazon",
+    "date_added": "2026-09-15"
   }
 ]

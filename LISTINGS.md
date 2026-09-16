@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | FPGA Development Tools Engineer - Placer | Sep 15 |
+| Altera | FPGA Development Tools Engineer | Sep 15 |
+| Altera | FPGA Development Tools Engineer | Sep 15 |
+| Amazon | Hardware Development Engineer, AWS CQC - Fabrication | Sep 15 |
+| Amazon | Propulsion Hardware Engineer, Prime Air Drone Fleet & Production | Sep 15 |
 | Amazon | ASIC Design Engineer, Satellite Communication | Sep 15 |
 | Amazon | MLA IP Design Verification Engineer, Annapurna Labs | Sep 15 |
 | NVIDIA | Physical Design and Timing Engineer Intern - Summer 2027 | Sep 15 |
