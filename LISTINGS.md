@@ -605,6 +605,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU RTL Power, Clocking, Reset Design Engineer | Sep 16 |
+| AMD | Silicon Design Engineer 2 | Sep 16 |
+| Arm | Senior Post-Silicon Validation Engineer | Sep 16 |
+| Keysight | ASIC Design-for-Test (DFT) Engineer Intern | Sep 16 |
 | Microsoft | Senior Design Verification Engineer | Sep 15 |
 | Google | Silicon Engineering Intern, BS/MS, Summer 2027 | Sep 14 |
 | Google | Silicon Engineering Intern, BS/MS, Summer 2027 | Sep 14 |

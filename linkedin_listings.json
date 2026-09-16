@@ -2932,5 +2932,41 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556949564?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
     "board": "linkedin",
     "date_added": "2026-09-15"
+  },
+  {
+    "company": "AMD",
+    "role": "CPU RTL Power, Clocking, Reset Design Engineer",
+    "location": "Fort Collins, CO",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/91296?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-16"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon Design Engineer 2",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/91964?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-16"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior Post-Silicon Validation Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/chandler/senior-post-silicon-validation-engineer/33099/100509410704",
+    "board": "linkedin",
+    "date_added": "2026-09-16"
+  },
+  {
+    "company": "Keysight",
+    "role": "ASIC Design-for-Test (DFT) Engineer Intern",
+    "location": "Colorado Springs, CO",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.keysight.com/external/jobs/54276?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply",
+    "board": "linkedin",
+    "date_added": "2026-09-16"
   }
 ]
