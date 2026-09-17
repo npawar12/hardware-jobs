@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Marvell | Design For Test Intern, MS - Summer 2027 | Sep 17 |
+| Marvell | Design For Test Intern, MS - Summer 2027 | Sep 17 |
+| Micron | New College Grad - Engineer, ASIC Digital Design | Sep 17 |
 | Intel | Hardware Engineer | Sep 17 |
 | Ciena | ASIC Development Methodology and Automation - New Grad | Sep 16 |
 | KLA | Sr. FPGA Design Engineer | Sep 16 |
