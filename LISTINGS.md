@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Hardware Engineer | Sep 17 |
 | Ciena | ASIC Development Methodology and Automation - New Grad | Sep 16 |
 | KLA | Sr. FPGA Design Engineer | Sep 16 |
 | Amazon | Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs | Sep 16 |

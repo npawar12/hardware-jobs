@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | Hardware Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Hardware-Engineer_JR0286976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 17-->0d |
 | Ciena | ASIC Development Methodology and Automation - New Grad | Ottawa | New Grad | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/ASIC-Development-Methodology-and-Automation---New-Grad_R031639"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->1d |
 | KLA | Sr. FPGA Design Engineer | Milpitas, CA | Early Career | <a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Sr-FPGA-Design-Engineer_2636362-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->1d |
 | Amazon | Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10549835/sr-post-silicon-systems-software-validation-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->1d |
