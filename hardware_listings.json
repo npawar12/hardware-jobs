@@ -5434,5 +5434,32 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/New-College-Grad---Engineer--ASIC-Digital-Design_JR112164",
     "board": "workday_micron",
     "date_added": "2026-09-17"
+  },
+  {
+    "company": "Intel",
+    "role": "Platform Hardware Design Engineer",
+    "location": "US, Oregon, Hillsboro",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-Design-Engineer_JR0287109",
+    "board": "workday_intel",
+    "date_added": "2026-09-17"
+  },
+  {
+    "company": "Amazon",
+    "role": "FPGA Engineer, MQS Center for Quantum Computing",
+    "location": "US, CA, Pasadena",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10552728/fpga-engineer-mqs-center-for-quantum-computing",
+    "board": "amazon",
+    "date_added": "2026-09-17"
+  },
+  {
+    "company": "Amazon",
+    "role": "Principle ProServe Account Executive, NAMER Rtl/Cpg/Manu, NAMER Rtl/Cpg/Manu",
+    "location": "US, IL, Chicago",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10552371/principle-proserve-account-executive-namer-rtl-cpg-manu-namer-rtl-cpg-manu",
+    "board": "amazon",
+    "date_added": "2026-09-17"
   }
 ]

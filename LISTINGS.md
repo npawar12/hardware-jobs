@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Platform Hardware Design Engineer | Sep 17 |
+| Amazon | FPGA Engineer, MQS Center for Quantum Computing | Sep 17 |
+| Amazon | Principle ProServe Account Executive, NAMER Rtl/Cpg/Manu, NAMER Rtl/Cpg/Manu | Sep 17 |
 | Marvell | Design For Test Intern, MS - Summer 2027 | Sep 17 |
 | Marvell | Design For Test Intern, MS - Summer 2027 | Sep 17 |
 | Micron | New College Grad - Engineer, ASIC Digital Design | Sep 17 |
