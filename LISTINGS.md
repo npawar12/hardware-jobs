@@ -612,6 +612,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Post-Silicon/Pre-Silicon Validation Engineer | Sep 17 |
+| Google | RF Hardware Engineer, Google Pixel | Sep 17 |
+| Microsoft | Design Verification Engineer | Sep 17 |
 | AMD | CPU RTL Power, Clocking, Reset Design Engineer | Sep 16 |
 | AMD | Silicon Design Engineer 2 | Sep 16 |
 | Arm | Senior Post-Silicon Validation Engineer | Sep 16 |

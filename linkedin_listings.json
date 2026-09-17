@@ -2968,5 +2968,32 @@
     "url": "https://jobs.keysight.com/external/jobs/54276?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply",
     "board": "linkedin",
     "date_added": "2026-09-16"
+  },
+  {
+    "company": "AMD",
+    "role": "Post-Silicon/Pre-Silicon Validation Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/92189?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-09-17"
+  },
+  {
+    "company": "Google",
+    "role": "RF Hardware Engineer, Google Pixel",
+    "location": "Mountain View, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/86341437158761158-rf-hardware-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-09-17"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Design Verification Engineer",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556998612?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-09-17"
   }
 ]

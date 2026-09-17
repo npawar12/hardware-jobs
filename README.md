@@ -628,6 +628,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Post-Silicon/Pre-Silicon Validation Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/92189?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 17-->0d |
+| Google | RF Hardware Engineer, Google Pixel | Mountain View, CA | Early Career | <a href="https://careers.google.com/jobs/results/86341437158761158-rf-hardware-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 17-->0d |
+| Microsoft | Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556998612?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 17-->0d |
 | AMD | CPU RTL Power, Clocking, Reset Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/91296?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->1d |
 | ↳ | Silicon Design Engineer 2 | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/91964?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->1d |
 | Arm | Senior Post-Silicon Validation Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/chandler/senior-post-silicon-validation-engineer/33099/100509410704"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 16-->1d |
