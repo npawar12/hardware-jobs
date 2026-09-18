@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Micron | Intern - ASIC Digital Design | Sep 18 |
 | Intel | Platform Hardware Design Engineer | Sep 17 |
 | Amazon | FPGA Engineer, MQS Center for Quantum Computing | Sep 17 |
 | Amazon | Principle ProServe Account Executive, NAMER Rtl/Cpg/Manu, NAMER Rtl/Cpg/Manu | Sep 17 |
