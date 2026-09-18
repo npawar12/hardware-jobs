@@ -618,6 +618,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | Silicon Engineering Internship (6-month Program) | Sep 18 |
+| Meta | ASIC Engineer, Performance Architecture and Modeling | Sep 18 |
+| IBM | Hardware Developer Intern 2027 - Houston, TX | Sep 18 |
+| Arm | Senior Post-Silicon Validation Engineer | Sep 18 |
 | AMD | Post-Silicon/Pre-Silicon Validation Engineer | Sep 17 |
 | Google | RF Hardware Engineer, Google Pixel | Sep 17 |
 | Microsoft | Design Verification Engineer | Sep 17 |
