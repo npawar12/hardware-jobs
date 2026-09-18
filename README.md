@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Ciena | Hardware Engineer, Power Design, onsite Kanata | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Engineer--Power-Design--onsite-Kanata_R031678"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 18-->0d |
 | Micron | Intern - ASIC Digital Design | Minneapolis, MN | Summer 2027 Intern | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 18-->0d |
 | Intel | Platform Hardware Design Engineer | US, Oregon, Hillsboro | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-Design-Engineer_JR0287109"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 17-->1d |
 | Amazon | FPGA Engineer, MQS Center for Quantum Computing | US, CA, Pasadena | Early Career | <a href="https://www.amazon.jobs/en/jobs/10552728/fpga-engineer-mqs-center-for-quantum-computing"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 17-->1d |
