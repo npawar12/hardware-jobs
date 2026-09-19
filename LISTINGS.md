@@ -621,6 +621,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Teradyne | Hardware Engineer, (Teradyne, North Reading, MA) | Sep 19 |
+| TetraMem | US 2026 Hardware - Digital Intern | Sep 19 |
 | Microsoft | Silicon Engineering Internship (6-month Program) | Sep 18 |
 | Meta | ASIC Engineer, Performance Architecture and Modeling | Sep 18 |
 | IBM | Hardware Developer Intern 2027 - Houston, TX | Sep 18 |
