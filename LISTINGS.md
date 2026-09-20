@@ -621,6 +621,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Infineon | Internship - Design Infrastructure | Sep 20 |
 | Teradyne | Hardware Engineer, (Teradyne, North Reading, MA) | Sep 19 |
 | TetraMem | US 2026 Hardware - Digital Intern | Sep 19 |
 | Microsoft | Silicon Engineering Internship (6-month Program) | Sep 18 |

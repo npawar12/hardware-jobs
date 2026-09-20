@@ -637,6 +637,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Infineon | Internship - Design Infrastructure | Lexington, KY | Summer 2027 Intern | <a href="https://jobs.infineon.com/careers/job/563808972035923?utm_source=linkedin&domain=infineon.com#!source=400"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 20-->0d |
 | Teradyne | Hardware Engineer, (Teradyne, North Reading, MA) | North Reading, MA | Early Career | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Hardware-Engineer%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1431595700/?utm_source=LINKEDIN&utm_medium=referrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 19-->1d |
 | TetraMem | US 2026 Hardware - Digital Intern | San Jose, CA | Summer 2027 Intern | <a href="https://tetramem.clearcompany.com/careers/jobs/6e0366f9-460f-0ce8-5e12-11e93d13b466/apply?source=3404228-JB-1018"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 19-->1d |
 | Microsoft | Silicon Engineering Internship (6-month Program) | Mountain View, CA | Summer 2027 Intern | <a href="https://apply.careers.microsoft.com/careers/job/1970393556982259?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 18-->2d |
