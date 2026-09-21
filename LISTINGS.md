@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | IC Verification Engineer | Sep 21 |
+| Broadcom | IC Verification Engineer | Sep 21 |
+| Micron | Intern – DRAM Technology Physical Design and Block-Level PPA Optimization | Sep 21 |
 | Cirrus Logic | Post Silicon Validation Engineer – New College Graduate | Sep 21 |
 | Amazon | Sr. Design Verification Engineer, Power DVT Team | Sep 21 |
 | Allegro MicroSystems | Mixed Signal Design Verification Engineer | Sep 20 |

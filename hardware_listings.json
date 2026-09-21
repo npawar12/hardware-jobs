@@ -5515,5 +5515,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10552615/sr-design-verification-engineer-power-dvt-team",
     "board": "amazon",
     "date_added": "2026-09-21"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Verification Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/IC-Verification-Engineer_R027132",
+    "board": "workday_broadcom",
+    "date_added": "2026-09-21"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Verification Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/IC-Verification-Engineer_R027133",
+    "board": "workday_broadcom",
+    "date_added": "2026-09-21"
+  },
+  {
+    "company": "Micron",
+    "role": "Intern \u2013 DRAM Technology Physical Design and Block-Level PPA Optimization",
+    "location": "Boise, ID - Main Site",
+    "type": "Summer 2027 Intern",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-Physical-Design-and-Block-Level-PPA-Optimization_JR109584",
+    "board": "workday_micron",
+    "date_added": "2026-09-21"
   }
 ]
