@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cirrus Logic | Post Silicon Validation Engineer – New College Graduate | Austin, Texas | New Grad | <a href="https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 21-->0d |
+| Amazon | Sr. Design Verification Engineer, Power DVT Team  | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10552615/sr-design-verification-engineer-power-dvt-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 21-->0d |
 | Allegro MicroSystems | Mixed Signal Design Verification Engineer | Manchester, NH | Early Career | <a href="https://allegromicro.wd5.myworkdayjobs.com/AllegroCareers/job/Manchester-NH/Mixed-Signal-Design-Verification-Engineer_R6885"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 20-->1d |
 | NVIDIA | Senior DFT Methodology Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Methodology-Engineer_JR2020884"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 18-->3d |
 | Ciena | Hardware Engineer, Power Design, onsite Kanata | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Engineer--Power-Design--onsite-Kanata_R031678"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 18-->3d |
