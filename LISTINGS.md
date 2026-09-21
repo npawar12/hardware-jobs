@@ -622,6 +622,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Graphics & AI Processor Design Engineer | Sep 21 |
+| Arm | IP Verification Engineer | Sep 21 |
 | Infineon | Internship - Design Infrastructure | Sep 20 |
 | Teradyne | Hardware Engineer, (Teradyne, North Reading, MA) | Sep 19 |
 | TetraMem | US 2026 Hardware - Digital Intern | Sep 19 |
