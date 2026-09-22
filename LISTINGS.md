@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | Emulation Engineer | Sep 22 |
+| Ciena | ASIC Engineer Intern | Sep 22 |
+| Ciena | Senior Physical Design Engineer | Sep 22 |
 | Ciena | Verification Engineer Intern (Spring 2027) | Sep 22 |
 | Broadcom | IC Verification Engineer | Sep 21 |
 | Broadcom | IC Verification Engineer | Sep 21 |
