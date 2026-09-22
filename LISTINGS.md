@@ -627,6 +627,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Verification Engineer | Sep 22 |
+| Microsoft | Fabric IP Designer | Sep 22 |
 | AMD | Graphics & AI Processor Design Engineer | Sep 21 |
 | Arm | IP Verification Engineer | Sep 21 |
 | Infineon | Internship - Design Infrastructure | Sep 20 |

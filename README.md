@@ -643,6 +643,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | CPU Verification Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/91246?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 22-->0d |
+| Microsoft | Fabric IP Designer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393557000726?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 22-->0d |
 | AMD | Graphics & AI Processor Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/91519?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 21-->1d |
 | Arm | IP Verification Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/bengaluru/cad-dft-engineer/33099/98426141520"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 21-->1d |
 | Infineon | Internship - Design Infrastructure | Lexington, KY | Summer 2027 Intern | <a href="https://jobs.infineon.com/careers/job/563808972035923?utm_source=linkedin&domain=infineon.com#!source=400"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 20-->2d |
