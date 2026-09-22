@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ciena | Verification Engineer Intern (Spring 2027) | Sep 22 |
 | Broadcom | IC Verification Engineer | Sep 21 |
 | Broadcom | IC Verification Engineer | Sep 21 |
 | Micron | Intern – DRAM Technology Physical Design and Block-Level PPA Optimization | Sep 21 |
