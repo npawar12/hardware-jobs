@@ -5641,5 +5641,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10558183/cloud-hardware-development-engineer-network-product-development",
     "board": "amazon",
     "date_added": "2026-09-23"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Verification Engineer - GPU",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR2015047",
+    "board": "workday_nvidia",
+    "date_added": "2026-09-23"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "PhD Research Intern, Electronic Design Automation - 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "Summer 2027 Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
+    "board": "workday_nvidia",
+    "date_added": "2026-09-23"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Designer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Designer_R02835",
+    "board": "workday_altera",
+    "date_added": "2026-09-23"
   }
 ]

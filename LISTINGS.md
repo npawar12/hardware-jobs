@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior ASIC Verification Engineer - GPU | Sep 23 |
+| NVIDIA | PhD Research Intern, Electronic Design Automation - 2027 | Sep 23 |
+| Altera | FPGA Designer | Sep 23 |
 | Cisco | ASIC Design Hardware Engineer - SDC/STA (Hybrid) | Sep 23 |
 | GlobalFoundries | Design Verification Engineer (2027 New College Graduate) | Sep 23 |
 | Amazon | Cloud Hardware Development Engineer, Network Product Development | Sep 23 |
