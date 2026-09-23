@@ -633,6 +633,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | RTL Design Engineer – Power Design | Sep 23 |
+| AMD | Senior Physical Design Engineer | Sep 23 |
+| Microsoft | Design Verification Engineer | Sep 23 |
+| Meta | Silicon Engineer | Sep 23 |
+| Meta | Silicon Engineer | Sep 23 |
+| Keysight | R&D Hardware Engineer, Intern | Sep 23 |
 | AMD | CPU Verification Engineer | Sep 22 |
 | Microsoft | Fabric IP Designer | Sep 22 |
 | AMD | Graphics & AI Processor Design Engineer | Sep 21 |
