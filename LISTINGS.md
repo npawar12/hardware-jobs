@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Design Hardware Engineer - SDC/STA (Hybrid) | Sep 23 |
+| GlobalFoundries | Design Verification Engineer (2027 New College Graduate) | Sep 23 |
+| Amazon | Cloud Hardware Development Engineer, Network Product Development | Sep 23 |
 | Tenstorrent | Physical Design Engineer, ML4PD | Sep 23 |
 | Cisco | Hardware Engineer | Sep 23 |
 | NVIDIA | Senior Firmware Verification Engineer | Sep 23 |
