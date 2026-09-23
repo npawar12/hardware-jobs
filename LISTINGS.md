@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Physical Design Engineer, ML4PD | Sep 23 |
+| Cisco | Hardware Engineer | Sep 23 |
 | NVIDIA | Senior Firmware Verification Engineer | Sep 23 |
 | Texas Instruments | Digital IC Design Engineer - USB Products | Sep 23 |
 | Broadcom | Emulation Engineer | Sep 22 |
