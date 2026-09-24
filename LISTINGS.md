@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ciena | Senior FPGA Verification Engineer | Sep 24 |
 | Lightmatter | Electro-Optic Link Hardware Engineer | Sep 24 |
 | Cisco | ASIC Engineer (hybrid) | Sep 24 |
 | Amazon | Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027 | Sep 24 |
