@@ -5686,5 +5686,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027",
     "board": "amazon",
     "date_added": "2026-09-24"
+  },
+  {
+    "company": "Lightmatter",
+    "role": "Electro-Optic Link Hardware Engineer  ",
+    "location": "Mountain View, CA",
+    "type": "Early Career",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5408441008?gh_jid=5408441008",
+    "board": "greenhouse_lightmatter",
+    "date_added": "2026-09-24"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Engineer (hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer--hybrid-_2026700",
+    "board": "workday_cisco",
+    "date_added": "2026-09-24"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027",
+    "board": "amazon",
+    "date_added": "2026-09-24"
   }
 ]

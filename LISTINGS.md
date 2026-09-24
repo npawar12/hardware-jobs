@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Lightmatter | Electro-Optic Link Hardware Engineer | Sep 24 |
+| Cisco | ASIC Engineer (hybrid) | Sep 24 |
+| Amazon | Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027 | Sep 24 |
 | Amazon | ASIC Engineer I, Annapurna Labs, Early Career - 2027 | Sep 24 |
 | Intel | Senior Physical Design Engineer | Sep 24 |
 | NVIDIA | Senior ASIC Verification Engineer - GPU | Sep 23 |
