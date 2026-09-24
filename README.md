@@ -659,6 +659,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Sr Silicon Design Verification Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/92472?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->0d |
+| ↳ | CPU Microarchitecture & Cache RTL Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/92591?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->0d |
+| Arm | SoC Security Architecture | Austin, TX | Early Career | <a href="https://careers.arm.com/job/chandler/ecad-principal-engineer/33099/101058845408"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->0d |
 | AMD | RTL Design Engineer – Power Design | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/92559?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 23-->1d |
 | ↳ | Senior Physical Design Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/91844?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 23-->1d |
 | Microsoft | Design Verification Engineer | Mountain View, CA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556962661?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 23-->1d |

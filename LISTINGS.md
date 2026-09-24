@@ -643,6 +643,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr Silicon Design Verification Engineer | Sep 24 |
+| AMD | CPU Microarchitecture & Cache RTL Design Engineer | Sep 24 |
+| Arm | SoC Security Architecture | Sep 24 |
 | AMD | RTL Design Engineer – Power Design | Sep 23 |
 | AMD | Senior Physical Design Engineer | Sep 23 |
 | Microsoft | Design Verification Engineer | Sep 23 |
