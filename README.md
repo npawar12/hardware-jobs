@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | ASIC Engineer I, Annapurna Labs, Early Career - 2027 | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->0d |
 | Intel | Senior Physical Design Engineer | US, Oregon, Hillsboro | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Senior-Physical-Design-Engineer_JR0287479"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->0d |
 | NVIDIA | Senior ASIC Verification Engineer - GPU | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR2015047"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 23-->1d |
 | ↳ | PhD Research Intern, Electronic Design Automation - 2027 | US, CA, Santa Clara | Summer 2027 Intern | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 23-->1d |

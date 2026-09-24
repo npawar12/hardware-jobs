@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | ASIC Engineer I, Annapurna Labs, Early Career - 2027 | Sep 24 |
 | Intel | Senior Physical Design Engineer | Sep 24 |
 | NVIDIA | Senior ASIC Verification Engineer - GPU | Sep 23 |
 | NVIDIA | PhD Research Intern, Electronic Design Automation - 2027 | Sep 23 |
