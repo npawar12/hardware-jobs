@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ciena | ASIC Processor Complex Engineering Co-op (January 2027 - 4 months) | Sep 25 |
+| Amazon | ASIC Test Engineer, Annapurna Silicon Operations | Sep 25 |
 | Ciena | Senior FPGA Verification Engineer | Sep 24 |
 | Lightmatter | Electro-Optic Link Hardware Engineer | Sep 24 |
 | Cisco | ASIC Engineer (hybrid) | Sep 24 |

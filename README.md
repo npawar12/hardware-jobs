@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Ciena | ASIC Processor Complex Engineering Co-op (January 2027 - 4 months) | Ottawa | Co-op | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/ASIC-Processor-Complex-Engineering-Co-op--January-2027---4-months-_R031744"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->0d |
+| Amazon | ASIC Test Engineer, Annapurna Silicon Operations | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10560446/asic-test-engineer-annapurna-silicon-operations"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->0d |
 | Ciena | Senior FPGA Verification Engineer | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-FPGA-Verification-Engineer_R031689"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->1d |
 | Lightmatter | Electro-Optic Link Hardware Engineer   | Mountain View, CA | Early Career | <a href="https://boards.greenhouse.io/lightmatter/jobs/5408441008?gh_jid=5408441008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->1d |
 | Cisco | ASIC Engineer (hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer--hybrid-_2026700"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 24-->1d |
