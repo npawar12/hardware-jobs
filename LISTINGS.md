@@ -647,6 +647,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr. RTL Design Engineer | Sep 25 |
+| Microsoft | Physical Design CAD Engineer | Sep 25 |
+| IBM | Hardware Developer - Z, EDA | Sep 25 |
 | AMD | Sr Silicon Design Verification Engineer | Sep 24 |
 | AMD | CPU Microarchitecture & Cache RTL Design Engineer | Sep 24 |
 | Arm | SoC Security Architecture | Sep 24 |
