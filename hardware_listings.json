@@ -5740,5 +5740,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10560446/asic-test-engineer-annapurna-silicon-operations",
     "board": "amazon",
     "date_added": "2026-09-25"
+  },
+  {
+    "company": "NXP",
+    "role": "SoC Validation Engineer",
+    "location": "Austin (Oakhill, Office)",
+    "type": "Early Career",
+    "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/SoC-Validation-Engineer_R-10066328-1",
+    "board": "workday_nxp",
+    "date_added": "2026-09-25"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Design Verification Engineer, Amazon Leo",
+    "location": "US, CA, San Diego",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10560753/asic-design-verification-engineer-amazon-leo",
+    "board": "amazon",
+    "date_added": "2026-09-25"
   }
 ]

@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NXP | SoC Validation Engineer | Sep 25 |
+| Amazon | ASIC Design Verification Engineer, Amazon Leo | Sep 25 |
 | Ciena | ASIC Processor Complex Engineering Co-op (January 2027 - 4 months) | Sep 25 |
 | Amazon | ASIC Test Engineer, Annapurna Silicon Operations | Sep 25 |
 | Ciena | Senior FPGA Verification Engineer | Sep 24 |
