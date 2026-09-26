@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Texas Instruments | Design Verification Engineer | Sep 25 |
+| Texas Instruments | Design Verification Engineer &#124; BCP | Sep 25 |
 | NXP | SoC Validation Engineer | Sep 25 |
 | Amazon | ASIC Design Verification Engineer, Amazon Leo | Sep 25 |
 | Ciena | ASIC Processor Complex Engineering Co-op (January 2027 - 4 months) | Sep 25 |

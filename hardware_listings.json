@@ -5758,5 +5758,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10560753/asic-design-verification-engineer-amazon-leo",
     "board": "amazon",
     "date_added": "2026-09-25"
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Design Verification Engineer",
+    "location": "Knoxville, TN, United States",
+    "type": "Early Career",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018181",
+    "board": "oracle_edbz",
+    "date_added": "2026-09-25"
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Design Verification Engineer | BCP",
+    "location": "Knoxville, TN, United States",
+    "type": "Early Career",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018216",
+    "board": "oracle_edbz",
+    "date_added": "2026-09-25"
   }
 ]

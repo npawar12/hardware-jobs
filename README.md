@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Texas Instruments | Design Verification Engineer | Knoxville, TN, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018181"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->0d |
+| ↳ | Design Verification Engineer &#124; BCP | Knoxville, TN, United States | Early Career | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018216"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->0d |
 | NXP | SoC Validation Engineer | Austin (Oakhill, Office) | Early Career | <a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/SoC-Validation-Engineer_R-10066328-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->0d |
 | Amazon | ASIC Design Verification Engineer, Amazon Leo | US, CA, San Diego | Early Career | <a href="https://www.amazon.jobs/en/jobs/10560753/asic-design-verification-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->0d |
 | Ciena | ASIC Processor Complex Engineering Co-op (January 2027 - 4 months) | Ottawa | Co-op | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/ASIC-Processor-Complex-Engineering-Co-op--January-2027---4-months-_R031744"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->0d |
