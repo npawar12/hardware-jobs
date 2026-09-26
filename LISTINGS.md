@@ -653,6 +653,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | ASIC Engineer, Implementation - Timing | Sep 26 |
+| Meta | ASIC Engineer, Implementation - Timing | Sep 26 |
+| Meta | Hardware Engineer | Sep 26 |
+| Meta | ASIC Engineer, EDA Infrastructure | Sep 26 |
+| Meta | Hardware Engineer | Sep 26 |
 | AMD | Sr. RTL Design Engineer | Sep 25 |
 | Microsoft | Physical Design CAD Engineer | Sep 25 |
 | IBM | Hardware Developer - Z, EDA | Sep 25 |
