@@ -655,6 +655,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Google | ISP Silicon Validation Engineer | Sep 28 |
 | Meta | ASIC Engineer, Implementation - Timing | Sep 26 |
 | Meta | ASIC Engineer, Implementation - Timing | Sep 26 |
 | Meta | Hardware Engineer | Sep 26 |
