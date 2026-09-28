@@ -5794,5 +5794,68 @@
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Emulation-Engineer_JR-2600733",
     "board": "workday_globalfoundries",
     "date_added": "2026-09-28"
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Senior Design Verification Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738049005",
+    "board": "greenhouse_asteralabs",
+    "date_added": "2026-09-28"
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Senior Digital Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738468005",
+    "board": "greenhouse_asteralabs",
+    "date_added": "2026-09-28"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Design Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277",
+    "board": "workday_nvidia",
+    "date_added": "2026-09-28"
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Engineer - New Grad",
+    "location": "Ottawa",
+    "type": "New Grad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783",
+    "board": "workday_ciena",
+    "date_added": "2026-09-28"
+  },
+  {
+    "company": "Altera",
+    "role": "High Level Synthesis (HLS) Compiler Engineer (Contract)",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/High-Level-Synthesis--HLS--Compiler-Engineer--Contract-_R03151",
+    "board": "workday_altera",
+    "date_added": "2026-09-28"
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Digital Design Verification Engineering Intern",
+    "location": "Santa Clara, CA, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+    "board": "oracle_edbz",
+    "date_added": "2026-09-28"
+  },
+  {
+    "company": "onsemi",
+    "role": "Spring 2027 - IC Design Engineer Intern",
+    "location": "Allen, TX, United States",
+    "type": "Spring 2027 Intern",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546",
+    "board": "oracle_hctz",
+    "date_added": "2026-09-28"
   }
 ]

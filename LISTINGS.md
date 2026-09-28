@@ -6,6 +6,13 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Astera Labs | Senior Design Verification Engineer | Sep 28 |
+| Astera Labs | Senior Digital Design Engineer | Sep 28 |
+| NVIDIA | ASIC Design Engineer - New College Grad 2027 | Sep 28 |
+| Ciena | Hardware Engineer - New Grad | Sep 28 |
+| Altera | High Level Synthesis (HLS) Compiler Engineer (Contract) | Sep 28 |
+| Texas Instruments | Digital Design Verification Engineering Intern | Sep 28 |
+| onsemi | Spring 2027 - IC Design Engineer Intern | Sep 28 |
 | Micron | New College Grad - Module Hardware Engineer | Sep 28 |
 | GlobalFoundries | Emulation Engineer (2026 New College Graduate) | Sep 28 |
 | Texas Instruments | Design Verification Engineer | Sep 25 |
