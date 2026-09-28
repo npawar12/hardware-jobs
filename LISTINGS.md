@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Micron | New College Grad - Module Hardware Engineer | Sep 28 |
+| GlobalFoundries | Emulation Engineer (2026 New College Graduate) | Sep 28 |
 | Texas Instruments | Design Verification Engineer | Sep 25 |
 | Texas Instruments | Design Verification Engineer &#124; BCP | Sep 25 |
 | NXP | SoC Validation Engineer | Sep 25 |

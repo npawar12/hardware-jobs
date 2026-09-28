@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Micron | New College Grad - Module Hardware Engineer | Boise, ID - Main Site | New Grad | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Module-Hardware-Engineer_JR113177"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 28-->0d |
+| GlobalFoundries | Emulation Engineer (2026 New College Graduate) | USA - Texas - Richardson | New Grad | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Emulation-Engineer_JR-2600733"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 28-->0d |
 | Texas Instruments | Design Verification Engineer | Knoxville, TN, United States | Early Career | 🔒 | <!--Sep 25-->3d |
 | ↳ | Design Verification Engineer &#124; BCP | Knoxville, TN, United States | Early Career | 🔒 | <!--Sep 25-->3d |
 | NXP | SoC Validation Engineer | Austin (Oakhill, Office) | Early Career | <a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/SoC-Validation-Engineer_R-10066328-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 25-->3d |

@@ -5776,5 +5776,23 @@
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018216",
     "board": "oracle_edbz",
     "date_added": "2026-09-25"
+  },
+  {
+    "company": "Micron",
+    "role": "New College Grad - Module Hardware Engineer",
+    "location": "Boise, ID - Main Site",
+    "type": "New Grad",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Module-Hardware-Engineer_JR113177",
+    "board": "workday_micron",
+    "date_added": "2026-09-28"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "Emulation Engineer (2026 New College Graduate)",
+    "location": "USA - Texas - Richardson",
+    "type": "New Grad",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Emulation-Engineer_JR-2600733",
+    "board": "workday_globalfoundries",
+    "date_added": "2026-09-28"
   }
 ]
