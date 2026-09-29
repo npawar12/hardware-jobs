@@ -5866,5 +5866,14 @@
     "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000152284789",
     "board": "smartrecruiters_RenesasElectronics",
     "date_added": "2026-09-28"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. Physical Design Engineer, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10563896/sr-physical-design-engineer-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-09-29"
   }
 ]
