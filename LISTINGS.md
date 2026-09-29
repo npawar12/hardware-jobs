@@ -663,6 +663,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | DFT / ATPG Test Development Engineer | Sep 29 |
 | Google | ISP Silicon Validation Engineer | Sep 28 |
 | Meta | ASIC Engineer, Implementation - Timing | Sep 26 |
 | Meta | ASIC Engineer, Implementation - Timing | Sep 26 |
