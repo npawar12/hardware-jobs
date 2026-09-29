@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Renesas | Design Verification Intern | Duluth, GEORGIA | Summer 2027 Intern | <a href="https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000152284789"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 28-->0d |
 | Astera Labs | Senior Design Verification Engineer | San Jose, California, United States | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4738049005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 28-->0d |
 | ↳ | Senior Digital Design Engineer | San Jose, California, United States | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4738468005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 28-->0d |
 | NVIDIA | ASIC Design Engineer - New College Grad 2027 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 28-->0d |

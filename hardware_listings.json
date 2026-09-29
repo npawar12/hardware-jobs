@@ -5857,5 +5857,14 @@
     "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546",
     "board": "oracle_hctz",
     "date_added": "2026-09-28"
+  },
+  {
+    "company": "Renesas",
+    "role": "Design Verification Intern",
+    "location": "Duluth, GEORGIA",
+    "type": "Summer 2027 Intern",
+    "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000152284789",
+    "board": "smartrecruiters_RenesasElectronics",
+    "date_added": "2026-09-28"
   }
 ]
