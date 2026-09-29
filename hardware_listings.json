@@ -5875,5 +5875,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10563896/sr-physical-design-engineer-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-09-29"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "Summer 2027 Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-09-29"
+  },
+  {
+    "company": "Altera",
+    "role": "CPU Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/CPU-Design-Engineer_R03170",
+    "board": "workday_altera",
+    "date_added": "2026-09-29"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. Satellite Hardware Engineer, Bus Structures",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10564287/sr-satellite-hardware-engineer-bus-structures",
+    "board": "amazon",
+    "date_added": "2026-09-29"
   }
 ]

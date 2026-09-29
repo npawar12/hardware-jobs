@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | PhD Research Intern, AI Accelerator Design and VLSI - 2027 | Sep 29 |
+| Altera | CPU Design Engineer | Sep 29 |
+| Amazon | Sr. Satellite Hardware Engineer, Bus Structures | Sep 29 |
 | Amazon | Sr. Physical Design Engineer, Annapurna Labs | Sep 29 |
 | Renesas | Design Verification Intern | Sep 28 |
 | Astera Labs | Senior Design Verification Engineer | Sep 28 |
