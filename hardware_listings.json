@@ -5920,5 +5920,41 @@
     "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Debug-Verification-Engineer_R03260",
     "board": "workday_altera",
     "date_added": "2026-09-30"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior ASIC Engineer - Post Silicon Validation",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-Engineer---Post-Silicon-Validation_2020833",
+    "board": "workday_cisco",
+    "date_added": "2026-09-30"
+  },
+  {
+    "company": "Intel",
+    "role": "AI SOC Power Delivery Pathfinding PhD Intern",
+    "location": "US, Oregon, Hillsboro",
+    "type": "Summer 2027 Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538",
+    "board": "workday_intel",
+    "date_added": "2026-09-30"
+  },
+  {
+    "company": "Ciena",
+    "role": "Senior ASIC Verification Engineer, onsite Kanata",
+    "location": "Ottawa",
+    "type": "Early Career",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-ASIC-Verification-Engineer--onsite-Kanata_R031789",
+    "board": "workday_ciena",
+    "date_added": "2026-09-30"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Engineer, WW AMZL Innovation and Design Engineering",
+    "location": "US, WA, Bellevue",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10565646/hardware-engineer-ww-amzl-innovation-and-design-engineering",
+    "board": "amazon",
+    "date_added": "2026-09-30"
   }
 ]

@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Senior ASIC Engineer - Post Silicon Validation | Sep 30 |
+| Intel | AI SOC Power Delivery Pathfinding PhD Intern | Sep 30 |
+| Ciena | Senior ASIC Verification Engineer, onsite Kanata | Sep 30 |
+| Amazon | Hardware Engineer, WW AMZL Innovation and Design Engineering | Sep 30 |
 | Intel | Mid-level Physical Design Engineer CPU | Sep 30 |
 | Altera | Senior Debug Verification Engineer | Sep 30 |
 | NVIDIA | PhD Research Intern, AI Accelerator Design and VLSI - 2027 | Sep 29 |
