@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | GPU Physical Design Engineer Intern | Sep 30 |
 | Cisco | Senior ASIC Engineer - Post Silicon Validation | Sep 30 |
 | Intel | AI SOC Power Delivery Pathfinding PhD Intern | Sep 30 |
 | Ciena | Senior ASIC Verification Engineer, onsite Kanata | Sep 30 |

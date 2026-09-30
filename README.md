@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | GPU Physical Design Engineer Intern | Costa Rica, San Jose | Summer 2027 Intern | <a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 30-->0d |
 | Cisco | Senior ASIC Engineer - Post Silicon Validation | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-Engineer---Post-Silicon-Validation_2020833"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 30-->0d |
 | Intel | AI SOC Power Delivery Pathfinding PhD Intern | US, Oregon, Hillsboro | Summer 2027 Intern | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 30-->0d |
 | Ciena | Senior ASIC Verification Engineer, onsite Kanata | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-ASIC-Verification-Engineer--onsite-Kanata_R031789"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 30-->0d |
