@@ -5902,5 +5902,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10564287/sr-satellite-hardware-engineer-bus-structures",
     "board": "amazon",
     "date_added": "2026-09-29"
+  },
+  {
+    "company": "Intel",
+    "role": "Mid-level Physical Design Engineer CPU",
+    "location": "US, Oregon, Hillsboro",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mid-level-Physical-Design-Engineer-CPU_JR0287674",
+    "board": "workday_intel",
+    "date_added": "2026-09-30"
+  },
+  {
+    "company": "Altera",
+    "role": "Senior Debug Verification Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Debug-Verification-Engineer_R03260",
+    "board": "workday_altera",
+    "date_added": "2026-09-30"
   }
 ]

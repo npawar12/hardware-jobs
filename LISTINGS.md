@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Mid-level Physical Design Engineer CPU | Sep 30 |
+| Altera | Senior Debug Verification Engineer | Sep 30 |
 | NVIDIA | PhD Research Intern, AI Accelerator Design and VLSI - 2027 | Sep 29 |
 | Altera | CPU Design Engineer | Sep 29 |
 | Amazon | Sr. Satellite Hardware Engineer, Bus Structures | Sep 29 |
