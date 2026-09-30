@@ -491,8 +491,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Cloud Hardware Development, Packaging, Network Product Development - Optics | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Sr HW Dev Engineer - Payload, Amazon Leo Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->80d |
-| ↳ | Post-Silicon Systems Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10444791/post-silicon-systems-validation-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->80d |
-| ↳ | Post-Silicon Systems Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10446098/post-silicon-systems-validation-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->80d |
+| ↳ | Post-Silicon Systems Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | 🔒 | <!--Jul 11-->80d |
+| ↳ | Post-Silicon Systems Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Hardware Development Engineer , Amazon Leo | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Senior Hardware Development Engineer AWS AI & ML, Accelerator Servers | US, WA, Seattle | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Cloud Hardware Development Engineer, Storage , AWS Hardware Engineering | US, CO, Denver | Early Career | <a href="https://www.amazon.jobs/en/jobs/10392012/cloud-hardware-development-engineer-storage-aws-hardware-engineering"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->80d |
@@ -505,7 +505,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Sr. Post-Silicon Systems Software Validation Engineer, Annapurna Labs | US, TX, Austin | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Hardware Development Engineer, Avionics Electrical Engineering, Amazon Leo | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->80d |
-| ↳ | High-Speed Interface Validation Engineer, Post Silicon Validation | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10434989/high-speed-interface-validation-engineer-post-silicon-validation"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->80d |
+| ↳ | High-Speed Interface Validation Engineer, Post Silicon Validation | US, TX, Austin | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | HW Dev Engineer - Payload, Hardware Development, Amazon LEO | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->80d |
 | ↳ | Hardware Engineer, Amazon LEO | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->80d |
@@ -935,12 +935,12 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | MediaTek | IP DFT Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 24-->67d |
 | Citadel Securities | FPGA Engineer | New York, NY | Early Career | <a href="https://www.citadelsecurities.com/careers/details/fpga-engineer/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 24-->67d |
 | AMD | CPU Core Design Verification Engineer | Austin, TX | Early Career | 🔒 | <!--Jul 23-->68d |
-| ↳ | SoC Physical Integration Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/87084?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->68d |
+| ↳ | SoC Physical Integration Engineer | San Jose, CA | Early Career | 🔒 | <!--Jul 23-->68d |
 | ↳ | RTL/Logic Design Engineer | Santa Clara, CA | Early Career | 🔒 | <!--Jul 23-->68d |
 | Teradyne | Hardware Engineer | San Jose, CA | Early Career | <a href="https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Engineer-CA-95101/1411763600/?utm_source=LINKEDIN&utm_medium=referrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 23-->68d |
 | AMD | RTL Power Reduction Engineer | Austin, TX | Early Career | 🔒 | <!--Jul 22-->69d |
 | ↳ | SR ASIC Design Engineer - NoC & AXI Interconnect | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86178?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->69d |
-| ↳ | Silicon IP Design Management Solution Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/88738?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->69d |
+| ↳ | Silicon IP Design Management Solution Engineer | Austin, TX | Early Career | 🔒 | <!--Jul 22-->69d |
 | ↳ | SR ASIC Design Engineer - Ethernet Switch & High-Speed I/O | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86177?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->69d |
 | Google | Silicon Engineer- P and D- (gCPU), Design Verification (multiple openings) | Mountain View, CA | Early Career | <a href="https://careers.google.com/jobs/results/97988079037358790-silicon-engineer-p-and-d/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->69d |
 | ↳ | Hardware Engineer | Sunnyvale, CA | Early Career | <a href="https://careers.google.com/jobs/results/86652938788709062-hardware-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 22-->69d |
