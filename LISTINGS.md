@@ -669,6 +669,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Post-Silicon Memory Subsystem Validation Engineer | Sep 30 |
+| Google | Physical Design Engineer, 3D Technology | Sep 30 |
+| Microsoft | Silicon Design Verification Engineer | Sep 30 |
+| Microsoft | Senior IP Design Verification Engineer | Sep 30 |
+| Meta | Hardware Engineer, AI Accelerator Module Design | Sep 30 |
 | AMD | DFT / ATPG Test Development Engineer | Sep 29 |
 | Google | ISP Silicon Validation Engineer | Sep 28 |
 | Meta | ASIC Engineer, Implementation - Timing | Sep 26 |
