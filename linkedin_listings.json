@@ -3310,5 +3310,41 @@
     "url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE00000002Y5UAI_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1716153689434820%2F%3Frx_campaign%3DLinkedin1%26rx_ch%3Dconnector%26rx_group%3D126320%26rx_id%3D44704aa0-bc66-11f1-9a25-bdc2eb65429d%26rx_job%3Da1KiE00000002Y5UAI_1001%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_vp%3Dslots%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3DLIpaid",
     "board": "linkedin",
     "date_added": "2026-09-30"
+  },
+  {
+    "company": "AMD",
+    "role": "\u202f3D IC and SoC CAD ENGINEER\u00a0",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/92822?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "Google",
+    "role": "TPU RTL Design Engineer, Google Cloud",
+    "location": "Sunnyvale, CA",
+    "type": "Early Career",
+    "url": "https://careers.google.com/jobs/results/121336877931209414-tpu-rtl-design-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract",
+    "board": "linkedin",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Design Verification Engineer",
+    "location": "Raleigh, NC",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556937343?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-10-01"
+  },
+  {
+    "company": "IBM",
+    "role": "Entry level Hardware Developer - Rochester, MN - 2027",
+    "location": "Rochester, MN",
+    "type": "Early Career",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=134990&src=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-10-01"
   }
 ]

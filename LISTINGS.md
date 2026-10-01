@@ -674,6 +674,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | 3D IC and SoC CAD ENGINEER | Oct 1 |
+| Google | TPU RTL Design Engineer, Google Cloud | Oct 1 |
+| Microsoft | Design Verification Engineer | Oct 1 |
+| IBM | Entry level Hardware Developer - Rochester, MN - 2027 | Oct 1 |
 | AMD | Post-Silicon Memory Subsystem Validation Engineer | Sep 30 |
 | Google | Physical Design Engineer, 3D Technology | Sep 30 |
 | Microsoft | Silicon Design Verification Engineer | Sep 30 |
