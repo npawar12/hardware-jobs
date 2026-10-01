@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Pure Storage | Senior Hardware Design Engineer, Systems Engineering | Oct 1 |
+| Cisco | Hardware Engineer I (Co-op) - United States | Oct 1 |
 | Intel | GPU Physical Design Engineer Intern | Sep 30 |
 | Cisco | Senior ASIC Engineer - Post Silicon Validation | Sep 30 |
 | Intel | AI SOC Power Delivery Pathfinding PhD Intern | Sep 30 |
