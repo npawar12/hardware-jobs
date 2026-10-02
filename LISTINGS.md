@@ -678,6 +678,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | Silicon Engineer, Infrastructure Validation | Oct 2 |
+| Infineon | Senior FPGA Engineer | Oct 2 |
+| Keysight | ASIC Digital / DSP Design Engineer | Oct 2 |
 | AMD | 3D IC and SoC CAD ENGINEER | Oct 1 |
 | Google | TPU RTL Design Engineer, Google Cloud | Oct 1 |
 | Microsoft | Design Verification Engineer | Oct 1 |
