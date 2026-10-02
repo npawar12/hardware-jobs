@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Packaging Signal/Power Integrity Hardware Engineer (Hybrid) | Oct 1 |
+| Broadcom | Design Verification Engineer | Oct 1 |
 | Pure Storage | Senior Hardware Design Engineer, Systems Engineering | Oct 1 |
 | Cisco | Hardware Engineer I (Co-op) - United States | Oct 1 |
 | Intel | GPU Physical Design Engineer Intern | Sep 30 |
