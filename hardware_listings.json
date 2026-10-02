@@ -6019,5 +6019,50 @@
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Design-Engineer---FPGA----PCB-Design_2638299",
     "board": "workday_kla",
     "date_added": "2026-10-02"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Methodology Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology-Engineer_JR2026899",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-02"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior DFT Methodology Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology-Engineer_JR2026996-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-02"
+  },
+  {
+    "company": "Intel",
+    "role": "SoC Analog & Mixed-Signal Design Engineer",
+    "location": "US, Oregon, Hillsboro",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/SoC-Analog---Mixed-Signal-Design-Engineer_JR0287599",
+    "board": "workday_intel",
+    "date_added": "2026-10-02"
+  },
+  {
+    "company": "Cadence",
+    "role": "Digital ASIC Design / Verification Engineering Intern/Co-Op",
+    "location": "TORONTO 02",
+    "type": "Co-op",
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320",
+    "board": "workday_cadence",
+    "date_added": "2026-10-02"
+  },
+  {
+    "company": "Ciena",
+    "role": "Senior Physical Design Engineer",
+    "location": "Ottawa",
+    "type": "Early Career",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-Physical-Design-Engineer_R031691",
+    "board": "workday_ciena",
+    "date_added": "2026-10-02"
   }
 ]

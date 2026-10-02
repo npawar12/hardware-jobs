@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior DFT Methodology Engineer | Oct 2 |
+| NVIDIA | Senior DFT Methodology Engineer | Oct 2 |
+| Intel | SoC Analog & Mixed-Signal Design Engineer | Oct 2 |
+| Cadence | Digital ASIC Design / Verification Engineering Intern/Co-Op | Oct 2 |
+| Ciena | Senior Physical Design Engineer | Oct 2 |
 | Altera | High Level Synthesis Engineer - Intern | Oct 2 |
 | KLA | Electrical Design Engineer - FPGA  & PCB Design | Oct 2 |
 | Cisco | ASIC Packaging Signal/Power Integrity Hardware Engineer (Hybrid) | Oct 1 |
