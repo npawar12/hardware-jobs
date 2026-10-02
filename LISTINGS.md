@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | High Level Synthesis Engineer - Intern | Oct 2 |
+| KLA | Electrical Design Engineer - FPGA  & PCB Design | Oct 2 |
 | Cisco | ASIC Packaging Signal/Power Integrity Hardware Engineer (Hybrid) | Oct 1 |
 | Broadcom | Design Verification Engineer | Oct 1 |
 | Pure Storage | Senior Hardware Design Engineer, Systems Engineering | Oct 1 |
