@@ -686,6 +686,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | Silicon Engineer, Infrastructure Validation | Oct 3 |
 | Meta | Silicon Engineer, Infrastructure Validation | Oct 2 |
 | Infineon | Senior FPGA Engineer | Oct 2 |
 | Keysight | ASIC Digital / DSP Design Engineer | Oct 2 |
