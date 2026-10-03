@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Oct 2 |
 | NVIDIA | Senior DFT Methodology Engineer | Oct 2 |
 | NVIDIA | Senior DFT Methodology Engineer | Oct 2 |
 | Intel | SoC Analog & Mixed-Signal Design Engineer | Oct 2 |
