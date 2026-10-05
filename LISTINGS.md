@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Hardware Post-Silicon Validation Engineer (Hybrid) | Oct 5 |
+| Marvell | Hardware Engineer Intern, BS - Summer 2027 | Oct 5 |
+| Marvell | Hardware Engineer Intern, BS - Summer 2027 | Oct 5 |
+| Analog Devices | Digital Design Engineer, DFT | Oct 5 |
 | NVIDIA | NVIDIA 2027 Ignite Internships: Hardware Engineering | Oct 5 |
 | Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Oct 2 |
 | NVIDIA | Senior DFT Methodology Engineer | Oct 2 |

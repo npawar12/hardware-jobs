@@ -6082,5 +6082,41 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
     "board": "workday_nvidia",
     "date_added": "2026-10-05"
+  },
+  {
+    "company": "Cisco",
+    "role": "Hardware Post-Silicon Validation Engineer (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Post-Silicon-Validation-Engineer--Hybrid-_2027725",
+    "board": "workday_cisco",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Marvell",
+    "role": "Hardware Engineer Intern, BS - Summer 2027",
+    "location": "Santa Clara, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975",
+    "board": "workday_marvell",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Marvell",
+    "role": "Hardware Engineer Intern, BS - Summer 2027",
+    "location": "Santa Clara, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
+    "board": "workday_marvell",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Digital Design Engineer, DFT",
+    "location": "US, TX, Dallas, Tollway",
+    "type": "Early Career",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Digital-Design-Engineer--DFT_R266601",
+    "board": "workday_analogdevices",
+    "date_added": "2026-10-05"
   }
 ]
