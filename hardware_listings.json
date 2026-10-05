@@ -6118,5 +6118,77 @@
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Digital-Design-Engineer--DFT_R266601",
     "board": "workday_analogdevices",
     "date_added": "2026-10-05"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "2027 Internship - Design Verification Engineer",
+    "location": "Austin, Texas",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e",
+    "board": "lever_cirrus",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "2027 Internship - Digital Design Engineer",
+    "location": "Austin, Texas",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e",
+    "board": "lever_cirrus",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "2027 Internship - Validation Engineer",
+    "location": "Austin, Texas",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027",
+    "board": "lever_cirrus",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2026931",
+    "board": "workday_cisco",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Intel",
+    "role": "CPU Core Physical Design Technical Graduate Intern, Spring",
+    "location": "US, California, Folsom",
+    "type": "Summer 2027 Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
+    "board": "workday_intel",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Analog and Mixed-Signal IC Design Engineer",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Analog-and-Mixed-Signal-IC-Design-Engineer_R027211",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Microchip",
+    "role": "Senior Engineer I - Validation (ASIC)",
+    "location": "Canada - Burnaby",
+    "type": "Early Career",
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/Canada---Burnaby/Senior-Engineer-I---Validation--ASIC-_R4138-26",
+    "board": "workday_microchiphr",
+    "date_added": "2026-10-05"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr Systems Development Engineer, AWS Hardware Engineering Services, AI UltraServers",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10569346/sr-systems-development-engineer-aws-hardware-engineering-services-ai-ultraservers",
+    "board": "amazon",
+    "date_added": "2026-10-05"
   }
 ]

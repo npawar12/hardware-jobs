@@ -6,6 +6,14 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cirrus Logic | 2027 Internship - Design Verification Engineer | Oct 5 |
+| Cirrus Logic | 2027 Internship - Digital Design Engineer | Oct 5 |
+| Cirrus Logic | 2027 Internship - Validation Engineer | Oct 5 |
+| Cisco | ASIC Engineer | Oct 5 |
+| Intel | CPU Core Physical Design Technical Graduate Intern, Spring | Oct 5 |
+| Broadcom | Analog and Mixed-Signal IC Design Engineer | Oct 5 |
+| Microchip | Senior Engineer I - Validation (ASIC) | Oct 5 |
+| Amazon | Sr Systems Development Engineer, AWS Hardware Engineering Services, AI UltraServers | Oct 5 |
 | Cisco | Hardware Post-Silicon Validation Engineer (Hybrid) | Oct 5 |
 | Marvell | Hardware Engineer Intern, BS - Summer 2027 | Oct 5 |
 | Marvell | Hardware Engineer Intern, BS - Summer 2027 | Oct 5 |
