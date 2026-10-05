@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | NVIDIA 2027 Ignite Internships: Hardware Engineering | Oct 5 |
 | Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Oct 2 |
 | NVIDIA | Senior DFT Methodology Engineer | Oct 2 |
 | NVIDIA | Senior DFT Methodology Engineer | Oct 2 |
