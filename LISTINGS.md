@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Renesas | Post Silicon Validation Intern | Oct 6 |
+| NVIDIA | Senior Systems Prototyping and Emulation Engineer | Oct 6 |
+| NVIDIA | PCIe Design Verification Intern - Spring 2027 | Oct 6 |
+| NVIDIA | PCIe Design Verification Intern - Summer 2027 | Oct 6 |
+| Amazon | ASIC Design Engineer, Satellite Communication | Oct 6 |
+| Amazon | Satellite Hardware Engineer, Bus Structures | Oct 6 |
 | Cirrus Logic | Digital Design Engineer (FF - 64000927) | Oct 6 |
 | Renesas | Design Verification Intern | Oct 6 |
 | Cisco | Signal/Power Integrity Hardware Engineer (Onsite) | Oct 6 |

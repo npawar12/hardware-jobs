@@ -6253,5 +6253,59 @@
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122",
     "board": "oracle_fa-evmr-saasfaprod1",
     "date_added": "2026-10-06"
+  },
+  {
+    "company": "Renesas",
+    "role": "Post Silicon Validation Intern",
+    "location": "Duluth, GEORGIA",
+    "type": "Summer 2027 Intern",
+    "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000153840059",
+    "board": "smartrecruiters_RenesasElectronics",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior Systems Prototyping and Emulation Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Prototyping-and-Emulation-Engineer_JR2018195",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "PCIe Design Verification Intern - Spring 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "Spring 2027 Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "PCIe Design Verification Intern - Summer 2027",
+    "location": "US, TX, Austin",
+    "type": "Summer 2027 Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Design Engineer, Satellite Communication",
+    "location": "US, CA, San Diego",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10570952/asic-design-engineer-satellite-communication",
+    "board": "amazon",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Amazon",
+    "role": "Satellite Hardware Engineer, Bus Structures",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10570897/satellite-hardware-engineer-bus-structures",
+    "board": "amazon",
+    "date_added": "2026-10-06"
   }
 ]
