@@ -700,6 +700,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Core Verification Engineer | Oct 6 |
+| Meta | ASIC Validation Engineer, Network Validation & Characterization | Oct 6 |
+| Meta | ASIC Validation Engineer, Power Validation & Characterization | Oct 6 |
 | Google | Silicon Validation Engineer, HBM, Google Cloud | Oct 5 |
 | Meta | Silicon Engineer, Infrastructure Validation | Oct 3 |
 | Meta | Silicon Engineer, Infrastructure Validation | Oct 2 |
