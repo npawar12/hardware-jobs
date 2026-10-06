@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cirrus Logic | Digital Design Engineer (FF - 64000927) | Oct 6 |
+| Renesas | Design Verification Intern | Oct 6 |
+| Cisco | Signal/Power Integrity Hardware Engineer (Onsite) | Oct 6 |
+| Cisco | ASIC Optical Hardware Systems Test Engineer | Oct 6 |
+| Ciena | Hardware Design Co-Op (Winter 2027 - 4 Months) | Oct 6 |
+| Nokia | ASIC Physical Design Coop | Oct 6 |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Oct 6 |
 | Cirrus Logic | 2027 Internship - Design Verification Engineer | Oct 5 |
 | Cirrus Logic | 2027 Internship - Digital Design Engineer | Oct 5 |

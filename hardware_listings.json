@@ -6199,5 +6199,59 @@
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007",
     "board": "greenhouse_tenstorrentuniversity",
     "date_added": "2026-10-06"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "Digital Design Engineer (FF - 64000927)",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/61ae5eb1-94c8-4aba-9f2a-7968facbf18e",
+    "board": "lever_cirrus",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Renesas",
+    "role": "Design Verification Intern",
+    "location": "Duluth, GEORGIA",
+    "type": "Summer 2027 Intern",
+    "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000153770924",
+    "board": "smartrecruiters_RenesasElectronics",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Cisco",
+    "role": "Signal/Power Integrity Hardware Engineer (Onsite)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Signal-Power-Integrity-Hardware-Engineer--Onsite-_2027572",
+    "board": "workday_cisco",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Optical Hardware Systems Test Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Optical-Hardware-Systems-Test-Engineer_2025656",
+    "board": "workday_cisco",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Design Co-Op (Winter 2027 - 4 Months)",
+    "location": "Ottawa",
+    "type": "Co-op",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
+    "board": "workday_ciena",
+    "date_added": "2026-10-06"
+  },
+  {
+    "company": "Nokia",
+    "role": "ASIC Physical Design Coop",
+    "location": "United States",
+    "type": "Co-op",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122",
+    "board": "oracle_fa-evmr-saasfaprod1",
+    "date_added": "2026-10-06"
   }
 ]
