@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Hardware Intern - AI HW & System on a Chip | Oct 6 |
 | Cirrus Logic | 2027 Internship - Design Verification Engineer | Oct 5 |
 | Cirrus Logic | 2027 Internship - Digital Design Engineer | Oct 5 |
 | Cirrus Logic | 2027 Internship - Validation Engineer | Oct 5 |
