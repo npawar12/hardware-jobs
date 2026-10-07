@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Product Failure Analysis Engineer - SCAN Design for Test | Oct 6 |
 | Renesas | Post Silicon Validation Intern | Oct 6 |
 | NVIDIA | Senior Systems Prototyping and Emulation Engineer | Oct 6 |
 | NVIDIA | PCIe Design Verification Intern - Spring 2027 | Oct 6 |

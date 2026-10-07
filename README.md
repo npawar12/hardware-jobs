@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | Product Failure Analysis Engineer - SCAN Design for Test | US, Oregon, Hillsboro | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Product-Failure-Analysis-Engineer---SCAN-Design-for-Test_JR0287760-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 6-->0d |
 | Renesas | Post Silicon Validation Intern | Duluth, GEORGIA | Summer 2027 Intern | <a href="https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000153840059"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 6-->0d |
 | NVIDIA | Senior Systems Prototyping and Emulation Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Prototyping-and-Emulation-Engineer_JR2018195"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 6-->0d |
 | ↳ | PCIe Design Verification Intern - Spring 2027 | US, CA, Santa Clara | Spring 2027 Intern | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 6-->0d |
