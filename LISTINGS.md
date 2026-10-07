@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Hardware Intern - Architecture, AI HW & System on a Chip | Oct 7 |
+| Tenstorrent | Intern, Physical Design & DFT | Oct 7 |
+| Tenstorrent | Intern, RISC-V CPU | Oct 7 |
 | Intel | Product Failure Analysis Engineer - SCAN Design for Test | Oct 6 |
 | Renesas | Post Silicon Validation Intern | Oct 6 |
 | NVIDIA | Senior Systems Prototyping and Emulation Engineer | Oct 6 |
