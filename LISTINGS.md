@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior Design Verification Engineer - GPU Memory Subsystem | Oct 7 |
+| Nokia | Hardware Engineer | Oct 7 |
 | NVIDIA | Senior VLSI Methodology Engineer | Oct 7 |
 | Tenstorrent | Hardware Intern - Architecture, AI HW & System on a Chip | Oct 7 |
 | Tenstorrent | Intern, Physical Design & DFT | Oct 7 |
