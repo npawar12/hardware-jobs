@@ -716,6 +716,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU RTL Design Engineer | Oct 7 |
+| Meta | Digital Design Engineer, SoC Chassis | Oct 7 |
+| Meta | Digital Design Engineer, SoC Chassis | Oct 7 |
+| Meta | Digital Design Engineer, SoC Chassis | Oct 7 |
 | AMD | CPU Core Verification Engineer | Oct 6 |
 | Meta | ASIC Validation Engineer, Network Validation & Characterization | Oct 6 |
 | Meta | ASIC Validation Engineer, Power Validation & Characterization | Oct 6 |
