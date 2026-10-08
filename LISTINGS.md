@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | CPU Physical Design Engineer | Oct 8 |
 | NVIDIA | Senior Design Verification Engineer - GPU Memory Subsystem | Oct 7 |
 | Nokia | Hardware Engineer | Oct 7 |
 | NVIDIA | Senior VLSI Methodology Engineer | Oct 7 |

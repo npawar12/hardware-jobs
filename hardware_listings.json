@@ -6370,5 +6370,14 @@
     "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40603",
     "board": "oracle_fa-evmr-saasfaprod1",
     "date_added": "2026-10-07"
+  },
+  {
+    "company": "Intel",
+    "role": "CPU Physical Design Engineer",
+    "location": "US, Texas, Austin",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0287930",
+    "board": "workday_intel",
+    "date_added": "2026-10-08"
   }
 ]
