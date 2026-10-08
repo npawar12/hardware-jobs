@@ -720,6 +720,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | Digital Design Engineer, Interconnect | Oct 8 |
+| MACOM | SOC Analyst I | Oct 8 |
 | AMD | CPU RTL Design Engineer | Oct 7 |
 | Meta | Digital Design Engineer, SoC Chassis | Oct 7 |
 | Meta | Digital Design Engineer, SoC Chassis | Oct 7 |
