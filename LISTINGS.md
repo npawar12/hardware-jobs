@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | R&D Hardware Engineer | Oct 8 |
+| Amazon | Cloud Hardware Development Engineer, Hardware Engineering Services | Oct 8 |
 | Cisco | ASIC Packaging Signal/Power Integrity Hardware Engineer (Hybrid) | Oct 8 |
 | Intel | CPU Physical Design Engineer | Oct 8 |
 | NVIDIA | Senior Design Verification Engineer - GPU Memory Subsystem | Oct 7 |
