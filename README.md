@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 9-->0d |
 | Amazon | Sr. Physical Design Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10574284/sr-physical-design-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 9-->0d |
 | Intel | CPU Physical Design Engineer | US, Texas, Austin | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0287911"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 8-->1d |
 | Amazon | Ground Systems Hardware Development Engineer, Amazon Leo Ground Systems Engineering | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10574179/ground-systems-hardware-development-engineer-amazon-leo-ground-systems-engineering"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 8-->1d |
