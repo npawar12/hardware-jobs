@@ -6406,5 +6406,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10573893/cloud-hardware-development-engineer-hardware-engineering-services",
     "board": "amazon",
     "date_added": "2026-10-08"
+  },
+  {
+    "company": "Intel",
+    "role": "CPU Physical Design Engineer",
+    "location": "US, Texas, Austin",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0287911",
+    "board": "workday_intel",
+    "date_added": "2026-10-08"
+  },
+  {
+    "company": "Amazon",
+    "role": "Ground Systems Hardware Development Engineer, Amazon Leo Ground Systems Engineering",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10574179/ground-systems-hardware-development-engineer-amazon-leo-ground-systems-engineering",
+    "board": "amazon",
+    "date_added": "2026-10-08"
   }
 ]
