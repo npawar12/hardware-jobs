@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Sr. Physical Design Engineer, Annapurna Labs | Oct 9 |
 | Intel | CPU Physical Design Engineer | Oct 8 |
 | Amazon | Ground Systems Hardware Development Engineer, Amazon Leo Ground Systems Engineering | Oct 8 |
 | Broadcom | R&D Hardware Engineer | Oct 8 |
