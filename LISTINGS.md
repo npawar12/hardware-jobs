@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | ASIC Clocks Verification Engineer - New College Grad 2026 | Oct 9 |
 | Tenstorrent | Physical Design Engineer - PnR | Oct 9 |
 | Cisco | ASIC Engineer (Onsite) | Oct 9 |
 | Nokia | SoC/FPGA Engineer 2 | Oct 9 |
