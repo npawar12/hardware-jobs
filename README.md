@@ -1124,7 +1124,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Design Verification Engineer-System Verilog/UVM | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->92d |
 | ↳ | SOC Silicon Design Engineer | Boxborough, MA | Early Career | 🔒 | <!--Jul 10-->92d |
 | ↳ | Silicon Design Engineer | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->92d |
-| ↳ | ASIC Design Verification Engineer | Austin, TX | Early Career | <a href="https://www.linkedin.com/jobs/view/asic-design-verification-engineer-at-amd-4427398093?position=6&pageNum=5&refId=undSxvNvGDoD9UCFvb9bQw%3D%3D&trackingId=SSq0nKnXnkzV7cPghTeNcg%3D%3D"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->92d |
+| ↳ | ASIC Design Verification Engineer | Austin, TX | Early Career | 🔒 | <!--Jul 10-->92d |
 | ↳ | FPGA Power Management Engineer | San Jose, CA | Early Career | <a href="https://www.linkedin.com/jobs/view/fpga-power-management-engineer-at-amd-4406711966?position=59&pageNum=0&refId=viuBIdhkKkrUnprGi3G5IQ%3D%3D&trackingId=S4bj05iwKxeQtT6%2FL0tyTQ%3D%3D"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->92d |
 | Google | TPU SoC Design Engineer, Cloud | Sunnyvale, CA | Early Career | 🔒 | <!--Jul 10-->92d |
 | ↳ | TPU RTL Design Engineer | Sunnyvale, CA | Early Career | 🔒 | <!--Jul 10-->92d |
