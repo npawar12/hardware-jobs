@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Analog Devices | Engineer, Reliability Hardware Engineering | Oct 12 |
+| Micron | Intern - SSD Hardware Engineering | Oct 12 |
+| Teledyne | Hardware Engineer | Oct 12 |
 | NVIDIA | ASIC Clocks Verification Engineer - New College Grad 2026 | Oct 9 |
 | Tenstorrent | Physical Design Engineer - PnR | Oct 9 |
 | Cisco | ASIC Engineer (Onsite) | Oct 9 |
