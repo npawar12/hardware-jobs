@@ -731,6 +731,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | Digital Design Engineer, Interconnect | Oct 12 |
 | AMD | Summer 2027 ASIC Design Co-Op/ Intern | Oct 10 |
 | Microsoft | Physical Design Engineer | Oct 10 |
 | IBM | Hardware Developer Intern - Poughkeepsie, NY - 2027 | Oct 10 |
