@@ -6505,5 +6505,32 @@
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Hardware-Engineer_REQ37363",
     "board": "workday_flir",
     "date_added": "2026-10-12"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Failure Analysis Engineer (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Failure-Analysis-Engineer--Hybrid-_2027288",
+    "board": "workday_cisco",
+    "date_added": "2026-10-12"
+  },
+  {
+    "company": "Nokia",
+    "role": "Hardware Development Co-Op",
+    "location": "United States",
+    "type": "Co-op",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268",
+    "board": "oracle_fa-evmr-saasfaprod1",
+    "date_added": "2026-10-12"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Verification Engineer, Ring/Blink ASIC Team",
+    "location": "US, MA, North Reading",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10576447/asic-verification-engineer-ring-blink-asic-team",
+    "board": "amazon",
+    "date_added": "2026-10-12"
   }
 ]
