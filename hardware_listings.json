@@ -6559,5 +6559,77 @@
     "url": "https://www.amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo",
     "board": "amazon",
     "date_added": "2026-10-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "SoC Software Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "SoC Software Engineer \u2013 New College Graduate 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Formal Verification Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior ASIC DFT DV Engineer (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-DFT-DV-Engineer--Hybrid-_2027869",
+    "board": "workday_cisco",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Verification Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/IC-Verification-Engineer_R027360",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Verification Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/IC-Verification-Engineer_R027358",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Verification Engineer",
+    "location": "USA-California-San Jose-1320 Ridder Park Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/IC-Verification-Engineer_R027357",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, AI/ML Server Development",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10577566/hardware-development-engineer-ai-ml-server-development",
+    "board": "amazon",
+    "date_added": "2026-10-13"
   }
 ]

@@ -6,6 +6,14 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | SoC Software Engineer - New College Grad 2027 | Oct 13 |
+| NVIDIA | SoC Software Engineer – New College Graduate 2026 | Oct 13 |
+| NVIDIA | Formal Verification Engineer - New College Grad 2026 | Oct 13 |
+| Cisco | Senior ASIC DFT DV Engineer (Hybrid) | Oct 13 |
+| Broadcom | IC Verification Engineer | Oct 13 |
+| Broadcom | IC Verification Engineer | Oct 13 |
+| Broadcom | IC Verification Engineer | Oct 13 |
+| Amazon | Hardware Development Engineer, AI/ML Server Development | Oct 13 |
 | Altera | Senior DFT Design Engineer | Oct 13 |
 | Amazon | ASIC Engineer Intern, Summer 2027 | Oct 13 |
 | Amazon | ASIC Engineer Early Career - 2027, Project Leo | Oct 13 |
