@@ -6532,5 +6532,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10576447/asic-verification-engineer-ring-blink-asic-team",
     "board": "amazon",
     "date_added": "2026-10-12"
+  },
+  {
+    "company": "Altera",
+    "role": "Senior DFT Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-DFT-Design-Engineer_R03312",
+    "board": "workday_altera",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Engineer Intern, Summer 2027",
+    "location": "US, CA, Sunnyvale",
+    "type": "Summer 2027 Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+    "board": "amazon",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Engineer Early Career - 2027, Project Leo",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo",
+    "board": "amazon",
+    "date_added": "2026-10-13"
   }
 ]

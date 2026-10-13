@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | Senior DFT Design Engineer | Oct 13 |
+| Amazon | ASIC Engineer Intern, Summer 2027 | Oct 13 |
+| Amazon | ASIC Engineer Early Career - 2027, Project Leo | Oct 13 |
 | Cisco | ASIC Failure Analysis Engineer (Hybrid) | Oct 12 |
 | Nokia | Hardware Development Co-Op | Oct 12 |
 | Amazon | ASIC Verification Engineer, Ring/Blink ASIC Team | Oct 12 |
