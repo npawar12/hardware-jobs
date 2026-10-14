@@ -754,6 +754,16 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Verification Engineer | Oct 14 |
+| Meta | ASIC Engineer, Performance Architecture and Modeling (University Grad) | Oct 14 |
+| Meta | ASIC Engineer, Performance Architecture and Modeling (University Grad) | Oct 14 |
+| IBM | Hardware Developer Intern - Rochester, MN - 2027 | Oct 14 |
+| IBM | Entry level Hardware Developer - Rochester, MN - 2027 | Oct 14 |
+| Synopsys | RTL Design and Verification Internship | Oct 14 |
+| Keysight | R&D Hardware Engineer, Intern | Oct 14 |
+| Keysight | R&D Hardware Design Engineer, Intern | Oct 14 |
+| Teradyne | Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) | Oct 14 |
+| pSemi | Intern, Analog Mixed-Signal ASIC Automation/Characterization - Spring 2026 | Oct 14 |
 | Microsoft | Design Verification Engineer | Oct 13 |
 | Meta | ASIC Engineer, Implementation - CAD | Oct 13 |
 | Meta | Hardware Engineer, Power | Oct 13 |
