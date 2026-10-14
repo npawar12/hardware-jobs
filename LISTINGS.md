@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | Oct 14 |
+| Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (USA) | Oct 14 |
 | NVIDIA | ASIC Verification Engineer - New College Grad 2027 | Oct 13 |
 | NVIDIA | Low Power ASIC Engineer - New College Grad 2027 | Oct 13 |
 | NVIDIA | Senior ASIC Design Engineer - Memory Subsystem | Oct 13 |
