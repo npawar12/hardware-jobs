@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Design Engineer I (Intern) - United States | Oct 14 |
+| Amazon | Junior Design Verification Engineer, Amazon Leo | Oct 14 |
+| Amazon | Hardware Development Engineer, Antenna | Oct 14 |
 | Zoox | Hardware Engineer - Test Development | Oct 14 |
 | OpenAI | SoC Engineer | Oct 14 |
 | Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | Oct 14 |

@@ -6703,5 +6703,32 @@
     "url": "https://jobs.ashbyhq.com/openai/e8e7fd72-bc4e-4717-8a67-81e4798372c7",
     "board": "ashby_openai",
     "date_added": "2026-10-14"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Design Engineer I (Intern) - United States",
+    "location": "San Jose, California, US",
+    "type": "Summer 2027 Intern",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer-I--Intern----United-States_2027790",
+    "board": "workday_cisco",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "Amazon",
+    "role": "Junior Design Verification Engineer, Amazon Leo",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10579299/junior-design-verification-engineer-amazon-leo",
+    "board": "amazon",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, Antenna",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10579295/hardware-development-engineer-antenna",
+    "board": "amazon",
+    "date_added": "2026-10-14"
   }
 ]

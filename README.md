@@ -18,6 +18,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cisco | ASIC Design Engineer I (Intern) - United States | San Jose, California, US | Summer 2027 Intern | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer-I--Intern----United-States_2027790"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->0d |
+| Amazon | Junior Design Verification Engineer, Amazon Leo | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10579299/junior-design-verification-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->0d |
+| ↳ | Hardware Development Engineer, Antenna | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10579295/hardware-development-engineer-antenna"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->0d |
 | Zoox | Hardware Engineer - Test Development | Foster City, CA | Early Career | <a href="https://jobs.lever.co/zoox/a90cfd71-9434-4013-adf1-85111e5ce65f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->0d |
 | OpenAI | SoC Engineer | San Francisco | Early Career | <a href="https://jobs.ashbyhq.com/openai/e8e7fd72-bc4e-4717-8a67-81e4798372c7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->0d |
 | Tenstorrent | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada | Summer 2027 Intern | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->0d |
