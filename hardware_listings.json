@@ -6685,5 +6685,23 @@
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007",
     "board": "greenhouse_tenstorrentuniversity",
     "date_added": "2026-10-14"
+  },
+  {
+    "company": "Zoox",
+    "role": "Hardware Engineer - Test Development",
+    "location": "Foster City, CA",
+    "type": "Early Career",
+    "url": "https://jobs.lever.co/zoox/a90cfd71-9434-4013-adf1-85111e5ce65f",
+    "board": "lever_zoox",
+    "date_added": "2026-10-14"
+  },
+  {
+    "company": "OpenAI",
+    "role": "SoC Engineer",
+    "location": "San Francisco",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/openai/e8e7fd72-bc4e-4717-8a67-81e4798372c7",
+    "board": "ashby_openai",
+    "date_added": "2026-10-14"
   }
 ]
