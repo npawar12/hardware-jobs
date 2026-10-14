@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | ASIC Verification Engineer - New College Grad 2027 | Oct 13 |
+| NVIDIA | Low Power ASIC Engineer - New College Grad 2027 | Oct 13 |
+| NVIDIA | Senior ASIC Design Engineer - Memory Subsystem | Oct 13 |
+| Amazon | Hardware Development Engineer Intern,  Summer 2027 | Oct 13 |
 | NVIDIA | SoC Software Engineer - New College Grad 2027 | Oct 13 |
 | NVIDIA | SoC Software Engineer – New College Graduate 2026 | Oct 13 |
 | NVIDIA | Formal Verification Engineer - New College Grad 2026 | Oct 13 |

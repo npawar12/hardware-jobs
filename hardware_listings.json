@@ -6631,5 +6631,41 @@
     "url": "https://www.amazon.jobs/en/jobs/10577566/hardware-development-engineer-ai-ml-server-development",
     "board": "amazon",
     "date_added": "2026-10-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Verification Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Low Power ASIC Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Design Engineer - Memory Subsystem",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---Memory-Subsystem_JR2027771",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-13"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer Intern,  Summer 2027",
+    "location": "US, CA, Sunnyvale",
+    "type": "Summer 2027 Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
+    "board": "amazon",
+    "date_added": "2026-10-13"
   }
 ]
