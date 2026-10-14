@@ -383,7 +383,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | NVIDIA | ASIC Verification Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer_JR2008448"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->69d |
 | Cisco | Senior ASIC Design Verification Engineer | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-Design-Verification-Engineer_2021090"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->69d |
 | Ciena | Hardware Engineering Co-op (4-8 Months) | Ottawa | Co-op | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->69d |
-| Amazon | Security Hardware Engineer, Infrastructure Security | US, VA, Herndon | Early Career | <a href="https://www.amazon.jobs/en/jobs/10493056/security-hardware-engineer-infrastructure-security"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->69d |
+| Amazon | Security Hardware Engineer, Infrastructure Security | US, VA, Herndon | Early Career | 🔒 | <!--Aug 5-->69d |
 | ↳ | Propulsion Hardware Engineer, Prime Air Drone Fleet & Production | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10493217/propulsion-hardware-engineer-prime-air-drone-fleet-production"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->69d |
 | Tenstorrent | Physical Design Methodology Engineer, AI HW IP | Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada | Early Career | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5198608007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->70d |
 | NVIDIA | Senior Physical Design Engineer | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Engineer_JR2017826"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 4-->70d |
@@ -899,7 +899,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Graduate Program - Engineering Pathways | Raleigh, NC | New Grad | 🔒 | <!--Sep 2-->41d |
 | ↳ | SoC Security Architecture | Austin, TX | Early Career | <a href="https://careers.arm.com/job/chandler/principal-board-package-co-design-architect/33099/99030822768"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 2-->41d |
 | AMD | DFT ATPG Design and Test Engineer | Fort Collins, CO | Early Career | 🔒 | <!--Sep 1-->42d |
-| ↳ | CPU Verification Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/91247?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->42d |
+| ↳ | CPU Verification Engineer | Fort Collins, CO | Early Career | 🔒 | <!--Sep 1-->42d |
 | ↳ | CPU Core Architecture/RTL Engineer | Fishkill, NY | Early Career | 🔒 | <!--Sep 1-->42d |
 | Google | Silicon Engineer- P and D- (gCPU), Design Verification (multiple openings) | Portland, OR | Early Career | <a href="https://careers.google.com/jobs/results/134620779059782342-silicon-engineer-p-and-d/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->42d |
 | ↳ | Hardware Engineer | Mountain View, CA | Early Career | <a href="https://careers.google.com/jobs/results/128558071944225478-hardware-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 1-->42d |
@@ -1150,7 +1150,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | IP Verification Engineer | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->95d |
 | ↳ | FPGA Design Engineer (Timing) | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->95d |
 | ↳ | SoC Design Verification Engineer | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->95d |
-| ↳ | CPU Core Verification Engineer | Austin, TX | Early Career | <a href="https://www.linkedin.com/jobs/view/cpu-core-verification-engineer-at-amd-4353141413?position=39&pageNum=0&refId=144yYtt64Q8%2BzK5JLp97XA%3D%3D&trackingId=e3clFjHv7X6bhb2dOgLuBw%3D%3D"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->95d |
+| ↳ | CPU Core Verification Engineer | Austin, TX | Early Career | 🔒 | <!--Jul 10-->95d |
 | ↳ | Design Verification Engineer-System Verilog/UVM | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->95d |
 | ↳ | SOC Silicon Design Engineer | Boxborough, MA | Early Career | 🔒 | <!--Jul 10-->95d |
 | ↳ | Silicon Design Engineer | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->95d |
