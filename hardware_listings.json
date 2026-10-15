@@ -6748,5 +6748,32 @@
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Tucson-AZ/FPGA-Design-Engineer_REQ19930-1",
     "board": "workday_flir",
     "date_added": "2026-10-15"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior AI Application Developer - GPU and SOC Architecture Modeling",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Application-Developer---GPU-and-SOC-Architecture-Modeling_JR2019994",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-15"
+  },
+  {
+    "company": "Nokia",
+    "role": "Hardware Design Engineer",
+    "location": "United States",
+    "type": "Early Career",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41276",
+    "board": "oracle_fa-evmr-saasfaprod1",
+    "date_added": "2026-10-15"
+  },
+  {
+    "company": "Amazon",
+    "role": "MLA Design Verification Engineer I, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10580940/mla-design-verification-engineer-i-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-10-15"
   }
 ]

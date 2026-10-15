@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior AI Application Developer - GPU and SOC Architecture Modeling | Oct 15 |
+| Nokia | Hardware Design Engineer | Oct 15 |
+| Amazon | MLA Design Verification Engineer I, Annapurna Labs | Oct 15 |
 | Marvell | Hardware Design Engineer | Oct 15 |
 | Teledyne | FPGA Design Engineer | Oct 15 |
 | Cisco | ASIC Design Engineer I (Intern) - United States | Oct 14 |
