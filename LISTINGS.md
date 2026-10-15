@@ -759,6 +759,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Low-Power & CDC Verification Engineer | Oct 15 |
+| Meta | Hardware Engineer, AI Accelerator Module Design | Oct 15 |
+| Meta | ASIC Engineer, Design (University Grad) | Oct 15 |
+| Meta | Hardware Engineer, AI Accelerator Module Design | Oct 15 |
+| IBM | Hardware Developer Intern - Austin, TX - 2027 | Oct 15 |
+| Teradyne | Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA) | Oct 15 |
 | AMD | CPU Verification Engineer | Oct 14 |
 | Meta | ASIC Engineer, Performance Architecture and Modeling (University Grad) | Oct 14 |
 | Meta | ASIC Engineer, Performance Architecture and Modeling (University Grad) | Oct 14 |
