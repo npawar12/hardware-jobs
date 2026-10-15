@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Marvell | Hardware Design Engineer | Santa Clara, CA | Early Career | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Design-Engineer_2604968"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 15-->0d |
+| Teledyne | FPGA Design Engineer | US - Tucson, AZ | Early Career | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Tucson-AZ/FPGA-Design-Engineer_REQ19930-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 15-->0d |
 | Cisco | ASIC Design Engineer I (Intern) - United States | San Jose, California, US | Summer 2027 Intern | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer-I--Intern----United-States_2027790"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->1d |
 | Amazon | Junior Design Verification Engineer, Amazon Leo | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10579299/junior-design-verification-engineer-amazon-leo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->1d |
 | ↳ | Hardware Development Engineer, Antenna | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10579295/hardware-development-engineer-antenna"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 14-->1d |

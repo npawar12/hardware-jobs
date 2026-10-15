@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Marvell | Hardware Design Engineer | Oct 15 |
+| Teledyne | FPGA Design Engineer | Oct 15 |
 | Cisco | ASIC Design Engineer I (Intern) - United States | Oct 14 |
 | Amazon | Junior Design Verification Engineer, Amazon Leo | Oct 14 |
 | Amazon | Hardware Development Engineer, Antenna | Oct 14 |

@@ -6730,5 +6730,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10579295/hardware-development-engineer-antenna",
     "board": "amazon",
     "date_added": "2026-10-14"
+  },
+  {
+    "company": "Marvell",
+    "role": "Hardware Design Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Design-Engineer_2604968",
+    "board": "workday_marvell",
+    "date_added": "2026-10-15"
+  },
+  {
+    "company": "Teledyne",
+    "role": "FPGA Design Engineer",
+    "location": "US - Tucson, AZ",
+    "type": "Early Career",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Tucson-AZ/FPGA-Design-Engineer_REQ19930-1",
+    "board": "workday_flir",
+    "date_added": "2026-10-15"
   }
 ]
