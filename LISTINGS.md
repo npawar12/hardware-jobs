@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| indie Semiconductor | Digital IC Design Engineer | Oct 16 |
+| NVIDIA | Senior System Verification Engineer | Oct 16 |
+| NVIDIA | System Verification Engineer | Oct 16 |
 | NVIDIA | Senior Performance Verification Engineer | Oct 15 |
 | Altera | FPGA IP Design Engineer -  Intern | Oct 15 |
 | NVIDIA | Senior AI Application Developer - GPU and SOC Architecture Modeling | Oct 15 |
