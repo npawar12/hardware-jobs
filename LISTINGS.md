@@ -770,6 +770,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SoC Physical Integration Engineer | Oct 16 |
+| AMD | RTL Methodology Silicon Design Engineer | Oct 16 |
+| Microsoft | Design Verification Engineer - Fabric Interconnect | Oct 16 |
+| Microsoft | Design Verification Engineer | Oct 16 |
 | AMD | Low-Power & CDC Verification Engineer | Oct 15 |
 | Meta | Hardware Engineer, AI Accelerator Module Design | Oct 15 |
 | Meta | ASIC Engineer, Design (University Grad) | Oct 15 |
