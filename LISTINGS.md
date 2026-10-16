@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| GlobalFoundries | Foundation IP Design Verification Intern (Summer 2027) | Oct 16 |
 | Cisco | ASIC Engineer (hybrid) | Oct 16 |
 | indie Semiconductor | Digital IC Design Engineer | Oct 16 |
 | NVIDIA | Senior System Verification Engineer | Oct 16 |

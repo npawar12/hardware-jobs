@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| GlobalFoundries | Foundation IP Design Verification Intern (Summer 2027) | USA - California - Santa Clara | Summer 2027 Intern | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
 | Cisco | ASIC Engineer (hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer--hybrid-_2028851"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
 | indie Semiconductor | Digital IC Design Engineer | Aliso Viejo, CA | Early Career | <a href="https://www.indie.inc/careers/job-opportunities/?gh_jid=5062242007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
 | NVIDIA | Senior System Verification Engineer | US, TX, Austin | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-System-Verification-Engineer_JR2027895"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
