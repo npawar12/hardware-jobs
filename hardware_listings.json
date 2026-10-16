@@ -6775,5 +6775,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10580940/mla-design-verification-engineer-i-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-10-15"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior Performance Verification Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Verification-Engineer_JR2028054",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-15"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA IP Design Engineer -  Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
+    "board": "workday_altera",
+    "date_added": "2026-10-15"
   }
 ]
