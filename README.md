@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | SoC Logic Design Engineer | Costa Rica, San Jose | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/SoC-Logic-Design-Engineer_JR0288123"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
+| Altera | FPGA Design Applications Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Design-Applications-Engineer_R03246"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
 | GlobalFoundries | Foundation IP Design Verification Intern (Summer 2027) | USA - California - Santa Clara | Summer 2027 Intern | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
 | Cisco | ASIC Engineer (hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer--hybrid-_2028851"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |
 | indie Semiconductor | Digital IC Design Engineer | Aliso Viejo, CA | Early Career | <a href="https://www.indie.inc/careers/job-opportunities/?gh_jid=5062242007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->0d |

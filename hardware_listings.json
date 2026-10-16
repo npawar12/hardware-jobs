@@ -6838,5 +6838,23 @@
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
     "board": "workday_globalfoundries",
     "date_added": "2026-10-16"
+  },
+  {
+    "company": "Intel",
+    "role": "SoC Logic Design Engineer",
+    "location": "Costa Rica, San Jose",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/SoC-Logic-Design-Engineer_JR0288123",
+    "board": "workday_intel",
+    "date_added": "2026-10-16"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Design Applications Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Design-Applications-Engineer_R03246",
+    "board": "workday_altera",
+    "date_added": "2026-10-16"
   }
 ]

@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | SoC Logic Design Engineer | Oct 16 |
+| Altera | FPGA Design Applications Engineer | Oct 16 |
 | GlobalFoundries | Foundation IP Design Verification Intern (Summer 2027) | Oct 16 |
 | Cisco | ASIC Engineer (hybrid) | Oct 16 |
 | indie Semiconductor | Digital IC Design Engineer | Oct 16 |
