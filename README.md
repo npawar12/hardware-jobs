@@ -790,6 +790,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Arm | SoC RTL Performance Analysis Engineer | Austin, TX | Early Career | <a href="https://careers.arm.com/job/austin/soc-rtl-performance-analysis-engineer/33099/86766479840"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 17-->0d |
 | AMD | SoC Physical Integration Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/93728?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->1d |
 | ↳ | RTL Methodology Silicon Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/93251?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->1d |
 | Microsoft | Design Verification Engineer - Fabric Interconnect | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393557039427?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->1d |
