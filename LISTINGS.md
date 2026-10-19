@@ -774,6 +774,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | ASIC Design Engineer Intern | Oct 19 |
 | Arm | SoC RTL Performance Analysis Engineer | Oct 17 |
 | AMD | SoC Physical Integration Engineer | Oct 16 |
 | AMD | RTL Methodology Silicon Design Engineer | Oct 16 |
