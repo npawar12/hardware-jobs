@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | ASIC Verification Intern - Summer 2027 | Canada, Toronto | Summer 2027 Intern | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 19-->0d |
 | Micron | Senior Design Verification Engineer | San Jose, CA | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Verification-Engineer_JR114836"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 17-->2d |
 | Intel | SoC Logic Design Engineer | Costa Rica, San Jose | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/SoC-Logic-Design-Engineer_JR0288123"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->3d |
 | Altera | FPGA Design Applications Engineer | San Jose, California, United States | Early Career | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-Design-Applications-Engineer_R03246"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 16-->3d |

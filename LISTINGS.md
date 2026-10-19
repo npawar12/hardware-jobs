@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | ASIC Verification Intern - Summer 2027 | Oct 19 |
 | Micron | Senior Design Verification Engineer | Oct 17 |
 | Intel | SoC Logic Design Engineer | Oct 16 |
 | Altera | FPGA Design Applications Engineer | Oct 16 |
