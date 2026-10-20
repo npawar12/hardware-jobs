@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Hardware Development Engineer Intern , Winter 2027 | Oct 20 |
+| Amazon | Sr. Hardware Engineer - ML Acceleration, Annapurna Labs | Oct 20 |
 | Teledyne | Firmware Engineer – FPGA & Imaging Systems | Oct 20 |
 | NVIDIA | ASIC Verification Intern - Summer 2027 | Oct 19 |
 | Micron | Senior Design Verification Engineer | Oct 17 |
