@@ -776,6 +776,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | SoC Hardware (Power Management) Validation Engineer | Oct 20 |
+| MediaTek | Design-for-Test (DFT) Engineer – High-Performance CPU (New Grad) | Oct 20 |
+| Keysight | R&D Hardware Engineer Intern | Oct 20 |
 | Meta | ASIC Design Engineer Intern | Oct 19 |
 | Arm | SoC RTL Performance Analysis Engineer | Oct 17 |
 | AMD | SoC Physical Integration Engineer | Oct 16 |
