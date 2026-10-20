@@ -6901,5 +6901,59 @@
     "url": "https://www.amazon.jobs/en/jobs/10584040/sr-hardware-engineer-ml-acceleration-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-10-20"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior FPGA Prototyping Engineer - Hardware",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-FPGA-Prototyping-Engineer---Hardware_JR2028225",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-20"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior Verification Engineer \u2013 High Speed Coherent Interconnect Hub",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Verification-Engineer---High-Speed-Coherent-Interconnect-Hub_JR2028264",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-20"
+  },
+  {
+    "company": "Intel",
+    "role": "SoC Design Verification Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288228",
+    "board": "workday_intel",
+    "date_added": "2026-10-20"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Senior Hardware Engineer",
+    "location": "Ottawa March Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Ottawa-March-Road/Senior-Hardware-Engineer_R027457",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-20"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Design Engineer",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/IC-Design-Engineer_R027470-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-20"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA IP Design Engineer - Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
+    "board": "workday_altera",
+    "date_added": "2026-10-20"
   }
 ]

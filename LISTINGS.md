@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior FPGA Prototyping Engineer - Hardware | Oct 20 |
+| NVIDIA | Senior Verification Engineer – High Speed Coherent Interconnect Hub | Oct 20 |
+| Intel | SoC Design Verification Engineer | Oct 20 |
+| Broadcom | Senior Hardware Engineer | Oct 20 |
+| Broadcom | IC Design Engineer | Oct 20 |
+| Altera | FPGA IP Design Engineer - Intern | Oct 20 |
 | Amazon | Hardware Development Engineer Intern , Winter 2027 | Oct 20 |
 | Amazon | Sr. Hardware Engineer - ML Acceleration, Annapurna Labs | Oct 20 |
 | Teledyne | Firmware Engineer – FPGA & Imaging Systems | Oct 20 |
