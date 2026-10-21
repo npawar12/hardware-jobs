@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Intel | GPU Physical Design Engineer | Costa Rica, San Jose | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer_JR0287988"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 20-->0d |
 | NVIDIA | Senior FPGA Prototyping Engineer - Hardware | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-FPGA-Prototyping-Engineer---Hardware_JR2028225"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 20-->0d |
 | ↳ | Senior Verification Engineer – High Speed Coherent Interconnect Hub | US, CA, Santa Clara | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Verification-Engineer---High-Speed-Coherent-Interconnect-Hub_JR2028264"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 20-->0d |
 | Intel | SoC Design Verification Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288228"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 20-->0d |

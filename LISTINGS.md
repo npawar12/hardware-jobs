@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | GPU Physical Design Engineer | Oct 20 |
 | NVIDIA | Senior FPGA Prototyping Engineer - Hardware | Oct 20 |
 | NVIDIA | Senior Verification Engineer – High Speed Coherent Interconnect Hub | Oct 20 |
 | Intel | SoC Design Verification Engineer | Oct 20 |
