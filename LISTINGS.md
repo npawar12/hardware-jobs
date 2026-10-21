@@ -785,6 +785,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| IBM | Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027 | Oct 21 |
+| Teradyne | Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) | Oct 21 |
 | Microsoft | SoC Hardware (Power Management) Validation Engineer | Oct 20 |
 | MediaTek | Design-for-Test (DFT) Engineer – High-Performance CPU (New Grad) | Oct 20 |
 | Keysight | R&D Hardware Engineer Intern | Oct 20 |
