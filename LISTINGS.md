@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Lightmatter | Electro-Optic Link Hardware Engineer | Oct 22 |
+| Cisco | ASIC DFT STA Engineer | Oct 22 |
+| Amazon | ASIC Formal Verification Engineer I, Annapurna Labs | Oct 22 |
+| Amazon | Sr. Mgr Liquid Cooling Ops, AWS Hardware Engineering Services | Oct 22 |
 | Cisco | ASIC Packaging Signal/Power Integrity Hardware Engineer (Hybrid) | Oct 21 |
 | Marvell | Silicon Validation Intern, BS - Summer 2027 | Oct 21 |
 | Marvell | Silicon Validation Intern, BS - Summer 2027 | Oct 21 |

@@ -7009,5 +7009,41 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Packaging-Signal-Power-Integrity-Hardware-Engineer--Hybrid-_2029221-1",
     "board": "workday_cisco",
     "date_added": "2026-10-21"
+  },
+  {
+    "company": "Lightmatter",
+    "role": "Electro-Optic Link Hardware Engineer  ",
+    "location": "Boston, MA; Mountain View, CA",
+    "type": "Early Career",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5408439008?gh_jid=5408439008",
+    "board": "greenhouse_lightmatter",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC DFT STA Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-DFT-STA-Engineer_2027715",
+    "board": "workday_cisco",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Formal Verification Engineer I, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10586351/asic-formal-verification-engineer-i-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. Mgr Liquid Cooling Ops, AWS Hardware Engineering Services",
+    "location": "US, WA, Seattle",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10585886/sr-mgr-liquid-cooling-ops-aws-hardware-engineering-services",
+    "board": "amazon",
+    "date_added": "2026-10-22"
   }
 ]
