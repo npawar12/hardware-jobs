@@ -790,6 +790,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Core RTL Design Engineer | Oct 22 |
+| Microsoft | Logic Design Engineer | Oct 22 |
+| Meta | ASIC Design Engineer Intern | Oct 22 |
+| Siemens EDA | FPGA Prototyping Debug and Runtime Infrastructure Development Engineer | Oct 22 |
 | IBM | Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027 | Oct 21 |
 | Teradyne | Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA) | Oct 21 |
 | Microsoft | SoC Hardware (Power Management) Validation Engineer | Oct 20 |
