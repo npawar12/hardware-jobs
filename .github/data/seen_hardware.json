@@ -379,6 +379,7 @@
   "workday_ambarella_/job/US-Headquarters/DFT-Engineer-Intern_JR100103",
   "workday_ambarella_/job/US-Headquarters/DFT-Engineer-Intern_JR100360",
   "workday_ambarella_/job/US-Headquarters/DFT-Engineer_JR100353",
+  "workday_ambarella_/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393",
   "workday_ambarella_/job/US-Headquarters/Physical-Design-Engineer_JR100284",
   "workday_ambarella_/job/US-Headquarters/Sr-ASIC-Design-Engineer_JR100082",
   "workday_ambarella_/job/US-Headquarters/Verification-Engineer-Intern_JR100109",
@@ -562,6 +563,8 @@
   "workday_intel_/job/US-California-Folsom/CPU-Core-Pre-Si-Validation-Verification-Engineer_JR0285857",
   "workday_intel_/job/US-California-Folsom/CPU-Pre-Silicon-Verification-Engineer_JR0285652",
   "workday_intel_/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0286796",
+  "workday_intel_/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288328-1",
+  "workday_intel_/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288336",
   "workday_intel_/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0286860",
   "workday_intel_/job/US-California-Santa-Clara/Hardware-Engineer_JR0286976",
   "workday_intel_/job/US-California-Santa-Clara/IP-Design-Verification-Engineer_JR0285858",
@@ -781,5 +784,6 @@
   "workday_nxp_/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065564",
   "workday_nxp_/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065724",
   "workday_nxp_/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10066289-1",
-  "workday_silabs_/job/Austin/Digital-Design-Engineer-I_20658-1"
+  "workday_silabs_/job/Austin/Digital-Design-Engineer-I_20658-1",
+  "workday_silabs_/job/Austin/Static-Timing-Analysis-Engineer_21091"
 ]

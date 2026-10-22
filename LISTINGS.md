@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Silicon Labs | Static Timing Analysis Engineer | Oct 22 |
+| Intel | GPU Design Verification Engineer | Oct 22 |
+| Intel | GPU Design Verification Engineer | Oct 22 |
+| Ambarella | Physical Design Engineer Intern | Oct 22 |
 | Lightmatter | Electro-Optic Link Hardware Engineer | Oct 22 |
 | Cisco | ASIC DFT STA Engineer | Oct 22 |
 | Amazon | ASIC Formal Verification Engineer I, Annapurna Labs | Oct 22 |

@@ -7045,5 +7045,41 @@
     "url": "https://www.amazon.jobs/en/jobs/10585886/sr-mgr-liquid-cooling-ops-aws-hardware-engineering-services",
     "board": "amazon",
     "date_added": "2026-10-22"
+  },
+  {
+    "company": "Silicon Labs",
+    "role": "Static Timing Analysis Engineer",
+    "location": "Austin",
+    "type": "Early Career",
+    "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Static-Timing-Analysis-Engineer_21091",
+    "board": "workday_silabs",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Intel",
+    "role": "GPU Design Verification Engineer",
+    "location": "US, California, Folsom",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288336",
+    "board": "workday_intel",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Intel",
+    "role": "GPU Design Verification Engineer",
+    "location": "US, California, Folsom",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288328-1",
+    "board": "workday_intel",
+    "date_added": "2026-10-22"
+  },
+  {
+    "company": "Ambarella",
+    "role": "Physical Design Engineer Intern",
+    "location": "US Headquarters",
+    "type": "Summer 2027 Intern",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393",
+    "board": "workday_ambarella",
+    "date_added": "2026-10-22"
   }
 ]
