@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cisco | ASIC Packaging Signal/Power Integrity Hardware Engineer (Hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Packaging-Signal-Power-Integrity-Hardware-Engineer--Hybrid-_2029221-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 21-->0d |
 | Marvell | Silicon Validation Intern, BS - Summer 2027 | Santa Clara, CA | Summer 2027 Intern | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 21-->0d |
 | ↳ | Silicon Validation Intern, BS - Summer 2027 | Santa Clara, CA | Summer 2027 Intern | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 21-->0d |
 | Micron | Senior Engineer - HBM Design for Test (DFT) | Folsom, CA | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Senior-Engineer---HBM-Design-for-Test--DFT-_JR102419-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 21-->0d |
