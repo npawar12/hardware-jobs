@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior Verification Engineer – High Speed Coherent Interconnect Hub | Oct 23 |
+| Cisco | ASIC Engineer | Oct 23 |
+| Analog Devices | Senior Engineer, Digital Design Engineering | Oct 23 |
+| Micron | ASIC Analog Layout Engineer | Oct 23 |
 | Intel | GPU Design Verification Engineer | Oct 23 |
 | Ciena | Hardware Engineer - New Grad | Oct 23 |
 | Altera | IP Design PEY Intern | Oct 23 |

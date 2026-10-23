@@ -7144,5 +7144,41 @@
     "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341",
     "board": "workday_altera",
     "date_added": "2026-10-23"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior Verification Engineer \u2013 High Speed Coherent Interconnect Hub",
+    "location": "Canada, Toronto",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Senior-Verification-Engineer---High-Speed-Coherent-Interconnect-Hub_JR2028443",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2028864",
+    "board": "workday_cisco",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Senior Engineer, Digital Design Engineering",
+    "location": "US, MA, Chelmsford, Elizabeth",
+    "type": "Early Career",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/Senior-Engineer--Digital-Design-Engineering_R266663",
+    "board": "workday_analogdevices",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Micron",
+    "role": "ASIC Analog Layout Engineer",
+    "location": "Minneapolis, MN",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/ASIC-Analog-Layout-Engineer_JR114833",
+    "board": "workday_micron",
+    "date_added": "2026-10-23"
   }
 ]
