@@ -802,6 +802,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Silicon Diagnosis  DFT Engineer | Oct 23 |
+| Microsoft | Design Verification Engineer | Oct 23 |
+| Teradyne | Product Verification Engineer - Optical (Teradyne, North Reading, MA) | Oct 23 |
+| Teradyne | RF Test and Verification Engineer (Compute Test, North Reading) | Oct 23 |
+| MACOM | Hardware Engineer - Intern | Oct 23 |
 | AMD | CPU Core RTL Design Engineer | Oct 22 |
 | Microsoft | Logic Design Engineer | Oct 22 |
 | Meta | ASIC Design Engineer Intern | Oct 22 |

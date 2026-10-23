@@ -3859,5 +3859,50 @@
     "url": "https://jobs.siemens.com/externaljobs/JobDetail/526637?source=LinkedIn&sourceType=PREMIUM_POST_SITE",
     "board": "linkedin",
     "date_added": "2026-10-22"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon Diagnosis  DFT Engineer",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/93718?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Design Verification Engineer",
+    "location": "Hillsboro, OR",
+    "type": "Early Career",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041624?utm_source=linkedin&domain=microsoft.com&src=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Teradyne",
+    "role": "Product Verification Engineer - Optical (Teradyne, North Reading, MA)",
+    "location": "North Reading, MA",
+    "type": "Early Career",
+    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Product-Verification-Engineer-Optical-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1442914700/?utm_source=LINKEDIN&utm_medium=referrer",
+    "board": "linkedin",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Teradyne",
+    "role": "RF Test and Verification Engineer (Compute Test, North Reading)",
+    "location": "North Reading, MA",
+    "type": "Early Career",
+    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-RF-Test-and-Verification-Engineer-%28Compute-Test%2C-North-Reading%29-MA/1375059300/?utm_source=LINKEDIN&utm_medium=referrer",
+    "board": "linkedin",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "MACOM",
+    "role": "Hardware Engineer - Intern",
+    "location": "Newport Beach, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://macomtech.csod.com/ux/ats/careersite/4/home/requisition/3787?c=macomtech&source=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-10-23"
   }
 ]
