@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | GPU Design Verification Engineer | Oct 23 |
+| Ciena | Hardware Engineer - New Grad | Oct 23 |
+| Altera | IP Design PEY Intern | Oct 23 |
 | Marvell | Design Verification Intern | Oct 23 |
 | Intel | Verification Engineer – AI SoC Development | Oct 23 |
 | Intel | IP Design Verification Engineer | Oct 22 |

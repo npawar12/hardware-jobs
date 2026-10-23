@@ -7117,5 +7117,32 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/CA-ON---Ontario---Toronto/Design-Verification-Intern_2603984",
     "board": "workday_marvell",
     "date_added": "2026-10-23"
+  },
+  {
+    "company": "Intel",
+    "role": "GPU Design Verification Engineer",
+    "location": "Costa Rica, San Jose",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Design-Verification-Engineer_JR0288437-1",
+    "board": "workday_intel",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Engineer - New Grad",
+    "location": "Ottawa",
+    "type": "New Grad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914",
+    "board": "workday_ciena",
+    "date_added": "2026-10-23"
+  },
+  {
+    "company": "Altera",
+    "role": "IP Design PEY Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341",
+    "board": "workday_altera",
+    "date_added": "2026-10-23"
   }
 ]
