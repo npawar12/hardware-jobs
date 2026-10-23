@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Verification Engineer – AI SoC Development | Oct 23 |
 | Intel | IP Design Verification Engineer | Oct 22 |
 | Broadcom | Design Verification Engineer | Oct 22 |
 | Silicon Labs | Static Timing Analysis Engineer | Oct 22 |
