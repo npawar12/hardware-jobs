@@ -3904,5 +3904,41 @@
     "url": "https://macomtech.csod.com/ux/ats/careersite/4/home/requisition/3787?c=macomtech&source=Linkedin",
     "board": "linkedin",
     "date_added": "2026-10-23"
+  },
+  {
+    "company": "AMD",
+    "role": "Sr. Microprocessor Verification Engineer",
+    "location": "Fishkill, NY",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/94249?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-10-24"
+  },
+  {
+    "company": "AMD",
+    "role": "Sr Physical Design Engineer",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/93841?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-10-24"
+  },
+  {
+    "company": "Keysight",
+    "role": "FPGA Design Intern",
+    "location": "Calabasas, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.keysight.com/external/jobs/55151?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply",
+    "board": "linkedin",
+    "date_added": "2026-10-24"
+  },
+  {
+    "company": "Teradyne",
+    "role": "Senior Hardware Design Engineer, Power Electronics (Compute Test, North Reading)",
+    "location": "North Reading, MA",
+    "type": "Early Career",
+    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Hardware-Design-Engineer%2C-Power-Electronics-%28Compute-Test%2C-North-Reading%29-MA/1428847700/?utm_source=LINKEDIN&utm_medium=referrer",
+    "board": "linkedin",
+    "date_added": "2026-10-24"
   }
 ]

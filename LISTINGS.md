@@ -809,6 +809,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr. Microprocessor Verification Engineer | Oct 24 |
+| AMD | Sr Physical Design Engineer | Oct 24 |
+| Keysight | FPGA Design Intern | Oct 24 |
+| Teradyne | Senior Hardware Design Engineer, Power Electronics (Compute Test, North Reading) | Oct 24 |
 | AMD | Silicon Diagnosis  DFT Engineer | Oct 23 |
 | Microsoft | Design Verification Engineer | Oct 23 |
 | Teradyne | Product Verification Engineer - Optical (Teradyne, North Reading, MA) | Oct 23 |
