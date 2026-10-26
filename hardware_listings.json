@@ -7180,5 +7180,23 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/ASIC-Analog-Layout-Engineer_JR114833",
     "board": "workday_micron",
     "date_added": "2026-10-23"
+  },
+  {
+    "company": "Intel",
+    "role": "SoC Logic Design Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0288394",
+    "board": "workday_intel",
+    "date_added": "2026-10-26"
+  },
+  {
+    "company": "Cadence",
+    "role": "Digital IC, Sr. Account Technology Executive (ATX)",
+    "location": "AUSTIN 03",
+    "type": "Early Career",
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN-03/Digital-IC--Account-Technology-Executive--ATX-_R55386",
+    "board": "workday_cadence",
+    "date_added": "2026-10-26"
   }
 ]

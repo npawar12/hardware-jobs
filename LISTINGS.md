@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | SoC Logic Design Engineer | Oct 26 |
+| Cadence | Digital IC, Sr. Account Technology Executive (ATX) | Oct 26 |
 | NVIDIA | Senior Verification Engineer – High Speed Coherent Interconnect Hub | Oct 23 |
 | Cisco | ASIC Engineer | Oct 23 |
 | Analog Devices | Senior Engineer, Digital Design Engineering | Oct 23 |
