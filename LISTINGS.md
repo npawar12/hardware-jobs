@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cirrus Logic | DFT Engineer (CE-64000845) | Oct 27 |
+| Cirrus Logic | Senior Platform Development Engineer — Silicon Validation Tools & Infrastructure | Oct 27 |
+| Broadcom | Senior Physical Design Engineer | Oct 27 |
+| Altera | FPGA IP Software Development Engineer | Oct 27 |
+| Amazon | Satellite Hardware Engineer, Bus Structures | Oct 27 |
 | Astera Labs | Senior Design Verification Engineer | Oct 27 |
 | Intel | SoC Logic Design Engineer | Oct 26 |
 | Cadence | Digital IC, Sr. Account Technology Executive (ATX) | Oct 26 |
