@@ -828,6 +828,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | CPU Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/93206?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 27-->0d |
 | AMD | Sr. Microprocessor Verification Engineer | Fishkill, NY | Early Career | <a href="https://careers.amd.com/jobs/94249?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 24-->3d |
 | ↳ | Sr Physical Design Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/93841?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 24-->3d |
 | Keysight | FPGA Design Intern | Calabasas, CA | Summer 2027 Intern | <a href="https://jobs.keysight.com/external/jobs/55151?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 24-->3d |

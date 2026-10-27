@@ -812,6 +812,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | CPU Design Verification Engineer | Oct 27 |
 | AMD | Sr. Microprocessor Verification Engineer | Oct 24 |
 | AMD | Sr Physical Design Engineer | Oct 24 |
 | Keysight | FPGA Design Intern | Oct 24 |
