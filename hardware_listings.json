@@ -7252,5 +7252,104 @@
     "url": "https://www.amazon.jobs/en/jobs/10589585/satellite-hardware-engineer-bus-structures",
     "board": "amazon",
     "date_added": "2026-10-27"
+  },
+  {
+    "company": "SambaNova",
+    "role": "Design Verification Engineer, New Grad",
+    "location": "San Jose, California, United States",
+    "type": "New Grad",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004",
+    "board": "greenhouse_sambanovasystems",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "SambaNova",
+    "role": "Physical Design Engineer, New Grad",
+    "location": "San Jose, California, United States",
+    "type": "New Grad",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004",
+    "board": "greenhouse_sambanovasystems",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "SambaNova",
+    "role": "Post-Silicon Validation Engineer, New Grad",
+    "location": "San Jose, California, United States",
+    "type": "New Grad",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004",
+    "board": "greenhouse_sambanovasystems",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "Renesas",
+    "role": "Digital Design Electrical Engineer Intern",
+    "location": "Austin, TEXAS",
+    "type": "Summer 2027 Intern",
+    "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000157896855",
+    "board": "smartrecruiters_RenesasElectronics",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Formal Verification Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Verification Engineer - GPU",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR2016261-1",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Physical Design Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Physical-Design-Engineer_2029366",
+    "board": "workday_cisco",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC DFT Engineer - Acacia (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-DFT-Engineer---Acacia--Hybrid-_2029368-1",
+    "board": "workday_cisco",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "Intel",
+    "role": "GPU Design Verification Engineer",
+    "location": "US, California, Folsom",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288428",
+    "board": "workday_intel",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "Altera",
+    "role": "IP Design Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322",
+    "board": "workday_altera",
+    "date_added": "2026-10-27"
+  },
+  {
+    "company": "Microchip",
+    "role": "SoC Design Engineer",
+    "location": "Canada - Burnaby",
+    "type": "Early Career",
+    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/Canada---Burnaby/SoC-Design-Engineer_R4486-26",
+    "board": "workday_microchiphr",
+    "date_added": "2026-10-27"
   }
 ]

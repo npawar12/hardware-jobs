@@ -6,6 +6,17 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| SambaNova | Design Verification Engineer, New Grad | Oct 27 |
+| SambaNova | Physical Design Engineer, New Grad | Oct 27 |
+| SambaNova | Post-Silicon Validation Engineer, New Grad | Oct 27 |
+| Renesas | Digital Design Electrical Engineer Intern | Oct 27 |
+| NVIDIA | Formal Verification Engineer - New College Grad 2027 | Oct 27 |
+| NVIDIA | Senior ASIC Verification Engineer - GPU | Oct 27 |
+| Cisco | ASIC Physical Design Engineer | Oct 27 |
+| Cisco | ASIC DFT Engineer - Acacia (Hybrid) | Oct 27 |
+| Intel | GPU Design Verification Engineer | Oct 27 |
+| Altera | IP Design Intern | Oct 27 |
+| Microchip | SoC Design Engineer | Oct 27 |
 | Cirrus Logic | DFT Engineer (CE-64000845) | Oct 27 |
 | Cirrus Logic | Senior Platform Development Engineer — Silicon Validation Tools & Infrastructure | Oct 27 |
 | Broadcom | Senior Physical Design Engineer | Oct 27 |
