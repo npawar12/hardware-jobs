@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Astera Labs | Senior Design Verification Engineer | Oct 27 |
 | Intel | SoC Logic Design Engineer | Oct 26 |
 | Cadence | Digital IC, Sr. Account Technology Executive (ATX) | Oct 26 |
 | NVIDIA | Senior Verification Engineer – High Speed Coherent Interconnect Hub | Oct 23 |

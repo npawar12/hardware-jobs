@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Astera Labs | Senior Design Verification Engineer | San Jose, California, United States | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4737858005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 27-->0d |
 | Intel | SoC Logic Design Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0288394"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 26-->1d |
 | Cadence | Digital IC, Sr. Account Technology Executive (ATX) | AUSTIN 03 | Early Career | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN-03/Digital-IC--Account-Technology-Executive--ATX-_R55386"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 26-->1d |
 | NVIDIA | Senior Verification Engineer – High Speed Coherent Interconnect Hub | Canada, Toronto | Early Career | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Senior-Verification-Engineer---High-Speed-Coherent-Interconnect-Hub_JR2028443"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 23-->4d |
