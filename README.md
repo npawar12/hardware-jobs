@@ -845,6 +845,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | RTL Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/94392?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 28-->0d |
+| ↳ | SR Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86120?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 28-->0d |
+| ↳ | Pre-Silicon Power Management Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 28-->0d |
 | AMD | CPU Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/93206?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 27-->1d |
 | AMD | Sr. Microprocessor Verification Engineer | Fishkill, NY | Early Career | <a href="https://careers.amd.com/jobs/94249?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 24-->4d |
 | ↳ | Sr Physical Design Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/93841?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 24-->4d |
