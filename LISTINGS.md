@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Oct 27 |
 | SambaNova | Design Verification Engineer, New Grad | Oct 27 |
 | SambaNova | Physical Design Engineer, New Grad | Oct 27 |
 | SambaNova | Post-Silicon Validation Engineer, New Grad | Oct 27 |

@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 27-->0d |
 | SambaNova | Design Verification Engineer, New Grad | San Jose, California, United States | New Grad | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 27-->0d |
 | ↳ | Physical Design Engineer, New Grad | San Jose, California, United States | New Grad | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 27-->0d |
 | ↳ | Post-Silicon Validation Engineer, New Grad | San Jose, California, United States | New Grad | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 27-->0d |
