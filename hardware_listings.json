@@ -7378,5 +7378,41 @@
     "url": "https://www.amazon.jobs/en/jobs/10591735/hardware-development-engineer-i-relay-fleet-yard-devices",
     "board": "amazon",
     "date_added": "2026-10-28"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior PCIe Post-Silicon Validation Engineer",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-PCIe-Post-Silicon-Validation-Engineer_JR2009405",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-29"
+  },
+  {
+    "company": "Cisco",
+    "role": "Silicon Validation Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Silicon-Validation-Engineer_2029023",
+    "board": "workday_cisco",
+    "date_added": "2026-10-29"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Associate System Platforms Engineer (FPGA and Software)",
+    "location": "US, NC, Durham",
+    "type": "Early Career",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680",
+    "board": "workday_analogdevices",
+    "date_added": "2026-10-29"
+  },
+  {
+    "company": "Amazon",
+    "role": "Design Verification Engineer, Leo Payload FPGA ",
+    "location": "US, CA, Sunnyvale",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10583258/design-verification-engineer-leo-payload-fpga",
+    "board": "amazon",
+    "date_added": "2026-10-29"
   }
 ]

@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior PCIe Post-Silicon Validation Engineer | Oct 29 |
+| Cisco | Silicon Validation Engineer | Oct 29 |
+| Analog Devices | Associate System Platforms Engineer (FPGA and Software) | Oct 29 |
+| Amazon | Design Verification Engineer, Leo Payload FPGA | Oct 29 |
 | Amazon | Hardware Development Engineer I, Relay Fleet & Yard Devices | Oct 28 |
 | Dell | Hardware Engineer 2 | Oct 28 |
 | NVIDIA | Research Scientist, Electronic Design Automation - New College Grad 2026 | Oct 27 |
