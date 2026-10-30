@@ -7414,5 +7414,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10583258/design-verification-engineer-leo-payload-fpga",
     "board": "amazon",
     "date_added": "2026-10-29"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "Summer 2027 Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-29"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "Digital Design Backend Engineering Intern, 3D and AI Flows",
+    "location": "USA - California - Santa Clara",
+    "type": "Summer 2027 Intern",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355",
+    "board": "workday_globalfoundries",
+    "date_added": "2026-10-29"
   }
 ]
