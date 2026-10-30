@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | Senior Digital Design Engineer - High-Speed I/O and Photonics | Oct 30 |
+| Broadcom | Physical Design Engineer | Oct 30 |
+| Broadcom | Physical Design Engineer | Oct 30 |
+| Broadcom | ASIC Design Engineer | Oct 30 |
+| Broadcom | ASIC Design Automation Engineer | Oct 30 |
+| Amazon | Hardware Development Engineer, Amazon Key | Oct 30 |
 | Broadcom | ASIC Design - Floorplan Engineer | Oct 30 |
 | Altera | Hardware Design Engineer - Intern | Oct 30 |
 | Altera | FPGA Development Tools - Intern | Oct 30 |

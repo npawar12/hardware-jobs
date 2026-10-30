@@ -7477,5 +7477,59 @@
     "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302050",
     "board": "oracle_iawmqy",
     "date_added": "2026-10-30"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior Digital Design Engineer - High-Speed I/O and Photonics",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Digital-Design-Engineer---High-Speed-I-O-and-Photonics_JR2018150",
+    "board": "workday_nvidia",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Physical Design Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027588",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Physical Design Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027516",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Design Engineer",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Engineer_R027509",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Design Automation Engineer",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Automation-Engineer_R027494",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, Amazon Key",
+    "location": "US, WA, Bellevue",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10592411/hardware-development-engineer-amazon-key",
+    "board": "amazon",
+    "date_added": "2026-10-30"
   }
 ]
