@@ -838,6 +838,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| IBM | Entry level Hardware Developer - Austin, TX - 2027 | Oct 30 |
+| Arm | Design Verification Engineer - Memory Controller IP | Oct 30 |
+| Arm | SoC Security Architecture | Oct 30 |
+| Arm | SoC Security Architecture | Oct 30 |
 | AMD | RTL Design Engineer | Oct 28 |
 | AMD | SR Design Verification Engineer | Oct 28 |
 | AMD | Pre-Silicon Power Management Engineer | Oct 28 |

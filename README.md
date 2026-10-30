@@ -854,6 +854,10 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| IBM | Entry level Hardware Developer - Austin, TX - 2027 | Austin, TX | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=136985&source=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 30-->0d |
+| Arm | Design Verification Engineer - Memory Controller IP | Austin, TX | Early Career | <a href="https://careers.arm.com/job/austin/design-verification-engineer-memory-controller-ip/33099/102589613472"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 30-->0d |
+| ↳ | SoC Security Architecture | San Diego, CA | Early Career | <a href="https://careers.arm.com/job/austin/soc-security-architecture/33099/98440561984"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 30-->0d |
+| ↳ | SoC Security Architecture | Austin, TX | Early Career | <a href="https://careers.arm.com/job/austin/soc-security-architecture/33099/98440561984"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 30-->0d |
 | AMD | RTL Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/94392?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 28-->2d |
 | ↳ | SR Design Verification Engineer | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86120?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 28-->2d |
 | ↳ | Pre-Silicon Power Management Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 28-->2d |

@@ -3976,5 +3976,41 @@
     "url": "",
     "board": "linkedin",
     "date_added": "2026-10-28"
+  },
+  {
+    "company": "IBM",
+    "role": "Entry level Hardware Developer - Austin, TX - 2027",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=136985&source=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Arm",
+    "role": "Design Verification Engineer - Memory Controller IP",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/austin/design-verification-engineer-memory-controller-ip/33099/102589613472",
+    "board": "linkedin",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Arm",
+    "role": "SoC Security Architecture",
+    "location": "San Diego, CA",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/austin/soc-security-architecture/33099/98440561984",
+    "board": "linkedin",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Arm",
+    "role": "SoC Security Architecture",
+    "location": "Austin, TX",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/austin/soc-security-architecture/33099/98440561984",
+    "board": "linkedin",
+    "date_added": "2026-10-30"
   }
 ]
