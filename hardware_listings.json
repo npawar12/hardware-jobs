@@ -7441,5 +7441,41 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0288756-1",
     "board": "workday_intel",
     "date_added": "2026-10-30"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Design - Floorplan Engineer",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design---Floorplan-Engineer_R027510-3",
+    "board": "workday_broadcom",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Altera",
+    "role": "Hardware Design Engineer - Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
+    "board": "workday_altera",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools - Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394",
+    "board": "workday_altera",
+    "date_added": "2026-10-30"
+  },
+  {
+    "company": "Dell",
+    "role": "Graphic Designer - Experience Design Group",
+    "location": "Round Rock, TX, United States",
+    "type": "Early Career",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302050",
+    "board": "oracle_iawmqy",
+    "date_added": "2026-10-30"
   }
 ]

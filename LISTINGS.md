@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | ASIC Design - Floorplan Engineer | Oct 30 |
+| Altera | Hardware Design Engineer - Intern | Oct 30 |
+| Altera | FPGA Development Tools - Intern | Oct 30 |
+| Dell | Graphic Designer - Experience Design Group | Oct 30 |
 | Intel | CPU Physical Design Engineer | Oct 30 |
 | NVIDIA | VLSI CAD Timing Intern, Applied AI - Summer 2027 | Oct 29 |
 | GlobalFoundries | Digital Design Backend Engineering Intern, 3D and AI Flows | Oct 29 |
