@@ -865,6 +865,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| IBM | Hardware Developer Intern 2027 -Tucson, AZ | Tucson, AZ | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=130928&source=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 31-->0d |
+| Arm | Verification Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/chandler/verification-engineer/33099/102632900560"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 31-->0d |
+| Keysight | FPGA Design Intern | Calabasas, CA | Summer 2027 Intern | <a href="https://jobs.keysight.com/external/jobs/55276?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 31-->0d |
 | IBM | Entry level Hardware Developer - Austin, TX - 2027 | Austin, TX | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=136985&source=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 30-->1d |
 | Arm | Design Verification Engineer - Memory Controller IP | Austin, TX | Early Career | <a href="https://careers.arm.com/job/austin/design-verification-engineer-memory-controller-ip/33099/102589613472"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 30-->1d |
 | ↳ | SoC Security Architecture | San Diego, CA | Early Career | <a href="https://careers.arm.com/job/austin/soc-security-architecture/33099/98440561984"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 30-->1d |

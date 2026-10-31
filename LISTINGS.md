@@ -849,6 +849,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| IBM | Hardware Developer Intern 2027 -Tucson, AZ | Oct 31 |
+| Arm | Verification Engineer | Oct 31 |
+| Keysight | FPGA Design Intern | Oct 31 |
 | IBM | Entry level Hardware Developer - Austin, TX - 2027 | Oct 30 |
 | Arm | Design Verification Engineer - Memory Controller IP | Oct 30 |
 | Arm | SoC Security Architecture | Oct 30 |
