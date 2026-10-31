@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | ASIC Failure Analysis Engineer (Onsite) | Oct 31 |
 | NVIDIA | Senior Digital Design Engineer - High-Speed I/O and Photonics | Oct 30 |
 | Broadcom | Physical Design Engineer | Oct 30 |
 | Broadcom | Physical Design Engineer | Oct 30 |
