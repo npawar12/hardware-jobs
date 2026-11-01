@@ -849,6 +849,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | Design Verification Engineer | Nov 1 |
+| IBM | Controls Hardware Engineer | Nov 1 |
 | IBM | Hardware Developer Intern 2027 -Tucson, AZ | Oct 31 |
 | Arm | Verification Engineer | Oct 31 |
 | Keysight | FPGA Design Intern | Oct 31 |
