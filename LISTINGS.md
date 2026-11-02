@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Samsung Semiconductor | Intern, AI Application Engineer | Nov 2 |
+| NVIDIA | Senior ASIC Timing Engineer, DFT | Nov 2 |
+| Broadcom | ASIC Automation and Integration Engineer | Nov 2 |
+| GlobalFoundries | Design Verification Engineer (2027 New College Graduate) | Nov 2 |
+| GlobalFoundries | Design Verification Engineer Intern (Summer 2027) | Nov 2 |
+| Ambarella | Sr. Verification Engineer | Nov 2 |
 | Cisco | ASIC Failure Analysis Engineer (Onsite) | Oct 31 |
 | NVIDIA | Senior Digital Design Engineer - High-Speed I/O and Photonics | Oct 30 |
 | Broadcom | Physical Design Engineer | Oct 30 |

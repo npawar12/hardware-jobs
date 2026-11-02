@@ -7540,5 +7540,59 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Failure-Analysis-Engineer--Onsite-_2030027",
     "board": "workday_cisco",
     "date_added": "2026-10-31"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "role": "Intern, AI Application Engineer",
+    "location": "Folsom, California, United States",
+    "type": "Summer 2027 Intern",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003",
+    "board": "greenhouse_samsungsemiconductor",
+    "date_added": "2026-11-02"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Senior ASIC Timing Engineer, DFT",
+    "location": "US, CA, Santa Clara",
+    "type": "Early Career",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Timing-Engineer--DFT_JR2029094",
+    "board": "workday_nvidia",
+    "date_added": "2026-11-02"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Automation and Integration Engineer",
+    "location": "USA-MA-Andover-Brickstone Square-Suite 101",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-MA-Andover-Brickstone-Square-Suite-101/ASIC-Automation-and-Integration-Engineer_R020961",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-02"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "Design Verification Engineer (2027 New College Graduate)",
+    "location": "USA - Texas - Richardson",
+    "type": "New Grad",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer--2027-New-College-Graduate-_JR-2604120",
+    "board": "workday_globalfoundries",
+    "date_added": "2026-11-02"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "Design Verification Engineer Intern (Summer 2027)",
+    "location": "USA - Texas - Richardson",
+    "type": "Summer 2027 Intern",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024",
+    "board": "workday_globalfoundries",
+    "date_added": "2026-11-02"
+  },
+  {
+    "company": "Ambarella",
+    "role": "Sr. Verification Engineer",
+    "location": "US Headquarters",
+    "type": "Early Career",
+    "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Sr-Verification-Engineer_JR100401",
+    "board": "workday_ambarella",
+    "date_added": "2026-11-02"
   }
 ]
