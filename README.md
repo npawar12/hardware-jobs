@@ -1310,7 +1310,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | TPU RTL Design Engineer | Sunnyvale, CA | Early Career | 🔒 | <!--Jul 10-->114d |
 | Hudson River Trading | Design Verification (DV) Engineer | New York, NY | Early Career | 🔒 | <!--Jul 10-->114d |
 | Infineon | Graduate - Senior Engineer Digital IC Design | San Jose, CA | Early Career | 🔒 | <!--Jul 10-->114d |
-| Meta | ASIC Engineer, Design Verification | Austin, TX | Early Career | <a href="https://www.linkedin.com/jobs/view/asic-engineer-design-verification-at-meta-4434528101?position=51&pageNum=0&refId=3bZ3qu%2BDjWWAmX4LcSsTPA%3D%3D&trackingId=ieX%2FmaCon019qNGUDgf59A%3D%3D"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->114d |
+| Meta | ASIC Engineer, Design Verification | Austin, TX | Early Career | 🔒 | <!--Jul 10-->114d |
 | ↳ | ASIC Engineer, Design Verification | Sunnyvale, CA | Early Career | 🔒 | <!--Jul 10-->114d |
 | Synaptics | Hardware Engineer, ATE | Irvine, CA | Early Career | 🔒 | <!--Jul 10-->114d |
 | Texas Instruments | Career Accelerator Program - Digital Design Engineer | Tucson, AZ | Early Career | 🔒 | <!--Jul 10-->114d |
