@@ -856,6 +856,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Design Verification Engineer, Infinity Fabric and Chiplet Interconnect | Nov 3 |
+| AMD | Microprocessor VLSI Physical Design Engineer | Nov 3 |
+| Rambus | Intern - Digital Design | Nov 3 |
 | Microsoft | Design Verification Engineer | Nov 1 |
 | IBM | Controls Hardware Engineer | Nov 1 |
 | IBM | Hardware Developer Intern 2027 -Tucson, AZ | Oct 31 |

@@ -872,6 +872,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Design Verification Engineer, Infinity Fabric and Chiplet Interconnect | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86676?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->0d |
+| ↳ | Microprocessor VLSI Physical Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/94493?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->0d |
+| Rambus | Intern - Digital Design | Johns Creek, GA | Summer 2027 Intern | <a href="https://careers-rambus.icims.com/jobs/23113/intern---digital-design/job?mode=apply&iis=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->0d |
 | Microsoft | Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393557044296?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 1-->2d |
 | IBM | Controls Hardware Engineer | Poughkeepsie, AR | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=138804&source=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 1-->2d |
 | IBM | Hardware Developer Intern 2027 -Tucson, AZ | Tucson, AZ | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=130928&source=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 31-->3d |

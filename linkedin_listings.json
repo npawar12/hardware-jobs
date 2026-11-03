@@ -4057,5 +4057,32 @@
     "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=138804&source=SN_LinkedIn",
     "board": "linkedin",
     "date_added": "2026-11-01"
+  },
+  {
+    "company": "AMD",
+    "role": "Design Verification Engineer, Infinity Fabric and Chiplet Interconnect",
+    "location": "Santa Clara, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/86676?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "AMD",
+    "role": "Microprocessor VLSI Physical Design Engineer",
+    "location": "Fort Collins, CO",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/94493?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Rambus",
+    "role": "Intern - Digital Design",
+    "location": "Johns Creek, GA",
+    "type": "Summer 2027 Intern",
+    "url": "https://careers-rambus.icims.com/jobs/23113/intern---digital-design/job?mode=apply&iis=LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-11-03"
   }
 ]
