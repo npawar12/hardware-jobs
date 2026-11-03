@@ -7603,5 +7603,77 @@
     "url": "https://www.amazon.jobs/en/jobs/10594988/satellite-hardware-development-engineer-amazon-leo",
     "board": "amazon",
     "date_added": "2026-11-03"
+  },
+  {
+    "company": "Cirrus Logic",
+    "role": "FPGA Implementation Engineer (JR)",
+    "location": "Austin, Texas",
+    "type": "Early Career",
+    "url": "https://jobs.eu.lever.co/cirrus/0978e83d-5a48-4c25-ac20-5ca8bac6b363",
+    "board": "lever_cirrus",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "PCIe Post-Silicon Validation Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "type": "New Grad",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Post-Silicon-Validation-Engineer---New-College-Grad-2027_JR2029108",
+    "board": "workday_nvidia",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Cisco",
+    "role": "Hardware Engineer PhD Co-op - United States",
+    "location": "San Jose, California, US",
+    "type": "Co-op",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378",
+    "board": "workday_cisco",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Cisco",
+    "role": "Sr. ASIC Design Verification Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Sr-ASIC-Design-Verification-Engineer_2008446",
+    "board": "workday_cisco",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Engineering Co-op (Winter 2027)",
+    "location": "Ottawa",
+    "type": "Co-op",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054",
+    "board": "workday_ciena",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Teledyne",
+    "role": "Senior IC Design Engineer",
+    "location": "US - Chestnut Ridge, NY",
+    "type": "Early Career",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Senior-IC-Design-Engineer_REQ32396",
+    "board": "workday_flir",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Dell",
+    "role": "ISG Hardware Engineer 1 - Material Science",
+    "location": "Round Rock, TX, United States",
+    "type": "Early Career",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297774",
+    "board": "oracle_iawmqy",
+    "date_added": "2026-11-03"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, Test and Simulation Hardware, Prime Air, Drone Delivery",
+    "location": "US, WA, Seattle",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10595577/hardware-development-engineer-test-and-simulation-hardware-prime-air-drone-delivery",
+    "board": "amazon",
+    "date_added": "2026-11-03"
   }
 ]

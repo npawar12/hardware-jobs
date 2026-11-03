@@ -6,6 +6,14 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cirrus Logic | FPGA Implementation Engineer (JR) | Nov 3 |
+| NVIDIA | PCIe Post-Silicon Validation Engineer - New College Grad 2027 | Nov 3 |
+| Cisco | Hardware Engineer PhD Co-op - United States | Nov 3 |
+| Cisco | Sr. ASIC Design Verification Engineer | Nov 3 |
+| Ciena | Hardware Engineering Co-op (Winter 2027) | Nov 3 |
+| Teledyne | Senior IC Design Engineer | Nov 3 |
+| Dell | ISG Hardware Engineer 1 - Material Science | Nov 3 |
+| Amazon | Hardware Development Engineer, Test and Simulation Hardware, Prime Air, Drone Delivery | Nov 3 |
 | Amazon | Satellite Hardware Development Engineer, Amazon Leo | Nov 3 |
 | Samsung Semiconductor | Intern, AI Application Engineer | Nov 2 |
 | NVIDIA | Senior ASIC Timing Engineer, DFT | Nov 2 |
