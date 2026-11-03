@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Satellite Hardware Development Engineer, Amazon Leo | Nov 3 |
 | Samsung Semiconductor | Intern, AI Application Engineer | Nov 2 |
 | NVIDIA | Senior ASIC Timing Engineer, DFT | Nov 2 |
 | Broadcom | ASIC Automation and Integration Engineer | Nov 2 |
