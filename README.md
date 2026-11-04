@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Ciena | Senior Digital ASIC Verification Engineer | Ottawa | Early Career | <a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Senior-Digital-ASIC-Verification-Engineer_R032062"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
+| Texas Instruments | Digital Design Verification Engineering Intern | Santa Clara, CA, United States | Summer 2027 Intern | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019665"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
 | Teledyne |  Hardware Design Test Coop | Canada - Waterloo, ON | Co-op | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Hardware-Design-Test-Coop_REQ36840-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
 | Intel | Physical Design Clocking Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Physical-Design-Clocking-Engineer_JR0288398"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
 | Amazon | Senior Engineer, SoC HAL | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10596233/senior-engineer-soc-hal"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |

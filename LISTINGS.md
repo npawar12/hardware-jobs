@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Ciena | Senior Digital ASIC Verification Engineer | Nov 4 |
+| Texas Instruments | Digital Design Verification Engineering Intern | Nov 4 |
 | Teledyne | Hardware Design Test Coop | Nov 4 |
 | Intel | Physical Design Clocking Engineer | Nov 4 |
 | Amazon | Senior Engineer, SoC HAL | Nov 4 |
