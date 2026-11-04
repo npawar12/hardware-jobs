@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | Jr. Hardware Engineer | Nov 3 |
 | Cirrus Logic | FPGA Implementation Engineer (JR) | Nov 3 |
 | NVIDIA | PCIe Post-Silicon Validation Engineer - New College Grad 2027 | Nov 3 |
 | Cisco | Hardware Engineer PhD Co-op - United States | Nov 3 |

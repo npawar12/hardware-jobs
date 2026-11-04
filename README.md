@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Broadcom | Jr. Hardware Engineer | Ottawa March Road | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Ottawa-March-Road/Jr-Hardware-Engineer_R027703"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->0d |
 | Cirrus Logic | FPGA Implementation Engineer (JR) | Austin, Texas | Early Career | <a href="https://jobs.eu.lever.co/cirrus/0978e83d-5a48-4c25-ac20-5ca8bac6b363"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->0d |
 | NVIDIA | PCIe Post-Silicon Validation Engineer - New College Grad 2027 | US, CA, Santa Clara | New Grad | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Post-Silicon-Validation-Engineer---New-College-Grad-2027_JR2029108"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->0d |
 | Cisco | Hardware Engineer PhD Co-op - United States | San Jose, California, US | Co-op | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->0d |
