@@ -7684,5 +7684,23 @@
     "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Ottawa-March-Road/Jr-Hardware-Engineer_R027703",
     "board": "workday_broadcom",
     "date_added": "2026-11-03"
+  },
+  {
+    "company": "Intel",
+    "role": "Physical Design Clocking Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Physical-Design-Clocking-Engineer_JR0288398",
+    "board": "workday_intel",
+    "date_added": "2026-11-04"
+  },
+  {
+    "company": "Amazon",
+    "role": "Senior Engineer, SoC HAL",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10596233/senior-engineer-soc-hal",
+    "board": "amazon",
+    "date_added": "2026-11-04"
   }
 ]

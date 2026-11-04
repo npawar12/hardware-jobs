@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Physical Design Clocking Engineer | Nov 4 |
+| Amazon | Senior Engineer, SoC HAL | Nov 4 |
 | Broadcom | Jr. Hardware Engineer | Nov 3 |
 | Cirrus Logic | FPGA Implementation Engineer (JR) | Nov 3 |
 | NVIDIA | PCIe Post-Silicon Validation Engineer - New College Grad 2027 | Nov 3 |
