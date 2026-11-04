@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Teledyne | Hardware Design Test Coop | Nov 4 |
 | Intel | Physical Design Clocking Engineer | Nov 4 |
 | Amazon | Senior Engineer, SoC HAL | Nov 4 |
 | Broadcom | Jr. Hardware Engineer | Nov 3 |

@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Teledyne |  Hardware Design Test Coop | Canada - Waterloo, ON | Co-op | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Hardware-Design-Test-Coop_REQ36840-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
 | Intel | Physical Design Clocking Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Physical-Design-Clocking-Engineer_JR0288398"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
 | Amazon | Senior Engineer, SoC HAL | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10596233/senior-engineer-soc-hal"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
 | Broadcom | Jr. Hardware Engineer | Ottawa March Road | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Ottawa-March-Road/Jr-Hardware-Engineer_R027703"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->1d |
