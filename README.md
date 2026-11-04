@@ -883,6 +883,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Keysight | Digital Physical Design Engineer | Colorado Springs, CO | Early Career | <a href="https://jobs.keysight.com/external/jobs/55359?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->0d |
 | AMD | Design Verification Engineer, Infinity Fabric and Chiplet Interconnect | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86676?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->1d |
 | ↳ | Microprocessor VLSI Physical Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/94493?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->1d |
 | Rambus | Intern - Digital Design | Johns Creek, GA | Summer 2027 Intern | <a href="https://careers-rambus.icims.com/jobs/23113/intern---digital-design/job?mode=apply&iis=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->1d |
