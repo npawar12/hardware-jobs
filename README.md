@@ -890,6 +890,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393557051143?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 5-->0d |
+| Teradyne | Senior Hardware Engineer, Systems Integration (Teradyne, Sunnyvale, CA) | San Jose, CA | Early Career | <a href="https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Hardware-Engineer%2C-Systems-Integration-%28Teradyne%2C-Sunnyvale%2C-CA%29-CA-95101/1448103800/?utm_source=LINKEDIN&utm_medium=referrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 5-->0d |
 | Keysight | Digital Physical Design Engineer | Colorado Springs, CO | Early Career | <a href="https://jobs.keysight.com/external/jobs/55359?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 4-->1d |
 | AMD | Design Verification Engineer, Infinity Fabric and Chiplet Interconnect | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/86676?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->2d |
 | ↳ | Microprocessor VLSI Physical Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/94493?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 3-->2d |

@@ -874,6 +874,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | Design Verification Engineer | Nov 5 |
+| Teradyne | Senior Hardware Engineer, Systems Integration (Teradyne, Sunnyvale, CA) | Nov 5 |
 | Keysight | Digital Physical Design Engineer | Nov 4 |
 | AMD | Design Verification Engineer, Infinity Fabric and Chiplet Interconnect | Nov 3 |
 | AMD | Microprocessor VLSI Physical Design Engineer | Nov 3 |
