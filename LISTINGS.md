@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Senior FPGA Engineer | Nov 5 |
+| Broadcom | R&D Engineer, IC Design | Nov 5 |
+| Amazon | ASIC Formal Verification Engineer I, Annapurna Labs | Nov 5 |
 | NVIDIA | VLSI Timing Methodology Intern - Summer 2027 | Nov 5 |
 | Micron | Senior Design Verification Engineer | Nov 5 |
 | Amazon | Junior Design Verification Engineer, Amazon Leo | Nov 5 |

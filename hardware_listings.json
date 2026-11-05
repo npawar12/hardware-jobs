@@ -7765,5 +7765,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10597294/design-verification-engineer-amazon-leo",
     "board": "amazon",
     "date_added": "2026-11-05"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior FPGA Engineer",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Senior-FPGA-Engineer_2027589",
+    "board": "workday_cisco",
+    "date_added": "2026-11-05"
+  },
+  {
+    "company": "Broadcom",
+    "role": "R&D Engineer, IC Design",
+    "location": "USA-CA Irvine Alton Parkway Bldg 2",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-Engineer--IC-Design_R027420",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-05"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Formal Verification Engineer I, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10597433/asic-formal-verification-engineer-i-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-05"
   }
 ]
