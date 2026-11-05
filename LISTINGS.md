@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| NVIDIA | VLSI Timing Methodology Intern - Summer 2027 | Nov 5 |
+| Micron | Senior Design Verification Engineer | Nov 5 |
+| Amazon | Junior Design Verification Engineer, Amazon Leo | Nov 5 |
+| Amazon | Design Verification Engineer, Amazon Leo | Nov 5 |
 | Ciena | Senior Digital ASIC Verification Engineer | Nov 4 |
 | Texas Instruments | Digital Design Verification Engineering Intern | Nov 4 |
 | Teledyne | Hardware Design Test Coop | Nov 4 |
