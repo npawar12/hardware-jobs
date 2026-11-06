@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Software Development Engineer, SoC HAL | Nov 6 |
 | Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Nov 5 |
 | Zoox | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | Nov 5 |
 | Altera | RTL Engineer – Physical AI Solutions | Nov 5 |
