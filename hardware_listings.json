@@ -7828,5 +7828,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
     "board": "amazon",
     "date_added": "2026-11-06"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Physical Design Engineer, ML4PD ",
+    "location": "Austin, Texas, United States",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5270485007",
+    "board": "greenhouse_tenstorrent",
+    "date_added": "2026-11-06"
+  },
+  {
+    "company": "Cisco",
+    "role": "ASIC Packaging SI/PI Engineer (Hybrid)",
+    "location": "San Jose, California, US",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Packaging-SI-PI-Engineer--Hybrid-_2030802",
+    "board": "workday_cisco",
+    "date_added": "2026-11-06"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Development Engineer, AWS Board Core Design Team",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10598887/hardware-development-engineer-aws-board-core-design-team",
+    "board": "amazon",
+    "date_added": "2026-11-06"
   }
 ]

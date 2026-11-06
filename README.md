@@ -18,6 +18,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Tenstorrent | Physical Design Engineer, ML4PD  | Austin, Texas, United States | Early Career | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5270485007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->0d |
+| Cisco | ASIC Packaging SI/PI Engineer (Hybrid) | San Jose, California, US | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Packaging-SI-PI-Engineer--Hybrid-_2030802"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->0d |
+| Amazon | Hardware Development Engineer, AWS Board Core Design Team | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10598887/hardware-development-engineer-aws-board-core-design-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->0d |
 | Amazon | Software Development Engineer, SoC HAL | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->0d |
 | Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Foster City, CA | Summer 2027 Intern | <a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 5-->1d |
 | ↳ | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | Foster City, CA | Summer 2027 Intern | <a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 5-->1d |

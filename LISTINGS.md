@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Tenstorrent | Physical Design Engineer, ML4PD | Nov 6 |
+| Cisco | ASIC Packaging SI/PI Engineer (Hybrid) | Nov 6 |
+| Amazon | Hardware Development Engineer, AWS Board Core Design Team | Nov 6 |
 | Amazon | Software Development Engineer, SoC HAL | Nov 6 |
 | Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Nov 5 |
 | Zoox | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | Nov 5 |
