@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Nov 5 |
+| Zoox | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | Nov 5 |
+| Altera | RTL Engineer – Physical AI Solutions | Nov 5 |
 | Cisco | Senior FPGA Engineer | Nov 5 |
 | Broadcom | R&D Engineer, IC Design | Nov 5 |
 | Amazon | ASIC Formal Verification Engineer I, Annapurna Labs | Nov 5 |

@@ -7792,5 +7792,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10597433/asic-formal-verification-engineer-i-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-11-05"
+  },
+  {
+    "company": "Zoox",
+    "role": "Hardware Engineer Intern, Vehicle Development [Summer 2027]",
+    "location": "Foster City, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62",
+    "board": "lever_zoox",
+    "date_added": "2026-11-05"
+  },
+  {
+    "company": "Zoox",
+    "role": "Hardware Engineer Intern, Vehicle Systems [Summer 2027]",
+    "location": "Foster City, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b",
+    "board": "lever_zoox",
+    "date_added": "2026-11-05"
+  },
+  {
+    "company": "Altera",
+    "role": "RTL Engineer \u2013 Physical AI Solutions",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/RTL-Engineer---Physical-AI-Solutions_R03444",
+    "board": "workday_altera",
+    "date_added": "2026-11-05"
   }
 ]
