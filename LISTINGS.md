@@ -881,6 +881,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr. Silicon Design Engineer: Hardware-Software Co-Design | Nov 6 |
+| Meta | ASIC EDA Infrastructure Engineer Intern | Nov 6 |
 | Microsoft | Design Verification Engineer | Nov 5 |
 | Teradyne | Senior Hardware Engineer, Systems Integration (Teradyne, Sunnyvale, CA) | Nov 5 |
 | Keysight | Digital Physical Design Engineer | Nov 4 |
