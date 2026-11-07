@@ -888,6 +888,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SMTS Silicon Design Engineer | Nov 7 |
+| AMD | SMTS Silicon Design Engineer | Nov 7 |
+| AMD | PMTS Silicon Design Engineer | Nov 7 |
+| AMD | SMTS Silicon Design Engineer | Nov 7 |
+| AMD | PMTS Silicon Design Engineer | Nov 7 |
+| AMD | SMTS Hardware Development Engineer | Nov 7 |
 | AMD | Sr. Silicon Design Engineer: Hardware-Software Co-Design | Nov 6 |
 | Meta | ASIC EDA Infrastructure Engineer Intern | Nov 6 |
 | Microsoft | Design Verification Engineer | Nov 5 |
