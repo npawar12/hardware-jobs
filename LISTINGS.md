@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | DFT Engineer | Nov 6 |
+| Broadcom | DFT Engineer | Nov 6 |
+| Broadcom | DFT  Engineer | Nov 6 |
+| Broadcom | DFT  Engineer | Nov 6 |
 | Tenstorrent | Physical Design Engineer, ML4PD | Nov 6 |
 | Cisco | ASIC Packaging SI/PI Engineer (Hybrid) | Nov 6 |
 | Amazon | Hardware Development Engineer, AWS Board Core Design Team | Nov 6 |
