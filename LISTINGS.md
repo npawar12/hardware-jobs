@@ -889,6 +889,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | SMTS Silicon Design Engineer | Nov 9 |
+| Meta | Hardware Engineer Intern, Camera & Sensing Architecture | Nov 9 |
+| Meta | ASIC Engineering Intern, Formal Verification | Nov 9 |
+| Meta | GFX/Display IP Digital Design Engineer | Nov 9 |
 | AMD | SMTS Silicon Design Engineer | Nov 7 |
 | AMD | SMTS Silicon Design Engineer | Nov 7 |
 | AMD | PMTS Silicon Design Engineer | Nov 7 |
