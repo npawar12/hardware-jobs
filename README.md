@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Cirrus Logic | Senior Silicon Validation & Characterization Engineer | Austin, Texas | Early Career | <a href="https://jobs.eu.lever.co/cirrus/5bd49523-004f-4ddf-aaab-e01e9e13e9be"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 9-->0d |
 | Broadcom | DFT Engineer | USA-TX-Austin - River Place B6 | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B6/DFT-Engineer_R027689-4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->3d |
 | ↳ | DFT Engineer | USA-CA San Jose Innovation Drive | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/DFT-Engineer_R027686-5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->3d |
 | ↳ | DFT  Engineer | USA-CA San Jose Innovation Drive | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/DFT--Engineer_R027687-2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->3d |
