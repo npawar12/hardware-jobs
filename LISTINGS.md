@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| OpenAI | RTL Design Engineer, Networking / NoC | Nov 10 |
+| Intel | SoC Design Verification Engineer | Nov 10 |
+| GlobalFoundries | CPU IP Design & Verification Intern – RISC-V Processor Development (Summer 2027) | Nov 10 |
+| GlobalFoundries | CPU IP Design & Verification Intern – RISC-V Processor Development (Summer 2027) | Nov 10 |
+| GlobalFoundries | Design Verification Engineer Intern (Summer 2027) | Nov 10 |
 | Broadcom | ASIC DFT Engineer | Nov 9 |
 | Broadcom | ASIC DFT Engineer | Nov 9 |
 | Broadcom | DFT Engineer | Nov 9 |

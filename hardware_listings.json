@@ -7954,5 +7954,50 @@
     "url": "https://www.amazon.jobs/en/jobs/10600465/system-development-engineer-hardware-engineering-services",
     "board": "amazon",
     "date_added": "2026-11-09"
+  },
+  {
+    "company": "OpenAI",
+    "role": "RTL Design Engineer, Networking / NoC",
+    "location": "San Francisco",
+    "type": "Early Career",
+    "url": "https://jobs.ashbyhq.com/openai/ead83ff6-7a58-43dd-b7da-b85e7ddd679c",
+    "board": "ashby_openai",
+    "date_added": "2026-11-10"
+  },
+  {
+    "company": "Intel",
+    "role": "SoC Design Verification Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288406",
+    "board": "workday_intel",
+    "date_added": "2026-11-10"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "CPU IP Design & Verification Intern \u2013 RISC-V Processor Development (Summer 2027)",
+    "location": "USA - California - Santa Clara",
+    "type": "Summer 2027 Intern",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604031",
+    "board": "workday_globalfoundries",
+    "date_added": "2026-11-10"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "CPU IP Design & Verification Intern \u2013 RISC-V Processor Development (Summer 2027)",
+    "location": "USA - Texas - Austin",
+    "type": "Summer 2027 Intern",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604040",
+    "board": "workday_globalfoundries",
+    "date_added": "2026-11-10"
+  },
+  {
+    "company": "GlobalFoundries",
+    "role": "Design Verification Engineer Intern (Summer 2027)",
+    "location": "USA - Texas - Richardson",
+    "type": "Summer 2027 Intern",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604022",
+    "board": "workday_globalfoundries",
+    "date_added": "2026-11-10"
   }
 ]
