@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | ASIC DFT Engineer | Nov 9 |
+| Broadcom | ASIC DFT Engineer | Nov 9 |
+| Broadcom | DFT Engineer | Nov 9 |
+| Altera | FPGA Development Tools Engineer | Nov 9 |
+| Altera | FPGA Design Verification Intern | Nov 9 |
+| Amazon | System Development Engineer, Hardware Engineering Services | Nov 9 |
 | Cirrus Logic | Senior Silicon Validation & Characterization Engineer | Nov 9 |
 | Broadcom | DFT Engineer | Nov 6 |
 | Broadcom | DFT Engineer | Nov 6 |

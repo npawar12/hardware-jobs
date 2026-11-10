@@ -7900,5 +7900,59 @@
     "url": "https://jobs.eu.lever.co/cirrus/5bd49523-004f-4ddf-aaab-e01e9e13e9be",
     "board": "lever_cirrus",
     "date_added": "2026-11-09"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC DFT Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-DFT-Engineer_R027642-4",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-09"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC DFT Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-DFT-Engineer_R027650-5",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-09"
+  },
+  {
+    "company": "Broadcom",
+    "role": "DFT Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/DFT-Engineer_R027651-4",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-09"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Engineer",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer_R03413",
+    "board": "workday_altera",
+    "date_added": "2026-11-09"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Design Verification Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440",
+    "board": "workday_altera",
+    "date_added": "2026-11-09"
+  },
+  {
+    "company": "Amazon",
+    "role": "System Development Engineer, Hardware Engineering Services",
+    "location": "US, WA, Seattle",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10600465/system-development-engineer-hardware-engineering-services",
+    "board": "amazon",
+    "date_added": "2026-11-09"
   }
 ]
