@@ -900,6 +900,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Hardware Engineer, Networking Switch Bring Up and Rack Level Performance Validation | Nov 10 |
+| Google | RTL Design Engineer, Google Cloud - Sunnyvale | Nov 10 |
+| Google | Low Power Verification Engineer, Physical Design | Nov 10 |
 | AMD | SMTS Silicon Design Engineer | Nov 9 |
 | Meta | Hardware Engineer Intern, Camera & Sensing Architecture | Nov 9 |
 | Meta | ASIC Engineering Intern, Formal Verification | Nov 9 |
