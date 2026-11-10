@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Western Digital | Summer 2027 Intern - Hardware Engineering | Nov 10 |
+| Amazon | HW Validation Engineer , Amazon Leo Hardware Development | Nov 10 |
 | OpenAI | RTL Design Engineer, Networking / NoC | Nov 10 |
 | Intel | SoC Design Verification Engineer | Nov 10 |
 | GlobalFoundries | CPU IP Design & Verification Intern – RISC-V Processor Development (Summer 2027) | Nov 10 |
