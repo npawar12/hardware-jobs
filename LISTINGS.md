@@ -6,6 +6,14 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Intel | Design Verification Engineer | Nov 11 |
+| Broadcom | Board Hardware Engineer | Nov 11 |
+| Broadcom | Verification Engineer | Nov 11 |
+| Broadcom | ASIC Implementation Engineer | Nov 11 |
+| Broadcom | IC Design Engineer | Nov 11 |
+| Amazon | HW Validation Engineer , Amazon Leo Hardware Development, Amazon Leo Hardware Development | Nov 11 |
+| Amazon | Hardware Support Engineer, RDPI Global Engineering Hardware Development | Nov 11 |
+| Amazon | Post-Silicon Systems Validation Engineer I, Annapurna Labs | Nov 11 |
 | Western Digital | Summer 2027 Intern - Hardware Engineering | Nov 10 |
 | Amazon | HW Validation Engineer , Amazon Leo Hardware Development | Nov 10 |
 | OpenAI | RTL Design Engineer, Networking / NoC | Nov 10 |

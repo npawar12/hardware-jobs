@@ -8017,5 +8017,77 @@
     "url": "https://www.amazon.jobs/en/jobs/10601242/hw-validation-engineer-amazon-leo-hardware-development",
     "board": "amazon",
     "date_added": "2026-11-10"
+  },
+  {
+    "company": "Intel",
+    "role": "Design Verification Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Early Career",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288929-1",
+    "board": "workday_intel",
+    "date_added": "2026-11-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Board Hardware Engineer",
+    "location": "USA-GA-Duluth-River Green Parkway",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R027720-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Verification Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Verification-Engineer_R027750",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Implementation Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R027754",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-11"
+  },
+  {
+    "company": "Broadcom",
+    "role": "IC Design Engineer",
+    "location": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/IC-Design-Engineer_R027745",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-11"
+  },
+  {
+    "company": "Amazon",
+    "role": "HW Validation Engineer , Amazon Leo Hardware Development, Amazon Leo Hardware Development",
+    "location": "US, WA, Redmond",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10602028/hw-validation-engineer-amazon-leo-hardware-development-amazon-leo-hardware-development",
+    "board": "amazon",
+    "date_added": "2026-11-11"
+  },
+  {
+    "company": "Amazon",
+    "role": "Hardware Support Engineer, RDPI Global Engineering Hardware Development",
+    "location": "US, MA, Westborough",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10589223/hardware-support-engineer-rdpi-global-engineering-hardware-development",
+    "board": "amazon",
+    "date_added": "2026-11-11"
+  },
+  {
+    "company": "Amazon",
+    "role": "Post-Silicon Systems Validation Engineer I, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10602663/post-silicon-systems-validation-engineer-i-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-11"
   }
 ]
