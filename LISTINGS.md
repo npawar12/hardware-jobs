@@ -902,6 +902,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | FPGA Design and Timing Modeling Engineer | Nov 11 |
+| Microsoft | Senior SoC Design Engineer | Nov 11 |
+| Keysight | Hardware Engineering Intern (EE) | Nov 11 |
 | AMD | Hardware Engineer, Networking Switch Bring Up and Rack Level Performance Validation | Nov 10 |
 | Google | RTL Design Engineer, Google Cloud - Sunnyvale | Nov 10 |
 | Google | Low Power Verification Engineer, Physical Design | Nov 10 |
