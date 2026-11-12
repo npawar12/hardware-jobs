@@ -8089,5 +8089,23 @@
     "url": "https://www.amazon.jobs/en/jobs/10602663/post-silicon-systems-validation-engineer-i-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-11-11"
+  },
+  {
+    "company": "Micron",
+    "role": "DEG, Design Verification",
+    "location": "Boise, ID - Main Site",
+    "type": "Early Career",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/MTS--DEG-Design-Verification_JR102253",
+    "board": "workday_micron",
+    "date_added": "2026-11-12"
+  },
+  {
+    "company": "Teledyne",
+    "role": "Hardware Design Engineer (Sustaining Engineering )",
+    "location": "Canada - Waterloo, ON",
+    "type": "Early Career",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/Hardware-Design-Engineer--Sustaining-Engineering--_REQ36877",
+    "board": "workday_flir",
+    "date_added": "2026-11-12"
   }
 ]

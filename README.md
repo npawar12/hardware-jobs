@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Micron | DEG, Design Verification | Boise, ID - Main Site | Early Career | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/MTS--DEG-Design-Verification_JR102253"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 12-->0d |
+| Teledyne | Hardware Design Engineer (Sustaining Engineering ) | Canada - Waterloo, ON | Early Career | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/Hardware-Design-Engineer--Sustaining-Engineering--_REQ36877"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 12-->0d |
 | Intel | Design Verification Engineer | US, California, Santa Clara | Early Career | <a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288929-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 11-->1d |
 | Broadcom | Board Hardware Engineer | USA-GA-Duluth-River Green Parkway | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R027720-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 11-->1d |
 | ↳ | Verification Engineer | USA-CA San Jose Innovation Drive | Early Career | <a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Verification-Engineer_R027750"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 11-->1d |
