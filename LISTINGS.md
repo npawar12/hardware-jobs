@@ -910,6 +910,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microsoft | Silicon Design Engineer | Nov 12 |
+| Infineon | Graduate - Applications Engineer | Nov 12 |
 | AMD | FPGA Design and Timing Modeling Engineer | Nov 11 |
 | Microsoft | Senior SoC Design Engineer | Nov 11 |
 | Keysight | Hardware Engineering Intern (EE) | Nov 11 |

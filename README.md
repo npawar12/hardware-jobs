@@ -926,6 +926,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | Silicon Design Engineer | Mountain View, CA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393557070175?utm_source=linkedin&domain=microsoft.com&source=linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 12-->0d |
+| Infineon | Graduate - Applications Engineer | Otero County, CO | New Grad | <a href="https://jobs.infineon.com/careers/job/563808972336535?utm_source=linkedin&domain=infineon.com#!source=400"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 12-->0d |
 | AMD | FPGA Design and Timing Modeling Engineer | California, United States | Early Career | <a href="https://careers.amd.com/jobs/97781?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 11-->1d |
 | Microsoft | Senior SoC Design Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556867397?utm_source=linkedin&domain=microsoft.com&source=linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 11-->1d |
 | Keysight | Hardware Engineering Intern (EE) | Santa Rosa, CA | Summer 2027 Intern | <a href="https://jobs.keysight.com/external/jobs/56432?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 11-->1d |
