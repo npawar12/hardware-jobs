@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Broadcom | R&D Engineer Physical Design | Nov 12 |
+| Broadcom | R&D Engineer Physical Design | Nov 12 |
+| Broadcom | R&D Engineer Physical Design | Nov 12 |
+| Micron | Senior Digital Design Engineer, HBM | Nov 12 |
+| Amazon | Senior ASIC Cost Analyst, Silicon Operations | Nov 12 |
 | Micron | DEG, Design Verification | Nov 12 |
 | Teledyne | Hardware Design Engineer (Sustaining Engineering ) | Nov 12 |
 | Intel | Design Verification Engineer | Nov 11 |
