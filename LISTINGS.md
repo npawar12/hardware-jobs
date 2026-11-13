@@ -918,6 +918,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Sr. CPU Core RTL Design Engineer | Nov 13 |
+| AMD | Sr. CPU Core RTL Design Engineer | Nov 13 |
+| AMD | Sr. CPU Core RTL Design Engineer | Nov 13 |
+| Google | RTL Design Engineer, Google | Nov 13 |
+| IBM | Entry level Hardware Developer - Rochester, MN - 2027 | Nov 13 |
 | Microsoft | Silicon Design Engineer | Nov 12 |
 | Infineon | Graduate - Applications Engineer | Nov 12 |
 | AMD | FPGA Design and Timing Modeling Engineer | Nov 11 |
