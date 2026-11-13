@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Drone Test and Simulation Hardware Development Engineer, Prime Air | Nov 13 |
 | Broadcom | R&D Engineer Physical Design | Nov 12 |
 | Broadcom | R&D Engineer Physical Design | Nov 12 |
 | Broadcom | R&D Engineer Physical Design | Nov 12 |
