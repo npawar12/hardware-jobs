@@ -8170,5 +8170,50 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer--Memory-Controller_JR2029629",
     "board": "workday_nvidia",
     "date_added": "2026-11-13"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "role": "Senior Engineer, Design Verification",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8039638003",
+    "board": "greenhouse_samsungsemiconductor",
+    "date_added": "2026-11-13"
+  },
+  {
+    "company": "Broadcom",
+    "role": "Design Verification Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R027819",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-13"
+  },
+  {
+    "company": "Broadcom",
+    "role": "ASIC Implementation Engineer",
+    "location": "USA-CA San Jose Innovation Drive",
+    "type": "Early Career",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R027791-1",
+    "board": "workday_broadcom",
+    "date_added": "2026-11-13"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Product Engineer, Silicon",
+    "location": "US, CA, Sunnyvale",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10604679/asic-product-engineer-silicon",
+    "board": "amazon",
+    "date_added": "2026-11-13"
+  },
+  {
+    "company": "Amazon",
+    "role": "MLA Design Verification Engineer I, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10604657/mla-design-verification-engineer-i-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-13"
   }
 ]

@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Samsung Semiconductor | Senior Engineer, Design Verification | Nov 13 |
+| Broadcom | Design Verification Engineer | Nov 13 |
+| Broadcom | ASIC Implementation Engineer | Nov 13 |
+| Amazon | ASIC Product Engineer, Silicon | Nov 13 |
+| Amazon | MLA Design Verification Engineer I, Annapurna Labs | Nov 13 |
 | NVIDIA | Senior ASIC Design Engineer, Memory Controller | Nov 13 |
 | Amazon | Drone Test and Simulation Hardware Development Engineer, Prime Air | Nov 13 |
 | Broadcom | R&D Engineer Physical Design | Nov 12 |
