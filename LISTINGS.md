@@ -924,6 +924,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Infineon | Graduate- Senior Engineer Digital Design | Nov 14 |
+| Infineon | Graduate- Engineer Digital Design | Nov 14 |
 | AMD | Sr. CPU Core RTL Design Engineer | Nov 13 |
 | AMD | Sr. CPU Core RTL Design Engineer | Nov 13 |
 | AMD | Sr. CPU Core RTL Design Engineer | Nov 13 |

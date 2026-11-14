@@ -940,6 +940,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Infineon | Graduate- Senior Engineer Digital Design | San Jose, CA | Early Career | <a href="https://jobs.infineon.com/careers/job/563808972366951?utm_source=linkedin&domain=infineon.com#!source=400"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 14-->0d |
+| ↳ | Graduate- Engineer Digital Design | San Jose, CA | New Grad | <a href="https://jobs.infineon.com/careers/job/563808972366947?utm_source=linkedin&domain=infineon.com#!source=400"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 14-->0d |
 | AMD | Sr. CPU Core RTL Design Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/97990?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 13-->1d |
 | ↳ | Sr. CPU Core RTL Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/97991?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 13-->1d |
 | ↳ | Sr. CPU Core RTL Design Engineer | Austin, TX | Early Career | <a href="https://careers.amd.com/jobs/97992?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 13-->1d |
