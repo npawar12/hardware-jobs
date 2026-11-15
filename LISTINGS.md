@@ -924,6 +924,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | ASIC Engineer, Implementation - CAD | Nov 15 |
+| Meta | ASIC Engineer, Implementation - CAD | Nov 15 |
 | Infineon | Graduate- Senior Engineer Digital Design | Nov 14 |
 | Infineon | Graduate- Engineer Digital Design | Nov 14 |
 | AMD | Sr. CPU Core RTL Design Engineer | Nov 13 |
