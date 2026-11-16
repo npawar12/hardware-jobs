@@ -147,7 +147,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | Silicon Labs | Static Timing Analysis Engineer | Austin | Early Career | 🔒 | <!--Oct 22-->24d |
 | Intel | GPU Design Verification Engineer | US, California, Folsom | Early Career | 🔒 | <!--Oct 22-->24d |
 | ↳ | GPU Design Verification Engineer | US, California, Folsom | Early Career | 🔒 | <!--Oct 22-->24d |
-| Ambarella | Physical Design Engineer Intern | US Headquarters | Summer 2027 Intern | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 22-->24d |
+| Ambarella | Physical Design Engineer Intern | US Headquarters | Summer 2027 Intern | 🔒 | <!--Oct 22-->24d |
 | Lightmatter | Electro-Optic Link Hardware Engineer   | Boston, MA; Mountain View, CA | Early Career | <a href="https://boards.greenhouse.io/lightmatter/jobs/5408439008?gh_jid=5408439008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 22-->24d |
 | Cisco | ASIC DFT STA Engineer | San Jose, California, US | Early Career | 🔒 | <!--Oct 22-->24d |
 | Amazon | ASIC Formal Verification Engineer I, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10586351/asic-formal-verification-engineer-i-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Oct 22-->24d |
@@ -342,7 +342,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | FPGA Development Tools Engineer | Toronto, Ontario, Canada | Early Career | 🔒 | <!--Sep 15-->61d |
 | ↳ | FPGA Development Tools Engineer | Toronto, Ontario, Canada | Early Career | 🔒 | <!--Sep 15-->61d |
 | Amazon | Hardware Development Engineer, AWS CQC - Fabrication | US, CA, Pasadena | Early Career | 🔒 | <!--Sep 15-->61d |
-| ↳ | Propulsion Hardware Engineer, Prime Air Drone Fleet & Production | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10543994/propulsion-hardware-engineer-prime-air-drone-fleet-production"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->61d |
+| ↳ | Propulsion Hardware Engineer, Prime Air Drone Fleet & Production | US, WA, Seattle | Early Career | 🔒 | <!--Sep 15-->61d |
 | Amazon | ASIC Design Engineer, Satellite Communication | US, CA, San Diego | Early Career | <a href="https://www.amazon.jobs/en/jobs/10543752/asic-design-engineer-satellite-communication"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->61d |
 | ↳ | MLA IP Design Verification Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10543795/mla-ip-design-verification-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Sep 15-->61d |
 | NVIDIA | Physical Design and Timing Engineer Intern - Summer 2027 | US, CA, Santa Clara | Summer 2027 Intern | 🔒 | <!--Sep 15-->61d |
@@ -431,10 +431,10 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | Cisco | ASIC Engineer | San Jose, California, US | Early Career | 🔒 | <!--Aug 27-->80d |
 | NXP | Senior Verification Engineer | Austin (Oakhill, Office) | Early Career | 🔒 | <!--Aug 27-->80d |
 | Ciena | ASIC Synthesis and STA Engineer - New Grad | Ottawa | New Grad | 🔒 | <!--Aug 27-->80d |
-| Ambarella | DFT Engineer Intern | US Headquarters | Summer 2027 Intern | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 27-->80d |
-| ↳ | Verification Engineer Intern | US Headquarters | Summer 2027 Intern | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 27-->80d |
+| Ambarella | DFT Engineer Intern | US Headquarters | Summer 2027 Intern | 🔒 | <!--Aug 27-->80d |
+| ↳ | Verification Engineer Intern | US Headquarters | Summer 2027 Intern | 🔒 | <!--Aug 27-->80d |
 | Cadence | DSP Hardware Design Engineer | SAN JOSE | Early Career | 🔒 | <!--Aug 26-->81d |
-| Ambarella | ASIC Design Engineer Intern | US Headquarters | Summer 2027 Intern | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 26-->81d |
+| Ambarella | ASIC Design Engineer Intern | US Headquarters | Summer 2027 Intern | 🔒 | <!--Aug 26-->81d |
 | Texas Instruments | Design Verification Engineer | Dallas, TX, United States | Early Career | 🔒 | <!--Aug 26-->81d |
 | Amazon | Software Development Engineer, AWS Hardware Engineering | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10515704/software-development-engineer-aws-hardware-engineering"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 26-->81d |
 | Tenstorrent | Sr. Engineer, SoC Design Verification Engineer, System Management Controller  | Boston, Massachusetts, United States; Santa Clara, California, United States; Toronto, Ontario, Canada | Early Career | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5221743007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 26-->81d |
@@ -467,7 +467,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Senior HW Dev Engineer - Antenna Systems, Leo Hardware Development | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10509620/senior-hw-dev-engineer-antenna-systems-leo-hardware-development"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->87d |
 | ↳ | Hardware Development Engineer, Amazon Leo Customer Terminal Hardware Team | US, WA, Redmond | Early Career | 🔒 | <!--Aug 20-->87d |
 | Micron | Intern - HBM SoC RTL Design Engineer | Folsom, CA | Summer 2027 Intern | 🔒 | <!--Aug 20-->87d |
-| Ambarella | DFT Engineer | US Headquarters | Early Career | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/DFT-Engineer_JR100353"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 20-->87d |
+| Ambarella | DFT Engineer | US Headquarters | Early Career | 🔒 | <!--Aug 20-->87d |
 | Amazon | Cloud Hardware Development Engineer, AWS Networking Interconnects Team | US, CA, Cupertino | Early Career | 🔒 | <!--Aug 20-->87d |
 | ↳ | Cloud Hardware Development Engineer, AWS Networking NPD Interconnects Team | US, CA, Cupertino | Early Career | 🔒 | <!--Aug 20-->87d |
 | NVIDIA | Senior ASIC Design Engineer | US, CA, Santa Clara | Early Career | 🔒 | <!--Aug 20-->87d |
@@ -546,7 +546,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | Micron | Senior Engineer - HBM Design for Test (DFT) | Richardson, TX | Early Career | 🔒 | <!--Aug 6-->101d |
 | Altera | Timing Engineer | San Jose, California, United States | Early Career | 🔒 | <!--Aug 6-->101d |
 | NVIDIA | Hardware Test Engineer - Silicon Validation | US, CA, Santa Clara | Early Career | 🔒 | <!--Aug 6-->101d |
-| Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10493774/satellite-hardware-engineer-bus-structures"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 5-->102d |
+| Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | 🔒 | <!--Aug 5-->102d |
 | NXP | AI/ML driven ASIC Design and Implementation Automation Engineer | San Diego (Treena St) | Early Career | 🔒 | <!--Aug 5-->102d |
 | NVIDIA | Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX | US, CA, Santa Clara | Early Career | 🔒 | <!--Aug 5-->102d |
 | ↳ | Senior DFT Power Methodology Engineer | US, CA, Santa Clara | Early Career | 🔒 | <!--Aug 5-->102d |
@@ -862,7 +862,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | NXP | Silicon Design IP Licensing Specialist | Austin (Oakhill, Office) | Early Career | 🔒 | <!--Jul 11-->127d |
 | Ciena | Hardware Engineer, Power Design, onsite Kanata | Ottawa | Early Career | 🔒 | <!--Jul 11-->127d |
 | Ambarella | Physical Design Engineer | US Headquarters | Early Career | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Physical-Design-Engineer_JR100284"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->127d |
-| ↳ | Sr. ASIC Design Engineer | US Headquarters | Early Career | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Sr-ASIC-Design-Engineer_JR100082"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->127d |
+| ↳ | Sr. ASIC Design Engineer | US Headquarters | Early Career | 🔒 | <!--Jul 11-->127d |
 | Altera | Physical Design Engineer | San Jose, California, United States | Early Career | 🔒 | <!--Jul 11-->127d |
 | ↳ | FPGA Compiler (Placer) Engineer | San Jose, California, United States | Early Career | 🔒 | <!--Jul 11-->127d |
 | ↳ | FPGA Compiler (Router) Engineer | Toronto, Ontario, Canada | Early Career | 🔒 | <!--Jul 11-->127d |
@@ -879,9 +879,9 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | FPGA Silicon Design Engineer | San Jose, California, United States | Early Career | 🔒 | <!--Jul 11-->127d |
 | ↳ | FPGA Development Tools Engineer | Toronto, Ontario, Canada | Early Career | 🔒 | <!--Jul 11-->127d |
 | ↳ | Senior Design Verification Engineer | San Jose, California, United States | Early Career | 🔒 | <!--Jul 11-->127d |
-| Ambarella | Verification Engineer Intern | US Headquarters | Summer 2027 Intern | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->128d |
-| ↳ | DFT Engineer Intern | US Headquarters | Summer 2027 Intern | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->128d |
-| ↳ | ASIC Design Engineer Intern | US Headquarters | Summer 2027 Intern | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->128d |
+| Ambarella | Verification Engineer Intern | US Headquarters | Summer 2027 Intern | 🔒 | <!--Jul 10-->128d |
+| ↳ | DFT Engineer Intern | US Headquarters | Summer 2027 Intern | 🔒 | <!--Jul 10-->128d |
+| ↳ | ASIC Design Engineer Intern | US Headquarters | Summer 2027 Intern | 🔒 | <!--Jul 10-->128d |
 | Astera Labs | Physical Design/CAD Engineer  | San Jose, California, United States | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4679751005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->128d |
 | ↳ | Senior Design Verification Engineer | Toronto, Ontario, Canada | Early Career | <a href="https://job-boards.greenhouse.io/asteralabs/jobs/4699012005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->128d |
 | Belvedere Trading | FPGA Engineer | Chicago, Illinois | Early Career | <a href="https://jobs.lever.co/belvederetrading/67c39285-40b4-436f-9e12-5644f070f46f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 10-->128d |
