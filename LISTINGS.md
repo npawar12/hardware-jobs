@@ -924,6 +924,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Formal Design Verification Engineer | Nov 17 |
+| Microsoft | Physical Design Engineer | Nov 17 |
 | Meta | ASIC Engineer, Implementation - CAD | Nov 15 |
 | Meta | ASIC Engineer, Implementation - CAD | Nov 15 |
 | Infineon | Graduate- Senior Engineer Digital Design | Nov 14 |
