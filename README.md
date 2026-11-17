@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microchip | Intern - Engineering (ASIC Verification) | CA - San Jose - 3870 N. First St | Summer 2027 Intern | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4910-26"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 17-->0d |
 | Samsung Semiconductor | Senior Engineer, Design Verification | San Jose, California, United States | Early Career | <a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8039638003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 13-->4d |
 | Broadcom | Design Verification Engineer | USA-CA San Jose Innovation Drive | Early Career | 🔒 | <!--Nov 13-->4d |
 | ↳ | ASIC Implementation Engineer | USA-CA San Jose Innovation Drive | Early Career | 🔒 | <!--Nov 13-->4d |

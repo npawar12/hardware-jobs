@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Microchip | Intern - Engineering (ASIC Verification) | Nov 17 |
 | Samsung Semiconductor | Senior Engineer, Design Verification | Nov 13 |
 | Broadcom | Design Verification Engineer | Nov 13 |
 | Broadcom | ASIC Implementation Engineer | Nov 13 |
