@@ -926,6 +926,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Microprocessor VLSI Physical Design Engineer | Nov 18 |
+| AMD | CPU Core Physical Design Engineer | Nov 18 |
+| Meta | ASIC Engineer, Performance Architecture and Modeling | Nov 18 |
+| IBM | Hardware Developer Intern - Austin, TX - 2027 | Nov 18 |
+| STMicroelectronics | ASIC Design Verification Intern | Nov 18 |
 | AMD | Formal Design Verification Engineer | Nov 17 |
 | Microsoft | Physical Design Engineer | Nov 17 |
 | Meta | ASIC Engineer, Implementation - CAD | Nov 15 |
