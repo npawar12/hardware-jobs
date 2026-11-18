@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Nokia | Hardware Engineer | Nov 18 |
+| Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | Nov 18 |
+| Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | Nov 18 |
+| Amazon | Sr. Physical Design Engineer, Annapurna Labs | Nov 18 |
+| Amazon | ASIC Design Engineer, Satellite Communication | Nov 18 |
 | Amazon | ASIC NPI Planning,  Amazon Leo | Nov 18 |
 | Microchip | Intern - Engineering (ASIC Verification) | Nov 17 |
 | Samsung Semiconductor | Senior Engineer, Design Verification | Nov 13 |

@@ -8233,5 +8233,50 @@
     "url": "https://www.amazon.jobs/en/jobs/10604688/asic-npi-planning-amazon-leo",
     "board": "amazon",
     "date_added": "2026-11-18"
+  },
+  {
+    "company": "Nokia",
+    "role": "Hardware Engineer",
+    "location": "United States",
+    "type": "Early Career",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41695",
+    "board": "oracle_fa-evmr-saasfaprod1",
+    "date_added": "2026-11-18"
+  },
+  {
+    "company": "Amazon",
+    "role": "SOC Top Level Physical Design Engineer, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10608593/soc-top-level-physical-design-engineer-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-18"
+  },
+  {
+    "company": "Amazon",
+    "role": "SOC Top Level Physical Design Engineer, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10608592/soc-top-level-physical-design-engineer-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-18"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. Physical Design Engineer, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10608597/sr-physical-design-engineer-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-18"
+  },
+  {
+    "company": "Amazon",
+    "role": "ASIC Design Engineer, Satellite Communication",
+    "location": "US, CA, San Diego",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10608734/asic-design-engineer-satellite-communication",
+    "board": "amazon",
+    "date_added": "2026-11-18"
   }
 ]
