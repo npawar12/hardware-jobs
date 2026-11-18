@@ -25,7 +25,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | Amazon | ASIC Product Engineer, Silicon | US, CA, Sunnyvale | Early Career | <a href="https://www.amazon.jobs/en/jobs/10604679/asic-product-engineer-silicon"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 13-->4d |
 | ↳ | MLA Design Verification Engineer I, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10604657/mla-design-verification-engineer-i-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 13-->4d |
 | NVIDIA | Senior ASIC Design Engineer, Memory Controller | US, CA, Santa Clara | Early Career | 🔒 | <!--Nov 13-->4d |
-| Amazon | Drone Test and Simulation Hardware Development Engineer, Prime Air | US, WA, Seattle | Early Career | <a href="https://www.amazon.jobs/en/jobs/10603988/drone-test-and-simulation-hardware-development-engineer-prime-air"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 13-->4d |
+| Amazon | Drone Test and Simulation Hardware Development Engineer, Prime Air | US, WA, Seattle | Early Career | 🔒 | <!--Nov 13-->4d |
 | Broadcom | R&D Engineer Physical Design | USA-CA San Jose Innovation Drive | Early Career | 🔒 | <!--Nov 12-->5d |
 | ↳ | R&D Engineer Physical Design | USA-CA San Jose Innovation Drive | Early Career | 🔒 | <!--Nov 12-->5d |
 | ↳ | R&D Engineer Physical Design | USA-CA San Jose Innovation Drive | Early Career | 🔒 | <!--Nov 12-->5d |
@@ -62,7 +62,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | Tenstorrent | Physical Design Engineer, ML4PD  | Austin, Texas, United States | Early Career | <a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5270485007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->11d |
 | Cisco | ASIC Packaging SI/PI Engineer (Hybrid) | San Jose, California, US | Early Career | 🔒 | <!--Nov 6-->11d |
 | Amazon | Hardware Development Engineer, AWS Board Core Design Team | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10598887/hardware-development-engineer-aws-board-core-design-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->11d |
-| Amazon | Software Development Engineer, SoC HAL | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 6-->11d |
+| Amazon | Software Development Engineer, SoC HAL | US, CA, Cupertino | Early Career | 🔒 | <!--Nov 6-->11d |
 | Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Foster City, CA | Summer 2027 Intern | <a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 5-->12d |
 | ↳ | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | Foster City, CA | Summer 2027 Intern | <a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 5-->12d |
 | Altera | RTL Engineer – Physical AI Solutions | San Jose, California, United States | Early Career | 🔒 | <!--Nov 5-->12d |
@@ -862,7 +862,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | HBM SOC Design Engineer | Richardson, TX | Early Career | 🔒 | <!--Jul 11-->129d |
 | NXP | Silicon Design IP Licensing Specialist | Austin (Oakhill, Office) | Early Career | 🔒 | <!--Jul 11-->129d |
 | Ciena | Hardware Engineer, Power Design, onsite Kanata | Ottawa | Early Career | 🔒 | <!--Jul 11-->129d |
-| Ambarella | Physical Design Engineer | US Headquarters | Early Career | <a href="https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Physical-Design-Engineer_JR100284"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->129d |
+| Ambarella | Physical Design Engineer | US Headquarters | Early Career | 🔒 | <!--Jul 11-->129d |
 | ↳ | Sr. ASIC Design Engineer | US Headquarters | Early Career | 🔒 | <!--Jul 11-->129d |
 | Altera | Physical Design Engineer | San Jose, California, United States | Early Career | 🔒 | <!--Jul 11-->129d |
 | ↳ | FPGA Compiler (Placer) Engineer | San Jose, California, United States | Early Career | 🔒 | <!--Jul 11-->129d |
