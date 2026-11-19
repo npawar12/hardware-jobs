@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Hardware Development Engineer, AWS Mainstream Compute | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10600448/hardware-development-engineer-aws-mainstream-compute"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 18-->0d |
 | Nokia | Hardware Engineer | United States | Early Career | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41695"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 18-->0d |
 | Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10608593/soc-top-level-physical-design-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 18-->0d |
 | ↳ | SOC Top Level Physical Design Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10608592/soc-top-level-physical-design-engineer-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 18-->0d |

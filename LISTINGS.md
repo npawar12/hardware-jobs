@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Hardware Development Engineer, AWS Mainstream Compute | Nov 18 |
 | Nokia | Hardware Engineer | Nov 18 |
 | Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | Nov 18 |
 | Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | Nov 18 |
