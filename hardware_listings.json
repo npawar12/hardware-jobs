@@ -8287,5 +8287,41 @@
     "url": "https://www.amazon.jobs/en/jobs/10600448/hardware-development-engineer-aws-mainstream-compute",
     "board": "amazon",
     "date_added": "2026-11-18"
+  },
+  {
+    "company": "Lightmatter",
+    "role": "Silicon Validation & Test Automation, Intern Summer 2027",
+    "location": "Mountain View, CA",
+    "type": "Summer 2027 Intern",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008",
+    "board": "greenhouse_lightmatter",
+    "date_added": "2026-11-19"
+  },
+  {
+    "company": "Renesas",
+    "role": "Digital Design Engineer Intern",
+    "location": "Duluth, GEORGIA",
+    "type": "Summer 2027 Intern",
+    "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000162544079",
+    "board": "smartrecruiters_RenesasElectronics",
+    "date_added": "2026-11-19"
+  },
+  {
+    "company": "Amazon",
+    "role": "Post-Silicon Systems Validation Engineer I, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10502826/post-silicon-systems-validation-engineer-i-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-19"
+  },
+  {
+    "company": "Amazon",
+    "role": "Formal Verification Engineer, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10608292/formal-verification-engineer-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-19"
   }
 ]

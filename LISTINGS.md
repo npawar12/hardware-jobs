@@ -6,6 +6,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Lightmatter | Silicon Validation & Test Automation, Intern Summer 2027 | Nov 19 |
+| Renesas | Digital Design Engineer Intern | Nov 19 |
+| Amazon | Post-Silicon Systems Validation Engineer I, Annapurna Labs | Nov 19 |
+| Amazon | Formal Verification Engineer, Annapurna Labs | Nov 19 |
 | Amazon | Hardware Development Engineer, AWS Mainstream Compute | Nov 18 |
 | Nokia | Hardware Engineer | Nov 18 |
 | Amazon | SOC Top Level Physical Design Engineer, Annapurna Labs | Nov 18 |
