@@ -932,6 +932,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Rambus | SMTS Verification Engineering | Nov 19 |
 | AMD | Microprocessor VLSI Physical Design Engineer | Nov 18 |
 | AMD | CPU Core Physical Design Engineer | Nov 18 |
 | Meta | ASIC Engineer, Performance Architecture and Modeling | Nov 18 |
