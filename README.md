@@ -600,7 +600,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | NVIDIA | Senior ASIC Design Engineer | US, CA, Santa Clara | Early Career | 🔒 | <!--Jul 29-->113d |
 | Amazon | Sr Systems Development Engineer, AWS Hardware Engineering Services, AI UltraServers | US, WA, Seattle | Early Career | 🔒 | <!--Jul 29-->113d |
 | Amazon | Sr. ASIC Design Engineer, Blink/Ring ASIC Team | US, MA, North Reading | Early Career | <a href="https://www.amazon.jobs/en/jobs/10487378/sr-asic-design-engineer-blink-ring-asic-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 29-->113d |
-| Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | <a href="https://www.amazon.jobs/en/jobs/10486661/satellite-hardware-engineer-bus-structures"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 28-->114d |
+| Amazon | Satellite Hardware Engineer, Bus Structures | US, WA, Redmond | Early Career | 🔒 | <!--Jul 28-->114d |
 | Cisco | Senior Hardware Post-Silicon Validation Engineer (Hybrid) | San Jose, California, US | Early Career | 🔒 | <!--Jul 28-->114d |
 | Amazon | Design Verification Engineer  | US, TX, Austin | Early Career | 🔒 | <!--Jul 28-->114d |
 | NVIDIA | Post-Silicon Validation and Methodology Engineer | US, CA, Santa Clara | Early Career | 🔒 | <!--Jul 28-->114d |
@@ -1289,7 +1289,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | Microsoft | Hardware Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556945499?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->110d |
 | ↳ | Senior Verification Engineer | Mountain View, CA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556948171?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->110d |
 | IBM | Entry Level Hardware Developer - Intern Conversion | Poughkeepsie, AR | Summer 2027 Intern | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=127810&src=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Aug 1-->110d |
-| AMD | Silicon Design Engineer | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/88666?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->111d |
+| AMD | Silicon Design Engineer | San Jose, CA | Early Career | 🔒 | <!--Jul 31-->111d |
 | ↳ | Senior ASIC Package Design Automation and AI Engineer | Austin, TX | Early Career | <a href=""><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->111d |
 | Google | TPU SoC Design Engineer, Cloud | Sunnyvale, CA | Early Career | <a href="https://careers.google.com/jobs/results/98412087872496326-tpu-soc-design-engineer/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->111d |
 | Microsoft | Design Verification Engineer | Raleigh, NC | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393556937343?utm_source=linkedin&domain=microsoft.com&src=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 31-->111d |
