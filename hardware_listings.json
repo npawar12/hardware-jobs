@@ -8323,5 +8323,32 @@
     "url": "https://www.amazon.jobs/en/jobs/10608292/formal-verification-engineer-annapurna-labs",
     "board": "amazon",
     "date_added": "2026-11-19"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA IP Software Development Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/FPGA-IP-Software-Development-Engineer_R03446",
+    "board": "workday_altera",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Software Engineer Intern",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Summer 2027 Intern",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
+    "board": "workday_altera",
+    "date_added": "2026-11-20"
+  },
+  {
+    "company": "Altera",
+    "role": "Physical Design Engineer",
+    "location": "San Jose, California, United States",
+    "type": "Early Career",
+    "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R03407",
+    "board": "workday_altera",
+    "date_added": "2026-11-20"
   }
 ]

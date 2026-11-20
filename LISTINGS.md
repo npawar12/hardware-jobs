@@ -6,6 +6,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | FPGA IP Software Development Engineer | Nov 20 |
+| Altera | FPGA Software Engineer Intern | Nov 20 |
+| Altera | Physical Design Engineer | Nov 20 |
 | Lightmatter | Silicon Validation & Test Automation, Intern Summer 2027 | Nov 19 |
 | Renesas | Digital Design Engineer Intern | Nov 19 |
 | Amazon | Post-Silicon Systems Validation Engineer I, Annapurna Labs | Nov 19 |
