@@ -939,6 +939,10 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | RTL Design Engineer - Networking/ DPU/ AI Systems | Nov 20 |
+| Arm | Senior Security IP Design Engineer | Nov 20 |
+| Arm | Senior Security IP Design Engineer | Nov 20 |
+| Infineon | Internship - Analog Mixed Signal Design | Nov 20 |
 | Rambus | SMTS Verification Engineering | Nov 19 |
 | AMD | Microprocessor VLSI Physical Design Engineer | Nov 18 |
 | AMD | CPU Core Physical Design Engineer | Nov 18 |

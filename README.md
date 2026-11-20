@@ -955,6 +955,10 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | RTL Design Engineer - Networking/ DPU/ AI Systems | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/97339?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->0d |
+| Arm | Senior Security IP Design Engineer | San Diego, CA | Early Career | <a href="https://careers.arm.com/job/austin/senior-security-ip-design-engineer/33099/98849320128"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->0d |
+| ↳ | Senior Security IP Design Engineer | Austin, TX | Early Career | <a href="https://careers.arm.com/job/austin/senior-security-ip-design-engineer/33099/98849320128"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->0d |
+| Infineon | Internship - Analog Mixed Signal Design | El Segundo, CA | Summer 2027 Intern | <a href="https://jobs.infineon.com/careers/job/563808971905261?utm_source=linkedin&domain=infineon.com#!source=400"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->0d |
 | Rambus | SMTS Verification Engineering | Hillsboro, OR | Early Career | <a href="https://careers-rambus.icims.com/jobs/23084/smts-verification-engineering/job?mode=apply&iis=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 19-->1d |
 | AMD | Microprocessor VLSI Physical Design Engineer | Fort Collins, CO | Early Career | <a href="https://careers.amd.com/jobs/99627?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 18-->2d |
 | ↳ | CPU Core Physical Design Engineer | Boxborough, MA | Early Career | <a href="https://careers.amd.com/jobs/97771?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 18-->2d |
