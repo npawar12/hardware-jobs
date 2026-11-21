@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Renesas | System Verification Engineering Intern | Nov 20 |
 | IMC Trading | Hardware Engineer | Nov 20 |
 | Microchip | Intern - Engineering (ASIC Verification) | Nov 20 |
 | Altera | FPGA IP Software Development Engineer | Nov 20 |
