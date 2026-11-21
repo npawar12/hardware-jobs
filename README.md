@@ -958,6 +958,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Microsoft | Silicon Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393557075162?utm_source=linkedin&domain=microsoft.com&source=linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 21-->0d |
 | AMD | RTL Design Engineer - Networking/ DPU/ AI Systems | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/97339?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->1d |
 | Arm | Senior Security IP Design Engineer | San Diego, CA | Early Career | <a href="https://careers.arm.com/job/austin/senior-security-ip-design-engineer/33099/98849320128"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->1d |
 | ↳ | Senior Security IP Design Engineer | Austin, TX | Early Career | <a href="https://careers.arm.com/job/austin/senior-security-ip-design-engineer/33099/98849320128"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->1d |
