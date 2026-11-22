@@ -942,6 +942,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Synopsys | Applications Engineering, Sr Engineer - FPGA | Nov 22 |
+| Infineon | Senior Engineer Digital Verification and Methodology | Nov 22 |
 | Microsoft | Silicon Engineer | Nov 21 |
 | AMD | RTL Design Engineer - Networking/ DPU/ AI Systems | Nov 20 |
 | Arm | Senior Security IP Design Engineer | Nov 20 |

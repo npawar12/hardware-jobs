@@ -958,6 +958,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Synopsys | Applications Engineering, Sr Engineer - FPGA | Sunnyvale, CA | Early Career | <a href="https://careers.synopsys.com/job/-/-/44408/101675489008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 22-->0d |
+| Infineon | Senior Engineer Digital Verification and Methodology | Lexington, KY | Early Career | <a href="https://jobs.infineon.com/careers/job/563808972143860?utm_source=linkedin&domain=infineon.com#!source=400"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 22-->0d |
 | Microsoft | Silicon Engineer | Redmond, WA | Early Career | <a href="https://apply.careers.microsoft.com/careers/job/1970393557075162?utm_source=linkedin&domain=microsoft.com&source=linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 21-->1d |
 | AMD | RTL Design Engineer - Networking/ DPU/ AI Systems | Santa Clara, CA | Early Career | <a href="https://careers.amd.com/jobs/97339?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->2d |
 | Arm | Senior Security IP Design Engineer | San Diego, CA | Early Career | <a href="https://careers.arm.com/job/austin/senior-security-ip-design-engineer/33099/98849320128"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->2d |
