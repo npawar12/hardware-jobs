@@ -754,7 +754,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 | ↳ | Senior HW Dev Engineer-Payload, Hardware Development | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->133d |
 | ↳ | Senior Hardware Development Engineer , Customer Terminals | US, WA, Redmond | Early Career | 🔒 | <!--Jul 11-->133d |
 | ↳ | Sr. SDE - CPLD / FPGA | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10394264/sr-sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->133d |
-| ↳ | Sr. SDE - CPLD / FPGA | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10430601/sr-sde-cpld-fpga"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Jul 11-->133d |
+| ↳ | Sr. SDE - CPLD / FPGA | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->133d |
 | ↳ | MLA IP Design Verification Engineer, Annapurna Labs | US, CA, Cupertino | Early Career | 🔒 | <!--Jul 11-->133d |
 | ↳ | Hardware Development Engineer | US, CA, Pasadena | Early Career | 🔒 | <!--Jul 11-->133d |
 | ↳ | Sr. Product Design Engineer, Hardware Development | US, CA, Sunnyvale | Early Career | 🔒 | <!--Jul 11-->133d |
