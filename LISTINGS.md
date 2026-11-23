@@ -942,6 +942,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Silicon Design Engineer, Custom Timing Methodology | Nov 23 |
+| IBM | Quantum Control Systems Engineer (Hardware, FPGA, & Embedded Systems) | Nov 23 |
+| Arm | Senior Security IP Design Engineer | Nov 23 |
 | Synopsys | Applications Engineering, Sr Engineer - FPGA | Nov 22 |
 | Infineon | Senior Engineer Digital Verification and Methodology | Nov 22 |
 | Microsoft | Silicon Engineer | Nov 21 |

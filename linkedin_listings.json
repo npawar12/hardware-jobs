@@ -4507,5 +4507,32 @@
     "url": "https://jobs.infineon.com/careers/job/563808972143860?utm_source=linkedin&domain=infineon.com#!source=400",
     "board": "linkedin",
     "date_added": "2026-11-22"
+  },
+  {
+    "company": "AMD",
+    "role": "Silicon Design Engineer, Custom Timing Methodology",
+    "location": "San Jose, CA",
+    "type": "Early Career",
+    "url": "https://careers.amd.com/jobs/97097?lang=en-us&iis=Job+Board&iisn=Linkedin",
+    "board": "linkedin",
+    "date_added": "2026-11-23"
+  },
+  {
+    "company": "IBM",
+    "role": "Quantum Control Systems Engineer (Hardware, FPGA, & Embedded Systems)",
+    "location": "Yorktown Heights, NY",
+    "type": "Early Career",
+    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=135839&source=SN_LinkedIn",
+    "board": "linkedin",
+    "date_added": "2026-11-23"
+  },
+  {
+    "company": "Arm",
+    "role": "Senior Security IP Design Engineer",
+    "location": "Chandler, AZ",
+    "type": "Early Career",
+    "url": "https://careers.arm.com/job/austin/senior-security-ip-design-engineer/33099/98849320128",
+    "board": "linkedin",
+    "date_added": "2026-11-23"
   }
 ]
