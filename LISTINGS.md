@@ -6,6 +6,12 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Cisco | Senior ASIC DFT Developer | Nov 24 |
+| Amazon | MLA Design Verification Engineer, Annapurna Labs, Annapurna Labs ML Accelerator | Nov 24 |
+| Amazon | Sr. HBM Validation Engineer, Post-Silicon Validation, Annapurna Labs | Nov 24 |
+| Amazon | Sr. Die-to-Die Interconnect Validation Engineer, Post-Silicon Validation, Annapurna Labs | Nov 24 |
+| Amazon | Sr. PCIe and Interconnect Fabric Validation Engineer, Post-Silicon Validation, Annapurna Labs | Nov 24 |
+| Amazon | Power&Control Design engineer, OMHS Hardware Design | Nov 24 |
 | Amazon | Cloud Hardware Development Engineer, AWS Networking Interconnects Team | Nov 23 |
 | Renesas | System Verification Engineering Intern | Nov 20 |
 | IMC Trading | Hardware Engineer | Nov 20 |

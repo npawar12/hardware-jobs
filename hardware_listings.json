@@ -8386,5 +8386,59 @@
     "url": "https://www.amazon.jobs/en/jobs/10612057/cloud-hardware-development-engineer-aws-networking-interconnects-team",
     "board": "amazon",
     "date_added": "2026-11-23"
+  },
+  {
+    "company": "Cisco",
+    "role": "Senior ASIC DFT Developer",
+    "location": "Vancouver, British Columbia, Canada",
+    "type": "Early Career",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028204",
+    "board": "workday_cisco",
+    "date_added": "2026-11-24"
+  },
+  {
+    "company": "Amazon",
+    "role": "MLA Design Verification Engineer, Annapurna Labs, Annapurna Labs ML Accelerator",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10613031/mla-design-verification-engineer-annapurna-labs-annapurna-labs-ml-accelerator",
+    "board": "amazon",
+    "date_added": "2026-11-24"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. HBM Validation Engineer, Post-Silicon Validation, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10612754/sr-hbm-validation-engineer-post-silicon-validation-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-24"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. Die-to-Die Interconnect Validation Engineer, Post-Silicon Validation, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10612751/sr-die-to-die-interconnect-validation-engineer-post-silicon-validation-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-24"
+  },
+  {
+    "company": "Amazon",
+    "role": "Sr. PCIe and Interconnect Fabric Validation Engineer, Post-Silicon Validation, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10612757/sr-pcie-and-interconnect-fabric-validation-engineer-post-silicon-validation-annapurna-labs",
+    "board": "amazon",
+    "date_added": "2026-11-24"
+  },
+  {
+    "company": "Amazon",
+    "role": "Power&Control Design engineer, OMHS Hardware Design",
+    "location": "US, GA, Atlanta",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10612782/power-control-design-engineer-omhs-hardware-design",
+    "board": "amazon",
+    "date_added": "2026-11-24"
   }
 ]
