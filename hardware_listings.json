@@ -8377,5 +8377,14 @@
     "url": "https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000162824903",
     "board": "smartrecruiters_RenesasElectronics",
     "date_added": "2026-11-20"
+  },
+  {
+    "company": "Amazon",
+    "role": "Cloud Hardware Development Engineer, AWS Networking Interconnects Team",
+    "location": "US, CA, Cupertino",
+    "type": "Early Career",
+    "url": "https://www.amazon.jobs/en/jobs/10612057/cloud-hardware-development-engineer-aws-networking-interconnects-team",
+    "board": "amazon",
+    "date_added": "2026-11-23"
   }
 ]

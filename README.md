@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Cloud Hardware Development Engineer, AWS Networking Interconnects Team | US, CA, Cupertino | Early Career | <a href="https://www.amazon.jobs/en/jobs/10612057/cloud-hardware-development-engineer-aws-networking-interconnects-team"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 23-->0d |
 | Renesas | System Verification Engineering Intern | Austin, TEXAS | Summer 2027 Intern | <a href="https://api.smartrecruiters.com/v1/companies/RenesasElectronics/postings/744000162824903"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->3d |
 | IMC Trading | Hardware Engineer | Chicago, United States; New York, United States | Early Career | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4987749101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->3d |
 | Microchip | Intern - Engineering (ASIC Verification) | CA - San Jose - 3870 N. First St | Summer 2027 Intern | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R4973-26"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 20-->3d |
