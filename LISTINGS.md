@@ -6,6 +6,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Lightmatter | Design Verification, Intern Summer 2027 | Nov 24 |
+| Lightmatter | Design Verification, Intern Summer 2027 | Nov 24 |
 | Cisco | Senior ASIC DFT Developer | Nov 24 |
 | Amazon | MLA Design Verification Engineer, Annapurna Labs, Annapurna Labs ML Accelerator | Nov 24 |
 | Amazon | Sr. HBM Validation Engineer, Post-Silicon Validation, Annapurna Labs | Nov 24 |

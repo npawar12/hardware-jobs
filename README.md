@@ -18,6 +18,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Lightmatter | Design Verification, Intern Summer 2027 | Mountain View, CA | Summer 2027 Intern | <a href="https://boards.greenhouse.io/lightmatter/jobs/5474684008?gh_jid=5474684008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 24-->0d |
+| ↳ | Design Verification, Intern Summer 2027 | Boston, MA | Summer 2027 Intern | <a href="https://boards.greenhouse.io/lightmatter/jobs/5493962008?gh_jid=5493962008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 24-->0d |
 | Cisco | Senior ASIC DFT Developer | Vancouver, British Columbia, Canada | Early Career | <a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028204"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 24-->0d |
 | Amazon | MLA Design Verification Engineer, Annapurna Labs, Annapurna Labs ML Accelerator | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10613031/mla-design-verification-engineer-annapurna-labs-annapurna-labs-ml-accelerator"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 24-->0d |
 | ↳ | Sr. HBM Validation Engineer, Post-Silicon Validation, Annapurna Labs | US, TX, Austin | Early Career | <a href="https://www.amazon.jobs/en/jobs/10612754/sr-hbm-validation-engineer-post-silicon-validation-annapurna-labs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 24-->0d |
