@@ -968,6 +968,8 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START linkedin -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| AMD | Processor Design Engineer | Fishkill, NY | Early Career | <a href="https://careers.amd.com/jobs/92345?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 25-->0d |
+| TetraMem | US 2026 Hardware - Digital Intern | San Jose, CA | Summer 2027 Intern | <a href="https://tetramem.clearcompany.com/careers/jobs/6e0366f9-460f-0ce8-5e12-11e93d13b466/apply?source=3404228-JB-1018"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 25-->0d |
 | AMD | Silicon Design Engineer, Custom Timing Methodology | San Jose, CA | Early Career | <a href="https://careers.amd.com/jobs/97097?lang=en-us&iis=Job+Board&iisn=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 23-->2d |
 | IBM | Quantum Control Systems Engineer (Hardware, FPGA, & Embedded Systems) | Yorktown Heights, NY | Early Career | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=135839&source=SN_LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 23-->2d |
 | Arm | Senior Security IP Design Engineer | Chandler, AZ | Early Career | <a href="https://careers.arm.com/job/austin/senior-security-ip-design-engineer/33099/98849320128"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 23-->2d |

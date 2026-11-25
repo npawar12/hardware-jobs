@@ -952,6 +952,8 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| AMD | Processor Design Engineer | Nov 25 |
+| TetraMem | US 2026 Hardware - Digital Intern | Nov 25 |
 | AMD | Silicon Design Engineer, Custom Timing Methodology | Nov 23 |
 | IBM | Quantum Control Systems Engineer (Hardware, FPGA, & Embedded Systems) | Nov 23 |
 | Arm | Senior Security IP Design Engineer | Nov 23 |
