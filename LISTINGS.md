@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Altera | FPGA RTL Design Engineer | Nov 25 |
 | Lightmatter | Design Verification, Intern Summer 2027 | Nov 24 |
 | Lightmatter | Design Verification, Intern Summer 2027 | Nov 24 |
 | Cisco | Senior ASIC DFT Developer | Nov 24 |
