@@ -957,6 +957,9 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Meta | ASIC Engineer, Performance Architecture and Modeling (University Grad) | Nov 26 |
+| Hudson River Trading | Hardware Design Engineer - 2027 Grads | Nov 26 |
+| Two Sigma | TSS Hardware Engineering Internship (Summer 2027) | Nov 26 |
 | AMD | Processor Design Engineer | Nov 25 |
 | TetraMem | US 2026 Hardware - Digital Intern | Nov 25 |
 | AMD | Silicon Design Engineer, Custom Timing Methodology | Nov 23 |
