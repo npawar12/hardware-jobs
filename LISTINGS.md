@@ -6,6 +6,11 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| SambaNova | Design Verification Engineer Intern | Nov 25 |
+| SambaNova | DFT Engineer Intern | Nov 25 |
+| SambaNova | Physical Design Engineer Intern | Nov 25 |
+| SambaNova | Post-Silicon Validation Engineer Intern | Nov 25 |
+| SambaNova | RTL Design Engineer Intern | Nov 25 |
 | Altera | FPGA RTL Design Engineer | Nov 25 |
 | Lightmatter | Design Verification, Intern Summer 2027 | Nov 24 |
 | Lightmatter | Design Verification, Intern Summer 2027 | Nov 24 |
