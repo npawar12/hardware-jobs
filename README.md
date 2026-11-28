@@ -18,6 +18,7 @@ Two automated tracks, both filtered by the same classifier ([`hw_classify.py`](.
 <!-- TABLE_START hardware -->
 | Company | Role | Location | Type | Apply | Age |
 | ------- | ---- | -------- | ---- | ----- | ---- |
+| Amazon | Power&Control Design engineer, OMHS Hardware Design | US, GA, Atlanta | Early Career | <a href="https://www.amazon.jobs/en/jobs/10616056/power-control-design-engineer-omhs-hardware-design"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 27-->0d |
 | SambaNova | Design Verification Engineer Intern | Austin, Texas, United States; San Jose, California, United States | Summer 2027 Intern | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 25-->2d |
 | ↳ | DFT Engineer Intern | Austin, Texas, United States; San Jose, California, United States | Summer 2027 Intern | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 25-->2d |
 | ↳ | Physical Design Engineer Intern | Austin, Texas, United States; San Jose, California, United States | Summer 2027 Intern | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <!--Nov 25-->2d |

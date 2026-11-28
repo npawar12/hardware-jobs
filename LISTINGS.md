@@ -6,6 +6,7 @@ Auto-generated compact index (Company / Role / Date). Diff this file over time t
 
 | Company | Role | Date |
 | --- | --- | --- |
+| Amazon | Power&Control Design engineer, OMHS Hardware Design | Nov 27 |
 | SambaNova | Design Verification Engineer Intern | Nov 25 |
 | SambaNova | DFT Engineer Intern | Nov 25 |
 | SambaNova | Physical Design Engineer Intern | Nov 25 |
